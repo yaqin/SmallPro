@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+姐姐 收到 我 的 邮件 了 吗
+suid=s1
+嗯 *pro* 收到 了
+suid=s2
+*pro* 下载 下来 了 呢
+suid=s3
+ｅｎｙａ
+suid=s4
+*pro* 现在 在 上班 吗
+suid=s5
+*pro* 是 啊
+suid=s6
+偶偶
+suid=s7
+你 的 是 2010 版 文档 ？
+suid=s8
+*pro* 是 啊 ．．． 那个 好像 是 呢
+suid=s9
+*pro* 是 *OP* 同学 发给 我 *T*-1 的 啊 我 自己 电脑 上 ２０１０ 版本 的
+suid=s10
+你 可以 打开 不 呢
+suid=s11
+嗯
+suid=s12
+电脑 断线 了
+suid=s13
+你 有没有 2010 的 软件
+suid=s14
+*pro* 有 啊
+suid=s15
+你 要 安装 的 吗
+suid=s16
+嗯
+suid=s17
+*pro* 发到 由 邮箱 里 啊
+suid=s18
+*pro* 好 大 的 呀 我 试试 看 嘿 ！
+suid=s19
+嗯嗯
+suid=s20
+姐姐 今天 我 去 寺庙 了 呢
+suid=s21
+*pro* 和 几 个 美国人 一起 打坐
+suid=s22
+冥想
+suid=s23
+*pro* 深 呼吸
+suid=s24
+哈哈
+suid=s25
+电脑 连上 了 了
+suid=s26
+他们 既 是 基督徒 也 是 佛教徒
+suid=s27
+*pro* 直接 可以 伐 过来
+suid=s28
+嗯啊
+suid=s29
+*pro* 等等 啊
+suid=s30
+你 的 生活 真是 丰富 啊
+suid=s31
+我 的 单调 烦躁
+suid=s32
+屁事 多
+suid=s33
+．．． *pro* 没 呀 姐姐 导师 后天 就 回来 了 ， 这 两 天 *pro* 还 稍稍 闲 了 下 。。
+suid=s34
+*pro* 闲 的 发慌 呀
+suid=s35
+但是 导师 没 回来 *pro* 也 不 知道 *PRO* 该 如何 入手
+suid=s36
+这里 的 娱乐 真的 不 多 。。。 而且 人 少
+suid=s37
+*pro* 一 天 都 没 怎么 说话
+suid=s38
+有时候 *pro* 就 是 自己 *pro* 不 想 *PRO* 说话 呢
+suid=s39
+嗯 *pro* 好好 休息
+suid=s40
+我 要 去 看 学生 做操 去 了
+suid=s41
+*pro* 好 的 呢 姐姐
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="37" end="40" text="pro" type="" comment="default value" />
+<我 id="我1" start="56" end="59" text="pro" type="" comment="default value" />
+<我 id="我2" start="117" end="120" text="pro" type="" comment="default value" />
+<我 id="我3" start="338" end="341" text="pro" type="" comment="default value" />
+<我 id="我4" start="487" end="490" text="pro" type="" comment="default value" />
+<我 id="我5" start="728" end="731" text="pro" type="" comment="default value" />
+<我 id="我6" start="762" end="765" text="pro" type="" comment="default value" />
+<我 id="我7" start="791" end="794" text="pro" type="" comment="default value" />
+<我 id="我8" start="826" end="829" text="pro" type="" comment="default value" />
+<我 id="我9" start="897" end="900" text="pro" type="" comment="default value" />
+<我 id="我10" start="943" end="946" text="pro" type="" comment="default value" />
+<你 id="你0" start="93" end="96" text="pro" type="" comment="default value" />
+<你 id="你1" start="388" end="391" text="pro" type="" comment="default value" />
+<你 id="你2" start="609" end="612" text="pro" type="" comment="default value" />
+<你 id="你3" start="647" end="650" text="pro" type="" comment="default value" />
+<你 id="你4" start="975" end="978" text="pro" type="" comment="default value" />
+<它 id="它0" start="172" end="175" text="pro" type="" comment="default value" />
+<它 id="它1" start="204" end="207" text="pro" type="" comment="default value" />
+<它 id="它2" start="415" end="418" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="530" end="533" text="pro" type="" comment="default value" />
+<event id="ev0" start="930" end="933" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="1023" end="1026" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

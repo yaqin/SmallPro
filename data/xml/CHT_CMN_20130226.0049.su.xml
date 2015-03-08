@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 还 在 新东方 吗
+suid=s1
+*pro* 怎么 了
+suid=s2
+*pro* 没有 ， 什么 ， *pro* 问问 你 的 工作 近况
+suid=s3
+哦 ， *pro* 是 的 ， 我 还 在 。
+你 想 *PRO* 给 我 介绍 工作 吗 ？
+[ 表情 ]
+suid=s4
+呵呵 ， 我们 律师 纯属 屌丝
+suid=s5
+嗯 ， 各 行 各 业 都 有 不容易 ， 你 知道 吗 ？
+秦颖 在 年前 辞职 了
+suid=s6
+*OP* 我 *T*-1 在 君泽君 玩 得 好 的 都 辞职 了
+suid=s7
+我 晓得
+suid=s8
+我们 经常 见面
+suid=s9
+明天 我们 会 举行 聚会
+suid=s10
+*pro* 经常 见面 ？？
+suid=s11
+你 不 是 在 深圳 吗 ？？
+suid=s12
+我 有时 来 北京 出差
+suid=s13
+哦 ， 那 挺 好 的 呀 [ 表情 ] 。
+还是 你 后来 工作 找 的 好 *-1
+suid=s14
+呵呵 ， *pro* 还 好
+suid=s15
+我 觉得 *pro* 能 经常 来 北京 很 不错 ， *pro* 为什么 说 律师 就 是 屌丝 呢 ？
+suid=s16
+*pro* 辛苦 呗
+suid=s17
+*pro* 没有 假日
+suid=s18
+嗯 ， *pro* 有 价值 就 是 好 的 ， *OP* *pro* *T*-1 年轻 的 时候 *pro* 多 累计 些 经验
+suid=s19
+*pro* 对头
+suid=s20
+你 现在 在 北京 吗 ？
+suid=s21
+*pro* 没有
+suid=s22
+*pro* 郑州 出差
+suid=s23
+哦 ， 明天 我们 聚会 ， 如果 你 在 ， *pro* 就 邀请 你 *PRO* 过来
+suid=s24
+呵呵 ， 下 次 ， 你们 开心 吧 ， *pro* 难得
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="53" end="56" text="pro" type="" comment="default value" />
+<我 id="我1" start="69" end="72" text="pro" type="" comment="default value" />
+<我 id="我2" start="100" end="103" text="pro" type="" comment="default value" />
+<我 id="我3" start="460" end="463" text="pro" type="" comment="default value" />
+<我 id="我4" start="699" end="702" text="pro" type="" comment="default value" />
+<我 id="我5" start="717" end="720" text="pro" type="" comment="default value" />
+<我 id="我6" start="762" end="765" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="34" end="37" text="pro" type="" comment="default value" />
+<你 id="你2" start="484" end="487" text="pro" type="" comment="default value" />
+<你 id="你3" start="507" end="510" text="pro" type="" comment="default value" />
+<你 id="你4" start="587" end="590" text="pro" type="" comment="default value" />
+<你 id="你5" start="613" end="616" text="pro" type="" comment="default value" />
+<你 id="你6" start="633" end="636" text="pro" type="" comment="default value" />
+<你 id="你7" start="814" end="817" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="542" end="545" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="562" end="565" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="331" end="334" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="658" end="661" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

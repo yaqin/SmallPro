@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+[ 表情 ] 老野 ， 你 回去 啦 ？
+suid=s1
+[ 表情 ] *pro* 是 呀 *pro* 是 呀
+suid=s2
+你 直接 坐 地铁 回去 的 么 ？
+suid=s3
+你 弟弟 还 没 回来 哦
+suid=s4
+无 哦 *pro* 从 你 学校 出发 翻 的 呢
+suid=s5
+*pro* 不 是 吧 。。。
+suid=s6
+*pro* 在 嘛
+suid=s7
+我 细佬 回来 没 呀
+suid=s8
+？？
+suid=s9
+*pro* 回来 了 ， 在 讲 电话 呢 他
+suid=s10
+哦哦 ~~~ 呵呵 *pro* 吓s 偶 了
+suid=s11
+你 还 不 睡 哦
+suid=s12
+*pro* 睡 了 ~ *pro* 刚刚 在 玩 飞行棋 *pro* 所以 没 回复 你 。
+呵呵
+suid=s13
+[ 表情 ] *pro* 又 是 飞行器
+suid=s14
+不过 这 次 我 输 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="127" end="130" text="pro" type="" comment="default value" />
+<我 id="我1" start="314" end="317" text="pro" type="" comment="default value" />
+<我 id="我2" start="326" end="329" text="pro" type="" comment="default value" />
+<我 id="我3" start="343" end="346" text="pro" type="" comment="default value" />
+<你 id="你0" start="157" end="160" text="pro" type="" comment="default value" />
+<你 id="你1" start="181" end="184" text="pro" type="" comment="default value" />
+<你 id="你2" start="273" end="276" text="pro" type="" comment="default value" />
+<你 id="你3" start="380" end="383" text="pro" type="" comment="default value" />
+<他 id="他0" start="230" end="233" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="46" end="49" text="pro" type="" />
+<pleonastic id="p1" start="56" end="59" text="pro" type="" />
+</TAGS>
+</ProTask>

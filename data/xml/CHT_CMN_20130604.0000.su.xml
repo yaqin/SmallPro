@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 结婚 ？
+suid=s1
+嗯 ， 你 结婚 啊
+suid=s2
+没 … *pro* 结婚 *pro* 才 有 礼物 ？
+suid=s3
+男朋友 哪里 的 ？
+suid=s4
+*pro* 木有 定
+suid=s5
+唐人街
+suid=s6
+*pro* 看 不 到 … *pro* 可惜 了 …
+suid=s7
+我 手机 上 得 QQ
+suid=s8
+你 到 上海 了 ？
+suid=s9
+*pro* 回 常州
+suid=s10
+以后 *pro* 去 常州 看 你
+suid=s11
+*pro* 好 ！
+suid=s12
+叔叔 ， 你 要 经常 往 国外 跑 么 ？
+suid=s13
+嗯 ， *pro* 怎么 ？
+*pro* 替 你 找 个 老外 ？
+：）
+suid=s14
+哈哈 … *pro* 不 行 ， 我 不 想 *PRO* 嫁 那么 远
+suid=s15
+*pro* 叫 他 *PRO* 到 常州 去
+suid=s16
+*pro* 晕 … 我 英语 没 那么 赞 ！
+*pro* 沟通 困难
+suid=s17
+*pro* 羡慕 … 我 一直 很 想 *PRO* 找 机会 出国 玩 … 护照 都 提前 先 办好 的
+suid=s18
+现在 *pro* 找 单位 *pro* 也 都 问 *pro* 有没有 *pro* 出国 培训 的 计划
+suid=s19
+*pro* 先 去 新加坡 啊 ， *pro* 很 方便 的 ， 泰国 也 可以
+suid=s20
+*pro* 去 泰国 看 人妖 ？
+suid=s21
+你 可以 不 看 嘛
+suid=s22
+那 泰国 有 啥 *OP* *T*-1 玩 的 ？
+suid=s23
+*pro* 海滩 啊
+suid=s24
+哦
+suid=s25
+*pro* 好 吧 …
+suid=s26
+美国 的 物价 怎样 ？
+*pro* 有 啥 *OP* *T*-1 好吃 的 ？
+suid=s27
+我 睡觉 了 ， *pro* 都 12点 多 了
+suid=s28
+*pro* 下 次 聊
+suid=s29
+恩
+suid=s30
+*pro* 晚安 ！
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="52" end="55" text="pro" type="" comment="default value" />
+<我 id="我1" start="61" end="64" text="pro" type="" comment="default value" />
+<我 id="我2" start="103" end="106" text="pro" type="" comment="default value" />
+<我 id="我3" start="134" end="137" text="pro" type="" comment="default value" />
+<我 id="我4" start="148" end="151" text="pro" type="" comment="default value" />
+<我 id="我5" start="208" end="211" text="pro" type="" comment="default value" />
+<我 id="我6" start="231" end="234" text="pro" type="" comment="default value" />
+<我 id="我7" start="321" end="324" text="pro" type="" comment="default value" />
+<我 id="我8" start="357" end="360" text="pro" type="" comment="default value" />
+<我 id="我9" start="397" end="400" text="pro" type="" comment="default value" />
+<我 id="我10" start="429" end="432" text="pro" type="" comment="default value" />
+<我 id="我11" start="474" end="477" text="pro" type="" comment="default value" />
+<我 id="我12" start="539" end="542" text="pro" type="" comment="default value" />
+<我 id="我13" start="550" end="553" text="pro" type="" comment="default value" />
+<我 id="我14" start="598" end="601" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="310" end="313" text="pro" type="" comment="default value" />
+<你 id="你3" start="648" end="651" text="pro" type="" comment="default value" />
+<你 id="你4" start="898" end="901" text="pro" type="" comment="default value" />
+<它 id="它0" start="562" end="565" text="pro" type="" comment="default value" />
+<它 id="它1" start="616" end="619" text="pro" type="" comment="default value" />
+<它 id="它2" start="795" end="798" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="453" end="456" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="572" end="575" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="866" end="869" text="pro" type="" comment="default value" />
+<existential id="e0" start="730" end="733" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="255" end="258" text="pro" type="" />
+<pleonastic id="p1" start="841" end="844" text="pro" type="" />
+<previous_utterance id="pr0" start="761" end="764" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

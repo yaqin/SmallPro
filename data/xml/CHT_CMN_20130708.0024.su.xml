@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+韩 老板 ， 起床 了 吗
+suid=s1
+*pro* zenm le
+suid=s2
+*pro* 又 找 了 吗 ， 我 手头 有 个 *OP* *T*-1 好 的
+suid=s3
+*pro* *OP* *T*-1 多么 好 的 ？
+suid=s4
+年薪 20万
+suid=s5
+*pro* 俊
+suid=s6
+*pro* 说 这个 干 什么 我 图 人家 钱 啊
+suid=s7
+*pro* 只是 说 人家 肚里 有 自己 的 经济 基础 啊
+suid=s8
+*pro* 独立
+suid=s9
+*pro* 见 不 见 啊 ， *pro* 有 照片 ， *pro* 等等
+suid=s10
+*pro* 行 。
+suid=s11
+哈哈
+suid=s12
+*pro* 把 你 电话 给 她 *-1 ， 你们 联系 ？
+suid=s13
+*pro* 干 什么 的 ， 跟 你 什么 关系 ？
+suid=s14
+朋友 的 朋友
+suid=s15
+*pro* 做 什么 工作 的
+suid=s16
+泰山 保险 中层 ， 管理 人员
+suid=s17
+高新区 啊
+suid=s18
+*pro* 不 知道 啊
+suid=s19
+这个 罩 不 住
+suid=s20
+*pro* 少 来 ！
+*pro* 又 来 这 套
+suid=s21
+*pro* 真 的 。
+suid=s22
+*pro* 没 罩 呢 *pro* 怎么 就 罩 不 住 啦
+suid=s23
+*pro* 知道 *pro* 罩 不 住 就 不 去 罩 了
+suid=s24
+*pro* 跑 了 *pro* 更 难过 。
+suid=s25
+*pro* 见见 再说 呗
+suid=s26
+说不定 人家 乐意 *PRO* 被 *OP* 你 罩 *T*-1 呢
+suid=s27
+我 一 看 就 罩 不 住 。
+suid=s28
+*pro* 先 见见 再说 呗
+suid=s29
+*pro* 又 不 是 一定 要 成
+suid=s30
+*pro* 不 见 。
+*pro* 不 合适 。
+我 会 看相 。
+suid=s31
+我 倒
+suid=s32
+性格 特别 好 ！
+suid=s33
+*pro* 自信 点 啊
+suid=s34
+我 觉得 *pro* 不 大 行 。
+suid=s35
+*pro* 见 一 面 吧 ， *pro* 给 个 面子
+suid=s36
+这个 不 是 *pro* 给 不 给 面子 的 事儿 。
+女儿 家 是 哪里 的 ， 哪 一 年 的 ？
+suid=s37
+济南 的 ， 家里 好几 套 房子 ， 80年 的 ， *pro* 一直 未婚
+suid=s38
+你 有 给 我 说 房子 干 嘛 ， 我 图 人家 这个 吗
+suid=s39
+我 靠 ， 你 愤青 嘛 ！
+介绍人 给 我 这么 说 的 ， 我 只是 转述 而已
+suid=s40
+*pro* 别 说 这个 ， 要是 *PRO* 好 了 ， *pro* 就 跟 *pro* 看上 人家 这个 是的 。
+suid=s41
+*pro* 真 是 的 。
+suid=s42
+*pro* 80年 了 还 没 结婚 ， 这 个 女 的 肯定 也 是 很 挑剔 的 。
+suid=s43
+那 不 一定 ， *pro* 说不定 受 过 感情 伤害 ， 等 你 抚慰 呢
+suid=s44
+*pro* 少 来 了 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="202" end="205" text="pro" type="" comment="default value" />
+<我 id="我1" start="275" end="278" text="pro" type="" comment="default value" />
+<我 id="我2" start="337" end="340" text="pro" type="" comment="default value" />
+<我 id="我3" start="496" end="499" text="pro" type="" comment="default value" />
+<我 id="我4" start="632" end="635" text="pro" type="" comment="default value" />
+<我 id="我5" start="849" end="852" text="pro" type="" comment="default value" />
+<我 id="我6" start="951" end="954" text="pro" type="" comment="default value" />
+<我 id="我7" start="1019" end="1022" text="pro" type="" comment="default value" />
+<我 id="我8" start="1255" end="1258" text="pro" type="" comment="default value" />
+<我 id="我9" start="641" end="644" text="pro" type="" comment="default value" />
+<你 id="你0" start="32" end="35" text="pro" type="" comment="default value" />
+<你 id="你1" start="54" end="57" text="pro" type="" comment="default value" />
+<你 id="你2" start="102" end="105" text="pro" type="" comment="default value" />
+<你 id="你3" start="167" end="170" text="pro" type="" comment="default value" />
+<你 id="你4" start="259" end="262" text="pro" type="" comment="default value" />
+<你 id="你5" start="288" end="291" text="pro" type="" comment="default value" />
+<你 id="你6" start="536" end="539" text="pro" type="" comment="default value" />
+<你 id="你7" start="548" end="551" text="pro" type="" comment="default value" />
+<你 id="你8" start="682" end="685" text="pro" type="" comment="default value" />
+<你 id="你9" start="704" end="707" text="pro" type="" comment="default value" />
+<你 id="你10" start="796" end="799" text="pro" type="" comment="default value" />
+<你 id="你11" start="821" end="824" text="pro" type="" comment="default value" />
+<你 id="你12" start="924" end="927" text="pro" type="" comment="default value" />
+<你 id="你13" start="974" end="977" text="pro" type="" comment="default value" />
+<你 id="你14" start="990" end="993" text="pro" type="" comment="default value" />
+<你 id="你15" start="1215" end="1218" text="pro" type="" comment="default value" />
+<你 id="你16" start="1410" end="1413" text="pro" type="" comment="default value" />
+<你 id="你17" start="592" end="595" text="pro" type="" comment="default value" />
+<你 id="你18" start="604" end="607" text="pro" type="" comment="default value" />
+<她 id="她0" start="1307" end="1310" text="pro" type="" comment="default value" />
+<她 id="她1" start="1370" end="1373" text="pro" type="" comment="default value" />
+<她 id="她2" start="151" end="154" text="pro" type="" comment="default value" />
+<她 id="她3" start="242" end="245" text="pro" type="" comment="default value" />
+<她 id="她4" start="377" end="380" text="pro" type="" comment="default value" />
+<她 id="她5" start="430" end="433" text="pro" type="" comment="default value" />
+<她 id="她6" start="672" end="675" text="pro" type="" comment="default value" />
+<她 id="她7" start="1102" end="1105" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="861" end="864" text="pro" type="" comment="default value" />
+<event id="ev0" start="1245" end="1248" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="306" end="309" text="pro" type="" />
+<pleonastic id="p1" start="571" end="574" text="pro" type="" />
+<pleonastic id="p2" start="1284" end="1287" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+现在 *pro* 有 兼职 吗
+suid=s1
+*pro* 今年 比较 忙 了 ， 周一 到 周五 要 做 实验 ， 周六 日 在 图书馆 准备 *PRO* 写 论文
+suid=s2
+大姑 现在 是 住 家里 ， 还是 到 广州 ？
+suid=s3
+*pro* 有空 我 想 *PRO* 给 大姑 打 个 电话
+suid=s4
+大姑 又 住院 了
+suid=s5
+肺炎
+suid=s6
+*pro* 住 哪里 ，
+suid=s7
+医生 打 了 个 比方 ， 整 个 肺部 就 像 垃圾场 一样
+suid=s8
+什么 细菌 都 能 生存
+suid=s9
+*pro* 是 肺部 感染
+suid=s10
+广州市 胸 科 医院
+suid=s11
+之前 结核 在 那边 治疗 的
+suid=s12
+*OP* *pro* *T*-1 过年 的 时候 *pro* 也 是 肺炎 住 了 10 天
+suid=s13
+这 次 *pro* 又 复发 了
+suid=s14
+*pro* 气促 氧气 不 够 。
+*pro* 这 次 刚 过来 都 没 气 说话 走 两 步 停 一 步
+suid=s15
+那 *pro* 还 真的 很 严重 ， 身体 抵抗 这么 差 ， 还 挺 麻烦 的 ， 抗生素 *pro* 要 用 *OP* *T*-2 比较 高级 的 *T*-1
+suid=s16
+*pro* 现在 就 是 用 *OP* *T*-1 很 高级 的
+suid=s17
+重症 肺炎
+suid=s18
+一 瓶 190 ， 一 天 *pro* 3 瓶
+suid=s19
+*pro* 吊 了 两 *RNR*-1 三 天 现在 有 力气 说话 了
+suid=s20
+*pro* 知道 *pro* 是 什么 细菌 吗
+suid=s21
+嗯 ， 他们 就 是 经验性 用药 ， 还是 已经 做 了 细菌 培养
+suid=s22
+*OP* *pro* *T*-1 去 的 时候 *pro* 刚 留 了 些 痰 去 化验
+suid=s23
+我 还 没 问 医生 *pro* 出 结果 了 没
+suid=s24
+现在 谁 在 陪 ？
+suid=s25
+5姐
+suid=s26
+*pro* 就 是 已经 住 了 5 *RNR*-1 , 6 天 ？
+suid=s27
+3 天
+suid=s28
+*pro* 第四 天 了
+suid=s29
+结核 的 药 *pro* 一直 还 在 吃 *T*-1 ？
+suid=s30
+我 记得 大姑 肝 功能 也 不 是 很 好 的
+suid=s31
+你 给 我 个 电话 号码 ， 我 等会 给 打 个 电话
+suid=s32
+结核 的 医生 说 *pro* 没 问题 了
+suid=s33
+我 有 同学 在 呼吸 科 的 ， 我 可以 问问 一些 意见 ， 不 知道 大姑 心 肝 肾 功能 什么 的 ， 还 好 不 好 ，
+suid=s34
+右肺 40% 都 纤维化 了
+suid=s35
+*pro* 目前 还 好
+suid=s36
+现在 医院 也 同时 在 查 心 肝 肾 功能
+suid=s37
+所以 每 天 检查 费 高 的 要命
+suid=s38
+*pro* 是 的 。
+suid=s39
+前面 这些 检查 都 是 *OP* *T*-1 最 费 钱 的
+suid=s40
+还有 抗生素
+suid=s41
+医生 说 *OP* *T*-1 一般 的 对 她 起 不 了 作用
+suid=s42
+*pro* 是 的 。
+suid=s43
+而且 抗生素 要 用足 ， 不然 一旦 耐药 ， *pro* 就 要 用 *OP* *T*-1 更 高级 的
+suid=s44
+这 是 5姐 的 ？
+suid=s45
+大姑 的
+suid=s46
+你 同学 在 哪 家 医院 的
+suid=s47
+肺 的 问题 是 不 是 *pro* 只 能 平时 加强 营养 ， 提高 身体 抵抗力
+suid=s48
+*OP* 我 现在 联系 *T*-1 比较 多 的 是 杭州 这边 的
+suid=s49
+那 只 是 一 方面
+suid=s50
+你们 学校 的 附属 医院
+suid=s51
+*pro* 还有 就 是 如果 肺 功能 不 好 ， *pro* 还 要 家庭 氧疗
+suid=s52
+不然 *pro* 也 会 牵连 到 肺 功能 的
+suid=s53
+现在 大姑 也 可能 有 肺液 吗
+suid=s54
+反正 *pro* 就 是 很 麻烦 ， 她 平时 又 不 重视 ， 买 了 个 氧化机 都 不 长期 吸
+suid=s55
+*pro* 有 一点
+suid=s56
+*pro* 检查 了 心包 *pro* 也 是 有 一点 积液
+suid=s57
+*pro* 那 就 是 会 牵连 到 心 功能
+suid=s58
+我 等会 打 个 电话 问问 大姑 情况 吧 ， 然后 *pro* 跟 我 那 个 同学 问问 他 意见
+suid=s59
+大 工程
+suid=s60
+哈哈
+suid=s61
+他 很 优惠 的
+suid=s62
+*pro* 优秀
+suid=s63
+嗯 然后 你 再 给 我 他 的 意见 我 再 去 跟 医院 探讨 探讨
+suid=s64
+*pro* 好 的 。
+suid=s65
+我 先 去 忙 点 事情 ， 稍后 联系
+suid=s66
+嗯
+suid=s67
+我 刚 跟 大姑 打完 电话
+suid=s68
+大姑 年纪 大 了 ， 身体 一 不 好 就 心情 比较 低落
+suid=s69
+我 刚刚 电话 ， 情况 *pro* 没 办法 问 清楚 *T*-1 ， 如果 下 次 你 有 去 ， *pro* 留意 一下 几 个 问题 ：
+suid=s70
+*pro* 有无 *PRO* 发热 ， 有无 *PRO* 咳 痰 ， 血气 分析 结果 ， 血 常规 结果 ， 肺部 CT ， 以及 胸部 平片 。
+suid=s71
+尤其 *pro* 看看 *OP* *pro* 现在 用 *T*-1 的 是 什么 抗生素 ， 我 同学 建议 *pro* 就 是 有 痰 的话 ， 雾化 吸入 + 复方 异丙托溴氨 （ *OP* *T*-2 严重 一点 的 *pro* 可以 雾化 加 点 激素 ， 控制 好 感染 ， 肺 功能 会 慢慢 好 起来 ） = 》 平喘 化痰 ，
+suid=s72
+现在 大姑 大便 也 不 是 很 通畅 ， 如果 *pro* 只 是 不 通畅 ， *pro* 可以 开塞露 ， 也 可以 口服 福松粉 ， 苁蓉 通便 口服液
+suid=s73
+如果 细菌 培养 和 药敏 结果 出来 的话 ， *pro* 选择 *OP* *T*-1 更 有效 的 一点 的 ，
+suid=s74
+如果 结果 没 出来 ， *pro* 经验性 用药 ， *pro* 估计 *OP* 他 用 *T*-1 的 是 头孢 3 代 ， *pro* 可以 用 *OP* *T*-2 更 好 一点 的 拜复乐 ， 但是 价格 也 更 贵 400多 一 瓶 ， *pro* 也 可以 *OP* *pro* 口服 *T*-3 的 ， 几十 块 一 盒 。
+suid=s75
+*pro* 刚 去 吃饭 回来 。
+suid=s76
+我 看 *pro* 明天 去 医院 跟 医生 谈谈
+suid=s77
+痰 是 有 的
+suid=s78
+黄色
+suid=s79
+他 也 估计 *pro* 有 黄 痰 的 ， *pro* 不 知道 大姑 现在 是 单纯 吸氧 ， 还是 加 了 雾化 *OP* *T*-1 平喘 化痰 的
+suid=s80
+*pro* 单纯 吸氧
+suid=s81
+*pro* 没有 雾化
+suid=s82
+那 你 问问 大姑 *pro* 咳 痰 难 不 难
+suid=s83
+*pro* 是 不 是 太 粘稠 ， *pro* 估计 他们 医生 也 会 考虑 这样 的 问题 的
+suid=s84
+*pro* 咳 痰 *pro* 要 用力 *pro* 才 有
+suid=s85
+那 你 到时候 问问 医生 ， 客气 点 说 ， *pro* 有没有 办法 化痰 一下 ， 雾化 什么 的 ， 或者 问 他 有 什么 考虑 ， 因为 他 应该 最 了解 病人 情况
+suid=s86
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="34" end="37" text="pro" type="" comment="default value" />
+<我 id="我1" start="135" end="138" text="pro" type="" comment="default value" />
+<我 id="我2" start="2036" end="2039" text="pro" type="" comment="default value" />
+<我 id="我3" start="2318" end="2321" text="pro" type="" comment="default value" />
+<我 id="我4" start="2838" end="2841" text="pro" type="" comment="default value" />
+<我 id="我5" start="2990" end="2993" text="pro" type="" comment="default value" />
+<我 id="我6" start="3021" end="3024" text="pro" type="" comment="default value" />
+<我 id="我7" start="3104" end="3107" text="pro" type="" comment="default value" />
+<我 id="我8" start="3265" end="3268" text="pro" type="" comment="default value" />
+<你 id="你0" start="13" end="16" text="pro" type="" comment="default value" />
+<你 id="你1" start="726" end="729" text="pro" type="" comment="default value" />
+<你 id="你2" start="2357" end="2360" text="pro" type="" comment="default value" />
+<你 id="你3" start="2474" end="2477" text="pro" type="" comment="default value" />
+<他 id="他0" start="2114" end="2117" text="pro" type="" comment="default value" />
+<她 id="她0" start="203" end="206" text="pro" type="" comment="default value" />
+<她 id="她1" start="285" end="288" text="pro" type="" comment="default value" />
+<她 id="她2" start="378" end="381" text="pro" type="" comment="default value" />
+<她 id="她3" start="413" end="416" text="pro" type="" comment="default value" />
+<她 id="她4" start="435" end="438" text="pro" type="" comment="default value" />
+<她 id="她5" start="453" end="456" text="pro" type="" comment="default value" />
+<她 id="她6" start="500" end="503" text="pro" type="" comment="default value" />
+<她 id="她7" start="546" end="549" text="pro" type="" comment="default value" />
+<她 id="她8" start="590" end="593" text="pro" type="" comment="default value" />
+<她 id="她9" start="661" end="664" text="pro" type="" comment="default value" />
+<她 id="她10" start="680" end="683" text="pro" type="" comment="default value" />
+<她 id="她11" start="810" end="813" text="pro" type="" comment="default value" />
+<她 id="她12" start="829" end="832" text="pro" type="" comment="default value" />
+<她 id="她13" start="926" end="929" text="pro" type="" comment="default value" />
+<她 id="她14" start="1012" end="1015" text="pro" type="" comment="default value" />
+<她 id="她15" start="1127" end="1130" text="pro" type="" comment="default value" />
+<她 id="她16" start="1250" end="1253" text="pro" type="" comment="default value" />
+<她 id="她17" start="1500" end="1503" text="pro" type="" comment="default value" />
+<她 id="她18" start="1611" end="1614" text="pro" type="" comment="default value" />
+<她 id="她19" start="1914" end="1917" text="pro" type="" comment="default value" />
+<她 id="她20" start="1934" end="1937" text="pro" type="" comment="default value" />
+<她 id="她21" start="2387" end="2390" text="pro" type="" comment="default value" />
+<她 id="她22" start="2488" end="2491" text="pro" type="" comment="default value" />
+<她 id="她23" start="2526" end="2529" text="pro" type="" comment="default value" />
+<她 id="她25" start="2677" end="2680" text="pro" type="" comment="default value" />
+<她 id="她26" start="2694" end="2697" text="pro" type="" comment="default value" />
+<她 id="她27" start="2767" end="2770" text="pro" type="" comment="default value" />
+<她 id="她28" start="2823" end="2826" text="pro" type="" comment="default value" />
+<她 id="她29" start="2875" end="2878" text="pro" type="" comment="default value" />
+<她 id="她30" start="3088" end="3091" text="pro" type="" comment="default value" />
+<她 id="她31" start="3169" end="3172" text="pro" type="" comment="default value" />
+<她 id="她32" start="3221" end="3224" text="pro" type="" comment="default value" />
+<她 id="她33" start="3306" end="3309" text="pro" type="" comment="default value" />
+<她 id="她34" start="3316" end="3319" text="pro" type="" comment="default value" />
+<她 id="她35" start="3327" end="3330" text="pro" type="" comment="default value" />
+<它 id="它0" start="1794" end="1797" text="pro" type="" comment="default value" />
+<它 id="它1" start="1855" end="1858" text="pro" type="" comment="default value" />
+<它 id="它2" start="1948" end="1951" text="pro" type="" comment="default value" />
+<它 id="它3" start="1975" end="1978" text="pro" type="" comment="default value" />
+<它 id="它4" start="2583" end="2586" text="pro" type="" comment="default value" />
+<它 id="它5" start="2935" end="2938" text="pro" type="" comment="default value" />
+<它 id="它6" start="3190" end="3193" text="pro" type="" comment="default value" />
+<它 id="它7" start="3246" end="3249" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="870" end="873" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="3371" end="3374" text="pro" type="" comment="default value" />
+<generic id="g0" start="358" end="361" text="pro" type="" comment="default value" />
+<generic id="g1" start="1766" end="1769" text="pro" type="" comment="default value" />
+<generic id="g2" start="2951" end="2954" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="735" end="738" text="pro" type="" />
+<pleonastic id="p1" start="983" end="986" text="pro" type="" />
+<pleonastic id="p2" start="1333" end="1336" text="pro" type="" />
+<pleonastic id="p3" start="1454" end="1457" text="pro" type="" />
+<pleonastic id="p4" start="1739" end="1742" text="pro" type="" />
+<pleonastic id="p5" start="2178" end="2181" text="pro" type="" />
+</TAGS>
+</ProTask>

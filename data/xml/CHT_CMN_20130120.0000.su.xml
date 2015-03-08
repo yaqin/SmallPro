@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗
+suid=s1
+en *pro* 在
+suid=s2
+*pro* 来 了
+suid=s3
+我 开 了 个 淘宝 店
+suid=s4
+*pro* 收藏 下 呗 ， 亲
+suid=s5
+东昌 毛笔 旗舰 店
+suid=s6
+*pro* 真 的 假 的 ？
+suid=s7
+淘宝 店 ？
+suid=s8
+*pro* 真 的
+suid=s9
+你 不 信 *pro* 查查
+suid=s10
+你 自己 开 的 还 *pro* 是 合伙 啊
+suid=s11
+*pro* 合伙 ， 和 我 姐 还有 我 弟
+suid=s12
+*pro* 整天 在 网上 看 着 很 累 的
+suid=s13
+恩恩 。
+*pro* 怎么 想 着 *PRO* 卖 毛笔 了 啊
+suid=s14
+因为 我们 老家 产 毛笔 啊 ， *pro* 还 是 非 物质 文化 遗产
+suid=s15
+.. 恩恩 。
+销量 怎么样 啊 ？
+suid=s16
+*pro* 刚 开
+suid=s17
+*pro* 还 没 卖 呢 。
+suid=s18
+所以 你 得 有空 帮 我 *PRO* 刷 信誉
+suid=s19
+*pro* 哦 了 。。
+suid=s20
+*pro* 么有 问题 。。
+suid=s21
+恩 。
+你 回家 了 ？
+suid=s22
+嗯 。。 昨天 *pro* 刚刚 到家 的 [ 表情 ]
+suid=s23
+幸好 *pro* 回来 了 。
+*pro* 今天 就 下雪
+suid=s24
+恩 。
+*pro* 就 是 啊
+suid=s25
+我 也 想 *PRO* 开 网店 [ 表情 ]
+suid=s26
+*pro* 那 开 吧
+suid=s27
+*pro* 不 清楚 流程 啊
+suid=s28
+你 卖 什么 啊 ？
+suid=s29
+*pro* 么有 想好 呢 。。
+suid=s30
+*pro* 有 过 这 种 想法 。
+*pro* 但是 一直 没有 实施
+suid=s31
+恩 ， 你 得 实践 ， 不 能 只 想
+suid=s32
+恩恩 。。 你 啥 时候 来 啊 ？
+suid=s33
+*pro* 过 几 天 吧 。
+最近 家里 忙
+suid=s34
+嗯 。
+*pro* 成 。。 到时候 你 教教 我
+suid=s35
+现在 *pro* 长大 了 ， *pro* 得 学 着 *PRO* 做 点 事 了
+suid=s36
+恩 ， *pro* 好 ，
+suid=s37
+恩恩 。
+[ 表情 ]
+suid=s38
+嘿嘿
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="31" end="34" text="pro" type="" comment="default value" />
+<我 id="我1" start="47" end="50" text="pro" type="" comment="default value" />
+<我 id="我2" start="244" end="247" text="pro" type="" comment="default value" />
+<我 id="我3" start="428" end="431" text="pro" type="" comment="default value" />
+<我 id="我4" start="447" end="450" text="pro" type="" comment="default value" />
+<我 id="我5" start="528" end="531" text="pro" type="" comment="default value" />
+<我 id="我6" start="582" end="585" text="pro" type="" comment="default value" />
+<我 id="我7" start="615" end="618" text="pro" type="" comment="default value" />
+<我 id="我8" start="730" end="733" text="pro" type="" comment="default value" />
+<我 id="我9" start="775" end="778" text="pro" type="" comment="default value" />
+<我 id="我10" start="801" end="804" text="pro" type="" comment="default value" />
+<我 id="我11" start="820" end="823" text="pro" type="" comment="default value" />
+<我 id="我12" start="976" end="979" text="pro" type="" comment="default value" />
+<我 id="我13" start="989" end="992" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="86" end="89" text="pro" type="" comment="default value" />
+<你 id="你2" start="193" end="196" text="pro" type="" comment="default value" />
+<你 id="你3" start="222" end="225" text="pro" type="" comment="default value" />
+<你 id="你4" start="315" end="318" text="pro" type="" comment="default value" />
+<你 id="你5" start="709" end="712" text="pro" type="" comment="default value" />
+<它 id="它0" start="370" end="373" text="pro" type="" comment="default value" />
+<它 id="它1" start="655" end="658" text="pro" type="" comment="default value" />
+<event id="ev0" start="130" end="133" text="pro" type="" comment="default value" />
+<event id="ev1" start="169" end="172" text="pro" type="" comment="default value" />
+<generic id="g0" start="277" end="280" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="506" end="509" text="pro" type="" />
+<pleonastic id="p1" start="628" end="631" text="pro" type="" />
+<pleonastic id="p2" start="905" end="908" text="pro" type="" />
+<pleonastic id="p3" start="942" end="945" text="pro" type="" />
+<previous_utterance id="pr0" start="1028" end="1031" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 没 办法 ， 咱 只 是 小兵
+suid=s1
+*pro* 让 *pro* 干 *pro* 就 干
+suid=s2
+我 给 周 主任 说去
+suid=s3
+*pro* 别介 啊
+suid=s4
+领导 还 以为 我 发 牢骚 呢
+suid=s5
+*pro* 放心 吧
+suid=s6
+*pro* 多 干 点 *pro* 就 多 干 点 吧 ， *pro* 累 不 着
+suid=s7
+*pro* 别 让 领导 *PRO* 以为 咱 有 意见
+suid=s8
+嗯 ， *pro* 好 吧 。
+suid=s9
+我 是 为 你 好
+suid=s10
+*pro* 为 咱 *OP* *T*-1 干活 的 抱 不平 啊
+suid=s11
+唉 ， *pro* 酸辣
+suid=s12
+*pro* 算啦
+suid=s13
+*pro* 有 你 这么 仗义 ， 我 就 知足 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="157" end="160" text="pro" type="" comment="default value" />
+<我 id="我2" start="169" end="172" text="pro" type="" comment="default value" />
+<我 id="我3" start="187" end="190" text="pro" type="" comment="default value" />
+<我 id="我4" start="287" end="290" text="pro" type="" comment="default value" />
+<我 id="我5" start="333" end="336" text="pro" type="" comment="default value" />
+<我 id="我6" start="351" end="354" text="pro" type="" comment="default value" />
+<你 id="你0" start="94" end="97" text="pro" type="" comment="default value" />
+<你 id="你1" start="138" end="141" text="pro" type="" comment="default value" />
+<你 id="你2" start="207" end="210" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="48" end="51" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="56" end="59" text="pro" type="" comment="default value" />
+<generic id="g0" start="40" end="43" text="pro" type="" comment="default value" />
+<generic id="g1" start="369" end="372" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="248" end="251" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

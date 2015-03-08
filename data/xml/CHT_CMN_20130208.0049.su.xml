@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*OP* 菇凉 菇凉 *T*-1 刚才 领 任务 的 时候 我们 一起 举手 啦 *pro* 问 下 你 是 听 了 开场 主持人 的 还是 中间 画外音 嗒 ？
+suid=s1
+主持 ~~
+suid=s2
+*pro* 好 嘞
+suid=s3
+主持 开场 我 听完 *T*-1 啦 ~~
+suid=s4
+==
+suid=s5
+*pro* 好 耶 。
+我 还 在 听 后头 …… 郎 桑 的 画外音 ==
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="51" end="54" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="173" end="176" text="pro" type="" />
+<previous_utterance id="pr0" start="114" end="117" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

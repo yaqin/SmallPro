@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+肥肉 妹 ， 这 是 伟大 哥 这 两 天 电话
+suid=s1
+号码
+suid=s2
+肥肉 妹 ， 伟大 哥 飞 了 ， 肥肉 妹 拜拜
+suid=s3
+肥肉 哥 那 啥 我 看到 *pro* 里面 有 一 个 人 带 着 其他 人 *PRO* 在 做 各 种 动作
+suid=s4
+她们 还 在 乱 叫 乱 鼓掌 这 种 是 *OP* *T*-1 干 啥 的 啊 *pro* 好 奇怪 啊 她们 说 *pro* 是 training
+suid=s5
+不过 *pro* 今天 面试 人 逼 昨天 要 少 好多 *pro* 不过 估计 *pro* 也 很 无聊
+suid=s6
+哦哦 ， *pro* 汗
+suid=s7
+这 种 公司 *pro* 还是 要 多 考虑 考虑 *T*-1
+suid=s8
+肥肉 妹 ， *pro* 全 都 4 *RNR*-1 . 5十 岁 的
+suid=s9
+*pro* 都 是 *OP* *T*-1 头发 白 了 一半 的
+suid=s10
+*pro* 还 全 是 intel fab 的 manager
+suid=s11
+恩 那 她们 还 来 面试 个 啥
+suid=s12
+*pro* 换 公司
+suid=s13
+Intel 已经 够 好 了 *pro* 还 换 啥
+suid=s14
+我 前面 这个 是 一 个 小 公司 倒闭 了 去 intel ， 然后 *pro* 现在 又 来 这 了 ， *pro* 汗
+suid=s15
+*pro* 都 supervisor 了
+suid=s16
+恩 *pro* 好 吧 那 你 还 想 *PRO* 去 Intel 看来 那边 *pro* 估计 也 不 好 吧
+suid=s17
+*pro* 来 抢 别人 饭碗
+suid=s18
+伟大 哥 *pro* 看来 今天 就 能 回去 了
+suid=s19
+切
+suid=s20
+哦哈哈哈哈哈 肥肉 妹 *pro* 已经 有 10 个 包裹 寄 出来 了 明天 到
+suid=s21
+*pro* 汗 ， 哦哦 ， *pro* 好 的
+suid=s22
+肥肉 妹 这 把 赚 大 了
+suid=s23
+肥肉 妹 ， 伟大 哥 登机 要 飞 了
+suid=s24
+*pro* 没有 就 400 一 个 镜头 *pro* 都 买 不 起 *pro* 不过 马上 有 别的 要 进货 了
+suid=s25
+伟大 哥 回去 了 再 给 你 买 点
+suid=s26
+伟大 哥 关机 ， 肥肉 妹 拜拜
+suid=s27
+肥肉 哥 你 staple 的 地址 *pro* 是 不 是 写 的 是 老 地址 啊
+suid=s28
+哎 ..
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="194" end="197" text="pro" type="" comment="default value" />
+<我 id="我1" start="266" end="269" text="pro" type="" comment="default value" />
+<我 id="我2" start="304" end="307" text="pro" type="" comment="default value" />
+<我 id="我3" start="626" end="629" text="pro" type="" comment="default value" />
+<我 id="我4" start="713" end="716" text="pro" type="" comment="default value" />
+<我 id="我5" start="769" end="772" text="pro" type="" comment="default value" />
+<我 id="我6" start="822" end="825" text="pro" type="" comment="default value" />
+<我 id="我7" start="862" end="865" text="pro" type="" comment="default value" />
+<我 id="我8" start="972" end="975" text="pro" type="" comment="default value" />
+<你 id="你0" start="327" end="330" text="pro" type="" comment="default value" />
+<你 id="你1" start="1094" end="1097" text="pro" type="" comment="default value" />
+<她 id="她0" start="607" end="610" text="pro" type="" comment="default value" />
+<她 id="她1" start="643" end="646" text="pro" type="" comment="default value" />
+<她 id="她2" start="739" end="742" text="pro" type="" comment="default value" />
+<它 id="它0" start="102" end="105" text="pro" type="" comment="default value" />
+<它 id="它1" start="986" end="989" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="278" end="281" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="367" end="370" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="404" end="407" text="pro" type="" comment="default value" />
+<他们 id="他们3" start="446" end="449" text="pro" type="" comment="default value" />
+<她们 id="她们0" start="212" end="215" text="pro" type="" comment="default value" />
+<她们 id="她们1" start="514" end="517" text="pro" type="" comment="default value" />
+<她们 id="她们2" start="549" end="552" text="pro" type="" comment="default value" />
+<generic id="g0" start="240" end="243" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="675" end="678" text="pro" type="" />
+<pleonastic id="p1" start="877" end="880" text="pro" type="" />
+<pleonastic id="p2" start="950" end="953" text="pro" type="" />
+</TAGS>
+</ProTask>

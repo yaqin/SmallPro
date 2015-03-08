@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 那边 应该 是 晚上 啦 吧 !
+suid=s1
+*pro* 是 的 啊
+suid=s2
+你 跟 雪莲 怎么 啦 ， 我 问 她 ， 她 又 不 说
+suid=s3
+你们 不 是 好好 的 吗
+suid=s4
+上 次 因为 *pro* 问 她 ， 你们 什么 时候 结婚 ， 她 就 不 回 我 。
+suid=s5
+我 是 怕 我 是 不 是 说错 话 啦
+suid=s6
+你 就 当 *pro* 没 事 好了 ， 这个 *pro* 不 用 在 问 她 *T*-1
+suid=s7
+*pro* 是 你 欺负 了 她 吗
+suid=s8
+这 个 事情 是 我 的 问题 ， *pro* 请 你 *PRO* 以后 就 当 *pro* 没 事 好了 ，
+suid=s9
+哈哈 ， *pro* 谢谢 你 ， 那 我 以后 就 不 会 讲错 话 啦 !
+suid=s10
+我 是 真心 希望 你们 好好 的
+suid=s11
+以前 *pro* 看到 你们 那么 好 ， *pro* 真的 让 人 *PRO* 觉得 你们 很 幸福
+suid=s12
+如果 *pro* 能 抓住 的 *pro* 就 不 要 让 幸福 *PRO* 溜走
+suid=s13
+今天 我 多嘴 啦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="124" end="127" text="pro" type="" comment="default value" />
+<我 id="我1" start="298" end="301" text="pro" type="" comment="default value" />
+<我 id="我2" start="349" end="352" text="pro" type="" comment="default value" />
+<我 id="我3" start="423" end="426" text="pro" type="" comment="default value" />
+<你 id="你0" start="223" end="226" text="pro" type="" comment="default value" />
+<你 id="你1" start="484" end="487" text="pro" type="" comment="default value" />
+<你 id="你2" start="497" end="500" text="pro" type="" comment="default value" />
+<她 id="她0" start="205" end="208" text="pro" type="" comment="default value" />
+<她 id="她1" start="321" end="324" text="pro" type="" comment="default value" />
+<它 id="它0" start="37" end="40" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="442" end="445" text="pro" type="" comment="default value" />
+<event id="ev0" start="253" end="256" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

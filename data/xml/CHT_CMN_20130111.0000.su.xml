@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+今天 谁 在 啊 ？
+*pro* 准备 *PRO* 吃饭 啦
+suid=s1
+小胡 在
+suid=s2
+小曹 可能 也 在
+suid=s3
+*pro* 都 在
+suid=s4
+哦
+suid=s5
+小曹 找 小胡 *PRO* 开会 去 了
+suid=s6
+*pro* 开会 ？？？
+suid=s7
+*pro* 讨论 网络 宣传 之类 的 事情 吧
+suid=s8
+哦哦 ， 我 先 去 解决 人生 大事 ， 一会儿 来 找 你们 啊
+suid=s9
+*pro* 好 的 ~
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="21" end="24" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="80" end="83" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="137" end="140" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="158" end="161" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="234" end="237" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+老师 您 好 ， 我 是 您 烛光 导航 的 学生 ， *pro* 有 一些 问题 想 *PRO* 请教 您
+suid=s1
+*pro* 讲
+suid=s2
+我 有 一 个 华师 的 同学 ， 他 想 *PRO* 考 武大 的 翻译 研究生 ， 想 *PRO* 了解 一些 相关 信息
+suid=s3
+比如 录取 分数 ， 每 年 录取 人数 之类 的
+suid=s4
+哦 我 在 英文 系 还 不 太 了解 翻译 系 的 情况
+suid=s5
+哦 ， *pro* 好 的 。
+*pro* 谢谢 老师 了 。
+suid=s6
+*pro* 不好意思
+suid=s7
+*pro* 没 事 ， 没 事 。
+*pro* 打扰 老师 了 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="38" end="41" text="pro" type="" comment="default value" />
+<我 id="我1" start="249" end="252" text="pro" type="" comment="default value" />
+<我 id="我2" start="273" end="276" text="pro" type="" comment="default value" />
+<我 id="我3" start="310" end="313" text="pro" type="" comment="default value" />
+<你 id="你0" start="73" end="76" text="pro" type="" comment="default value" />
+<你 id="你1" start="292" end="295" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="237" end="240" text="pro" type="" />
+</TAGS>
+</ProTask>

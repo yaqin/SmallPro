@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+老乡 最好 可好 ？
+小宝宝 一切 都 好 吧 ？
+suid=s1
+我 都 好 *OP* 孩子 *T*-1 小 的 时候 *pro* 会 很 累 的 *pro* 白天 之后 就 好 多 了
+suid=s2
+嗯 ， 最近 *pro* 来 北京 不 ？
+suid=s3
+我 14号 到 北京
+suid=s4
+16号 早上 *pro* 坐 飞机 去 美国
+suid=s5
+*pro* 去 美国 多久 ? *OP* *pro* *T*-1 回来 的 时候 *pro* 还 回 北京 吧 ？
+suid=s6
+*pro* 1 年 一 年 之后 回来
+suid=s7
+*pro* 进修 吗 ？
+suid=s8
+*pro* 公派 出国 1 年
+suid=s9
+14号 你 住 在 北京 哪里 ？
+suid=s10
+*pro* 出去 学习 一下
+suid=s11
+我 住 在 我 大舅子 家
+suid=s12
+*pro* 在 哪 ， *pro* 看看 *pro* 有没有 时间 我们 聚聚
+suid=s13
+*pro* 然后 再 去 国家 留学 基金委 办事
+suid=s14
+具体 地址 我 也 不 知道 *T*-1 *pro* 就 知道 他 去 接 我们 呵呵
+suid=s15
+到时候 *pro* 有 时间 我 跟 你们 联系 吧
+suid=s16
+*pro* 好 的 ， *pro* 去 美国 那 个 城市 啊 ？
+suid=s17
+就 你 一 个 人 吗 》
+suid=s18
+费城
+suid=s19
+我们 一 家 3 口
+suid=s20
+*pro* 这么 好 ， *pro* 可以 带 家属 ！
+suid=s21
+*pro* 带 家属 自己 花钱 啊
+suid=s22
+呵呵
+suid=s23
+呵呵 ， *OP* 住 的 地方 *pro* 不 用 自己 *T*-1 花钱 吧 ， 就是 交通 和 吃 自己 *T*-2 花钱 ， 呵呵 。
+suid=s24
+国家 给 我 出 生活费 *pro* 包括 *OP* *pro* 吃 *T*-1 的 *OP* *pro* *T*-2 住 的
+suid=s25
+钱 不 多 只 够 我 自己 用 的 一 家 人 去 的话 *pro* 得 自己 补 点
+suid=s26
+*pro* 不错 ， 我 去 过 纽约 ， *pro* 很 好 。
+*pro* 待 一 年 *pro* 估计 你 就 不 想 *PRO* 回来 了 。
+suid=s27
+你 什么 时候 去 的 ？
+*pro* 带 了 多 长 时间 ？
+suid=s28
+费城 离 纽约 很 近
+suid=s29
+我 是 去年 去 的 ， 待 了 6 天
+suid=s30
+*pro* 今年 要是 再 去 那边 *pro* 告诉 我 *pro* 有 时间 *pro* 到 我 那里 逛逛
+suid=s31
+*pro* 好 的 ， 呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="71" end="74" text="pro" type="" comment="default value" />
+<我 id="我1" start="85" end="88" text="pro" type="" comment="default value" />
+<我 id="我2" start="169" end="172" text="pro" type="" comment="default value" />
+<我 id="我3" start="259" end="262" text="pro" type="" comment="default value" />
+<我 id="我4" start="308" end="311" text="pro" type="" comment="default value" />
+<我 id="我5" start="359" end="362" text="pro" type="" comment="default value" />
+<我 id="我6" start="418" end="421" text="pro" type="" comment="default value" />
+<我 id="我7" start="455" end="458" text="pro" type="" comment="default value" />
+<我 id="我8" start="511" end="514" text="pro" type="" comment="default value" />
+<我 id="我9" start="547" end="550" text="pro" type="" comment="default value" />
+<我 id="我10" start="715" end="718" text="pro" type="" comment="default value" />
+<我 id="我11" start="863" end="866" text="pro" type="" comment="default value" />
+<我 id="我12" start="884" end="887" text="pro" type="" comment="default value" />
+<我 id="我13" start="939" end="942" text="pro" type="" comment="default value" />
+<我 id="我14" start="1009" end="1012" text="pro" type="" comment="default value" />
+<你 id="你0" start="120" end="123" text="pro" type="" comment="default value" />
+<你 id="你1" start="193" end="196" text="pro" type="" comment="default value" />
+<你 id="你2" start="214" end="217" text="pro" type="" comment="default value" />
+<你 id="你3" start="234" end="237" text="pro" type="" comment="default value" />
+<你 id="你4" start="287" end="290" text="pro" type="" comment="default value" />
+<你 id="你5" start="427" end="430" text="pro" type="" comment="default value" />
+<你 id="你6" start="591" end="594" text="pro" type="" comment="default value" />
+<你 id="你7" start="690" end="693" text="pro" type="" comment="default value" />
+<你 id="你9" start="963" end="966" text="pro" type="" comment="default value" />
+<你 id="你10" start="997" end="1000" text="pro" type="" comment="default value" />
+<你 id="你11" start="1062" end="1065" text="pro" type="" comment="default value" />
+<你 id="你12" start="1141" end="1144" text="pro" type="" comment="default value" />
+<你 id="你13" start="1160" end="1163" text="pro" type="" comment="default value" />
+<你 id="你14" start="1171" end="1174" text="pro" type="" comment="default value" />
+<你 id="你15" start="1182" end="1185" text="pro" type="" comment="default value" />
+<它 id="它0" start="406" end="409" text="pro" type="" comment="default value" />
+<它 id="它1" start="772" end="775" text="pro" type="" comment="default value" />
+<它 id="它2" start="849" end="852" text="pro" type="" comment="default value" />
+<它 id="它3" start="985" end="988" text="pro" type="" comment="default value" />
+<event id="ev0" start="677" end="680" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="579" end="582" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="1207" end="1210" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

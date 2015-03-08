@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+[ 表情 ] 我 31号 回 广州
+suid=s1
+*pro* 这么 早
+suid=s2
+我 要 2.2 才 回 [ 表情 ]
+suid=s3
+[ 表情 ] 没 ， *pro* 实在 太 有 罪恶感 了 ， 毕业 设计 都 没 动 过
+suid=s4
+[ 表情 ] *pro* 什么 时候 要 交
+suid=s5
+*OP* *pro* *T*-1 开学 第二 周 *pro* 交 初稿 ， 4月 *pro* 定稿
+suid=s6
+那 *pro* 就 是 剩下 一 个 月 左右
+suid=s7
+所以 *pro* 很 紧张 啊
+suid=s8
+你 是 要 做 动画 ？
+suid=s9
+恩恩 ，
+suid=s10
+3D 动画
+suid=s11
+那 剧本 你 写好 了 *T*-1 没
+suid=s12
+没 ..
+suid=s13
+*pro* 这 几 天 想想
+suid=s14
+*pro* 打算 *PRO* 做 *OP* *T*-1 愤怒 的 小鸟
+suid=s15
+*pro* 让 *OP* *T*-1 愤怒 的 小鸟 *PRO* 教 小孩 英语
+suid=s16
+呃 ， *pro* 要 先 画好 剧本 ， 然后 还 要 分镜 吧
+suid=s17
+*pro* 这么 详细 么 ... *pro* 不 可以 直接 动手 么
+suid=s18
+前戏 太 长 了 ..
+suid=s19
+呃 ， 当初 *OP* 柳薇 *T*-1 教 我们 的 时候 *pro* 就 是 这样 一 步 一 步 来 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="93" end="96" text="pro" type="" comment="default value" />
+<我 id="我1" start="192" end="195" text="pro" type="" comment="default value" />
+<我 id="我2" start="208" end="211" text="pro" type="" comment="default value" />
+<我 id="我3" start="260" end="263" text="pro" type="" comment="default value" />
+<我 id="我4" start="374" end="377" text="pro" type="" comment="default value" />
+<我 id="我5" start="497" end="500" text="pro" type="" comment="default value" />
+<你 id="你0" start="36" end="39" text="pro" type="" comment="default value" />
+<你 id="你1" start="143" end="146" text="pro" type="" comment="default value" />
+<你 id="你2" start="227" end="230" text="pro" type="" comment="default value" />
+<你 id="你3" start="398" end="401" text="pro" type="" comment="default value" />
+<你 id="你5" start="443" end="446" text="pro" type="" comment="default value" />
+<你 id="你6" start="536" end="539" text="pro" type="" comment="default value" />
+<你 id="你7" start="554" end="557" text="pro" type="" comment="default value" />
+<她 id="她0" start="634" end="637" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="172" end="175" text="pro" type="" />
+</TAGS>
+</ProTask>

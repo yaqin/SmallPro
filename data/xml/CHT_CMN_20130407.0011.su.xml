@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 问 你 点 工作 上 的 事情 ： 你 说 咱 公司 的 业绩 是 不 是 *pro* 把 人 的 素质 提升 上去 *-1 就 能 上去 了 ？
+suid=s1
+你 只 谈谈 你 的 想法 就 行
+suid=s2
+我 个人 觉 素质 并 不 是 *pro* 想 *PRO* 能 提 就 能 提 的 ， *OP* *pro* 能 提高 *T*-1 的 都 是 表面 的
+suid=s3
+个人 素质 跟 企业 效益 没有 *OP* *T*-1 必然 的 联系 ， 我 觉得
+suid=s4
+我 问 这 个 问题 ， *pro* 是 *pro* 在 想 一 个 事儿 ： 卢 总 又 要 花 大 价钱 送 一些 管理者 *PRO* 出去 培训 。
+suid=s5
+目前 的 业绩 低下 不 是 说 大家 不 知道 *PRO* 怎么 做 或是 怎么 管理 的 原因 。
+suid=s6
+不过 *pro* 跟 *OP* *T*-1 素质 高 的 人 一起 共事 ， 工作 心情 比较 好 ， *pro* 不 会 天天 因为 *OP* *T*-2 不 是 问题 的 问题 烦 的 难受 。
+suid=s7
+我 觉得 *pro* 也 是 。
+suid=s8
+所以 我 可 不 想 *PRO* 让 公司 *PRO* 浪费 这 个 钱 在 我 身 上 了
+suid=s9
+别人 不 敢 说
+suid=s10
+我 先 下班 回家 ， *pro* 下午 再 议 。
+suid=s11
+*pro* 培训 完 *pro* 也 不见得 有 什么 成效 ， 我 觉得 *T*-1 。
+suid=s12
+管理 方面 一些 *OP* *T*-1 先进 的 东西 *pro* 学 一下 *T*-2 倒是 也 挺 好 ，
+suid=s13
+如果 *pro* 因为 制度 改良 了 能 提升 业绩 ， 也 好 ， 但是 *OP* *T*-1 现在 主要 的 业绩 是 *OP* 咱们 *T*-2 在 外边 跑 的
+suid=s14
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="281" end="284" text="pro" type="" comment="default value" />
+<我 id="我2" start="659" end="662" text="pro" type="" comment="default value" />
+<它 id="它0" start="173" end="176" text="pro" type="" comment="default value" />
+<它 id="它1" start="273" end="276" text="pro" type="" comment="default value" />
+<它 id="它2" start="519" end="522" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="458" end="461" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="624" end="627" text="pro" type="" comment="default value" />
+<generic id="g0" start="54" end="57" text="pro" type="" comment="default value" />
+<generic id="g1" start="140" end="143" text="pro" type="" comment="default value" />
+<generic id="g2" start="409" end="412" text="pro" type="" comment="default value" />
+<generic id="g3" start="648" end="651" text="pro" type="" comment="default value" />
+<generic id="g4" start="731" end="734" text="pro" type="" comment="default value" />
+<generic id="g5" start="771" end="774" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="863" end="866" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+济南 零下 10 ， 唉 ， 珠海 零上 20 ？
+suid=s1
+*pro* 今天 没 那么 热
+suid=s2
+中午 *pro* 可能 有 15 度 吧
+suid=s3
+今年 冬天 *pro* 也 冷
+suid=s4
+*pro* BS 你
+suid=s5
+我 纠结 了 好久 ， 决定 *PRO* 不 回家 过年 了 ， *pro* 本来 决定 *PRO* 带 孩子 *PRO* 回去 过年 的 ， *pro* 让 他 *PRO* 看看 雪
+suid=s6
+南方 的 冬天 日子 其实 并 不 是 太 好 过 ， *pro* 湿冷 的 感觉 比 北方 更 难受 ， 而且 室内 比 室外 冷 ， 阴冷 ， 四 *RNR*-1 五 度 的 时候 也 有 ， *pro* 没有 暖气 ， 被子 都 是 潮潮 的 ， *pro* 还 不 如 北方 舒服 。
+suid=s7
+10来 度 可以 了 ， *OP* *T*-1 多 舒服 的 温度
+suid=s8
+*pro* 现在 还 行 ， 我 穿 件 毛衣 ， 加 一 件 厚 外套 足够 了
+suid=s9
+*pro* 倒 ， 我 也 就 穿 这么 多 ...
+suid=s10
+你 皮 厚
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="121" end="124" text="pro" type="" comment="default value" />
+<我 id="我1" start="173" end="176" text="pro" type="" comment="default value" />
+<我 id="我2" start="212" end="215" text="pro" type="" comment="default value" />
+<我 id="我3" start="488" end="491" text="pro" type="" comment="default value" />
+<它 id="它0" start="71" end="74" text="pro" type="" comment="default value" />
+<它 id="它2" start="269" end="272" text="pro" type="" comment="default value" />
+<它 id="它3" start="340" end="343" text="pro" type="" comment="default value" />
+<它 id="它4" start="368" end="371" text="pro" type="" comment="default value" />
+<它 id="它5" start="438" end="441" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="44" end="47" text="pro" type="" />
+<pleonastic id="p1" start="103" end="106" text="pro" type="" />
+</TAGS>
+</ProTask>

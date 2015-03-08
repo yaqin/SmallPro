@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+哦 ， 你 是 ？
+suid=s1
+今天 A6 是 谁 开 的 ？？
+suid=s2
+哦
+suid=s3
+一会 北京 有 个 知道 老师 来 ， 我 要 去 接 她 再 把 他 送到 台儿庄 ， 需要 用 A6
+suid=s4
+*pro* 不 来 吧 ， 他 请 的 长 假
+suid=s5
+彭
+suid=s6
+范真真 周一 会 来 上班 吗 ？
+suid=s7
+哦 ， *pro* 应该 来 的 及
+suid=s8
+十一点四十 吧
+suid=s9
+*OP* *T*-1 家家美 来 的 安装 老师
+suid=s10
+*OP* 台儿庄 接 *T*-1 的 工程
+suid=s11
+现在 A6 出去 送 客户 了 ， 张敏 的 客户 ， 现在 刚 走
+suid=s12
+*pro* 先 去 高铁站 再 去 台儿庄 店
+suid=s13
+不过 *pro* 就 送到 BRT 车站 ， 很 快 就 能 回来
+suid=s14
+你 什么 时间 用 车 ？
+suid=s15
+我 把 其他 的 司机 不 知道 台儿庄 店 的 地址
+suid=s16
+什么 指导 老师 ？
+suid=s17
+彭 应该 知道
+suid=s18
+*pro* 去 哪里 接 ？
+suid=s19
+嗯
+suid=s20
+*pro* 好 的 。
+suid=s21
+你 一会 写 派车单 就 行
+suid=s22
+彭 知道
+suid=s23
+*pro* 在
+suid=s24
+哦
+suid=s25
+那 司机 知道 地址 吗
+suid=s26
+娟
+suid=s27
+*pro* 在 吗
+suid=s28
+嗯
+suid=s29
+中午 的 奥迪 车 要 接送 工商局 的 人
+suid=s30
+你 换用 皮卡 车 吧
+suid=s31
+董正 的 车
+suid=s32
+我 不 知道 啊
+suid=s33
+我 知道 地址 ， 不 知道 *PRO* 怎么 走
+suid=s34
+你 把 指导 老师 送到 那 ， 你 就 回来 吧 ， 车 还 要 发货
+suid=s35
+指导 老师 要 住 在 台儿庄 吧
+suid=s36
+你 不 知道 地址 吗 ？
+suid=s37
+地址 我 有 *T*-1 ， 就是 不 知道 他们 知道 路线 吧
+suid=s38
+那 到时 你 可以 电话 联络 地址 。
+suid=s39
+嗯 ， *pro* 就 把 他 送到 工地
+suid=s40
+嗯
+suid=s41
+你 到 那里 就 回来 呀 ？
+suid=s42
+*pro* 有 地址 就 行 ， 驾驶员 应该 能 找着
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="344" end="347" text="pro" type="" comment="default value" />
+<我 id="我1" start="380" end="383" text="pro" type="" comment="default value" />
+<我 id="我2" start="611" end="614" text="pro" type="" comment="default value" />
+<你 id="你0" start="517" end="520" text="pro" type="" comment="default value" />
+<你 id="你1" start="672" end="675" text="pro" type="" comment="default value" />
+<你 id="你2" start="997" end="1000" text="pro" type="" comment="default value" />
+<他 id="他0" start="124" end="127" text="pro" type="" comment="default value" />
+<他 id="他1" start="196" end="199" text="pro" type="" comment="default value" />
+<他 id="他2" start="1060" end="1063" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="552" end="555" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

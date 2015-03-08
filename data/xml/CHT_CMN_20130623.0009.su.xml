@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗 ？
+*pro* 有 个 问题 想 *PRO* 问 一下 [ 表情 ]
+suid=s1
+*pro* 请 讲
+suid=s2
+呵呵 ， *pro* 是 关于 “ 浙江 大学 资助 博士 研究生 *PRO* 开展 国际 合作 研究 与 交流 ”
+suid=s3
+嗯
+suid=s4
+*OP* *pro* *T*-2 这个 申请 *-1 的 时候 *pro* 是 不 是 只 能 申请 半 年 ？
+suid=s5
+*pro* 可以 申请 一 年 ， 只是 *pro* 只 有 半 年 的 钱
+suid=s6
+*pro* 即便 是 想 *PRO* 延长 *pro* 也 是 只 有 半 年 的 钱 ？
+suid=s7
+*pro* 对
+suid=s8
+第七 条 派出 时间 为 *OP* *pro* *T*-1 申请 当年 。
+派出 期限 一般 为 6 个 月 。
+suid=s9
+确 因 研究 需要 *pro* 可 申请 *PRO* 延长 留学 期限 ， 延长 期限 *PRO* 最 长 不 超过 6 个 月 。
+suid=s10
+*OP* *T*-1 申请 *PRO* 延长 留学 期限 的 派出 人员 应 于 留学 期限 结束 前 2 个 月 提出 申请 ， 并 办理 有关 手续 。
+suid=s11
+实际 选派 人数 *pro* 根据 每 年 申请 情况 确定 *T*-1 。
+suid=s12
+这个 你 预期 *T*-1 就 是 一 年 ， *pro* 直接 申请 一 年 就 行 了
+suid=s13
+中间 *pro* 就 不 用 有 个 *OP* *pro* *T*-1 延期 的 手续
+suid=s14
+但是 钱 ， *pro* 只 能 有 半 年 的 *T*-1
+suid=s15
+*pro* 好 的 [ 表情 ]
+suid=s16
+你 是 你们 老板 帮 *PRO* 出 的 另 半 年 的 钱 ？
+suid=s17
+*pro* 是 的 ~~ *pro* 是 比较 郁闷
+suid=s18
+半 年 *pro* 估计 也 要 5 - 6w 吧
+suid=s19
+哎 ， 我 真 不 敢 跟 老板 提 这个 了
+suid=s20
+*pro* 有点 多 *pro* 感觉 *T*-1
+suid=s21
+你 准备 *PRO* 去 哪 个 城市
+suid=s22
+如果 自己 不 怎么 买 东西 ， 消费 也 不 高 的
+suid=s23
+匹兹堡 大学
+suid=s24
+*pro* 好像 也 在 宾大 那 个 洲
+suid=s25
+东部 的 二线 城市 ， 自己 开锅 ，
+suid=s26
+吃喝 200 就 已经 很 好 了
+suid=s27
+*pro* 这么 少 ？
+那 房租 呢 ？
+suid=s28
+房租 *pro* 要 帮 你 *PRO* 问问 *T*-1 ， *pro* 基本 在 500 左右
+suid=s29
+反正 1000 肯定 能够 解决 你 的 问题
+suid=s30
+所以 *pro* 别 担心
+suid=s31
+你们 一 个 月 补助 多少 能 ？
+suid=s32
+*pro* 尽管 申请 吧
+suid=s33
+恩 ， 我 先 试试 吧
+suid=s34
+*pro* 一共 就 9600 美金 ， 国内 老板 给 了 一点 ，
+suid=s35
+9600 是 学校 给 的 ？
+suid=s36
+你 先 把 名额 争取 到 了 *-1 再说 吧
+suid=s37
+恩 ， *pro* 好 的
+suid=s38
+这 个 钱 *pro* 在 宾州 生活 ， 够 的
+suid=s39
+嗯 ， *pro* 好 的
+suid=s40
+*pro* 谢 啦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="22" end="25" text="pro" type="" comment="default value" />
+<我 id="我1" start="190" end="193" text="pro" type="" comment="default value" />
+<我 id="我2" start="270" end="273" text="pro" type="" comment="default value" />
+<我 id="我3" start="292" end="295" text="pro" type="" comment="default value" />
+<我 id="我4" start="834" end="837" text="pro" type="" comment="default value" />
+<我 id="我5" start="847" end="850" text="pro" type="" comment="default value" />
+<我 id="我6" start="874" end="877" text="pro" type="" comment="default value" />
+<我 id="我7" start="949" end="952" text="pro" type="" comment="default value" />
+<我 id="我8" start="1178" end="1181" text="pro" type="" comment="default value" />
+<我 id="我9" start="1548" end="1551" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="63" end="66" text="pro" type="" comment="default value" />
+<你 id="你2" start="223" end="226" text="pro" type="" comment="default value" />
+<你 id="你3" start="244" end="247" text="pro" type="" comment="default value" />
+<你 id="你4" start="358" end="361" text="pro" type="" comment="default value" />
+<你 id="你5" start="415" end="418" text="pro" type="" comment="default value" />
+<你 id="你6" start="641" end="644" text="pro" type="" comment="default value" />
+<你 id="你7" start="675" end="678" text="pro" type="" comment="default value" />
+<你 id="你8" start="696" end="699" text="pro" type="" comment="default value" />
+<你 id="你9" start="732" end="735" text="pro" type="" comment="default value" />
+<你 id="你10" start="1270" end="1273" text="pro" type="" comment="default value" />
+<你 id="你11" start="1318" end="1321" text="pro" type="" comment="default value" />
+<你 id="你12" start="1496" end="1499" text="pro" type="" comment="default value" />
+<它 id="它0" start="86" end="89" text="pro" type="" comment="default value" />
+<它 id="它1" start="578" end="581" text="pro" type="" comment="default value" />
+<它 id="它2" start="938" end="941" text="pro" type="" comment="default value" />
+<它 id="它3" start="1056" end="1059" text="pro" type="" comment="default value" />
+<它 id="它4" start="1144" end="1147" text="pro" type="" comment="default value" />
+<它 id="它5" start="1207" end="1210" text="pro" type="" comment="default value" />
+<它 id="它6" start="1363" end="1366" text="pro" type="" comment="default value" />
+<generic id="g0" start="163" end="166" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="324" end="327" text="pro" type="" />
+<pleonastic id="p1" start="765" end="768" text="pro" type="" />
+<pleonastic id="p2" start="1471" end="1474" text="pro" type="" />
+<pleonastic id="p3" start="1529" end="1532" text="pro" type="" />
+</TAGS>
+</ProTask>

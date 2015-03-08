@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+表姐 ， *pro* 一般 从 中国 寄 东西 到 美国 *pro* 是 按 重量 算 的 吗 ？
+suid=s1
+大概 每 公斤 *pro* 多少 钱 ？
+还有 *pro* 多久 可以 到 ？
+suid=s2
+*pro* 是 啊 。。。 如果 *pro* 邮政 平邮 的话 ， 坑内 *pro* 100 - 200 ／ kg
+suid=s3
+*pro* 大概 2 个 星期 吧
+suid=s4
+快递 就 好 贵 了
+]]></TEXT>
+<TAGS>
+<它 id="它0" start="39" end="42" text="pro" type="" comment="default value" />
+<它 id="它1" start="76" end="79" text="pro" type="" comment="default value" />
+<它 id="它2" start="92" end="95" text="pro" type="" comment="default value" />
+<它 id="它3" start="116" end="119" text="pro" type="" comment="default value" />
+<它 id="它4" start="133" end="136" text="pro" type="" comment="default value" />
+<它 id="它5" start="153" end="156" text="pro" type="" comment="default value" />
+<它 id="它6" start="182" end="185" text="pro" type="" comment="default value" />
+<generic id="g0" start="15" end="18" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

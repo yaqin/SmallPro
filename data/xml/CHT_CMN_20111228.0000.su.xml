@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 在 吗
+suid=s1
+*pro* 在 呀 我 隐身
+suid=s2
+我 看 出来 了
+suid=s3
+你 不 要 问 王勇 了
+suid=s4
+事情 有 变化
+suid=s5
+哦 *pro* 好
+suid=s6
+你 还 没 问 他 吧
+suid=s7
+*OP* *T*-1 条件 太 好 的 容易 把 他 吓到 *-2 呵呵
+suid=s8
+*pro* 没有 *pro* 压根 没 见到 他
+suid=s9
+*pro* 不 是 的
+suid=s10
+我 打 电话 告诉 你 吧
+suid=s11
+啊 ？
+*pro* 不 用 打 电话 *pro* 浪费 话费
+suid=s12
+*pro* 没 事
+suid=s13
+*pro* 跟 我 没 关系 吧
+suid=s14
+*pro* 没有
+suid=s15
+电话 号
+suid=s16
+*pro* 发 过来
+suid=s17
+你 的
+suid=s18
+那 *pro* 就 更 不 用 打 电话 了 明天 我 去 找 你 聊天 反正 我 中午 就 去 你们 办公室 找 崔 吃饭
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="23" end="28" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="183" end="188" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="192" end="198" text="*pro* " type="" comment="default value" />
+<我 id="我3" start="300" end="306" text="*pro* " type="" comment="default value" />
+<你 id="你0" start="264" end="270" text="*pro* " type="" comment="default value" />
+<你 id="你1" start="377" end="383" text="*pro* " type="" comment="default value" />
+<你 id="你2" start="411" end="418" text=" *pro* " type="" comment="default value" />
+<它 id="它0" start="102" end="107" text="*pro*" type="" comment="default value" />
+<它 id="它1" start="278" end="285" text=" *pro* " type="" comment="default value" />
+<它 id="它2" start="319" end="325" text="*pro* " type="" comment="default value" />
+<它 id="它3" start="345" end="350" text="*pro*" type="" comment="default value" />
+<event id="ev0" start="216" end="221" text="*pro*" type="" comment="default value" />
+</TAGS>
+</ProTask>

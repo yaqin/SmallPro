@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 刚刚 出去 吃饭
+suid=s1
+*pro* 昨天 怎么 *pro* 这么 晚 才 吃饭
+suid=s2
+*pro* 下 飞机 到 宾馆 整理 一下 给 员工 开 了 会 布置 了 今天 的 工作 才 去 吃饭
+suid=s3
+昨夜 *pro* 睡 得 怎样
+suid=s4
+*pro* 开始 不 好
+suid=s5
+*pro* 后来 还 可以
+suid=s6
+*pro* 晚安 亲爱 的
+suid=s7
+你 昨晚 睡 得 怎么样 ？
+suid=s8
+*pro* 早上 忙乱 吗 ？
+suid=s9
+*pro* 不 是 太 好 *pro* 早上 好 困 眼睛 都 肿 了
+suid=s10
+这 几 天 状态 不 太 好
+suid=s11
+我 昨天 白天 很 累 ， 走 了 好多 路
+suid=s12
+*pro* 以为 晚上 *pro* 能 睡 的 好 点
+suid=s13
+结果 *pro* 做 了 一 晚上 的 梦
+suid=s14
+*pro* 早上 倒是 不 忙乱 7:10分 出门 打卡 36 就 到 了 学校 第一 个
+suid=s15
+兔子 今天 穿 *OP* *T*-1 愤怒 的 小鸟 自己 挑 的
+suid=s16
+吕 老师 说 兔兔 最近 穿衣 风格 大 变
+suid=s17
+*pro* 不 是 有 车 吗 *pro* 还 走路 ？
+suid=s18
+*OP* *pro* *T*-1 前天 给 兔兔 打 电话 的 时候 ， 兔兔 说 她 要 第一 个 到 幼儿园
+suid=s19
+*pro* 发现 还是 我 和 她 配合 好 早上 一切 顺利
+suid=s20
+展览会 ， 18万 平米
+suid=s21
+*pro* 看 展览 ， 走 了 一 天
+suid=s22
+你 该 多 走走
+suid=s23
+腰 腿 教 都 痛
+suid=s24
+嗯
+suid=s25
+我 也 是 这么 想 的
+suid=s26
+*pro* 就 当 锻炼 了
+suid=s27
+我 要 走 了
+suid=s28
+*pro* 吃饭 ， 然后 去 会场
+suid=s29
+*pro* 好 我 在 吃 鸡蛋
+suid=s30
+*pro* 现在 真的 老 了
+suid=s31
+心里 有 事 *pro* 就 睡 不 着
+suid=s32
+下午 *pro* 有 个 讲座
+suid=s33
+*pro* 不 是 讲座
+suid=s34
+呵呵 *pro* 要 懂得 *PRO* 服 老
+suid=s35
+*pro* 是 *pro* 坐到 主席台 前 ， *pro* 由 主持人 提问 ， 我 来 回答
+suid=s36
+一 晚上 *pro* 全 是 各 种 问题 和 回答
+suid=s37
+底气 足 了 *pro* 就 不 怕 了
+suid=s38
+*pro* 特别 怕 自己 说 不 好
+suid=s39
+其实 *pro* 想开 点 *pro* 说 不 好 也 没 什么 大不了 的
+suid=s40
+*pro* 原来 不 这样
+suid=s41
+心理 负担 很 重
+suid=s42
+脸皮 要 厚
+suid=s43
+上午 *pro* 有 个 讲座
+suid=s44
+心里 没 底 ， *pro* 让 王宗 *PRO* 去 讲 了
+suid=s45
+*pro* 一 天 还 很 紧张
+suid=s46
+*pro* 不 想 *PRO* 丢人
+suid=s47
+*pro* 回来 *pro* 多 充充电
+suid=s48
+*pro* 少 看 手机
+suid=s49
+*pro* 要 做到 自信 满满
+suid=s50
+*pro* 走 了
+suid=s51
+*pro* 8
+suid=s52
+*pro* 充分 利用 每 个 机会 展示 自己
+suid=s53
+*pro* 好 *pro* 再见
+suid=s54
+手机 没 电 了
+suid=s55
+*pro* 困 了 ， 睡 了 ， *pro* 晚安 ！
+suid=s56
+老婆 ， *pro* 对不起 ， *pro* 让 你 *PRO* 受惊 了
+suid=s57
+*pro* 不 知道 你 晚上 睡 得 怎样
+suid=s58
+我 失眠 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="69" end="72" text="pro" type="" comment="default value" />
+<我 id="我2" start="175" end="178" text="pro" type="" comment="default value" />
+<我 id="我3" start="266" end="269" text="pro" type="" comment="default value" />
+<我 id="我4" start="280" end="283" text="pro" type="" comment="default value" />
+<我 id="我5" start="367" end="370" text="pro" type="" comment="default value" />
+<我 id="我6" start="379" end="382" text="pro" type="" comment="default value" />
+<我 id="我7" start="407" end="410" text="pro" type="" comment="default value" />
+<我 id="我8" start="435" end="438" text="pro" type="" comment="default value" />
+<我 id="我9" start="608" end="611" text="pro" type="" comment="default value" />
+<我 id="我10" start="669" end="672" text="pro" type="" comment="default value" />
+<我 id="我11" start="732" end="735" text="pro" type="" comment="default value" />
+<我 id="我12" start="832" end="835" text="pro" type="" comment="default value" />
+<我 id="我13" start="873" end="876" text="pro" type="" comment="default value" />
+<我 id="我14" start="927" end="930" text="pro" type="" comment="default value" />
+<我 id="我15" start="959" end="962" text="pro" type="" comment="default value" />
+<我 id="我16" start="985" end="988" text="pro" type="" comment="default value" />
+<我 id="我17" start="1070" end="1073" text="pro" type="" comment="default value" />
+<我 id="我18" start="1163" end="1166" text="pro" type="" comment="default value" />
+<我 id="我19" start="1186" end="1189" text="pro" type="" comment="default value" />
+<我 id="我20" start="1263" end="1266" text="pro" type="" comment="default value" />
+<我 id="我21" start="1324" end="1327" text="pro" type="" comment="default value" />
+<我 id="我22" start="1355" end="1358" text="pro" type="" comment="default value" />
+<我 id="我23" start="1387" end="1390" text="pro" type="" comment="default value" />
+<我 id="我24" start="1413" end="1416" text="pro" type="" comment="default value" />
+<我 id="我25" start="1441" end="1444" text="pro" type="" comment="default value" />
+<我 id="我26" start="1450" end="1453" text="pro" type="" comment="default value" />
+<我 id="我27" start="1519" end="1522" text="pro" type="" comment="default value" />
+<我 id="我28" start="1633" end="1636" text="pro" type="" comment="default value" />
+<我 id="我29" start="1676" end="1679" text="pro" type="" comment="default value" />
+<我 id="我30" start="1688" end="1691" text="pro" type="" comment="default value" />
+<我 id="我31" start="1718" end="1721" text="pro" type="" comment="default value" />
+<你 id="你0" start="33" end="36" text="pro" type="" comment="default value" />
+<你 id="你1" start="45" end="48" text="pro" type="" comment="default value" />
+<你 id="你2" start="133" end="136" text="pro" type="" comment="default value" />
+<你 id="你3" start="197" end="200" text="pro" type="" comment="default value" />
+<你 id="你4" start="242" end="245" text="pro" type="" comment="default value" />
+<你 id="你5" start="565" end="568" text="pro" type="" comment="default value" />
+<你 id="你6" start="581" end="584" text="pro" type="" comment="default value" />
+<你 id="你7" start="1218" end="1221" text="pro" type="" comment="default value" />
+<你 id="你8" start="1229" end="1232" text="pro" type="" comment="default value" />
+<你 id="你9" start="1471" end="1474" text="pro" type="" comment="default value" />
+<你 id="你10" start="1493" end="1496" text="pro" type="" comment="default value" />
+<你 id="你11" start="1555" end="1558" text="pro" type="" comment="default value" />
+<你 id="你12" start="1651" end="1654" text="pro" type="" comment="default value" />
+<它 id="它0" start="154" end="157" text="pro" type="" comment="default value" />
+<它 id="它1" start="1007" end="1010" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="1032" end="1035" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="1538" end="1541" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="1597" end="1600" text="pro" type="" comment="default value" />
+<event id="ev0" start="1062" end="1065" text="pro" type="" comment="default value" />
+<generic id="g0" start="1125" end="1128" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="901" end="904" text="pro" type="" />
+<pleonastic id="p1" start="1087" end="1090" text="pro" type="" />
+<previous_utterance id="pr0" start="1589" end="1592" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

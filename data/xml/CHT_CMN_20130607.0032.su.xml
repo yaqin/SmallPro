@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+亲爱 的 你 能 到 机场 接接 我 么 我 没有 手机 对 上海 一点 也 不 熟悉 也 没有 *OP* *pro* *T*-1 住 的 地方
+suid=s1
+*pro* 在 不 在
+suid=s2
+你 来 了 ， 我 就 打算 *PRO* 去 机场 接 你 啊
+suid=s3
+亲爱 的 ，
+suid=s4
+只是 *OP* 你 *T*-1 来 的 那 天 *pro* 千万 要 错开 星期四 ， 因为 星期四 我 要 开 组会
+suid=s5
+你 是 什么 时候 来
+suid=s6
+*pro* 是 周六
+suid=s7
+到时候 *OP* 你 *T*-1 来 的 时候 *pro* 提前 给 我 说好 *pro* 几点 下 飞机
+suid=s8
+下午 5点25
+suid=s9
+你 是 虹桥 机场 还是 浦东
+suid=s10
+浦东 。。。
+suid=s11
+*pro* 晕 乎
+suid=s12
+*pro* 离 你 远 了 点
+suid=s13
+哈哈 ，
+suid=s14
+*pro* 相当 的 远 啊
+suid=s15
+*pro* 没 事
+suid=s16
+我 *PRO* 当时 复试 就 是 在 浦东 下 的
+suid=s17
+我 知道 *PRO* 怎么 走
+suid=s18
+*pro* 到时候 直接 把 你 接 *-1 我 寝室 来
+suid=s19
+你们 寝室 让 我 *PRO* 进 么 ？
+suid=s20
+*pro* 没 事 的
+suid=s21
+我们 管 的 不 是 很 严
+suid=s22
+*pro* 先 进来 看看
+suid=s23
+我 舍友 的 姐姐 今年 就 直接 进来 住 过
+suid=s24
+学长 是 不 是 也 在 上海 ？
+suid=s25
+嗯
+suid=s26
+*pro* 晕 乎 ，
+suid=s27
+*pro* 么 事 ， *OP* 你 *T*-1 回来 的 时候 5点25 飞机
+suid=s28
+但是 *pro* 出 机场 估计 要 四十多 分钟
+suid=s29
+浦东 太 大 ，
+suid=s30
+到时候 你 一定 要 记得 我 的 手机 号 ， *pro* 实在 不 行 ， *pro* 到时候 是 可以 借 身边 人 的 手机 联系 我 哈
+suid=s31
+等 你 来 之前 *pro* 给 我 联系 ， 我 到时候 再 给 你 说 这些
+suid=s32
+*pro* 再 把 你 手机 号 告诉 我 *-1 一 遍 呗
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="64" end="67" text="pro" type="" comment="default value" />
+<我 id="我1" start="254" end="257" text="pro" type="" comment="default value" />
+<我 id="我2" start="392" end="395" text="pro" type="" comment="default value" />
+<我 id="我3" start="411" end="414" text="pro" type="" comment="default value" />
+<我 id="我4" start="474" end="477" text="pro" type="" comment="default value" />
+<我 id="我5" start="554" end="557" text="pro" type="" comment="default value" />
+<我 id="我6" start="764" end="767" text="pro" type="" comment="default value" />
+<我 id="我7" start="785" end="788" text="pro" type="" comment="default value" />
+<我 id="我8" start="838" end="841" text="pro" type="" comment="default value" />
+<你 id="你0" start="91" end="94" text="pro" type="" comment="default value" />
+<你 id="你1" start="190" end="193" text="pro" type="" comment="default value" />
+<你 id="你2" start="297" end="300" text="pro" type="" comment="default value" />
+<你 id="你3" start="313" end="316" text="pro" type="" comment="default value" />
+<你 id="你4" start="624" end="627" text="pro" type="" comment="default value" />
+<你 id="你5" start="669" end="672" text="pro" type="" comment="default value" />
+<你 id="你6" start="913" end="916" text="pro" type="" comment="default value" />
+<你 id="你7" start="928" end="931" text="pro" type="" comment="default value" />
+<你 id="你8" start="980" end="983" text="pro" type="" comment="default value" />
+<你 id="你9" start="1021" end="1024" text="pro" type="" comment="default value" />
+<它 id="它0" start="450" end="453" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

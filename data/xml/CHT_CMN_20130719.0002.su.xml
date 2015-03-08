@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+哈哈 你 这 哪 是 梦 啊 *pro* 是 魔幻 故事 吧
+suid=s1
+*pro* 干 嘛 呢 ？
+工作 忙 ？
+suid=s2
+哈哈 ， *pro* 是 梦 啊 。
+*pro* 刚才 去 洗手间 了
+suid=s3
+不过 *pro* 还 真 是 连续剧 ， 你 *pro* 要是 进去 看看 ， 就 知道 *pro* 有 多 真实 了
+suid=s4
+*pro* 给 你 汇报 个 消息 ~
+suid=s5
+我 那啥 啦 ~
+suid=s6
+哦 *pro* 恭喜
+suid=s7
+嘿嘿 ， *pro* 谢谢 ：）
+suid=s8
+*pro* 太 高兴 了
+suid=s9
+*pro* 多久 了 *pro* 是 胎梦
+suid=s10
+昨天 我 上 微博 看 cathy 的 照片 ， 心想 ， 要是 我 闺女 能 这么 漂亮 就 好 了
+suid=s11
+你 怎么 知道 *pro* 是 闺女 ？
+suid=s12
+*pro* 就 是 *pro* 上 次 从 云南 回来 ， *pro* 按照 医学 上 说 *pro* 是 7 周
+suid=s13
+他们 说 的 ， *pro* 根据 *OP* 我们 要 *T*-1 的 时间
+suid=s14
+还有 胚芽 的 形状
+suid=s15
+？
+suid=s16
+*pro* 说 *pro* 是 女 的 ？
+suid=s17
+*pro* 说 胚芽 圆 的话 ， *pro* 就 是 女孩 。
+*pro* 长 的话 ， *pro* 就 是 男孩
+suid=s18
+*pro* 是 的
+suid=s19
+不过 我 是 上 周六 才 确定 *pro* 有 的 ， *pro* 之前 没 去 看
+suid=s20
+*pro* 刚 有 点儿 事儿
+suid=s21
+*pro* 无所谓 啊
+suid=s22
+现在 *pro* 也 不 能 肯定 男 女 啊
+suid=s23
+*pro* 那么 小 *pro* 不 准
+suid=s24
+反正 *pro* 多 看看 我 儿子 女儿 的 照片 胎教 下
+suid=s25
+*pro* 好 滴 ， *pro* 没 事 *pro* 就 去 看 小 帅哥 小 美女 的 照片 去
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="97" end="100" text="pro" type="" comment="default value" />
+<我 id="我1" start="190" end="193" text="pro" type="" comment="default value" />
+<我 id="我2" start="237" end="240" text="pro" type="" comment="default value" />
+<我 id="我3" start="259" end="262" text="pro" type="" comment="default value" />
+<我 id="我4" start="279" end="282" text="pro" type="" comment="default value" />
+<我 id="我5" start="432" end="435" text="pro" type="" comment="default value" />
+<我 id="我6" start="452" end="455" text="pro" type="" comment="default value" />
+<我 id="我7" start="703" end="706" text="pro" type="" comment="default value" />
+<我 id="我8" start="715" end="718" text="pro" type="" comment="default value" />
+<我 id="我9" start="739" end="742" text="pro" type="" comment="default value" />
+<我 id="我10" start="764" end="767" text="pro" type="" comment="default value" />
+<我 id="我11" start="788" end="791" text="pro" type="" comment="default value" />
+<我 id="我13" start="901" end="904" text="pro" type="" comment="default value" />
+<我 id="我14" start="911" end="914" text="pro" type="" comment="default value" />
+<你 id="你0" start="49" end="52" text="pro" type="" comment="default value" />
+<你 id="你1" start="145" end="148" text="pro" type="" comment="default value" />
+<你 id="你2" start="851" end="854" text="pro" type="" comment="default value" />
+<它 id="它0" start="25" end="28" text="pro" type="" comment="default value" />
+<它 id="它1" start="83" end="86" text="pro" type="" comment="default value" />
+<它 id="它2" start="125" end="128" text="pro" type="" comment="default value" />
+<它 id="它3" start="167" end="170" text="pro" type="" comment="default value" />
+<它 id="它4" start="300" end="303" text="pro" type="" comment="default value" />
+<它 id="它5" start="311" end="314" text="pro" type="" comment="default value" />
+<它 id="它6" start="400" end="403" text="pro" type="" comment="default value" />
+<它 id="它7" start="468" end="471" text="pro" type="" comment="default value" />
+<它 id="它8" start="576" end="579" text="pro" type="" comment="default value" />
+<它 id="它9" start="617" end="620" text="pro" type="" comment="default value" />
+<它 id="它10" start="632" end="635" text="pro" type="" comment="default value" />
+<它 id="它11" start="645" end="648" text="pro" type="" comment="default value" />
+<它 id="它12" start="667" end="670" text="pro" type="" comment="default value" />
+<它 id="它13" start="818" end="821" text="pro" type="" comment="default value" />
+<它 id="它14" start="829" end="832" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="498" end="501" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="568" end="571" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="599" end="602" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="422" end="425" text="pro" type="" />
+<previous_utterance id="pr0" start="889" end="892" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

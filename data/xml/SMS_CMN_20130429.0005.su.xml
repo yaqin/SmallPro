@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 好 ， 我 是 杜楊 另 一 個 學姐 。。。 她 說 你 把 支票 寫好 *-1 然後 我 去 給 uca ？
+suid=s1
+*pro* Yep . :）
+suid=s2
+那 你 什麼 時候 方便 ？
+suid=s3
+今晚 ？
+我 上完 课 之后 。。。
+suid=s4
+大概 6：30
+suid=s5
+現在 呢 ？
+suid=s6
+现在 我 在 *OP* *pro* *T*-1 实习 的 地方 ， 还 没 能 回去 额
+suid=s7
+哦 。。。 *pro* 好
+suid=s8
+那 *pro* 在 哪里 见 呢 ？
+suid=s9
+你 明天 有空 麼 ？
+suid=s10
+明天 我 要 准备 明晚 的 考试 ， *pro* 不好意思
+suid=s11
+那 晚上 你 在 哪
+suid=s12
+我 去 找 你
+suid=s13
+我 在 DRLB , 33 walnut
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="193" end="196" text="pro" type="" comment="default value" />
+<我 id="我1" start="324" end="327" text="pro" type="" comment="default value" />
+<它 id="它0" start="77" end="80" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="258" end="261" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="240" end="243" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

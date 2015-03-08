@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+嫂子 ， 俺 哥 换 号 了 ？
+159 那个 *pro* 还 用 *T*-1 吗 ？
+suid=s1
+*pro* 用 呀 （ *pro* 来自 微信 ： http:／／weixin.qq.com／q ）
+suid=s2
+他 两 个 号
+suid=s3
+哦 ， 咱 姐 她 同事 回 上海 ， 帮忙 *PRO* 带 了 两 罐 奶粉 ， 我 今天 给 寄回 家 了 ， 填 的 俺 哥 的 那 个 159 的 号 。
+suid=s4
+哦 ， *pro* 行 。
+那 个 号 通 。
+原来 你 寄 的 呀 。
+suid=s5
+嗯 ， 我 今天 给 俺 哥 发 短信 ， 他 还 问 我 *pro* 是 谁 ，
+suid=s6
+哈哈 ， 他 没 存 号 呗
+suid=s7
+她 正在 睡 ， *pro* 正 弄 她 *pro* 睡
+suid=s8
+23 斤
+suid=s9
+了
+suid=s10
+*pro* 这么 晚 了 *pro* 还 没 睡着 啊 ，， 那 你 忙 吧
+suid=s11
+天 长 了 ， 她 都 9点半 睡 。
+今天 *pro* 兴奋 到 现在 。
+我 哄 她 去 了
+suid=s12
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="302" end="305" text="pro" type="" comment="default value" />
+<我 id="我1" start="354" end="357" text="pro" type="" comment="default value" />
+<他 id="他0" start="34" end="37" text="pro" type="" comment="default value" />
+<他 id="他1" start="62" end="65" text="pro" type="" comment="default value" />
+<她 id="她0" start="366" end="369" text="pro" type="" comment="default value" />
+<她 id="她2" start="419" end="422" text="pro" type="" comment="default value" />
+<她 id="她3" start="477" end="480" text="pro" type="" comment="default value" />
+<它 id="它0" start="74" end="77" text="pro" type="" comment="default value" />
+<event id="ev0" start="231" end="234" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="406" end="409" text="pro" type="" />
+</TAGS>
+</ProTask>

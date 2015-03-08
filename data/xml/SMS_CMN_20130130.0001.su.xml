@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 不好意思 *pro* 才 忙完 孩子
+suid=s1
+哦 *pro* 没 事 的 你 把 帐号 发给 我 *-1 就 行 了 91 *pro* 还有 是 哪 个 行 的 卡
+suid=s2
+*pro* 可以 的 我 把 账号 给 我 妈 *-1 她 这 两 天 有空 去 存 91
+suid=s3
+*pro* 好 的 *pro* 太 感谢 了 我 的 u顿 有 些 问题 转 不 了 钱 了
+suid=s4
+嗯 *pro* 不 客气 91
+suid=s5
+啊 ？
+3000 不 够 吗
+suid=s6
+*pro* 帮 我 *PRO* 转 4000 人民币 吧 ， *pro* 谢谢
+suid=s7
+你 是 觉得 过年 *pro* 给 4000 多 吗 ？
+suid=s8
+还是 阿姨 不 能 转 那么 多 ？
+suid=s9
+*pro* 没有 我 就 确认 一下 都 可以 的 那 我 就 跟 她 说 *pro* 转 4000 了 哈
+suid=s10
+嗯 *pro* 就 4000 吧
+suid=s11
+*pro* 谢谢
+suid=s12
+*pro* 好 的 *pro* 转完 我 跟 你 说
+suid=s13
+*pro* 好 的 *pro* 对对 名字 和 帐号 有时候 银行 会 搞错 。
+*pro* 谢 了 ！
+suid=s14
+哦 *pro* 好 的 我 不 太 知道 *PRO* 应该 怎么 算 *pro* 就 按 *OP* 你 说 *T*-1 的 91
+suid=s15
+*pro* 好 的
+suid=s16
+我 明天 联系 你 给 你 支票
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="21" end="24" text="pro" type="" comment="default value" />
+<我 id="我2" start="111" end="114" text="pro" type="" comment="default value" />
+<我 id="我3" start="175" end="178" text="pro" type="" comment="default value" />
+<我 id="我4" start="298" end="301" text="pro" type="" comment="default value" />
+<我 id="我5" start="379" end="382" text="pro" type="" comment="default value" />
+<我 id="我6" start="469" end="472" text="pro" type="" comment="default value" />
+<我 id="我7" start="497" end="500" text="pro" type="" comment="default value" />
+<我 id="我8" start="564" end="567" text="pro" type="" comment="default value" />
+<我 id="我9" start="620" end="623" text="pro" type="" comment="default value" />
+<你 id="你0" start="45" end="48" text="pro" type="" comment="default value" />
+<你 id="你1" start="222" end="225" text="pro" type="" comment="default value" />
+<你 id="你2" start="267" end="270" text="pro" type="" comment="default value" />
+<你 id="你3" start="325" end="328" text="pro" type="" comment="default value" />
+<你 id="你4" start="533" end="536" text="pro" type="" comment="default value" />
+<她 id="她0" start="417" end="420" text="pro" type="" comment="default value" />
+<它 id="它0" start="445" end="448" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="82" end="85" text="pro" type="" />
+<pleonastic id="p1" start="487" end="490" text="pro" type="" />
+<pleonastic id="p2" start="523" end="526" text="pro" type="" />
+<pleonastic id="p3" start="587" end="590" text="pro" type="" />
+<pleonastic id="p4" start="659" end="662" text="pro" type="" />
+<previous_utterance id="pr0" start="165" end="168" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

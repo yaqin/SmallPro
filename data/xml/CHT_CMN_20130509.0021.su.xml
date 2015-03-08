@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 的 车票 买好 了 吗
+suid=s1
+*pro* 买好 了
+suid=s2
+*pro* 是 汽车 ？
+suid=s3
+*pro* 到 汽车 南站 的 吗
+suid=s4
+动车
+suid=s5
+*pro* 到 虹桥 的
+suid=s6
+*pro* 对 呀 动车 快 多 了
+suid=s7
+那 你 几点 到 啊
+suid=s8
+3点 15分
+suid=s9
+*pro* 这么 早 啊
+suid=s10
+城站 的 动车 少 啊
+suid=s11
+*pro* 去 火车 南站 太 远
+suid=s12
+嗯 现在 高铁 比较 多 吧
+suid=s13
+高铁 贵 啊
+suid=s14
+动车 多少 钱
+suid=s15
+那 你 直接 去 南京 西路 吗 ？
+suid=s16
+那 太 早 了
+suid=s17
+50
+suid=s18
+高铁 差 20多 块 吧
+suid=s19
+那 你 先 来 找 我 要不
+suid=s20
+你 同学 下班 更 晚 吧
+suid=s21
+我 同学 让 我 *PRO* 在 她 公司 附近 逛逛
+suid=s22
+她 公司 在 哪 啊
+suid=s23
+虹桥 那里
+suid=s24
+*pro* 这么 近 啊
+suid=s25
+那 *pro* 好 吧 那 明天 *pro* 怎么 找 你 啊
+suid=s26
+我 手机 号码 *pro* 有 *T*-1 么 ？
+suid=s27
+*pro* 明天 晚上 唱歌 去 ？
+suid=s28
+*pro* 有 的 吧
+suid=s29
+那 *pro* 短信 联系 吧
+suid=s30
+她们 基本上 都 要 6点 下班
+suid=s31
+*pro* 刚刚 打 的 *pro* 是 吧
+suid=s32
+嗯嗯
+suid=s33
+你 没 开通 微信 吗
+suid=s34
+*pro* 开通 了
+suid=s35
+那 *pro* 估计 你 没 绑定 手机 或者 QQ
+suid=s36
+我 下班 早 啊 所以 你 还是 先 来 找 我 吧 而且 我 这里 离 南京路 近 呀
+suid=s37
+哈哈
+suid=s38
+我 有 你 的 啊
+suid=s39
+哦哦 *pro* 有 的 *pro* 有 的
+suid=s40
+那 *pro* 明天 再 联系 ？
+suid=s41
+嗯嗯
+suid=s42
+那 行
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="32" end="35" text="pro" type="" comment="default value" />
+<我 id="我1" start="555" end="558" text="pro" type="" comment="default value" />
+<我 id="我2" start="642" end="645" text="pro" type="" comment="default value" />
+<我 id="我3" start="714" end="717" text="pro" type="" comment="default value" />
+<我 id="我4" start="779" end="782" text="pro" type="" comment="default value" />
+<我 id="我5" start="801" end="804" text="pro" type="" comment="default value" />
+<我 id="我6" start="923" end="926" text="pro" type="" comment="default value" />
+<我 id="我7" start="933" end="936" text="pro" type="" comment="default value" />
+<你 id="你0" start="191" end="194" text="pro" type="" comment="default value" />
+<你 id="你1" start="587" end="590" text="pro" type="" comment="default value" />
+<它 id="它0" start="51" end="54" text="pro" type="" comment="default value" />
+<它 id="它1" start="72" end="75" text="pro" type="" comment="default value" />
+<它 id="它2" start="109" end="112" text="pro" type="" comment="default value" />
+<它 id="它3" start="234" end="237" text="pro" type="" comment="default value" />
+<它 id="它4" start="516" end="519" text="pro" type="" comment="default value" />
+<它 id="它5" start="727" end="730" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="614" end="617" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="665" end="668" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="954" end="957" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="130" end="133" text="pro" type="" />
+<pleonastic id="p1" start="540" end="543" text="pro" type="" />
+</TAGS>
+</ProTask>

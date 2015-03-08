@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 干 嘛
+suid=s1
+*pro* 在 啊 ？
+suid=s2
+*pro* 是 的
+suid=s3
+*pro* 忙 啥 呢
+suid=s4
+*pro* 刚 下课
+suid=s5
+哦
+suid=s6
+最近 *pro* 怎么 也 没 动静 了 ， *pro* 很 忙 啊 ？
+suid=s7
+*pro* 忙 着 *PRO* 考 博 么
+suid=s8
+哇塞
+suid=s9
+*pro* 好 考 么
+suid=s10
+*pro* 考 自己 学院 的 . 还 行
+suid=s11
+*pro* 不错
+suid=s12
+你 闺女 真 可爱
+suid=s13
+嘿嘿
+suid=s14
+那 是
+suid=s15
+你 现在 多少 斤 啊
+suid=s16
+唉 ， 哪 壶 不 开 *pro* 提 哪 壶
+suid=s17
+*pro* 刚 还 想 说 *pro* 一 看见 你 就 又 想 *PRO* 减肥 呢
+suid=s18
+*pro* 多少 斤 啊 ？
+*pro* 现实 点 *pro* 告诉 我 吧
+suid=s19
+*pro* no ， *pro* 没 勇气 称
+suid=s20
+唉
+suid=s21
+你 现在 还 去 健身 吗
+suid=s22
+*pro* 不 去 了
+suid=s23
+等 *pro* 考完 博 *pro* 再说 . 明年 三月份
+suid=s24
+哦
+suid=s25
+*pro* 考 本 校 是 不 是 *pro* 和 导师 搞好 关系 就 很 容易 了 啊
+suid=s26
+*pro* 也 不 光 这样 . 自己 要 过 初试 才 行
+suid=s27
+嗯 ， *pro* 加油
+suid=s28
+*pro* 谢谢
+suid=s29
+最近 *pro* 有 什么 *OP* *T*-1 好 的 创意 投资 项目 吗
+suid=s30
+*pro* 没有 啊 . 你 有 ;
+suid=s31
+*pro* 在 想
+suid=s32
+*pro* 怎么 . 你 想 *PRO* 干 点 别的
+suid=s33
+嗯
+suid=s34
+我 现在 退隐 社会 了 . 不 清楚 啊
+suid=s35
+呵呵
+suid=s36
+你们 学校 周边 *pro* 观察 没 ， 观察 到 什么 商机 没
+suid=s37
+我们 学校 这 都 饱和 了
+suid=s38
+学生 旅馆 怎样
+suid=s39
+现在 *OP* *T*-1 出去 开房 的 大学生 那么 多
+suid=s40
+*OP* *T*-1 开房 的 很 多
+suid=s41
+我们 附近 的 旅馆 很 多 啊 . *pro* 开 新 店 *pro* 不 大 好 找 地方
+suid=s42
+居民楼 *pro* 买 *RNR*-2 或 租 下来 *T*-1 *pro* 分租 给 小俩口 呢 ？
+suid=s43
+现在 学校 附近 房子 租金 很 贵 . *OP* *T*-1 出去 租 房子 的 人 越来越 少
+suid=s44
+一 套 房子 *pro* 分租 *T*-1 ， 大家 一起 摊 *pro* 不 就 便宜 了 ？
+suid=s45
+那 你 就 赚 不 了 多少 钱 啊
+suid=s46
+唉 ， *pro* 求 商机 啊 ！
+suid=s47
+你 不 是 在 东边 上班 么 . *pro* 章丘 那边 开 旅馆 不错
+suid=s48
+我 不 在 东边 啊 ， 我 在 北边
+suid=s49
+*pro* 为啥 这么 说 ， 章丘 有 啥 商机 ？
+suid=s50
+章丘 大学城 那 *OP* *T*-1 开房 的 多 . 旅馆 少
+suid=s51
+章丘 啥 时候 有 大学成 了 ？
+suid=s52
+我 只 知道 长清
+suid=s53
+好多 呢 . 你 网上 查查
+suid=s54
+嗯
+suid=s55
+你 怎么 知道 章丘 大学城 那边 旅馆 比较 少 的 ？
+我 在 网上 查 不 到 什么 资料 啊
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="31" text="pro" type="" comment="default value" />
+<我 id="我1" start="48" end="51" text="pro" type="" comment="default value" />
+<我 id="我2" start="86" end="89" text="pro" type="" comment="default value" />
+<我 id="我3" start="222" end="225" text="pro" type="" comment="default value" />
+<我 id="我4" start="369" end="372" text="pro" type="" comment="default value" />
+<我 id="我5" start="383" end="386" text="pro" type="" comment="default value" />
+<我 id="我6" start="470" end="473" text="pro" type="" comment="default value" />
+<我 id="我7" start="481" end="484" text="pro" type="" comment="default value" />
+<我 id="我8" start="537" end="540" text="pro" type="" comment="default value" />
+<我 id="我9" start="560" end="563" text="pro" type="" comment="default value" />
+<我 id="我10" start="571" end="574" text="pro" type="" comment="default value" />
+<我 id="我11" start="726" end="729" text="pro" type="" comment="default value" />
+<我 id="我12" start="793" end="796" text="pro" type="" comment="default value" />
+<我 id="我13" start="821" end="824" text="pro" type="" comment="default value" />
+<我 id="我14" start="1353" end="1356" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="66" end="69" text="pro" type="" comment="default value" />
+<你 id="你2" start="118" end="121" text="pro" type="" comment="default value" />
+<你 id="你3" start="138" end="141" text="pro" type="" comment="default value" />
+<你 id="你4" start="160" end="163" text="pro" type="" comment="default value" />
+<你 id="你5" start="253" end="256" text="pro" type="" comment="default value" />
+<你 id="你6" start="348" end="351" text="pro" type="" comment="default value" />
+<你 id="你7" start="422" end="425" text="pro" type="" comment="default value" />
+<你 id="你8" start="437" end="440" text="pro" type="" comment="default value" />
+<你 id="你9" start="448" end="451" text="pro" type="" comment="default value" />
+<你 id="你10" start="609" end="612" text="pro" type="" comment="default value" />
+<你 id="你11" start="627" end="630" text="pro" type="" comment="default value" />
+<你 id="你12" start="708" end="711" text="pro" type="" comment="default value" />
+<你 id="你13" start="747" end="750" text="pro" type="" comment="default value" />
+<你 id="你14" start="840" end="843" text="pro" type="" comment="default value" />
+<你 id="你15" start="940" end="943" text="pro" type="" comment="default value" />
+<你 id="你16" start="1105" end="1108" text="pro" type="" comment="default value" />
+<你 id="你17" start="1117" end="1120" text="pro" type="" comment="default value" />
+<你 id="你18" start="1147" end="1150" text="pro" type="" comment="default value" />
+<你 id="你19" start="1176" end="1179" text="pro" type="" comment="default value" />
+<你 id="你20" start="1453" end="1456" text="pro" type="" comment="default value" />
+<它 id="它0" start="201" end="204" text="pro" type="" comment="default value" />
+<它 id="它1" start="664" end="667" text="pro" type="" comment="default value" />
+<它 id="它2" start="1295" end="1298" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="1270" end="1273" text="pro" type="" comment="default value" />
+<other id="o0" start="1395" end="1398" text="pro" type="unsure" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 别 忘 了 *PRO* 跟 港 哥 要 宿舍 钥匙 啊
+suid=s1
+港 哥 不 走
+suid=s2
+昂
+suid=s3
+你 给 张 哥 要 一 把 吧 ？
+suid=s4
+咱 三 个 用 一 把 行 吗 ？
+suid=s5
+我 不好意思 跟 张 哥 要
+suid=s6
+我去
+suid=s7
+高 哥 没 在 ， 要不然 我 跟 高 哥 要
+suid=s8
+要不然 咱 宿舍 的 锁芯 *pro* 换 一 个 *T*-1 吧 ， *pro* 换 个 *OP* *T*-2 普通 的
+suid=s9
+那样 *pro* 都 能 配 钥匙
+suid=s10
+*pro* 也 不 贵 ， 只是 小张 哥 让 不 让 *pro* 换
+suid=s11
+他 嫌 普通 锁芯 不 安全
+suid=s12
+其实 咱 宿舍 没有 多少 *OP* *T*-1 值钱 的 东西
+suid=s13
+这个 *pro* 不 敢 说 *T*-1
+suid=s14
+*pro* 好 吧
+suid=s15
+*pro* 绝对 挨熊
+suid=s16
+昂
+suid=s17
+*pro* 操 他
+suid=s18
+你 去
+suid=s19
+咱 俩 没 钥匙
+suid=s20
+他 有 自创
+suid=s21
+这样 *pro* 一直 不 方便
+suid=s22
+*pro* 是 痔疮
+suid=s23
+*pro* 不 是 自创
+suid=s24
+恩恩
+suid=s25
+昂
+suid=s26
+改天 我 试探性 的 问问 他
+suid=s27
+*pro* 好 吧
+suid=s28
+昂
+suid=s29
+我 无所谓
+suid=s30
+*pro* 都 行
+suid=s31
+我 基本 每 周 都 不 走
+suid=s32
+我 有所谓 ， 哈哈
+suid=s33
+*pro* 是 呀 ！
+suid=s34
+昂 ， 我 得 试试
+suid=s35
+*pro* 祝 你 好运 ！
+suid=s36
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="407" end="410" text="pro" type="" comment="default value" />
+<我 id="我1" start="453" end="456" text="pro" type="" comment="default value" />
+<我 id="我2" start="485" end="488" text="pro" type="" comment="default value" />
+<我 id="我3" start="775" end="778" text="pro" type="" comment="default value" />
+<我 id="我4" start="816" end="819" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<他 id="他0" start="577" end="580" text="pro" type="" comment="default value" />
+<他 id="他1" start="597" end="600" text="pro" type="" comment="default value" />
+<它 id="它0" start="293" end="296" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="210" end="213" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="232" end="235" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="269" end="272" text="pro" type="" comment="default value" />
+<我们 id="我们3" start="321" end="324" text="pro" type="" comment="default value" />
+<我们 id="我们4" start="554" end="557" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="712" end="715" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="434" end="437" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="667" end="670" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="840" end="843" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

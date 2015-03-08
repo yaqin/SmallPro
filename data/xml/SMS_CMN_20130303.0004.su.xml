@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+hey ， 这 礼拜 我们 的 ps 课 有 作业 吗 ?
+suid=s1
+*pro* 没有 作业 *pro* 是 春假 之后 3月 21号 交
+suid=s2
+*pro* 太 好 了 。。。。。
+suid=s3
+*pro* 谢 啦
+suid=s4
+我 把 *OP* 学姐 你 整理 *T*-1 的 case 打印 出来 *-2 了 在 复习 了 ， *pro* 谢谢 你 !!!
+suid=s5
+*pro* 不 谢 *pro* 加油 哈
+suid=s6
+嗯 ! *pro* 谢 啦 !
+suid=s7
+学姐 ^^ *pro* 不 知道 你 方 不 方便 啥 时候 我 向 你 取 一下 那 个 法律 例题 们 ~
+suid=s8
+我 一起 发给 你 了 啊
+suid=s9
+*pro* 是 不 是 land use law 2 那 个 文件夹 呀 ~~
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="117" end="120" text="pro" type="" comment="default value" />
+<我 id="我1" start="186" end="189" text="pro" type="" comment="default value" />
+<我 id="我2" start="242" end="245" text="pro" type="" comment="default value" />
+<我 id="我3" start="268" end="271" text="pro" type="" comment="default value" />
+<你 id="你0" start="209" end="212" text="pro" type="" comment="default value" />
+<你 id="你1" start="219" end="222" text="pro" type="" comment="default value" />
+<它 id="它0" start="348" end="351" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="48" end="51" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="60" end="63" text="pro" type="" comment="default value" />
+<event id="ev0" start="91" end="94" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

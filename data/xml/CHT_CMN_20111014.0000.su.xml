@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 要 原图 哈 ？
+还是 *OP* *pro* p 过 *T*-1 的 ？
+suid=s1
+*pro* 都 可以 ~~~
+suid=s2
+*pro* *pro* 跟 你 说话 好 有 亲切感 。。。
+suid=s3
+我 感觉 我 可以 说 重庆话
+suid=s4
+*pro* 木有 问题 哈哈
+suid=s5
+干脆 *pro* 都 传给 你 咯
+suid=s6
+*pro* 要得 ~ 我 慢慢 看 ， 原汁 原味 的 *pro* 看完 了 *T*-1 *pro* 看 *OP* *pro* P 过 *T*-2 的 ， 总之 *pro* 都 有 感觉 ~
+suid=s7
+嘻嘻
+suid=s8
+*pro* 谢谢 啦 ~~
+suid=s9
+*pro* 不 客气
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="79" end="85" text="*pro* " type="" comment="default value" />
+<我 id="我1" start="85" end="91" text="*pro* " type="" comment="default value" />
+<我 id="我2" start="168" end="174" text="*pro* " type="" comment="default value" />
+<我 id="我3" start="219" end="225" text="*pro* " type="" comment="default value" />
+<我 id="我4" start="236" end="242" text="*pro* " type="" comment="default value" />
+<我 id="我5" start="272" end="277" text="*pro*" type="" comment="default value" />
+<我 id="我6" start="306" end="311" text="*pro*" type="" comment="default value" />
+<你 id="你0" start="328" end="334" text="*pro* " type="" comment="default value" />
+<它们 id="它们0" start="56" end="62" text="*pro* " type="" comment="default value" />
+<event id="ev0" start="142" end="147" text="*pro*" type="" comment="default value" />
+<event id="ev1" start="191" end="197" text="*pro* " type="" comment="default value" />
+<generic id="g0" start="28" end="33" text="*pro*" type="" comment="default value" />
+<generic id="g1" start="249" end="254" text="*pro*" type="" comment="default value" />
+</TAGS>
+</ProTask>

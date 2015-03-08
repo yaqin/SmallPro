@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 好 巩 工 在 么
+suid=s1
+*pro* 在
+suid=s2
+这个 是 耳 鼻 喉 科 的 手术 申请 单
+suid=s3
+他们 说 *OP* *pro* *T*-1 以前 打印 的 时候 *pro* 没有 框 的 光 子
+suid=s4
+*pro* 光 字
+suid=s5
+*pro* 现在 带 框
+suid=s6
+*pro* 而且 以前 可以 选择 *pro* 从 第几 行 打印
+suid=s7
+*pro* 现在 都 是 *OP* *pro* 默认 *T*-1 的 -1 而且 *pro* 没 办法 改
+suid=s8
+程序 默认 就 是 -1
+suid=s9
+现在 打印 格式 错乱 ？
+suid=s10
+*pro* 有没有 试 过 *PRO* 在 别的 电脑 上 打印 ？
+suid=s11
+*pro* 主要 是 他们 说 *pro* 以前 能 改 现在 改 不 了
+suid=s12
+*OP* *pro* 调 出来 *T*-1 的 面 上 没 显示 框 但是 *pro* 一 打印 *pro* 在 打印 预览 上 九 幽
+suid=s13
+*pro* 就 有
+suid=s14
+*pro* 在 他 对面 的 机器 上 也 试 了 下 *pro* 一样 的
+suid=s15
+*OP* *T*-1 默认 是 -1 的 先 要 序打 *pro* 只 需要 在 其他 空格 单击 下
+suid=s16
+*pro* 想 *PRO* 从 那 开始 打 *pro* 就 单击 哪 个 单元格
+suid=s17
+*OP* *pro* 现在 单击 出来 *T*-1 的 一 个 框 里面 显示 -1 *pro* 没法 修改
+suid=s18
+-1 是 *OP* *T*-1 正确 的
+suid=s19
+*pro* 默认 就 是
+suid=s20
+我 让 人 *PRO* 给 远程 下
+suid=s21
+现在 *pro* 能 远程 吧
+suid=s22
+恩 那 个 框 怎么 改 ？
+suid=s23
+主任 的 机器 空 着
+suid=s24
+*pro* 远程 看看
+suid=s25
+*pro* 能 远程 了 *pro* 直接 找 我 就 行
+suid=s26
+恩 马上 我 就 过去
+suid=s27
+你 好 麻烦 *pro* 给 登陆 下 病历 。
+suid=s28
+我 不 清楚 管理员 密码
+suid=s29
+*pro* 在 么 ？
+suid=s30
+原来 所有 的 同意 书 *pro* 打印 都 没有 边框 ？
+suid=s31
+恩 科室 的 人 说 *pro* 没有
+suid=s32
+*pro* 稍等 我 让 技术 人员 *PRO* 看 下
+suid=s33
+技术 人员 稍等 会 联系 王 主任 的 QQ
+suid=s34
+*pro* 麻烦 您 *PRO* 过去 给 开 下 远程
+suid=s35
+我 打开 他 的 Q 放 在 桌面 上
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="30" end="33" text="pro" type="" comment="default value" />
+<我 id="我1" start="884" end="887" text="pro" type="" comment="default value" />
+<我 id="我2" start="1184" end="1187" text="pro" type="" comment="default value" />
+<你 id="你0" start="322" end="325" text="pro" type="" comment="default value" />
+<你 id="你1" start="817" end="820" text="pro" type="" comment="default value" />
+<你 id="你2" start="905" end="908" text="pro" type="" comment="default value" />
+<你 id="你3" start="918" end="921" text="pro" type="" comment="default value" />
+<你 id="你4" start="972" end="975" text="pro" type="" comment="default value" />
+<你 id="你5" start="1022" end="1025" text="pro" type="" comment="default value" />
+<你 id="你6" start="1113" end="1116" text="pro" type="" comment="default value" />
+<它 id="它0" start="110" end="113" text="pro" type="" comment="default value" />
+<它 id="它1" start="153" end="156" text="pro" type="" comment="default value" />
+<它 id="它2" start="192" end="195" text="pro" type="" comment="default value" />
+<它 id="它3" start="216" end="219" text="pro" type="" comment="default value" />
+<它 id="它4" start="234" end="237" text="pro" type="" comment="default value" />
+<它 id="它5" start="491" end="494" text="pro" type="" comment="default value" />
+<它 id="它6" start="538" end="541" text="pro" type="" comment="default value" />
+<它 id="它7" start="764" end="767" text="pro" type="" comment="default value" />
+<它 id="它8" start="1095" end="1098" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="382" end="385" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="418" end="421" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="451" end="454" text="pro" type="" comment="default value" />
+<他们 id="他们3" start="462" end="465" text="pro" type="" comment="default value" />
+<他们 id="他们4" start="510" end="513" text="pro" type="" comment="default value" />
+<他们 id="他们5" start="586" end="589" text="pro" type="" comment="default value" />
+<他们 id="他们6" start="619" end="622" text="pro" type="" comment="default value" />
+<他们 id="他们7" start="642" end="645" text="pro" type="" comment="default value" />
+<他们 id="他们8" start="675" end="678" text="pro" type="" comment="default value" />
+<他们 id="他们9" start="713" end="716" text="pro" type="" comment="default value" />
+<他们 id="他们10" start="1056" end="1059" text="pro" type="" comment="default value" />
+<event id="ev0" start="366" end="369" text="pro" type="" comment="default value" />
+<generic id="g0" start="174" end="177" text="pro" type="" comment="default value" />
+<generic id="g1" start="257" end="260" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="87" end="90" text="pro" type="" />
+<other id="o0" start="135" end="138" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

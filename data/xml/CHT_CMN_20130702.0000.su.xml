@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+槐树 ？
+suid=s1
+我 窗 外 正好 有 棵 老 樟树 ， *pro* 发给 你 *pro* 解 眼谗
+suid=s2
+呵呵 *pro* 看 着 *pro* 就 有点 眼熟 *pro* 谢谢 *OP* 你 给 我 带来 *T*-1 的 少年 回忆
+suid=s3
+你 是 个 *OP* *T*-1 怀旧 的 人
+suid=s4
+呵呵 *pro* 在 *pro* 怀旧 中 慢慢 老去 [ 表情 ]
+suid=s5
+*OP* *T*-1 怀旧 的 人 都 比较 感性
+suid=s6
+*pro* 是 的 *pro* 比较 感性 比较 真
+suid=s7
+*pro* 是
+suid=s8
+*pro* 愿 我们 同 是
+suid=s9
+[ 表情 ] 我 就 是 这样 的 人
+suid=s10
+*pro* 惺惺相惜 一 个
+suid=s11
+*pro* 是 呀 ， *pro* 在 深圳 见面 我 觉得 你 是 我 老友 一样
+suid=s12
+*OP* 你 *T*-1 走 的 时候 *pro* 有点 不 舍
+suid=s13
+*pro* 虽然 以前 不 太 熟悉
+suid=s14
+*pro* 同感 *pro* 虽 是 第一 次 见面 *pro* 却 像 *pro* 认识 很 久 了 一般
+suid=s15
+原来 *pro* 是 身上 的 味道 相似
+suid=s16
+*pro* 有 机会 我们 再次 相聚
+suid=s17
+有些 默契 不 需要 *OP* *T*-1 太 多 的 相遇 和 言语
+suid=s18
+*pro* 好 啊
+suid=s19
+在 我们 还 没有 太 老 时
+suid=s20
+[ 表情 ] *pro* 还 可以 疯 时
+suid=s21
+哈哈 *pro* 期待 英子 的 疯狂 时刻
+suid=s22
+*pro* 忙 吧 ？
+我们 不 能 再 说 下去 了
+suid=s23
+要不 *pro* 没完没了 了
+suid=s24
+心语 不 需要 说出
+suid=s25
+*pro* 知道 你 一直 在 那里 安好 就 胜过 万千 言语
+suid=s26
+*pro* 保重 英
+suid=s27
+你 也 是
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="43" end="46" text="pro" type="" comment="default value" />
+<我 id="我1" start="76" end="79" text="pro" type="" comment="default value" />
+<我 id="我2" start="100" end="103" text="pro" type="" comment="default value" />
+<我 id="我3" start="180" end="183" text="pro" type="" comment="default value" />
+<我 id="我4" start="188" end="191" text="pro" type="" comment="default value" />
+<我 id="我5" start="305" end="308" text="pro" type="" comment="default value" />
+<我 id="我7" start="453" end="456" text="pro" type="" comment="default value" />
+<我 id="我8" start="475" end="478" text="pro" type="" comment="default value" />
+<我 id="我9" start="503" end="506" text="pro" type="" comment="default value" />
+<我 id="我10" start="750" end="753" text="pro" type="" comment="default value" />
+<我 id="我11" start="861" end="864" text="pro" type="" comment="default value" />
+<你 id="你0" start="54" end="57" text="pro" type="" comment="default value" />
+<你 id="你1" start="779" end="782" text="pro" type="" comment="default value" />
+<你 id="你2" start="903" end="906" text="pro" type="" comment="default value" />
+<它 id="它0" start="86" end="89" text="pro" type="" comment="default value" />
+<它 id="它1" start="254" end="257" text="pro" type="" comment="default value" />
+<它 id="它2" start="381" end="384" text="pro" type="" comment="default value" />
+<它 id="它3" start="512" end="515" text="pro" type="" comment="default value" />
+<它 id="它4" start="570" end="573" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="357" end="360" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="393" end="396" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="530" end="533" text="pro" type="" comment="default value" />
+<我们 id="我们3" start="540" end="543" text="pro" type="" comment="default value" />
+<我们 id="我们4" start="598" end="601" text="pro" type="" comment="default value" />
+<我们 id="我们5" start="723" end="726" text="pro" type="" comment="default value" />
+<我们 id="我们6" start="819" end="822" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="289" end="292" text="pro" type="" comment="default value" />
+<generic id="g0" start="264" end="267" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="672" end="675" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

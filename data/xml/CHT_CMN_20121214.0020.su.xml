@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+邱 *pro* 有 人 说 国内 驾照 *pro* 公正 之后 就 可以 在 美国 领 一 个 临时 驾照 *pro* 不 知道 *pro* 是否 属实
+suid=s1
+*pro* 属实
+suid=s2
+*pro* 好
+suid=s3
+*pro* 没 睡 呢 ？
+suid=s4
+*pro* 正 要 睡 呢
+suid=s5
+我 最近 在 找 房子 费城 得 1000
+suid=s6
+*pro* 也 比较 贵
+suid=s7
+*pro* *pro* 今天 中午 吃饭 时 见到 你 媳妇 了 他 说 你 在 那边 比较 忙 *pro* 怎么样 ？
+*pro* 都 不如 正轨 啦 吧
+suid=s8
+*pro* 是 啊 *OP* 你 租 *T*-1 的 是 *OP* *T*-2 多 大 的 多少 钱 ？
+suid=s9
+*pro* 的了 ， 哥 ， 俺 睡 了
+suid=s10
+*pro* 好 的
+suid=s11
+*pro* 改天 再 聊
+suid=s12
+*pro* 不 知道 *pro* 多 大 ， *pro* share 的 ， 两 室 一 厅
+suid=s13
+我 住 次卧
+suid=s14
+600
+suid=s15
+哦
+suid=s16
+*pro* 睡 吧 good night ！！！
+suid=s17
+*pro* 好 的 ， *pro* 确实 困 了
+suid=s18
+改天
+]]></TEXT>
+<TAGS>
+<我 id="我1" start="64" end="67" text="pro" type="" comment="default value" />
+<我 id="我2" start="150" end="153" text="pro" type="" comment="default value" />
+<我 id="我3" start="223" end="226" text="pro" type="" comment="default value" />
+<我 id="我4" start="229" end="232" text="pro" type="" comment="default value" />
+<我 id="我5" start="442" end="445" text="pro" type="" comment="default value" />
+<我 id="我6" start="465" end="468" text="pro" type="" comment="default value" />
+<我 id="我7" start="584" end="587" text="pro" type="" comment="default value" />
+<你 id="你0" start="128" end="131" text="pro" type="" comment="default value" />
+<你 id="你1" start="272" end="275" text="pro" type="" comment="default value" />
+<你 id="你2" start="284" end="287" text="pro" type="" comment="default value" />
+<你 id="你3" start="538" end="541" text="pro" type="" comment="default value" />
+<它 id="它0" start="30" end="33" text="pro" type="" comment="default value" />
+<它 id="它1" start="75" end="78" text="pro" type="" comment="default value" />
+<它 id="它2" start="95" end="98" text="pro" type="" comment="default value" />
+<它 id="它3" start="202" end="205" text="pro" type="" comment="default value" />
+<它 id="它4" start="310" end="313" text="pro" type="" comment="default value" />
+<它 id="它5" start="453" end="456" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="420" end="423" text="pro" type="" comment="default value" />
+<generic id="g0" start="12" end="15" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="112" end="115" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="401" end="404" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="572" end="575" text="pro" type="" comment="default value" />
+<other id="o0" start="371" end="374" text="pro" type="unsure" comment="default value" />
+</TAGS>
+</ProTask>

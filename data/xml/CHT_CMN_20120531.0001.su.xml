@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+hi
+suid=s1
+清雅
+suid=s2
+*pro* 在 吗 ？
+suid=s3
+en
+suid=s4
+*pro* 上 个 星期 爸爸 过来 时 ， 给 了 一 部 新 手机
+suid=s5
+*pro* 是 舅舅 的
+suid=s6
+呵呵
+suid=s7
+*pro* 不 是
+suid=s8
+*pro* IPHONE ?
+suid=s9
+三星
+suid=s10
+哦
+suid=s11
+你 喜欢 吗 ？
+suid=s12
+恩
+suid=s13
+*pro* 但 大 不 了 电话
+suid=s14
+？
+suid=s15
+*pro* 好像 是 移动 网络 不 可 用
+suid=s16
+啊
+suid=s17
+旧 手机 呢 ？
+suid=s18
+我 怀疑 *pro* 是 联通 的
+suid=s19
+这 周 *pro* 回来 吗 ？
+suid=s20
+*pro* 还 不 确定
+suid=s21
+哦
+suid=s22
+要是 *pro* 不 回来 我 就 让 阿姨 *PRO* 给 你 送 饭
+suid=s23
+*pro* 洗 衣服
+suid=s24
+*pro* 还 像 上 次 那样
+suid=s25
+*pro* 周六 下午 来 。
+suid=s26
+恩 ， *pro* 好
+suid=s27
+那 *pro* 如果 是 联通 的 *pro* 怎么办 呢
+suid=s28
+*pro* 换 号码
+suid=s29
+我 再 给 你 买 个 号
+suid=s30
+*pro* 换 号 可以 吧 ？
+suid=s31
+*pro* 好 吧
+suid=s32
+那 我 这 个 星期 不 回去
+suid=s33
+*pro* 好
+suid=s34
+你 自己 要 注意
+suid=s35
+*pro* 不 能 一 个 人 住
+suid=s36
+旧 手机 还 在 你 那里 吗
+suid=s37
+*pro* 在
+suid=s38
+如果 寝室 没 别人 ， 我 同桌 和 我 一起
+suid=s39
+*pro* 好 的
+suid=s40
+恩
+suid=s41
+那 *pro* 先 用 旧 手机
+suid=s42
+*pro* 没有 牛奶 了
+suid=s43
+我 要 阿姨 *PRO* 给 你 带来
+suid=s44
+水果 呢
+suid=s45
+*pro* 吃完 了
+suid=s46
+梨子 ， 苹果 我 已经 买好 *T*-1 了
+suid=s47
+*pro* 是 小 梨 吗
+suid=s48
+*pro* *OP* *T*-1 大 的
+suid=s49
+你 要 *OP* *T*-1 小 的 我 给 你 买
+suid=s50
+*pro* *OP* *T*-1 小 的 吧
+suid=s51
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="232" end="235" text="pro" type="" comment="default value" />
+<我 id="我1" start="383" end="386" text="pro" type="" comment="default value" />
+<我 id="我2" start="508" end="511" text="pro" type="" comment="default value" />
+<我 id="我3" start="572" end="575" text="pro" type="" comment="default value" />
+<我 id="我4" start="901" end="904" text="pro" type="" comment="default value" />
+<我 id="我5" start="967" end="970" text="pro" type="" comment="default value" />
+<你 id="你0" start="32" end="35" text="pro" type="" comment="default value" />
+<你 id="你1" start="361" end="364" text="pro" type="" comment="default value" />
+<你 id="你2" start="419" end="422" text="pro" type="" comment="default value" />
+<你 id="你3" start="593" end="596" text="pro" type="" comment="default value" />
+<你 id="你4" start="636" end="639" text="pro" type="" comment="default value" />
+<你 id="你5" start="742" end="745" text="pro" type="" comment="default value" />
+<你 id="你6" start="877" end="880" text="pro" type="" comment="default value" />
+<她 id="她0" start="462" end="465" text="pro" type="" comment="default value" />
+<它 id="它0" start="107" end="110" text="pro" type="" comment="default value" />
+<它 id="它1" start="139" end="142" text="pro" type="" comment="default value" />
+<它 id="它2" start="269" end="272" text="pro" type="" comment="default value" />
+<它 id="它3" start="335" end="338" text="pro" type="" comment="default value" />
+<它 id="它4" start="556" end="559" text="pro" type="" comment="default value" />
+<它 id="它5" start="794" end="797" text="pro" type="" comment="default value" />
+<它 id="它6" start="1020" end="1023" text="pro" type="" comment="default value" />
+<它 id="它7" start="1043" end="1046" text="pro" type="" comment="default value" />
+<它 id="它8" start="1109" end="1112" text="pro" type="" comment="default value" />
+<event id="ev0" start="482" end="485" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="63" end="66" text="pro" type="" />
+<previous_utterance id="pr0" start="537" end="540" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="662" end="665" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="706" end="709" text="pro" type="" comment="default value" />
+<previous_utterance id="pr3" start="845" end="848" text="pro" type="" comment="default value" />
+<previous_utterance id="pr4" start="1141" end="1144" text="pro" type="" comment="default value" />
+<other id="o0" start="157" end="160" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

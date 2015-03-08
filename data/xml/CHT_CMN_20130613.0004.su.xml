@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 回来 了 ？
+suid=s1
+*pro* 是 啊
+suid=s2
+包 *pro* 帮 我 *PRO* 问 *T*-1 怎样 了
+suid=s3
+1075 美元 ， 不过 人家 没有 货 ， 所以 ， *pro* 也 省心 了 [ 表情 ]
+suid=s4
+中国人 都 买完 了 [ 表情 ]
+suid=s5
+那 *pro* 就 不 知道 *T*-1 了 ， *pro* 有 *pro* 还 麻烦 呢 ， 我 可 是 把 你 的 指示 当 最高 指示 哦 [ 表情 ]
+suid=s6
+我 说 *pro* 怎么 不 打 电话 给 我 呢
+suid=s7
+*pro* 下 次 吧
+suid=s8
+侨光路 华夏 大 酒店 ， *pro* 知道 *T*-1 么 ？
+suid=s9
+*pro* 不 太 清楚
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="27" end="30" text="pro" type="" comment="default value" />
+<我 id="我1" start="168" end="171" text="pro" type="" comment="default value" />
+<我 id="我2" start="199" end="202" text="pro" type="" comment="default value" />
+<我 id="我3" start="288" end="291" text="pro" type="" comment="default value" />
+<我 id="我4" start="349" end="352" text="pro" type="" comment="default value" />
+<你 id="你0" start="47" end="50" text="pro" type="" comment="default value" />
+<你 id="你1" start="112" end="115" text="pro" type="" comment="default value" />
+<你 id="你2" start="258" end="261" text="pro" type="" comment="default value" />
+<你 id="你3" start="322" end="325" text="pro" type="" comment="default value" />
+<它 id="它0" start="191" end="194" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

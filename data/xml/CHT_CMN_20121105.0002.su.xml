@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+呵呵
+suid=s1
+自己 最近 想 *PRO* 安静 下
+suid=s2
+*pro* 没 什么
+suid=s3
+哦
+suid=s4
+你 一 走 群 里 变 冷清 很多 了 !
+suid=s5
+*pro* 不 会 吧
+suid=s6
+呵呵
+suid=s7
+*pro* 是 的
+suid=s8
+*pro* 几 天 没有 人 说话
+suid=s9
+小燕 也 离 群 了
+suid=s10
+啊
+suid=s11
+风气 *pro* 带坏 *T*-1 了 .
+suid=s12
+我 是 有 原因 的
+suid=s13
+小燕 怎么 啦 ？
+suid=s14
+*pro* 不 知道
+suid=s15
+我 想 *PRO* 安静 下
+suid=s16
+上 次 *pro* 看 他们 留言
+suid=s17
+自己 处理 点 自己 的 事情
+suid=s18
+哦
+suid=s19
+*pro* 什么 时候 回归 ?
+suid=s20
+就 他们 两 个 老 骚扰 我
+suid=s21
+*pro* 还 好意思 说
+suid=s22
+呵呵
+suid=s23
+哦 *pro* 这样 啊
+suid=s24
+*pro* 要 批评 他们
+suid=s25
+*pro* 没 事
+suid=s26
+等 *pro* 过 段 时间 自己 整理 好 了 再 加回
+suid=s27
+*pro* 不 要 在 群 里 说 ， 宇翔
+suid=s28
+嗯 , *pro* 知道 .
+suid=s29
+我 *pro* 安静 下 再 加回
+suid=s30
+*pro* 谢谢 理解
+suid=s31
+呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="48" end="51" text="pro" type="" comment="default value" />
+<我 id="我1" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我2" start="331" end="334" text="pro" type="" comment="default value" />
+<我 id="我3" start="498" end="501" text="pro" type="" comment="default value" />
+<我 id="我4" start="521" end="524" text="pro" type="" comment="default value" />
+<我 id="我5" start="542" end="545" text="pro" type="" comment="default value" />
+<我 id="我6" start="615" end="618" text="pro" type="" comment="default value" />
+<我 id="我7" start="637" end="640" text="pro" type="" comment="default value" />
+<我 id="我8" start="662" end="665" text="pro" type="" comment="default value" />
+<你 id="你0" start="390" end="393" text="pro" type="" comment="default value" />
+<你 id="你1" start="441" end="444" text="pro" type="" comment="default value" />
+<你 id="你2" start="579" end="582" text="pro" type="" comment="default value" />
+<它 id="它0" start="107" end="110" text="pro" type="" comment="default value" />
+<它 id="它1" start="156" end="159" text="pro" type="unsure" comment="default value" />
+<event id="ev0" start="478" end="481" text="pro" type="" comment="default value" />
+<generic id="g0" start="216" end="219" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="138" end="141" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

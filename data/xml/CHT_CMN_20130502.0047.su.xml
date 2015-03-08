@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 不 是 5月 4号 生日 么
+suid=s1
+*pro* 怎么 又 变成 6号 啦
+suid=s2
+*pro* 对 哒 ~ 我 5月 4 出生 ， 但 身份证 上 是 5月 6 ， 所以 大家 经常 搞 不 清楚 ， 不过 *pro* 没 关系 ， 我 一般 不 过 生日 ， 哈哈 ， 如果 *pro* 要 过 ， *pro* 就 随便 过 哪 一 个 都 好 。
+suid=s3
+如果 *pro* 过 两 个 ， *pro* 就 吃 两 个 蛋糕 [ 表情 ]
+suid=s4
+[ 表情 ] 那 等 郭枞 回来 *pro* 给 你 补 一 个 吧 ， 不过 我 6好 下午 要 拔牙 ， 估计 *pro* 要 昏死 一 晚 。。。
+suid=s5
+*pro* 就 是 整 牙 啊
+suid=s6
+*pro* 需要 把 上面 两 颗 牙 拔 *-1 了
+suid=s7
+*pro* 已经 拔 了 一 颗 ， 痛 的 死去活来
+suid=s8
+*pro* 整 牙 。。。
+suid=s9
+*pro* 就 是 *pro* 戴 牙套 而已 啦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="124" end="127" text="pro" type="" comment="default value" />
+<我 id="我1" start="159" end="162" text="pro" type="" comment="default value" />
+<我 id="我2" start="171" end="174" text="pro" type="" comment="default value" />
+<我 id="我3" start="207" end="210" text="pro" type="" comment="default value" />
+<我 id="我4" start="221" end="224" text="pro" type="" comment="default value" />
+<我 id="我5" start="270" end="273" text="pro" type="" comment="default value" />
+<我 id="我6" start="311" end="314" text="pro" type="" comment="default value" />
+<我 id="我7" start="338" end="341" text="pro" type="" comment="default value" />
+<我 id="我8" start="362" end="365" text="pro" type="" comment="default value" />
+<我 id="我9" start="398" end="401" text="pro" type="" comment="default value" />
+<我 id="我10" start="466" end="469" text="pro" type="" comment="default value" />
+<你 id="你0" start="434" end="437" text="pro" type="" comment="default value" />
+<它 id="它0" start="35" end="38" text="pro" type="" comment="default value" />
+<它 id="它1" start="62" end="65" text="pro" type="" comment="default value" />
+<它 id="它2" start="456" end="459" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

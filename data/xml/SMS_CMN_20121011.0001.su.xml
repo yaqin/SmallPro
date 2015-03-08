@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 上课 *pro* 咋 啦
+suid=s1
+*pro* 有 事 请 你 *PRO* 帮忙 ！
+suid=s2
+恩恩 *pro* 好 啊
+suid=s3
+*pro* 一会儿 下课 *pro* 电话 我 啊 亲
+suid=s4
+*pro* 好 快 了
+suid=s5
+亲 你 要是 找 不 到 人 *pro* 就 让 JJ *PRO* 给 你 开门 吧 我 有 多余 的 墨盒 本来 就 要 给 你 的 你 *pro* 可以 直接 拿 了 安装 后 打印 的
+suid=s6
+*pro* 没 事 亲 ， 我 已经 打算 *PRO* 卖 打印机 了 ， *pro* 不 能 双面 打印 蛮 不爽 。
+*pro* 谢谢 哈 ！
+*pro* 不用 担心 了 ！
+*pro* 加油 *PRO* 复习 ！
+suid=s7
+哦哦 那 我 晚上 回去 在 给 你 电话 看 你 解决 了 没
+suid=s8
+*pro* 好 ！
+suid=s9
+如果 *pro* 真 没 法 ， *pro* 只有 墨盒 了 。。 我 打完 再 给 你 。
+这 次 情况 特殊 啊 ！
+suid=s10
+*pro* 不 用 给 我 了 我 用 不 到 墨盒 了 我 墨盒 放 在 床头 的 玫红色 储藏箱 里 不过 得 翻 了 我 晚点 争取 *PRO* 早点 回去
+suid=s11
+*pro* 好 ！
+*pro* 晚上 联系 ！
+亲 加油 ！
+suid=s12
+*pro* 好 的
+suid=s13
+你 还 需要 打印 么
+suid=s14
+我 明天 找 你 吧 ， 亲 。
+suid=s15
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="39" end="42" text="pro" type="" comment="default value" />
+<我 id="我2" start="253" end="256" text="pro" type="" comment="default value" />
+<我 id="我3" start="314" end="317" text="pro" type="" comment="default value" />
+<我 id="我4" start="433" end="436" text="pro" type="" comment="default value" />
+<我 id="我5" start="447" end="450" text="pro" type="" comment="default value" />
+<你 id="你0" start="21" end="24" text="pro" type="" comment="default value" />
+<你 id="你1" start="93" end="96" text="pro" type="" comment="default value" />
+<你 id="你2" start="106" end="109" text="pro" type="" comment="default value" />
+<你 id="你3" start="164" end="167" text="pro" type="" comment="default value" />
+<你 id="你4" start="219" end="222" text="pro" type="" comment="default value" />
+<你 id="你5" start="327" end="330" text="pro" type="" comment="default value" />
+<你 id="你6" start="343" end="346" text="pro" type="" comment="default value" />
+<你 id="你7" start="500" end="503" text="pro" type="" comment="default value" />
+<它 id="它0" start="291" end="294" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="601" end="604" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="75" end="78" text="pro" type="" />
+<pleonastic id="p1" start="129" end="132" text="pro" type="" />
+<pleonastic id="p2" start="591" end="594" text="pro" type="" />
+<previous_utterance id="pr0" start="412" end="415" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="631" end="634" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="697" end="700" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 看到 照片 了 ， 我 家 晓敏 状态 超 好 了 ， 不过 *pro* 最 棒 还 是 儿子 。
+*pro* 怎么 没有 你 ？
+suid=s1
+我 给 他们 照相 呢
+suid=s2
+呵呵
+suid=s3
+*pro* 过年 了 家里 一定 很 热闹 吧 ？
+suid=s4
+恩 ， 你们 准备 *PRO* 怎么 过 啊 （ *pro* 来自 微信 ： http:／／weixin.qq.com／q ）
+suid=s5
+我们 自己 买 了 点 饺子 馅 自己 包 饺子 吃
+suid=s6
+我们 的 时差 是 多少 ？
+suid=s7
+13 小时
+suid=s8
+我 这里 是 晚上 八点
+suid=s9
+你 那里 是 白天 9点 吧
+suid=s10
+哦 ， 你们 还 没 睡 ， 我 刚 醒
+suid=s11
+*pro* 还 没有 呢
+suid=s12
+*pro* 开始 工作 了 吗 ？
+suid=s13
+*pro* 开始 了 *pro* 工作 几 天 了
+suid=s14
+*pro* 到 那边 感觉 *pro* 如何 ？
+suid=s15
+小 帅哥 上 幼儿园 了 吗 ？
+suid=s16
+*pro* 挺 好 的 人 少 空气 好 干净
+suid=s17
+我 家 敏 呢
+suid=s18
+*pro* 还 没有 我们 报名 了 等 *pro* 回信 呢
+suid=s19
+*pro* 好 享受
+suid=s20
+等 尚尚 上 幼儿园 她 就 开始 工作 了
+suid=s21
+我 起床 了 。
+suid=s22
+你 起 得 够 晚 的 你 儿子 呢
+suid=s23
+好 妈妈
+suid=s24
+*pro* 就 陪 他 呢
+suid=s25
+日子 舒服 呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="180" end="183" text="pro" type="" comment="default value" />
+<我 id="我2" start="374" end="377" text="pro" type="" comment="default value" />
+<我 id="我3" start="423" end="426" text="pro" type="" comment="default value" />
+<我 id="我4" start="434" end="437" text="pro" type="" comment="default value" />
+<你 id="你0" start="396" end="399" text="pro" type="" comment="default value" />
+<你 id="你1" start="458" end="461" text="pro" type="" comment="default value" />
+<你 id="你2" start="472" end="475" text="pro" type="" comment="default value" />
+<你 id="你3" start="609" end="612" text="pro" type="" comment="default value" />
+<你 id="你4" start="721" end="724" text="pro" type="" comment="default value" />
+<他 id="他0" start="568" end="571" text="pro" type="" comment="default value" />
+<它 id="它0" start="518" end="521" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="47" end="50" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="66" end="69" text="pro" type="" comment="default value" />
+<generic id="g0" start="589" end="592" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="121" end="124" text="pro" type="" />
+</TAGS>
+</ProTask>

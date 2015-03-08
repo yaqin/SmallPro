@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 好 ， 你 是 ？
+我们 怎么 这么 多 共同 好友 ？
+suid=s1
+我 也 不 知道 啊 ， 我 肯定 在 哪里 听 过 你 的 名字
+suid=s2
+我 也 是 ， *pro* 觉得 *pro* 好 熟
+suid=s3
+你 在 哪 工作
+suid=s4
+*pro* 上学 呢
+suid=s5
+*pro* 和 我 队员 一 个 学校 ？
+suid=s6
+山大 附中 ？
+suid=s7
+山师 附中 ？
+suid=s8
+一中 ？
+suid=s9
+我 在 大学
+suid=s10
+……
+suid=s11
+*pro* 刚 上 ？
+suid=s12
+*pro* 大三 了 呀
+suid=s13
+呃 …… 那 哪 来 这么 多 共同 好友
+suid=s14
+你 参加 过 济南 全运会 ？
+suid=s15
+你 知道 飓风 网球 么 ？
+suid=s16
+我 倒
+suid=s17
+*pro* 知道 …… 你 是 教练 ？
+suid=s18
+我 和 宋 哥 关系 很 好
+suid=s19
+*pro* 不 是 ， 宋向杰 是 我 爸 ...
+suid=s20
+我 倒
+suid=s21
+*pro* 对 了 ， 宋 哥 提 过 你 呢
+suid=s22
+*pro* 怎么 跑 了 …… *pro* 怕 我 告诉 你 爹 你 翘课 上网 啊 ， 哈哈哈哈
+suid=s23
+[ 表情 ] [ 表情 ] [ 表情 ] 我 没 课 呀 ~
+suid=s24
+哦
+suid=s25
+你 在 济南 上 的 大学 ？
+suid=s26
+山师 ~
+suid=s27
+哦 ， *pro* 好 学校
+suid=s28
+你 老爸 很 辛苦 啊 ， *OP* *pro* *T*-1 发展 济南市 网球 事业 功劳 卓著
+suid=s29
+哈哈 ， *pro* 谢谢 您 给 了 *OP* *T*-1 这么 高 的 评价 ！
+suid=s30
+呵呵 ， 事实 如此
+suid=s31
+你 怎么 不 练 网球 啊
+suid=s32
+我 平时 也 打 ， 但 不 走 专业 [ 表情 ]
+suid=s33
+哦 ， *pro* 业余 高手 啊
+suid=s34
+*pro* 更 厉害
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="99" end="102" text="pro" type="" comment="default value" />
+<我 id="我1" start="143" end="146" text="pro" type="" comment="default value" />
+<我 id="我2" start="286" end="289" text="pro" type="" comment="default value" />
+<我 id="我3" start="401" end="404" text="pro" type="" comment="default value" />
+<我 id="我4" start="455" end="458" text="pro" type="" comment="default value" />
+<我 id="我5" start="773" end="776" text="pro" type="" comment="default value" />
+<你 id="你0" start="108" end="111" text="pro" type="" comment="default value" />
+<你 id="你1" start="162" end="165" text="pro" type="" comment="default value" />
+<你 id="你2" start="265" end="268" text="pro" type="" comment="default value" />
+<你 id="你3" start="536" end="539" text="pro" type="" comment="default value" />
+<你 id="你4" start="552" end="555" text="pro" type="" comment="default value" />
+<你 id="你5" start="903" end="906" text="pro" type="" comment="default value" />
+<你 id="你6" start="926" end="929" text="pro" type="" comment="default value" />
+<他 id="他0" start="728" end="731" text="pro" type="" comment="default value" />
+<它 id="它0" start="689" end="692" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="503" end="506" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗 ?
+suid=s1
+*pro* 在 外面
+suid=s2
+王 工 什么 事 ？
+suid=s3
+哦 , 那 个 开发板 *pro* 能 借给 我们 *T*-1 *PRO* 调试 吗 ?
+suid=s4
+你 的 项目 重启 了 ？
+suid=s5
+*pro* 是 的
+suid=s6
+现在 板子 出来 了 , 3 G 驱动 总是 加载 不 上 .
+suid=s7
+*pro* 重启 项目 的话 *pro* 联系 市场部 的 *pro* 就 应该 可以 提供 开发板 给 你 *PRO* 调试
+suid=s8
+*pro* 有时候 可以 加载 成功 ？
+suid=s9
+*pro* 没有 成功 过 .
+suid=s10
+上面 是 打印 信息 .
+suid=s11
+那 说明 驱动 没 装好
+suid=s12
+*pro* 是 哪 个 业务员 ?
+suid=s13
+蒙家昌
+suid=s14
+*pro* 怎么 没 装好 ?
+suid=s15
+你 可以 通过 网站 联系 也 行 ， 明天 我 叫 他 *PRO* 联系 你 也 行
+suid=s16
+*pro* 没 装好 的话 , *pro* 就 没有 打印 信息 .
+suid=s17
+你 叫 他 *PRO* 联系 我 吧
+suid=s18
+最好 你们 销售 来 一 趟 .
+suid=s19
+注册表 和 那 两 个 .dll 文件 需要 编译 到 内核
+suid=s20
+*pro* 编 了
+suid=s21
+明天 我 叫 他 *PRO* 联系 下 你 看看 情况
+suid=s22
+*pro* 好
+suid=s23
+注册表 *pro* 没 修改 什么 吧 ？
+suid=s24
+就是 串口 索引号 .
+suid=s25
+*OP* *T*-1 出厂 模认 的 也 不 行 .
+suid=s26
+*pro* 默认 .
+suid=s27
+那 以后 *pro* 过去 一起 看看
+suid=s28
+*pro* 好
+suid=s29
+他 上午 出去 了
+suid=s30
+*pro* 呆会 估计 会 联系 你
+suid=s31
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="30" end="33" text="pro" type="" comment="default value" />
+<我 id="我1" start="627" end="630" text="pro" type="" comment="default value" />
+<我 id="我2" start="813" end="816" text="pro" type="" comment="default value" />
+<我 id="我3" start="873" end="876" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="80" end="83" text="pro" type="" comment="default value" />
+<你 id="你2" start="201" end="204" text="pro" type="" comment="default value" />
+<你 id="你3" start="216" end="219" text="pro" type="" comment="default value" />
+<你 id="你4" start="704" end="707" text="pro" type="" comment="default value" />
+<它 id="它0" start="143" end="146" text="pro" type="" comment="default value" />
+<它 id="它1" start="273" end="276" text="pro" type="" comment="default value" />
+<它 id="它2" start="302" end="305" text="pro" type="" comment="default value" />
+<它 id="它3" start="371" end="374" text="pro" type="" comment="default value" />
+<它 id="它4" start="411" end="414" text="pro" type="" comment="default value" />
+<它 id="它5" start="489" end="492" text="pro" type="" comment="default value" />
+<它 id="它6" start="505" end="508" text="pro" type="" comment="default value" />
+<它 id="它7" start="788" end="791" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="231" end="234" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="683" end="686" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="837" end="840" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="901" end="904" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 是 ？
+suid=s1
+你 是
+suid=s2
+你 是 蒋莎莎 吗 ／
+suid=s3
+？
+suid=s4
+*pro* 不 认识
+suid=s5
+你 怎么 认识 我 的
+suid=s6
+张志翔
+suid=s7
+你 认识 吗 ？
+suid=s8
+我 晕 ！
+suid=s9
+*pro* 伤心 了 ！
+suid=s10
+你 是 盛世龙城 售楼处 的 吗 . ／
+suid=s11
+你 在 我 这 买 房子 了 吗 ？
+suid=s12
+*pro* 没有 ！
+suid=s13
+我 也 是 *OP* *T*-1 买 房子 的 ！
+suid=s14
+*pro* 还 给 你 喝 过 酒 ！
+suid=s15
+*pro* 碰 过 杯 ！
+suid=s16
+*pro* 什么 时候 啊 ！
+suid=s17
+我 不 跟 客户 吃饭 啊 ' 你 怎么 认识 我 的 a ' 我 看 你 名字 *pro* 好像 听 过 *T*-1
+suid=s18
+*pro* 想 不 起来 了 ？
+suid=s19
+张志翔
+suid=s20
+你 电话 多少
+suid=s21
+O（∩＿∩）O~
+suid=s22
+呵呵呵
+suid=s23
+*pro* 刚 来 河口 几 天 你 就 不 认识 我 了 ！
+suid=s24
+豪庭 开盘 时 咱 俩 没 碰杯 吗 ？
+！
+suid=s25
+哈哈 ，
+suid=s26
+我 知道 啦
+suid=s27
+你 呀
+suid=s28
+呵呵
+suid=s29
+*pro* 在 河口 啊
+suid=s30
+*pro* 是 的
+suid=s31
+*pro* 没 上班 吗 ？
+suid=s32
+今天 *pro* 看到 “ *OP* *pro* 可能 认识 *T*-1 的 人 ” 里 有 你 就 加上 了 ！
+suid=s33
+哦 ！
+*pro* 没 事
+suid=s34
+*pro* 莫 怪 ！
+suid=s35
+*pro* 在 那边 干 什么 呢
+suid=s36
+*pro* 上班 啊
+suid=s37
+*pro* 还 是 那 一 套
+suid=s38
+办公室 、 开发部
+suid=s39
+o
+suid=s40
+*pro* 好好 干 ， 为 河口 做 贡献
+suid=s41
+*pro* 好好 加油 ！
+suid=s42
+帅哥
+suid=s43
+*pro* 昨天 回 宿舍 了 ， QQ 在 办公室 挂 着
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="66" end="69" text="pro" type="" comment="default value" />
+<我 id="我1" start="148" end="151" text="pro" type="" comment="default value" />
+<我 id="我2" start="228" end="231" text="pro" type="" comment="default value" />
+<我 id="我3" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我5" start="401" end="404" text="pro" type="" comment="default value" />
+<我 id="我6" start="516" end="519" text="pro" type="" comment="default value" />
+<我 id="我7" start="712" end="715" text="pro" type="" comment="default value" />
+<我 id="我8" start="728" end="731" text="pro" type="" comment="default value" />
+<我 id="我9" start="847" end="850" text="pro" type="" comment="default value" />
+<我 id="我11" start="989" end="992" text="pro" type="" comment="default value" />
+<你 id="你0" start="429" end="432" text="pro" type="" comment="default value" />
+<你 id="你1" start="644" end="647" text="pro" type="" comment="default value" />
+<你 id="你2" start="685" end="688" text="pro" type="" comment="default value" />
+<你 id="你3" start="780" end="783" text="pro" type="" comment="default value" />
+<你 id="你4" start="799" end="802" text="pro" type="" comment="default value" />
+<你 id="你5" start="820" end="823" text="pro" type="" comment="default value" />
+<你 id="你6" start="922" end="925" text="pro" type="" comment="default value" />
+<你 id="你7" start="954" end="957" text="pro" type="" comment="default value" />
+<它 id="它0" start="867" end="870" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="312" end="315" text="pro" type="" comment="default value" />
+<event id="ev0" start="335" end="338" text="pro" type="" comment="default value" />
+<event id="ev1" start="666" end="669" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

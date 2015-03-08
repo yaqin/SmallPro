@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+！！ 我 在 这里 ！！
+suid=s1
+然后 呢
+suid=s2
+*pro* 跟 我 说话 呀
+suid=s3
+额
+suid=s4
+*pro* 说 什么
+suid=s5
+*pro* 谈恋爱 呀
+suid=s6
+额 。。。。 *pro* 神经
+suid=s7
+一 个 人 在家 么
+suid=s8
+*pro* 干 啥 呢
+suid=s9
+*pro* 对 呀 *pro* 先 游泳 阿 然后 *pro* 9点 买 菜 回来 的 *pro* 刚刚 在 读 纽约 时报 在 积累 词汇 量 呢
+suid=s10
+你 呢
+suid=s11
+我 在 听书
+suid=s12
+哈哈
+suid=s13
+隔壁 有 俩 还有 舍友 racheal 今天 从 *OP* *T*-1 遥远 的 南非 回来 了
+suid=s14
+*pro* 听 光光 看 电影
+suid=s15
+。。。。。
+suid=s16
+哦 。。。
+suid=s17
+*pro* 挺 好 的
+suid=s18
+你 怎么 听 舍友 看 dianying ?
+suid=s19
+南非 ， *pro* 有 给 你们 带 礼物 呢
+suid=s20
+*pro* 好像 没有 。。
+suid=s21
+额
+suid=s22
+我 出去 玩 好像 也 米有 给 他们 带 东西 。。。
+suid=s23
+*pro* 忘掉 了 。。
+suid=s24
+*pro* 觉得 *PRO* 也 没有 什么 可以 带 。。。
+suid=s25
+*pro* 好 吧
+suid=s26
+嗯 ， 全 世界 都 差不多
+suid=s27
+屁
+suid=s28
+你 就 结根 吧
+suid=s29
+你 在 看 什么 呢
+suid=s30
+你 搞完 *pro* 给 我 电话
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="77" end="80" text="pro" type="" comment="default value" />
+<我 id="我1" start="189" end="192" text="pro" type="" comment="default value" />
+<我 id="我2" start="205" end="208" text="pro" type="" comment="default value" />
+<我 id="我3" start="223" end="226" text="pro" type="" comment="default value" />
+<我 id="我4" start="363" end="366" text="pro" type="" comment="default value" />
+<我 id="我5" start="578" end="581" text="pro" type="" comment="default value" />
+<我 id="我6" start="601" end="604" text="pro" type="" comment="default value" />
+<你 id="你0" start="44" end="47" text="pro" type="" comment="default value" />
+<你 id="你1" start="123" end="126" text="pro" type="" comment="default value" />
+<你 id="你2" start="159" end="162" text="pro" type="" comment="default value" />
+<你 id="你3" start="418" end="421" text="pro" type="" comment="default value" />
+<你 id="你4" start="739" end="742" text="pro" type="" comment="default value" />
+<他 id="他0" start="476" end="479" text="pro" type="" comment="default value" />
+<他 id="他1" start="505" end="508" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="96" end="99" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="179" end="182" text="pro" type="" />
+<pleonastic id="p1" start="642" end="645" text="pro" type="" />
+</TAGS>
+</ProTask>

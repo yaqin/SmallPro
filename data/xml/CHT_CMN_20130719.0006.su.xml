@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+阿在 ， 衣服 穿 了 *-1 么
+suid=s1
+*pro* 没有 ， *pro* 退 了
+suid=s2
+*pro* 怎么 说 ， *pro* 太 大 了 ？
+suid=s3
+衣服 网上 写 *T*-1 腰围 120 ， 实际 *pro* 只 有 80 ， *pro* 相差 太 大
+suid=s4
+我 想 *PRO* 买 肥款
+suid=s5
+额 。。 *pro* 不 是 均码 的 么
+suid=s6
+*pro* 怎么 还 有 大 小 号 么
+suid=s7
+*pro* 是 均码
+suid=s8
+他们 尺寸 没 量 对 *-1
+suid=s9
+那 *pro* 只 能 退 了 ， 昨天 我 看 *pro* 很 大 的
+suid=s10
+*pro* 穿 出来 效果 好 哇
+suid=s11
+昨天 我 也 是 随便 一 看 ， 和 平时 的 衣服 尺寸 差不多 ， *pro* 就 觉得 *pro* 有点 奇怪
+suid=s12
+效果 还 可以 ， *pro* 蛮 显 *pro* 瘦 的
+suid=s13
+但是 我 不 想 *PRO* 要 *OP* *T*-1 显 *pro* 瘦 的
+suid=s14
+[ 表情 ] 一般 人 都 要 *OP* *T*-1 显 *pro* 瘦 的
+suid=s15
+当时 *pro* *pro* 看 *pro* 是 肥款 才 买 的 呀 ， 他 写 *pro* 是 肥款 呀
+suid=s16
+大 肚子 就是 与众不同
+suid=s17
+呵呵
+suid=s18
+*pro* 不 是 ， 那 件 衣服 肥款 才 是 它 的 风格 ， 瘦款 只 是 一 件 普通 衣服 ， 气质 没 了
+suid=s19
+不然 店家 为什么 说 *pro* 是 肥款 ， 还 虚报 尺寸 ~
+suid=s20
+哎 。。 这 家 店 我 是 穿 不 出 文艺 腔 的
+suid=s21
+*pro* 是 啊 ， 我 是 想 *PRO* 要 文艺 腔 的 ~~
+suid=s22
+*pro* *pro* 一 瘦 就 不 文艺 了 ~~
+suid=s23
+*pro* 真 是 个 *OP* *T*-1 执着 的 妈
+suid=s24
+*pro* *pro* 就是 看上 这 点 才 买 的 ， 不然 *pro* 不 买 呀
+suid=s25
+恩恩 ， 来回 运费 他们 出 *T*-1 咯
+suid=s26
+哦 ~ 我 从来 不 买 保险 [ 表情 ] 所以 衣服 *pro* 很少 淘宝
+suid=s27
+呵呵 ， 我 是 *pro* 有 点 预感 才 买 的
+suid=s28
+嗯 ， 昨天 我 的 面膜 下单 了
+suid=s29
+明天 *pro* 应该 能 到
+suid=s30
+*pro* 终于 可以 用 了 ~
+suid=s31
+*OP* 你 买 *T*-1 的 什么 牌子 的
+suid=s32
+我 买 innsfree
+suid=s33
+*pro* 好像 是 这样 拼 的
+suid=s34
+棒子 国 的
+suid=s35
+哦 ~~~
+suid=s36
+我 一 有 情况 ， 这些 东西 都 不 能 用 了
+suid=s37
+神马 情况 [ 表情 ]
+suid=s38
+你 说 神马 情况 ~
+suid=s39
+这 也 会 有 影响 么
+suid=s40
+我 以为 *pro* 只要 不 化妆 *pro* 就 好 了
+suid=s41
+这些 都 是 *OP* *T*-1 含 化学 成分 的 ， 母体 倒 没 事 ， *pro* 对 娃娃 有 影响
+suid=s42
+所以 老早 杜颖颖 就 开始 自制 面膜 了
+suid=s43
+哦 ~ 你 要 注意 点
+suid=s44
+嗯嗯 ~~
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="36" end="39" text="pro" type="" comment="default value" />
+<我 id="我1" start="47" end="50" text="pro" type="" comment="default value" />
+<我 id="我2" start="289" end="292" text="pro" type="" comment="default value" />
+<我 id="我4" start="397" end="400" text="pro" type="" comment="default value" />
+<我 id="我5" start="498" end="501" text="pro" type="" comment="default value" />
+<我 id="我6" start="568" end="571" text="pro" type="" comment="default value" />
+<我 id="我7" start="574" end="577" text="pro" type="" comment="default value" />
+<我 id="我8" start="859" end="862" text="pro" type="" comment="default value" />
+<我 id="我9" start="865" end="868" text="pro" type="" comment="default value" />
+<我 id="我10" start="935" end="938" text="pro" type="" comment="default value" />
+<我 id="我11" start="941" end="944" text="pro" type="" comment="default value" />
+<我 id="我12" start="968" end="971" text="pro" type="" comment="default value" />
+<我 id="我13" start="1051" end="1054" text="pro" type="" comment="default value" />
+<我 id="我14" start="1081" end="1084" text="pro" type="" comment="default value" />
+<我 id="我15" start="1162" end="1165" text="pro" type="" comment="default value" />
+<我 id="我16" start="1409" end="1412" text="pro" type="" comment="default value" />
+<我 id="我17" start="1423" end="1426" text="pro" type="" comment="default value" />
+<你 id="你0" start="65" end="68" text="pro" type="" comment="default value" />
+<你 id="你1" start="333" end="336" text="pro" type="" comment="default value" />
+<你 id="你2" start="449" end="452" text="pro" type="" comment="default value" />
+<你 id="你3" start="896" end="899" text="pro" type="" comment="default value" />
+<它 id="它0" start="78" end="81" text="pro" type="" comment="default value" />
+<它 id="它1" start="126" end="129" text="pro" type="" comment="default value" />
+<它 id="它2" start="190" end="193" text="pro" type="" comment="default value" />
+<它 id="它3" start="215" end="218" text="pro" type="" comment="default value" />
+<它 id="它4" start="244" end="247" text="pro" type="" comment="default value" />
+<它 id="它5" start="312" end="315" text="pro" type="" comment="default value" />
+<它 id="它6" start="408" end="411" text="pro" type="" comment="default value" />
+<它 id="它7" start="439" end="442" text="pro" type="" comment="default value" />
+<它 id="它8" start="582" end="585" text="pro" type="" comment="default value" />
+<它 id="它9" start="607" end="610" text="pro" type="" comment="default value" />
+<它 id="它10" start="663" end="666" text="pro" type="" comment="default value" />
+<它 id="它11" start="745" end="748" text="pro" type="" comment="default value" />
+<它 id="它12" start="814" end="817" text="pro" type="" comment="default value" />
+<它 id="它13" start="1140" end="1143" text="pro" type="" comment="default value" />
+<它 id="它14" start="1245" end="1248" text="pro" type="" comment="default value" />
+<它 id="它15" start="1485" end="1488" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="141" end="144" text="pro" type="" comment="default value" />
+<generic id="g0" start="546" end="549" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

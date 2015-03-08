@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 是 不 是 木有 人 往 yahoo 的 邮箱 发 优化 第三 题 的 答案 ……
+suid=s1
+。。。
+suid=s2
+*pro* 应该 只有 李 老师 有 这 个 答案 吧 。。
+suid=s3
+我 不 是 都 给 你们 了 嘛
+suid=s4
+我 没有 啊
+suid=s5
+那 我 现在 发 一 个 好了
+suid=s6
+嗯
+suid=s7
+*pro* 好像 extend 到 明天 了
+suid=s8
+*pro* 没 事
+suid=s9
+*pro* 给 了 的 昨天 *pro* 一开始 就 全部 给 你们 发 了
+suid=s10
+*pro* 是 吗 。。。
+suid=s11
+那 *pro* 可能 是 我 大意 了
+suid=s12
+*pro* 对不起 李 老师
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="221" end="226" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="239" end="244" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="339" end="345" text="*pro* " type="" comment="default value" />
+<你 id="你0" start="287" end="292" text="*pro*" type="" comment="default value" />
+<它 id="它0" start="190" end="195" text="*pro*" type="" comment="default value" />
+<它 id="它1" start="312" end="317" text="*pro*" type="" comment="default value" />
+<existential id="e0" start="9" end="14" text="*pro*" type="" comment="default value" />
+<pleonastic id="p0" start="77" end="82" text="*pro*" type="" />
+<pleonastic id="p1" start="254" end="260" text="*pro* " type="" />
+</TAGS>
+</ProTask>

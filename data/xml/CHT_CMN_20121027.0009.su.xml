@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我们 明天 几点 去 中国 城 啊 ？
+suid=s1
+呃 *pro* 明天 下雨 的话 *pro* 就 不 去 了 吧 ~~~~
+suid=s2
+*pro* 好 的
+suid=s3
+*pro* 明天 再 联系 吧 ~ *pro* 本来 是 要 等 邓璐瑶 十一点半 下课 ~ 咱们 在 中国 城 集合 吃 个 饭 的 ~
+suid=s4
+*pro* 好 *pro* 下 周 去 也 行 呀 这 周 作业 挺 多 的
+suid=s5
+嗯 *pro* 好 ~ *pro* 那 就 下 周 去 吧 ~ 如果 我们 能 熬到 下 周 的话
+suid=s6
+*pro* 就 怕 这 暴风 把 我们 都 刮跑 *-1 了
+suid=s7
+哈哈 *pro* 还 同生共死 呢
+suid=s8
+真爱 啊
+suid=s9
+哈哈 ~ *pro* 又 真爱 了 ~ 你 跟 你 屋 那 三 个 姑娘 囤货 了 吗 ？
+suid=s10
+反正 *pro* 离 超市 近 嘛
+suid=s11
+今晚 超市 人 就 挺 多 的 ~ 唉 我 都 没 屯 点 冷冻 食品 ~ *pro* 很 担心 啊 ~
+suid=s12
+哈哈 *pro* 应该 没 问题 的
+suid=s13
+*pro* 不 会 那么 夸张 吧
+suid=s14
+新闻 都 报 的 超 夸张 啊 ~ 恐怖 暴风 什么 的 ~
+suid=s15
+恩 那 我们 周一 周二 会 不 会 不 上课 啊
+suid=s16
+*pro* 好 希望 *pro* 不 上课 啊 ！
+suid=s17
+动物园 都 通知 我 这 周 *pro* 先 不 用 去 上班 了
+suid=s18
+*pro* 是 啊
+suid=s19
+我 不 想 *PRO* 上 统计 课 ！！！
+suid=s20
+我 也 不 想 啊 ！！！
+suid=s21
+*pro* 祈祷 吧 ~
+suid=s22
+哈哈 *pro* 祈祷 祈祷
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="120" end="123" text="pro" type="" comment="default value" />
+<我 id="我1" start="285" end="288" text="pro" type="" comment="default value" />
+<我 id="我2" start="483" end="486" text="pro" type="" comment="default value" />
+<我 id="我3" start="637" end="640" text="pro" type="" comment="default value" />
+<我 id="我4" start="687" end="690" text="pro" type="" comment="default value" />
+<你 id="你0" start="510" end="513" text="pro" type="" comment="default value" />
+<它 id="它0" start="535" end="538" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="55" end="58" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="102" end="105" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="188" end="191" text="pro" type="" comment="default value" />
+<我们 id="我们3" start="239" end="242" text="pro" type="" comment="default value" />
+<我们 id="我们4" start="327" end="330" text="pro" type="" comment="default value" />
+<我们 id="我们5" start="368" end="371" text="pro" type="" comment="default value" />
+<我们 id="我们6" start="421" end="424" text="pro" type="" comment="default value" />
+<我们 id="我们7" start="648" end="651" text="pro" type="" comment="default value" />
+<我们 id="我们8" start="789" end="792" text="pro" type="" comment="default value" />
+<我们 id="我们9" start="814" end="817" text="pro" type="" comment="default value" />
+<generic id="g0" start="40" end="43" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="84" end="87" text="pro" type="" />
+<pleonastic id="p1" start="715" end="718" text="pro" type="" />
+<previous_utterance id="pr0" start="180" end="183" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="229" end="232" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>
