@@ -24,7 +24,7 @@ class Extract(object):
                     pron = tags.tag
                     dic_start_tag[start] = pron
                 dic_start_tag = sorted(dic_start_tag.items(), key=lambda dic: dic[0])
-                newtext = text[:dic_start_tag[0][0]] + dic_start_tag[0][1] + "_#"
+                newtext = text[:dic_start_tag[0][0]] + dic_start_tag[0][1] + "_# "
                 for i in range(1, len(dic_start_tag)):
                     newtext = newtext + text[dic_start_tag[i - 1][0] + 5:dic_start_tag[i][0]] + dic_start_tag[i][
                         1] + "_# "
