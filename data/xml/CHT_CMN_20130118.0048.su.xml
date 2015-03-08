@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 不
+suid=s1
+*pro* zai
+suid=s2
+*pro* 还 在 大连 呢
+suid=s3
+嗯 *pro* 是 啊
+suid=s4
+你 呢
+suid=s5
+*pro* 啥 时候 回家 啊
+suid=s6
+*pro* 不 知道 呢 *pro* 估计 除夕 吧
+suid=s7
+*pro* 那么 晚 。。
+suid=s8
+嗯 *pro* 对 啊 那 时候 房价
+suid=s9
+你 考试 怎么样 啊
+suid=s10
+*pro* 对 了 ， 你 有没有 大连 人才 招聘 的 网站
+suid=s11
+*pro* 不 怎么样
+suid=s12
+哈哈
+suid=s13
+我 就是 在 智联 和 51 上面 投 简历
+suid=s14
+*pro* 没有 其他 的 网站 啊
+suid=s15
+*pro* 还 去 过 开发区 人力 资源 网
+suid=s16
+*pro* 但 不 怎么 好
+suid=s17
+招聘会 的 信息 在 哪 查 啊
+suid=s18
+百度
+suid=s19
+*pro* 十一月份 多 *pro* 现在 不 知道 *pro* 还 有没有
+suid=s20
+*OP* *pro* *T*-1 开春 的 时候 *pro* 应该 有 星海 那边 那个 吧
+suid=s21
+那个 是 *OP* *T*-1 最 大 的
+suid=s22
+哦哦 ， *pro* 好 滴 ， 我 看 一下
+suid=s23
+嗯 你 要 在 这 找 工作 么 *pro* 不 回家 工作 么
+suid=s24
+你 现在 回家 了 么
+suid=s25
+我 已经 回家 了 ， 我 要是 考 不 上 *pro* 估计 *pro* 就 得 在 大连 找 了
+suid=s26
+哦 *pro* 行 *pro* 回去 好好 玩 吧 等 成绩 下来 *pro* 再 定 *pro* 要 对 自己 有 信心 哈哈
+suid=s27
+今年 数学 考 的 不 好
+suid=s28
+*pro* 没 办法
+suid=s29
+你 对象 呢
+suid=s30
+她 也 不 保准
+suid=s31
+嗯 那 你 事先 做做 准备 吧 *pro* 过年 后 是 *OP* *pro* *T*-1 找 工作 的 高峰期
+suid=s32
+*pro* 是 啊 ， 所以 我 先 看 一下 ， 你 现在 干 的 怎么样
+suid=s33
+*pro* 还 行 *pro* 跟 专业 没 很 大 关系 但 也 是 这 方面 的 还 得 自学
+suid=s34
+*pro* 学 什么 啊
+suid=s35
+模电
+suid=s36
+*OP* 我 干 *T*-1 的 跟 这个 有关
+suid=s37
+功率 电子 学
+suid=s38
+*pro* 都 是 *OP* *T*-1 难 的 啊
+suid=s39
+*pro* 只 能 说 我们 大学 学 的 太 简单
+suid=s40
+工作 如果 *pro* 干 技术 的话 你 就 知道 *T*-1 了
+suid=s41
+现在 *pro* 自学 有 困难 么
+suid=s42
+*OP* *T*-1 牛逼 的 人 一 堆 一 堆 的
+suid=s43
+*pro* 不 难
+suid=s44
+*pro* 能 和 实际 连接
+suid=s45
+*pro* 简单 点
+suid=s46
+哦哦 ， 那 *pro* 就 学 吧 ， 以后 咱 都 弄 明白 了 ， 咱 也 就 混 出来 了
+suid=s47
+嗯 *pro* 对 啊 *pro* 只有 自学
+suid=s48
+你 是 三十 那 天 回家 ？
+suid=s49
+*pro* 应该 是 阴历 二十八 走 二十九 到家
+suid=s50
+*pro* 能 呆 几 天
+suid=s51
+5 天 *pro* 就 回来 了
+suid=s52
+我 操 ， 小 日本 太 他吗 贱 了
+suid=s53
+嗯哎 人家 没 春节 *pro* 能 放 几 天 就 是 *pro* 给 中国人 面子
+suid=s54
+你 现在 还 在 那 住 么
+suid=s55
+*pro* 不 在 了 我 换 了 个 地方 但 *pro* 还 是 那 一 片
+suid=s56
+*pro* 又 换 了 ？
+suid=s57
+*pro* 还 是 *pro* 那 次 换 的
+suid=s58
+哦哦 ， *pro* 住 的 还 行 ？
+suid=s59
+*pro* 真 不 容易 啊 ， 你 准备 *PRO* 在 大连 落脚 了 ？
+suid=s60
+*pro* 不 准备 *pro* 看看 这 半 年 吧 如果 *pro* 感觉 自己 有 发展 我 就 在 这 *pro* 要不 就 换 个 地方
+suid=s61
+曹腾 说 他们 公司 有 招 人 了 ， *pro* 有 兴趣 么
+suid=s62
+*pro* 得 是 他们 那 个 地方 的 户口 吧
+suid=s63
+要不 *pro* 不 好 进 吧
+suid=s64
+具体 我 没 细 问 *T*-1 ， 你 问问 他 ， 我 感觉 *pro* 挺 好 的
+suid=s65
+嗯 *pro* 行 我 问问
+suid=s66
+嗯嗯 ， 我 忙 点 别的 事 哈 ， 你 注意 身体 ， 别 熬 坏 了
+suid=s67
+嗯 *pro* 行 *pro* 常 联系 哈 *pro* 再 回来 了 *pro* 给 我 打 电话 啊
+suid=s68
+*pro* 欧 拉 ！
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="31" text="pro" type="" comment="default value" />
+<我 id="我1" start="46" end="49" text="pro" type="" comment="default value" />
+<我 id="我2" start="125" end="128" text="pro" type="" comment="default value" />
+<我 id="我3" start="138" end="141" text="pro" type="" comment="default value" />
+<我 id="我4" start="271" end="274" text="pro" type="" comment="default value" />
+<我 id="我5" start="364" end="367" text="pro" type="" comment="default value" />
+<我 id="我6" start="472" end="475" text="pro" type="" comment="default value" />
+<我 id="我7" start="713" end="716" text="pro" type="" comment="default value" />
+<我 id="我8" start="722" end="725" text="pro" type="" comment="default value" />
+<我 id="我9" start="847" end="850" text="pro" type="" comment="default value" />
+<我 id="我10" start="1016" end="1019" text="pro" type="" comment="default value" />
+<我 id="我11" start="1412" end="1415" text="pro" type="" comment="default value" />
+<我 id="我12" start="1522" end="1525" text="pro" type="" comment="default value" />
+<我 id="我13" start="1585" end="1588" text="pro" type="" comment="default value" />
+<我 id="我14" start="1647" end="1650" text="pro" type="" comment="default value" />
+<我 id="我15" start="1713" end="1716" text="pro" type="" comment="default value" />
+<我 id="我16" start="1898" end="1901" text="pro" type="" comment="default value" />
+<我 id="我17" start="1909" end="1912" text="pro" type="" comment="default value" />
+<我 id="我18" start="1929" end="1932" text="pro" type="" comment="default value" />
+<我 id="我19" start="1954" end="1957" text="pro" type="" comment="default value" />
+<我 id="我20" start="2063" end="2066" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="71" end="74" text="pro" type="" comment="default value" />
+<你 id="你2" start="101" end="104" text="pro" type="" comment="default value" />
+<你 id="你3" start="160" end="163" text="pro" type="" comment="default value" />
+<你 id="你4" start="644" end="647" text="pro" type="" comment="default value" />
+<你 id="你5" start="760" end="763" text="pro" type="" comment="default value" />
+<你 id="你6" start="784" end="787" text="pro" type="" comment="default value" />
+<你 id="你7" start="794" end="797" text="pro" type="" comment="default value" />
+<你 id="你8" start="1075" end="1078" text="pro" type="" comment="default value" />
+<你 id="你9" start="1238" end="1241" text="pro" type="" comment="default value" />
+<你 id="你10" start="1279" end="1282" text="pro" type="" comment="default value" />
+<你 id="你11" start="1476" end="1479" text="pro" type="" comment="default value" />
+<你 id="你12" start="1558" end="1561" text="pro" type="" comment="default value" />
+<你 id="你13" start="1763" end="1766" text="pro" type="" comment="default value" />
+<你 id="你14" start="1796" end="1799" text="pro" type="" comment="default value" />
+<你 id="你15" start="1824" end="1827" text="pro" type="" comment="default value" />
+<你 id="你16" start="1849" end="1852" text="pro" type="" comment="default value" />
+<你 id="你17" start="2002" end="2005" text="pro" type="" comment="default value" />
+<你 id="你18" start="2234" end="2237" text="pro" type="" comment="default value" />
+<你 id="你19" start="2247" end="2250" text="pro" type="" comment="default value" />
+<它 id="它0" start="336" end="339" text="pro" type="" comment="default value" />
+<它 id="它1" start="397" end="400" text="pro" type="" comment="default value" />
+<它 id="它2" start="486" end="489" text="pro" type="" comment="default value" />
+<它 id="它3" start="532" end="535" text="pro" type="" comment="default value" />
+<它 id="它4" start="968" end="971" text="pro" type="" comment="default value" />
+<它 id="它5" start="1026" end="1029" text="pro" type="" comment="default value" />
+<它 id="它6" start="1160" end="1163" text="pro" type="" comment="default value" />
+<它 id="它7" start="1196" end="1199" text="pro" type="" comment="default value" />
+<它 id="它8" start="1341" end="1344" text="pro" type="" comment="default value" />
+<它 id="它9" start="1360" end="1363" text="pro" type="" comment="default value" />
+<它 id="它10" start="1385" end="1388" text="pro" type="" comment="default value" />
+<它 id="它11" start="1665" end="1668" text="pro" type="" comment="default value" />
+<它 id="它12" start="1738" end="1741" text="pro" type="" comment="default value" />
+<它 id="它13" start="1786" end="1789" text="pro" type="" comment="default value" />
+<它 id="它14" start="2024" end="2027" text="pro" type="" comment="default value" />
+<它 id="它15" start="2119" end="2122" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="2221" end="2224" text="pro" type="" comment="default value" />
+<event id="ev0" start="752" end="755" text="pro" type="" comment="default value" />
+<generic id="g1" start="936" end="939" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="230" end="233" text="pro" type="" />
+<pleonastic id="p1" start="459" end="462" text="pro" type="" />
+<pleonastic id="p2" start="512" end="515" text="pro" type="" />
+<pleonastic id="p3" start="599" end="602" text="pro" type="" />
+<pleonastic id="p4" start="918" end="921" text="pro" type="" />
+<pleonastic id="p5" start="1466" end="1469" text="pro" type="" />
+<pleonastic id="p6" start="2142" end="2145" text="pro" type="" />
+<previous_utterance id="pr0" start="184" end="187" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="2213" end="2216" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="2273" end="2276" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

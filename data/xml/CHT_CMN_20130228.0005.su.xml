@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0001
+这 是 15 条 线
+msgid=s1m0002
+*pro* 如果 连 13 条 ， *pro* 要 去掉 两 条
+msgid=s2m0003
+*pro* 假设 A B C D E F 六 个 顶点 ， 因为 *pro* 去掉 两 条 线 ， 所以 至多 4 个 顶点 受 影响 ，
+msgid=s3m0003
+*pro* 不妨 设 A B 没 受 影响 ， 即 A B 与 其他 所有 均 有 连线
+msgid=s4m0004
+然后 *pro* 在 *OP* *T*-1 剩下 四 个 点 中 找 两 个 点 ， 他们 互相 有 连线 即 可
+msgid=s5m0004
+（ *pro* 肯定 存在 ， 因为 *pro* 剩下 4 个 点 *pro* 共 有 六 条 线 ， *pro* 只 去掉 了 两 条 ）
+msgid=s6m0005
+第二 问 ， *pro* 去掉 A B , C D , E F 三 条 线 即 可
+msgid=s7m0006
+因为 这样 如果 *pro* 要 取 4 个 点 ， A B C D E F 这 3 组 至少 一 组 要 取 两 个 点 ， 但 这 两 个 点 没有 连线
+msgid=s8m0007
+*pro* 有 问题 *pro* 可以 电话 我
+msgid=s9m0008
+*pro* 平常 一般 都 有空
+msgid=s10m0009
+*pro* 好 的 *pro* 谢谢
+msgid=s11m0010
+*pro* 没 问题 了 ？
+msgid=s12m0011
+这个 还 蛮 简单
+msgid=s13m0012
+竞赛 有 一 类 题 ， *pro* 叫 图论
+msgid=s14m0013
+反正 我们 那 时候 ， 高中 要 学 ， *pro* 超 难 ， *pro* 是 *OP* *T*-1 最 难 的 一 类 题型
+msgid=s15m0014
+*pro* 有 题
+msgid=s16m0015
+发
+msgid=s17m0016
+*pro* 在 拍照
+msgid=s18m0018
+[ 图片 ] *pro* 如果 能 分 ， *pro* 肯定 分成 这样
+msgid=s19m0019
+一 个 1次 × 一 个 2次
+msgid=s20m0020
+然后 ， *pro* 由 条件
+msgid=s21m0021
+d 是 奇数
+msgid=s22m0022
+所以 k 与 n 都 是 奇数
+msgid=s23m0023
+我 网 又 开始 发神经 了
+msgid=s24m0025
+*pro* 打 不 开
+msgid=s25m0028
+*pro* 收 的 到 吗
+msgid=s26m0030
+恩
+msgid=s27m0035
+恩
+msgid=s28m0036
+这 个 题 ， 我 基本 没 怎么 想 *T*-1 ， 因为 方法 比较 确定
+msgid=s29m0037
+代数 题 ， *pro* 把 未知数 设 出来 *-1
+msgid=s30m0038
+然后 *pro* 把 条件 表示 出来 *-1
+msgid=s31m0039
+*pro* 就 OK 了
+msgid=s32m0040
+我 觉得 代数 题 比较 有 方向 ， 就 像 *pro* 有 指南针 ， *pro* 朝 目标 前进 ， *pro* 总 能 做 出来
+msgid=s33m0041
+几何 有的 太 难 ， 辅助线 什么 的 *pro* 完全 搞 不 清楚 *T*-1 ， 像 *OP* *T*-2 无 头 苍蝇 乱 撞
+msgid=s34m0042
+那 是 你 厉害
+msgid=s35m0043
+。
+我 也 是 尽量 把 我 的 感受 与 心得 与 学生 分享 *-1
+msgid=s36m0044
+不过 *pro* 做 题 也 很 重要 ， 我 包 里 一直 放 着 一 本 中等 数学 ， 平常 没 事 就 做
+msgid=s37m0045
+地铁 上 ， *pro* 吃饭 之前 *OP* *pro* *T*-1 等 *pro* 上 饭 等 时候 *pro* 都 做
+msgid=s38m0048
+*pro* 证 *OP* 我 说 *T*-1 的 这个 ， 感觉 *pro* 好 点
+msgid=s39m0049
+恩
+msgid=s40m0050
+因式 分解 就 完 了
+msgid=s41m0052
+*pro* 把 2 ^ 2n 看作 x
+msgid=s42m0053
+*pro* 然后 说明 *pro* 是 100 的 倍数
+msgid=s43m0054
+后面 是 4 的 倍数
+msgid=s44m0055
+然后 *pro* 看 尾数
+msgid=s45m0056
+4 的 奇数 次方 尾数 是 4
+msgid=s46m0057
+所以 前后 两 项 都 是 5 的 倍数
+msgid=s47m0058
+恩
+msgid=s48m0060
+这 是 *pro* 设 的 ， 因为 *pro* 如果 能 分 ， *pro* 肯定 分成 一 个 1次 和 1 个 2次
+msgid=s49m0061
+为何 x = 1
+msgid=s50m0062
+我 想想 ， 这 个 式子 是 要 恒 成立 的
+msgid=s51m0063
+*pro* 令 x = 1 ， 左边 由 条件 是 个 奇数
+msgid=s52m0064
+右边 怎么 算 呢
+msgid=s53m0065
+k *pro* 刚才 说 过 *T*-1 了 *pro* 是 奇数
+msgid=s54m0066
+所以 右边 是 偶数
+msgid=s55m0067
+嗯 ， 这样 简单 些
+msgid=s56m0068
+x = 1 ， *pro* 想 不 明白 *T*-1
+msgid=s57m0069
+*pro* 不 是 ， *pro* 设 了 之后
+msgid=s58m0070
+x 可以 随意 赋值 ， *pro* 都 得 成立
+msgid=s59m0073
+*pro* 就 要 对 所有 x 都 成立
+msgid=s60m0074
+x = 2 也 要 成立
+msgid=s61m0075
+*pro* 可以 随意 赋值
+msgid=s62m0076
+*OP* *pro* *T*-1 设 一 的 理由
+msgid=s63m0077
+观察
+msgid=s64m0078
+很多 时候 *pro* 可以 找 *OP* *T*-1 算 起来 比较 方便 的
+msgid=s65m0079
+我 觉得 理由 主要 是 ， *pro* 设 1 可以 出现 b + c
+msgid=s66m0080
+这样 *pro* 判断 奇偶 比较 方便
+msgid=s67m0081
+万一 只有 1 成立 呢
+msgid=s68m0083
+但是 这 两 个 多想式 并 不 相等
+msgid=s69m0085
+这 才 叫 多项式 相等
+msgid=s70m0086
+换句话说 ， 如果 *pro* 要 相等 ， *pro* 就 意味 着 *pro* 对 任意 x 都 成立
+msgid=s71m0087
+*pro* 必须 恒等 *pro* 是 吧
+msgid=s72m0088
+*pro* 对
+msgid=s73m0089
+因式 分解 ， 属于 一 种 整式 恒等 变形
+msgid=s74m0090
+因式 分解 后 Ｘ 有 固定 解 啊
+msgid=s75m0092
+这 是 因式 分解 ， x 为 任意值 *pro* 都 要 成立 啊
+msgid=s76m0093
+*pro* 话说 明天 明心 考试 咧 ， *pro* 调整 好 状态 啊
+msgid=s77m0094
+*pro* 别 太 累
+msgid=s78m0095
+*pro* 没有 说 等于 0 啊
+msgid=s79m0096
+谁 说 *pro* 等于 0 啊
+msgid=s80m0097
+*pro* 明白 了
+msgid=s81m0098
+*pro* 明天 考 8 年级 不 打紧
+msgid=s82m0099
+哦 。。。
+msgid=s83m0100
+*pro* 是 套读 的
+msgid=s84m0101
+7 年级 呢 ？
+msgid=s85m0102
+7 年级 的 后天
+msgid=s86m0103
+*pro* 现在 都 太 疯狂
+msgid=s87m0104
+*pro* 太 超前 也 不 一定 好
+msgid=s88m0105
+伢 早 睡 了
+msgid=s89m0107
+我 在 看 *OP* 他 *T*-1 有 疑问 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="577" end="580" text="pro" type="" comment="default value" />
+<我 id="我1" start="619" end="622" text="pro" type="" comment="default value" />
+<我 id="我2" start="818" end="821" text="pro" type="" comment="default value" />
+<我 id="我3" start="860" end="863" text="pro" type="" comment="default value" />
+<我 id="我4" start="893" end="896" text="pro" type="" comment="default value" />
+<我 id="我5" start="908" end="911" text="pro" type="" comment="default value" />
+<我 id="我6" start="1083" end="1086" text="pro" type="" comment="default value" />
+<我 id="我7" start="1443" end="1446" text="pro" type="" comment="default value" />
+<我 id="我8" start="1662" end="1665" text="pro" type="" comment="default value" />
+<我 id="我9" start="1679" end="1682" text="pro" type="" comment="default value" />
+<我 id="我10" start="1708" end="1711" text="pro" type="" comment="default value" />
+<我 id="我11" start="2377" end="2380" text="pro" type="" comment="default value" />
+<我 id="我12" start="3133" end="3136" text="pro" type="" comment="default value" />
+<我 id="我13" start="3213" end="3216" text="pro" type="" comment="default value" />
+<我 id="我14" start="3278" end="3281" text="pro" type="" comment="default value" />
+<我 id="我15" start="3304" end="3307" text="pro" type="" comment="default value" />
+<你 id="你2" start="538" end="541" text="pro" type="" comment="default value" />
+<你 id="你3" start="549" end="552" text="pro" type="" comment="default value" />
+<你 id="你4" start="643" end="646" text="pro" type="" comment="default value" />
+<你 id="你5" start="1110" end="1113" text="pro" type="" comment="default value" />
+<你 id="你6" start="1733" end="1736" text="pro" type="" comment="default value" />
+<你 id="你7" start="1766" end="1769" text="pro" type="" comment="default value" />
+<你 id="你8" start="2987" end="2990" text="pro" type="" comment="default value" />
+<你 id="你9" start="3155" end="3158" text="pro" type="" comment="default value" />
+<你 id="你10" start="3186" end="3189" text="pro" type="" comment="default value" />
+<它 id="它0" start="305" end="308" text="pro" type="" comment="default value" />
+<它 id="它1" start="322" end="325" text="pro" type="" comment="default value" />
+<它 id="它2" start="337" end="340" text="pro" type="" comment="default value" />
+<它 id="它3" start="711" end="714" text="pro" type="" comment="default value" />
+<它 id="它4" start="759" end="762" text="pro" type="" comment="default value" />
+<它 id="它5" start="771" end="774" text="pro" type="" comment="default value" />
+<它 id="它6" start="1310" end="1313" text="pro" type="" comment="default value" />
+<它 id="它7" start="1362" end="1365" text="pro" type="" comment="default value" />
+<它 id="它8" start="1870" end="1873" text="pro" type="" comment="default value" />
+<它 id="它9" start="1882" end="1885" text="pro" type="" comment="default value" />
+<它 id="它10" start="2290" end="2293" text="pro" type="" comment="default value" />
+<它 id="它11" start="2411" end="2414" text="pro" type="" comment="default value" />
+<它 id="它12" start="2464" end="2467" text="pro" type="" comment="default value" />
+<它 id="它13" start="2492" end="2495" text="pro" type="" comment="default value" />
+<它 id="它14" start="2904" end="2907" text="pro" type="" comment="default value" />
+<它 id="它15" start="2917" end="2920" text="pro" type="" comment="default value" />
+<它 id="它16" start="2950" end="2953" text="pro" type="" comment="default value" />
+<它 id="它17" start="2962" end="2965" text="pro" type="" comment="default value" />
+<它 id="它18" start="3103" end="3106" text="pro" type="" comment="default value" />
+<它 id="它19" start="3250" end="3253" text="pro" type="" comment="default value" />
+<它 id="它20" start="3361" end="3364" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="88" end="91" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="121" end="124" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="41" end="44" text="pro" type="" comment="default value" />
+<我们 id="我们3" start="59" end="62" text="pro" type="" comment="default value" />
+<我们 id="我们4" start="172" end="175" text="pro" type="" comment="default value" />
+<我们 id="我们5" start="234" end="237" text="pro" type="" comment="default value" />
+<我们 id="我们6" start="355" end="358" text="pro" type="" comment="default value" />
+<我们 id="我们7" start="395" end="398" text="pro" type="" comment="default value" />
+<我们 id="我们8" start="453" end="456" text="pro" type="" comment="default value" />
+<我们 id="我们9" start="974" end="977" text="pro" type="" comment="default value" />
+<我们 id="我们10" start="1235" end="1238" text="pro" type="" comment="default value" />
+<我们 id="我们11" start="1274" end="1277" text="pro" type="" comment="default value" />
+<我们 id="我们12" start="1376" end="1379" text="pro" type="" comment="default value" />
+<我们 id="我们13" start="1392" end="1395" text="pro" type="" comment="default value" />
+<我们 id="我们14" start="1835" end="1838" text="pro" type="" comment="default value" />
+<我们 id="我们15" start="1944" end="1947" text="pro" type="" comment="default value" />
+<我们 id="我们16" start="2059" end="2062" text="pro" type="" comment="default value" />
+<我们 id="我们17" start="2074" end="2077" text="pro" type="" comment="default value" />
+<我们 id="我们18" start="2089" end="2092" text="pro" type="" comment="default value" />
+<我们 id="我们19" start="2196" end="2199" text="pro" type="" comment="default value" />
+<我们 id="我们20" start="2269" end="2272" text="pro" type="" comment="default value" />
+<我们 id="我们21" start="2423" end="2426" text="pro" type="" comment="default value" />
+<我们 id="我们22" start="2557" end="2560" text="pro" type="" comment="default value" />
+<我们 id="我们23" start="2592" end="2595" text="pro" type="" comment="default value" />
+<我们 id="我们24" start="2652" end="2655" text="pro" type="" comment="default value" />
+<我们 id="我们25" start="2717" end="2720" text="pro" type="" comment="default value" />
+<我们 id="我们26" start="2757" end="2760" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="3438" end="3441" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="3469" end="3472" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="2891" end="2894" text="pro" type="" comment="default value" />
+<generic id="g0" start="1585" end="1588" text="pro" type="" comment="default value" />
+<generic id="g1" start="1693" end="1696" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="609" end="612" text="pro" type="" />
+</TAGS>
+</ProTask>

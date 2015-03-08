@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+小小 新年 快乐 ！
+*pro* 回来 了 吗
+suid=s1
+*pro* 刚刚 回来 ， 哎 可 累死 啦
+suid=s2
+*pro* 刚 从 DC 回 ？
+suid=s3
+*pro* 对
+suid=s4
+*pro* 9点钟 的 时候 开 回来
+suid=s5
+你 这 两 天 咋 过 的
+suid=s6
+*pro* 看看 书 看看 电影 你 呢 和 家人 好 吧
+suid=s7
+哎
+suid=s8
+*pro* 当 向导
+suid=s9
+*pro* 大 冬天 逛 华盛顿
+suid=s10
+哈哈
+suid=s11
+然后 *pro* 真 觉得 *PRO* 顶 不 住 了
+suid=s12
+大 冬天 逛 好玩 吗 我 1月 7号 去 玩
+suid=s13
+*pro* 所以 夜奔 回来 了
+suid=s14
+*OP* *T*-1 可怜 的 孩子 好好 休息
+suid=s15
+小小 我 今天 去 baltimore 了 *pro* 还 不错 ！
+suid=s16
+*pro* 吃 螃蟹 吗
+suid=s17
+*pro* 鲜美 不 ？
+suid=s18
+*pro* 没有 螃蟹 吃 的 虾 *pro* 挺 鲜美 的
+suid=s19
+*pro* 不错 呀呀呀
+suid=s20
+恩 *pro* 做 megabus 去 的 才 一 块
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="42" end="45" text="pro" type="" comment="default value" />
+<我 id="我1" start="114" end="117" text="pro" type="" comment="default value" />
+<我 id="我2" start="164" end="167" text="pro" type="" comment="default value" />
+<我 id="我3" start="212" end="215" text="pro" type="" comment="default value" />
+<我 id="我4" start="231" end="234" text="pro" type="" comment="default value" />
+<我 id="我5" start="272" end="275" text="pro" type="" comment="default value" />
+<我 id="我6" start="339" end="342" text="pro" type="" comment="default value" />
+<我 id="我7" start="487" end="490" text="pro" type="" comment="default value" />
+<我 id="我8" start="551" end="554" text="pro" type="" comment="default value" />
+<你 id="你0" start="21" end="24" text="pro" type="" comment="default value" />
+<你 id="你1" start="73" end="76" text="pro" type="" comment="default value" />
+<你 id="你2" start="98" end="101" text="pro" type="" comment="default value" />
+<你 id="你3" start="443" end="446" text="pro" type="" comment="default value" />
+<你 id="你4" start="527" end="530" text="pro" type="" comment="default value" />
+<它 id="它0" start="421" end="424" text="pro" type="" comment="default value" />
+<它 id="它1" start="465" end="468" text="pro" type="" comment="default value" />
+<它 id="它2" start="505" end="508" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

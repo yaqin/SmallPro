@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我 能 不 能 周三 跟 你 去 公司 面试 啊
+suid=s1
+*pro* 好 啊 但是 你 回来 *pro* 怎么办 阿
+suid=s2
+公交 俩 小时 .....
+suid=s3
+*pro* 晕 你 不 借 车 啊 *pro* 租 车子 也 比 *pro* 坐车 要 好 啊
+suid=s4
+等 *pro* 定 下来 *pro* 在 租 吧
+suid=s5
+这样 不 好 我 老板 她 其实 今天 问 过 我 你 车子 的 问题 我 没 敢 回答 她 要是 *pro* 看到 我 开车 送 你 *PRO* 去 *pro* 可能 会 影响 *OP* 你 *T*-1 上班 的 情况
+suid=s6
+但 我 现在 也 来 不 及 租 了 啊
+suid=s7
+你们 老板 一定 要 有 自己 的 车 啊 *pro* 拼车 都 不 行 啊
+suid=s8
+*pro* 不 行 啊 你 是 要 每 天 上班 的 不 是 兼职
+suid=s9
+当场 *pro* 要 有 车 才 行 啊 我们 之前 面 过 几 个 *pro* 没 车 *pro* 直接 挂 的
+suid=s10
+可是 我 也 不 可能 每 天 上班 呀 , 我 也 要 准备 考试 的 啊
+suid=s11
+如果 他 觉得 我 可以 我 就 马上 去 租 车
+suid=s12
+.... 我 只 能 说 我 之前 也 推介 过 几 个 人 但是 *pro* 一 听 *pro* 没 车 *pro* 就 放弃 了 所以 我 是 担心 *pro* 面试 会 白 面
+suid=s13
+嗨 那 要不 我 先 看看 *OP* *T*-1 租 车 的
+suid=s14
+你 知道 *pro* 上 哪 租 比较 好 吗
+suid=s15
+*pro* 租 车 我 不 太 清楚 *T*-1 我 自己 一直 都 有 车 的 所以 *pro* 没 注意 过 呢 不过 你 可以 问问 同学 看看 他们 是否 方便 送 你 *PRO* 过去
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="103" end="106" text="pro" type="" comment="default value" />
+<我 id="我1" start="161" end="164" text="pro" type="" comment="default value" />
+<我 id="我2" start="172" end="175" text="pro" type="" comment="default value" />
+<我 id="我3" start="362" end="365" text="pro" type="" comment="default value" />
+<我 id="我4" start="725" end="728" text="pro" type="" comment="default value" />
+<我 id="我5" start="797" end="800" text="pro" type="" comment="default value" />
+<你 id="你0" start="61" end="64" text="pro" type="" comment="default value" />
+<你 id="你1" start="121" end="124" text="pro" type="" comment="default value" />
+<你 id="你2" start="136" end="139" text="pro" type="" comment="default value" />
+<你 id="你3" start="387" end="390" text="pro" type="" comment="default value" />
+<你 id="你4" start="432" end="435" text="pro" type="" comment="default value" />
+<你 id="你5" start="656" end="659" text="pro" type="" comment="default value" />
+<她 id="她0" start="242" end="245" text="pro" type="" comment="default value" />
+<她 id="她1" start="613" end="616" text="pro" type="" comment="default value" />
+<她 id="她2" start="623" end="626" text="pro" type="" comment="default value" />
+<她 id="她3" start="633" end="636" text="pro" type="" comment="default value" />
+<她们 id="她们0" start="464" end="467" text="pro" type="" comment="default value" />
+<她们 id="她们1" start="474" end="477" text="pro" type="" comment="default value" />
+<event id="ev0" start="268" end="271" text="pro" type="" comment="default value" />
+<generic id="g0" start="753" end="756" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="43" end="46" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

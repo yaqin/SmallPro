@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+亲 视频 呢
+suid=s1
+恩恩 。。 我们 班 的 视频 还 在 做 [ 表情 ]
+suid=s2
+[ 表情 ] *pro* 预计 *pro* 何时 完工 。。
+suid=s3
+*pro* 今晚 完工 [ 表情 ]
+suid=s4
+现在 *pro* 有 一 个 做完 了 。。 *pro* 先 发 过去 ？
+suid=s5
+*pro* 一块 吧
+suid=s6
+恩恩 。。 明早 可以 么 ？
+suid=s7
+嗯 明 中午 吧 *pro* 别 熬 太 晚 了 *pro* 做完 了 *pro* 告诉 我 我 让 我们 部 干事 *PRO* 去 找 你 *PRO* 拷
+suid=s8
+嗯 *pro* 成 。
+[ 表情 ] *pro* 谢谢 了 哈
+suid=s9
+*pro* ok 了 吗
+suid=s10
+嗯
+suid=s11
+*pro* 都 完成 ； 饿 ？
+suid=s12
+嗯 。
+*pro* 必须 滴 。
+suid=s13
+*pro* 一共 就 三 个 [ 表情 ]
+suid=s14
+你 在 哪 个 宿舍 我 找 人 *PRO* 去 拷
+suid=s15
+619 [ 表情 ] 我 晚上 送 过去 ？
+suid=s16
+我 找 我们 部 的 *PRO* 去 你 宿舍 拷 就 行 啦 。
+suid=s17
+恩恩 。
+*pro* 成 。。 *pro* 让 奎 *PRO* 来 吧 [ 表情 ]
+suid=s18
+我 还 能 吩咐 动 他 么 。。
+suid=s19
+*pro* 必须 能 呗 [ 表情 ] 我 都 想 他 了
+suid=s20
+我 下去 吃饭 准备 晚自习 了 哈 。。 [ 表情 ]
+suid=s21
+*pro* 等 会 。
+suid=s22
+啊 ？
+suid=s23
+*pro* 找 人 *PRO* 去 拷 啊 啊啊
+suid=s24
+*pro* 下 了 晚自习 就 好 。。
+suid=s25
+现在 七点半 *pro* 就 下 晚自习 了
+suid=s26
+哦哦 那 行
+suid=s27
+恩恩 。。 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="101" end="104" text="pro" type="" comment="default value" />
+<我 id="我1" start="131" end="134" text="pro" type="" comment="default value" />
+<我 id="我2" start="151" end="154" text="pro" type="" comment="default value" />
+<我 id="我3" start="323" end="326" text="pro" type="" comment="default value" />
+<我 id="我4" start="407" end="410" text="pro" type="" comment="default value" />
+<我 id="我5" start="761" end="764" text="pro" type="" comment="default value" />
+<我 id="我6" start="795" end="798" text="pro" type="" comment="default value" />
+<你 id="你0" start="69" end="72" text="pro" type="" comment="default value" />
+<你 id="你1" start="78" end="81" text="pro" type="" comment="default value" />
+<你 id="你2" start="174" end="177" text="pro" type="" comment="default value" />
+<你 id="你3" start="226" end="229" text="pro" type="" comment="default value" />
+<你 id="你4" start="242" end="245" text="pro" type="" comment="default value" />
+<你 id="你5" start="253" end="256" text="pro" type="" comment="default value" />
+<你 id="你6" start="377" end="380" text="pro" type="" comment="default value" />
+<你 id="你7" start="587" end="590" text="pro" type="" comment="default value" />
+<你 id="你8" start="650" end="653" text="pro" type="" comment="default value" />
+<你 id="你9" start="727" end="730" text="pro" type="" comment="default value" />
+<它 id="它0" start="344" end="347" text="pro" type="" comment="default value" />
+<它 id="它1" start="429" end="432" text="pro" type="" comment="default value" />
+<它 id="它2" start="832" end="835" text="pro" type="" comment="default value" />
+<event id="ev0" start="306" end="309" text="pro" type="" comment="default value" />
+<event id="ev1" start="576" end="579" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

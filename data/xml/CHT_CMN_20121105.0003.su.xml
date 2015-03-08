@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+图图 手术 了 吗 ？
+suid=s1
+明天 *pro* 入院 检查 ， *pro* 正常 *pro* 周四 手术 。
+suid=s2
+*pro* 生日 快乐 ， 亲爱 的 朋友 ！
+suid=s3
+*pro* 谢谢 ！
+suid=s4
+*pro* 很 开心 生命 中 有 你
+suid=s5
+*pro* 有 你 在 世界 的 一 角 心里 暖暖 的
+suid=s6
+我 也 开心 。
+suid=s7
+*pro* 今天 上 一 天 班 ， 周二 到 周五 都 请假
+suid=s8
+北京 很 冷 ， *pro* 别 冻着 了 。
+suid=s9
+*pro* 下 周 可能 还 要 请假
+suid=s10
+*pro* 谢谢 、、 ！
+*pro* 有 你 心 暖
+suid=s11
+图图 最 重要 ， 工作 *pro* 放 一 放 *T*-1 。
+suid=s12
+*pro* 是 的 ， 工作 不过 到 60 ， 图图 是 一生 的 牵挂
+suid=s13
+*pro* 有 家人 帮忙 吗 ？
+suid=s14
+*pro* 没有 ， 我 和 ———— 。
+———— 本来 要 出差 ， 推 了
+suid=s15
+不过 他 *pro* 过 一 周 还是 要 出差 ， 去 欧洲 10 天
+suid=s16
+那 你 辛苦
+suid=s17
+*pro* 挺挺 就 过去 了 。
+我们 都 差不多 情况 ， 都 很 辛苦
+suid=s18
+我 下 礼拜 也 得 出差 一 周 。
+suid=s19
+那 妞妞 怎么办 ？
+老爸 请假 ？
+suid=s20
+妞妞 上 幼儿园 ， 他 爸 接送 ， *pro* 照顾 他
+suid=s21
+*pro* 不 容易
+suid=s22
+孩子 大 些 就 好 了
+suid=s23
+上 次 我 出差 十 天 他 爸 都 顶 过去 了 ， *pro* 没 问题 的 。
+suid=s24
+*pro* 加油
+suid=s25
+*pro* 一起 加油 ， 共同 进步 ， 早日 把 孩子 拉扯 大 *-1 [ 表情 ]
+suid=s26
+哈哈
+suid=s27
+我 叠 衣服 去 了 。
+*pro* 保重 。
+图图 平安 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="110" end="113" text="pro" type="" comment="default value" />
+<我 id="我1" start="129" end="132" text="pro" type="" comment="default value" />
+<我 id="我2" start="157" end="160" text="pro" type="" comment="default value" />
+<我 id="我3" start="211" end="214" text="pro" type="" comment="default value" />
+<我 id="我4" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我5" start="312" end="315" text="pro" type="" comment="default value" />
+<我 id="我6" start="326" end="329" text="pro" type="" comment="default value" />
+<我 id="我7" start="465" end="468" text="pro" type="" comment="default value" />
+<我 id="我8" start="577" end="580" text="pro" type="" comment="default value" />
+<你 id="你0" start="78" end="81" text="pro" type="" comment="default value" />
+<你 id="你1" start="260" end="263" text="pro" type="" comment="default value" />
+<你 id="你2" start="362" end="365" text="pro" type="" comment="default value" />
+<你 id="你3" start="438" end="441" text="pro" type="" comment="default value" />
+<你 id="你4" start="816" end="819" text="pro" type="" comment="default value" />
+<你 id="你5" start="914" end="917" text="pro" type="" comment="default value" />
+<他 id="他0" start="33" end="36" text="pro" type="" comment="default value" />
+<他 id="他1" start="56" end="59" text="pro" type="" comment="default value" />
+<他 id="他2" start="702" end="705" text="pro" type="" comment="default value" />
+<他 id="他3" start="792" end="795" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="834" end="837" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="722" end="725" text="pro" type="" comment="default value" />
+<generic id="g0" start="47" end="50" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="520" end="523" text="pro" type="" />
+<previous_utterance id="pr0" start="391" end="394" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

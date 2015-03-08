@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 忙 吗
+suid=s1
+*pro* 在
+suid=s2
+*pro* 有没有 统一 *pro* 送 多少 钱
+suid=s3
+恩
+suid=s4
+个人 吗 ？
+suid=s5
+茵 说 *pro* 没有 统一
+suid=s6
+集体 还 有 钱 呀
+suid=s7
+恩
+suid=s8
+集体 有 5000 元
+suid=s9
+那个 *pro* 是 不 用 出 *T*-1 的
+suid=s10
+哦 ， 个人 送 多少 一般
+suid=s11
+*pro* 有没有 什么 *OP* *pro* 讲究 *T*-1 的
+suid=s12
+我 送 了 1000
+suid=s13
+*pro* 听到 这 个 消息 真是 心理 难受 ， *pro* 一直 不 知道 她 家 是 这 个 情况
+suid=s14
+你 不 知道 呀
+suid=s15
+*pro* 很多 年 了
+suid=s16
+*pro* 一直 被 *OP* 痛苦 折磨 *T*-1
+suid=s17
+她 也 是 受苦 了
+suid=s18
+*pro* 不 知道 ， 之前 *pro* 好像 有 人 说 过 他 老公 身体 不 好 ， 我 就 是 以为 一般 的 小 毛病
+suid=s19
+*OP* *T*-1 可怜 的 慧英
+suid=s20
+所以 今天 *pro* 一 听 *pro* 真是 不 能 接受 。
+suid=s21
+怪不得 这些 日了 *pro* 不 见 她
+suid=s22
+所以 *OP* *pro* *T*-1 过年 的 时候 燮华 把 慧英 搞哭 了 *-2 ， 我 很 生气 撒
+suid=s23
+哦 。
+我 真的 不 明白 这 其中 的 事
+suid=s24
+英 *OP* *T*-1 也 很 坚强 的 一 个 好 女人
+suid=s25
+账号 是 什么
+suid=s26
+*pro* 看 得 到 吗 ？
+suid=s27
+*pro* 看到 了 ， 我 去 忙 会 。
+suid=s28
+恩
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="31" text="pro" type="" comment="default value" />
+<我 id="我1" start="298" end="301" text="pro" type="" comment="default value" />
+<我 id="我2" start="325" end="328" text="pro" type="" comment="default value" />
+<我 id="我3" start="458" end="461" text="pro" type="" comment="default value" />
+<我 id="我4" start="567" end="570" text="pro" type="" comment="default value" />
+<我 id="我5" start="577" end="580" text="pro" type="" comment="default value" />
+<我 id="我6" start="614" end="617" text="pro" type="" comment="default value" />
+<我 id="我7" start="814" end="817" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="44" end="47" text="pro" type="" comment="default value" />
+<你 id="你2" start="57" end="60" text="pro" type="" comment="default value" />
+<你 id="你3" start="179" end="182" text="pro" type="" comment="default value" />
+<你 id="你4" start="789" end="792" text="pro" type="" comment="default value" />
+<她 id="她0" start="107" end="110" text="pro" type="" comment="default value" />
+<她 id="她1" start="379" end="382" text="pro" type="" comment="default value" />
+<她 id="她2" start="401" end="404" text="pro" type="" comment="default value" />
+<它 id="它0" start="234" end="237" text="pro" type="" comment="default value" />
+<它 id="它1" start="252" end="255" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="474" end="477" text="pro" type="" />
+<pleonastic id="p1" start="643" end="646" text="pro" type="" />
+</TAGS>
+</ProTask>

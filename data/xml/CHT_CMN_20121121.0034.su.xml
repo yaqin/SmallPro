@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+印刷 委托书 拿到 了
+suid=s1
+我 扫描 下 发给 你
+suid=s2
+原件 我 今天 寄 出去 *T*-1
+suid=s3
+*pro* 太 好 了 *pro* 谢谢 啦
+suid=s4
+*pro* 好 的 *pro* 辛苦 了
+suid=s5
+原件 *pro* 寄给 你 *T*-1 就 行 了 吧 ？
+suid=s6
+*pro* 稍等 我 问 一下 印厂 那边
+suid=s7
+*pro* 好 的
+suid=s8
+*pro* 直接 寄给 我 吧
+suid=s9
+*pro* 对 了 ， 印刷厂 的 收款 证明 原件 还 没 寄 过来
+suid=s10
+吗 ？
+suid=s11
+*pro* 什么 时候 能 到 ？
+suid=s12
+我 马上 问
+suid=s13
+*pro* 好
+suid=s14
+*pro* 稍等 哈 *pro* 正在 问 印厂 那边 呢
+suid=s15
+*pro* 对 ，
+suid=s16
+*pro* 是 传真 ， 但 *pro* 不 知道 *pro* 是 谁 传 的
+suid=s17
+*pro* 不好意思 ， 我们 没 协调 好 。
+suid=s18
+*pro* 可以 ， 一般 我 应该 在 *pro* 拿到 证明 后 才 寄出 委印单 的 。
+委印单 刚刚 寄 出去 了 ， 你 注意 *PRO* 查收
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="89" end="92" text="pro" type="" comment="default value" />
+<我 id="我1" start="140" end="143" text="pro" type="" comment="default value" />
+<我 id="我2" start="376" end="379" text="pro" type="" comment="default value" />
+<我 id="我3" start="438" end="441" text="pro" type="" comment="default value" />
+<我 id="我4" start="472" end="475" text="pro" type="" comment="default value" />
+<我 id="我5" start="527" end="530" text="pro" type="" comment="default value" />
+<你 id="你0" start="118" end="121" text="pro" type="" comment="default value" />
+<你 id="你1" start="175" end="178" text="pro" type="" comment="default value" />
+<你 id="你2" start="223" end="226" text="pro" type="" comment="default value" />
+<你 id="你3" start="365" end="368" text="pro" type="" comment="default value" />
+<它 id="它0" start="305" end="308" text="pro" type="" comment="default value" />
+<它 id="它1" start="423" end="426" text="pro" type="" comment="default value" />
+<它 id="它2" start="449" end="452" text="pro" type="" comment="default value" />
+<event id="ev0" start="77" end="80" text="pro" type="" comment="default value" />
+<event id="ev1" start="506" end="509" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="205" end="208" text="pro" type="" />
+<previous_utterance id="pr0" start="108" end="111" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="247" end="250" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="348" end="351" text="pro" type="" comment="default value" />
+<previous_utterance id="pr3" start="404" end="407" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

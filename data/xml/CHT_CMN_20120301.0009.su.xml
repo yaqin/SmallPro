@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 明天 想 *PRO* 去 ROSE 么
+suid=s1
+*pro* 啥 时候 ？
+suid=s2
+你 那 个 钱 什么 时候 交 *-1 啊
+suid=s3
+早上 吧
+suid=s4
+*pro* 貌似 只有 花期 银行 有 银联
+suid=s5
+哦
+suid=s6
+*pro* *pro* 这样 的话 只 能 去 中国 城 那边
+suid=s7
+但是 我们 这边 貌似 *pro* 没有 花期
+suid=s8
+花旗
+suid=s9
+*pro* 是 啊 所以 要不 我 就 明早 去 一 趟
+suid=s10
+？
+*pro* 去 哪儿 ？
+suid=s11
+银行
+suid=s12
+*pro* 去 中国 城 那边 啊 ， 你 要 有 时间 咱 就 顺道 去 ROSE *pro* 没 时间 我 就 回来 了
+suid=s13
+就 *pro* rose 附近 *pro* 貌似
+suid=s14
+*pro* 好 的
+suid=s15
+你 想 *PRO* 去 啊 [ 表情 ]
+suid=s16
+*pro* 去 rose 啊
+suid=s17
+哈哈 我 压抑 好久 了
+suid=s18
+哈哈 *pro* 好 吧
+suid=s19
+*pro* 要 释放 下
+suid=s20
+哈哈哈 [ 表情 ]
+suid=s21
+我 带 你 *PRO* 去 做 30 姐 的 火车
+suid=s22
+*pro* 好 的 传说 中 的 火车
+suid=s23
+嗯 [ 表情 ]
+suid=s24
+你 在 学校 电脑 可以 上 qq ？
+suid=s25
+我 带 自己 的 电脑 啊
+suid=s26
+哦 *pro* soga
+suid=s27
+网页 版 也 能 上 啊 只不过 学校 电脑 没有 中文
+suid=s28
+网页 版 的 好像 很 慢 呢
+suid=s29
+*pro* 还 行 *pro* 看 网速 吧
+suid=s30
+*pro* 几点 走 啊
+suid=s31
+明早
+suid=s32
+你 想 *PRO* 啥 时 走 ？
+suid=s33
+9点 啊
+suid=s34
+*pro* 行
+suid=s35
+那 今晚 *pro* 要 早 睡 了
+suid=s36
+*pro* 回来 我 跟 你 一块 去 交 房租
+suid=s37
+嗯
+suid=s38
+哎呀 我 下午 1点半 到 两点 有 writing coach 我们 啥 时候 回来 ？
+suid=s39
+估计 11点 吧 *pro* 去完 ROSE *pro* 就 回来
+suid=s40
+*pro* 就 不 去 别的 地儿 了 吧 *pro* 也 没有 体力
+suid=s41
+*pro* 好 的 反正 我 1点钟 要 赶 回来
+suid=s42
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="149" end="152" text="pro" type="" comment="default value" />
+<我 id="我1" start="529" end="532" text="pro" type="" comment="default value" />
+<我 id="我3" start="919" end="922" text="pro" type="" comment="default value" />
+<我 id="我4" start="942" end="945" text="pro" type="" comment="default value" />
+<我 id="我5" start="1051" end="1054" text="pro" type="" comment="default value" />
+<我 id="我6" start="1065" end="1068" text="pro" type="" comment="default value" />
+<我 id="我7" start="1085" end="1088" text="pro" type="" comment="default value" />
+<我 id="我8" start="1107" end="1110" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你2" start="272" end="275" text="pro" type="" comment="default value" />
+<你 id="你3" start="306" end="309" text="pro" type="" comment="default value" />
+<你 id="你4" start="349" end="352" text="pro" type="" comment="default value" />
+<你 id="你6" start="461" end="464" text="pro" type="" comment="default value" />
+<你 id="你8" start="822" end="825" text="pro" type="" comment="default value" />
+<它 id="它0" start="44" end="47" text="pro" type="" comment="default value" />
+<它 id="它1" start="394" end="397" text="pro" type="unsure" comment="default value" />
+<它 id="它2" start="790" end="793" text="pro" type="" comment="default value" />
+<它 id="它3" start="800" end="803" text="pro" type="" comment="default value" />
+<它 id="它4" start="897" end="900" text="pro" type="" comment="default value" />
+<existential id="e0" start="201" end="204" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="108" end="111" text="pro" type="" />
+<pleonastic id="p1" start="155" end="158" text="pro" type="" />
+<pleonastic id="p2" start="232" end="235" text="pro" type="" />
+<pleonastic id="p3" start="380" end="383" text="pro" type="unsure" />
+<pleonastic id="p4" start="412" end="415" text="pro" type="" />
+<pleonastic id="p5" start="510" end="513" text="pro" type="" />
+<pleonastic id="p6" start="606" end="609" text="pro" type="" />
+<pleonastic id="p7" start="1130" end="1133" text="pro" type="" />
+<other id="o0" start="707" end="710" text="pro" type="unsure" comment="default value" />
+</TAGS>
+</ProTask>

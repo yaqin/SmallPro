@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+龟帅
+suid=s1
+*pro* 在 李 sir
+suid=s2
+*pro* 还 没有 睡觉 的 啊 ？
+suid=s3
+*pro* 没 呢 *pro* 网购 呢 *pro* 看看 *pro* 有没有 便宜 货
+suid=s4
+你 砸 没 睡 啊
+suid=s5
+*pro* 有 *OP* *T*-1 便宜 的 没有 ？
+suid=s6
+*pro* 没有 看见 什么 *OP* *T*-1 特别 便宜 的 *pro* 都 是 五 折
+suid=s7
+*pro* 还是 挺 贵 的 a
+suid=s8
+哦 ， 我 还 准备 *PRO* 去 看看 呢
+suid=s9
+*pro* 估计 价钱 都 不 便宜 吧 ？
+suid=s10
+哈哈 明天 *pro* 休息 白 ？
+suid=s11
+*pro* 休息 ， *pro* 今天 快 废 了
+suid=s12
+嗯 *pro* 都 不 咋 便宜 没 什么 诱惑力
+suid=s13
+*pro* 咋 了 *pro* 干 嘛 去 了
+suid=s14
+*pro* 跟 谁 啊
+suid=s15
+张衡 ， 熊 ，
+suid=s16
+擦 你们 又 喝 了 *pro* 真 爽 啊
+suid=s17
+额 ， 昨天 *pro* 喝 啤酒 喝 的 伤 了 ，
+suid=s18
+今天 熊 又 让 *pro* 喝 啤酒 了 ，
+suid=s19
+唉 ，
+suid=s20
+*pro* 喝 多少 啊 *pro* 给 你 合成 这样
+suid=s21
+你们 今天 也 喝 了 》 ？
+suid=s22
+*pro* 是 的
+suid=s23
+*pro* 昨天 在 KTV 喝 的
+suid=s24
+今天 *pro* 是 吃饭
+suid=s25
+*pro* 过年 *pro* 回来 *pro* 肯定 少 不 了 你 的
+suid=s26
+*pro* 肿么 会 忘记 你 呢 ？
+suid=s27
+*pro* 好 吧 我 等 着 呢
+suid=s28
+我 先 睡 了 啊 ， *pro* 真心 困
+suid=s29
+张衡 今天 晚上 啤酒 也 喝 不少 *-1
+suid=s30
+嗯 *pro* 行 *pro* 赶紧 睡 吧
+suid=s31
+*pro* 晚安 哈
+suid=s32
+嗯 *pro* 安安
+suid=s33
+*pro* 在 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="21" end="24" text="pro" type="" comment="default value" />
+<我 id="我1" start="71" end="74" text="pro" type="" comment="default value" />
+<我 id="我2" start="81" end="84" text="pro" type="" comment="default value" />
+<我 id="我3" start="92" end="95" text="pro" type="" comment="default value" />
+<我 id="我4" start="179" end="182" text="pro" type="" comment="default value" />
+<我 id="我5" start="292" end="295" text="pro" type="" comment="default value" />
+<我 id="我6" start="352" end="355" text="pro" type="" comment="default value" />
+<我 id="我7" start="363" end="366" text="pro" type="" comment="default value" />
+<我 id="我8" start="533" end="536" text="pro" type="" comment="default value" />
+<我 id="我9" start="572" end="575" text="pro" type="" comment="default value" />
+<我 id="我10" start="672" end="675" text="pro" type="" comment="default value" />
+<我 id="我11" start="691" end="694" text="pro" type="" comment="default value" />
+<我 id="我12" start="722" end="725" text="pro" type="" comment="default value" />
+<我 id="我13" start="788" end="791" text="pro" type="" comment="default value" />
+<我 id="我14" start="856" end="859" text="pro" type="" comment="default value" />
+<你 id="你0" start="43" end="46" text="pro" type="" comment="default value" />
+<你 id="你1" start="422" end="425" text="pro" type="" comment="default value" />
+<你 id="你2" start="432" end="435" text="pro" type="" comment="default value" />
+<你 id="你3" start="455" end="458" text="pro" type="" comment="default value" />
+<你 id="你4" start="609" end="612" text="pro" type="" comment="default value" />
+<你 id="你5" start="751" end="754" text="pro" type="" comment="default value" />
+<你 id="你6" start="918" end="921" text="pro" type="" comment="default value" />
+<你 id="你7" start="940" end="943" text="pro" type="" comment="default value" />
+<你 id="你8" start="962" end="965" text="pro" type="" comment="default value" />
+<你 id="你9" start="980" end="983" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="505" end="508" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="622" end="625" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="760" end="763" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="213" end="216" text="pro" type="" comment="default value" />
+<它们 id="它们1" start="235" end="238" text="pro" type="" comment="default value" />
+<它们 id="它们2" start="389" end="392" text="pro" type="" comment="default value" />
+<existential id="e0" start="101" end="104" text="pro" type="" comment="default value" />
+<existential id="e1" start="142" end="145" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="330" end="333" text="pro" type="" />
+<pleonastic id="p1" start="742" end="745" text="pro" type="" />
+<previous_utterance id="pr0" start="817" end="820" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="910" end="913" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

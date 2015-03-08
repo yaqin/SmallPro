@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 忽然 很 失落 ...
+suid=s1
+*pro* 怎么 了 ，
+suid=s2
+*pro* 想 *PRO* 有 男朋友 了
+suid=s3
+*pro* 淡定 哪 ， *pro* 对 教授 有 动心 了 ？
+suid=s4
+*pro* 想 *PRO* 嫁人 了
+suid=s5
+嗯 ， 但是 *pro* 可以 再 观察 观察 呗
+suid=s6
+这 种 心态 ， 有时候 我 也 有 *T*-1 ， *pro* 想 *PRO* 安定 下来 。
+suid=s7
+你 觉得 教授 怎样 呀
+suid=s8
+他 不 适合 我 结婚 对象
+suid=s9
+你 不 是 刚刚 还 出去 玩 吗
+suid=s10
+心情 变化 这么 快
+suid=s11
+*pro* 就 是 忽然 的 他 也 搞 不 懂 我 怎么 回 事 *pro* 给 我 打 电话 我 没 接
+suid=s12
+*pro* 就 是 女孩 的 心思 如 海底 针
+suid=s13
+*pro* 越 让 人 *PRO* 捉摸不透 ， 越 令 男人 *PRO* 着迷
+suid=s14
+呵呵 *pro* 可是 就是 和 你 聊聊 呢
+suid=s15
+*pro* 最近 都 太 忙 了 ， 应该 找 你 *PRO* 聊聊 的 ， 哈哈
+suid=s16
+*pro* 关心 一下
+suid=s17
+你 最近 都 不 关心 我 的
+suid=s18
+*OP* *pro* *T*-1 来 美国 这 两 年 *OP* *pro* 该 过 *T*-2 的 节日 *pro* 都 没 好好 过 过 *T*-3
+suid=s19
+端午节 又 该 到 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="57" end="60" text="pro" type="" comment="default value" />
+<我 id="我2" start="128" end="131" text="pro" type="" comment="default value" />
+<我 id="我3" start="216" end="219" text="pro" type="" comment="default value" />
+<我 id="我4" start="337" end="340" text="pro" type="" comment="default value" />
+<我 id="我5" start="488" end="491" text="pro" type="" comment="default value" />
+<我 id="我6" start="518" end="521" text="pro" type="" comment="default value" />
+<我 id="我7" start="569" end="572" text="pro" type="" comment="default value" />
+<我 id="我8" start="620" end="623" text="pro" type="" comment="default value" />
+<我 id="我9" start="648" end="651" text="pro" type="" comment="default value" />
+<我 id="我10" start="669" end="672" text="pro" type="" comment="default value" />
+<你 id="你0" start="36" end="39" text="pro" type="" comment="default value" />
+<你 id="你1" start="87" end="90" text="pro" type="" comment="default value" />
+<你 id="你2" start="100" end="103" text="pro" type="" comment="default value" />
+<你 id="你3" start="162" end="165" text="pro" type="" comment="default value" />
+<他 id="他0" start="371" end="374" text="pro" type="" comment="default value" />
+<它 id="它0" start="435" end="438" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="401" end="404" text="pro" type="" />
+</TAGS>
+</ProTask>

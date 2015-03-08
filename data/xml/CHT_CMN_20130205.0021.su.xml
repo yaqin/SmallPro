@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 不
+suid=s1
+*pro* 问 你 个 事
+suid=s2
+？
+suid=s3
+*pro* 有没有 认识 联众 舜通 驾校 的 ！！
+suid=s4
+... *pro* 听 *pro* 都 没 听 过
+suid=s5
+靠 ！！
+suid=s6
+*pro* 给 打听 打听 ！！ *pro* 看看 *pro* 有 *OP* *pro* 认识 *T*-1 的 吗 ？
+suid=s7
+*pro* 咋 了 ， 谁 考 啊
+suid=s8
+这 年头 *pro* 找 人 貌似 不 好使 了
+suid=s9
+我 和 我 媳妇 ！！ *pro* 不 是 考试 的 问题 ！
+现在 就是 *pro* 练 车 都 没有 机会 ！！
+suid=s10
+*pro* 看看 *pro* 有 人 的话 ， *pro* 多 练练 ， 早点 考 出来 了
+suid=s11
+哦 ， *pro* 这么 严重 啊
+suid=s12
+*pro* 还 真 不 认识 这 个 驾校 的 人
+suid=s13
+*pro* 是 呀 ！
+*pro* 非常 严重 ！！ 科目 一 *pro* 已经 考完 *T*-1 三 个 月 了 ！
+*pro* 才 练 了 不 到 两 个 小时 ！！
+suid=s14
+倒
+suid=s15
+*pro* 看看 *pro* 有 人 吗 ！
+咱 也 加 个 塞 ！
+*pro* 请请 教练 ！
+*pro* 抓紧 *PRO* 学 出来 ！！ *pro* 搞 不 起 呀 ！
+[ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="31" text="pro" type="" comment="default value" />
+<我 id="我1" start="99" end="102" text="pro" type="" comment="default value" />
+<我 id="我2" start="107" end="110" text="pro" type="" comment="default value" />
+<我 id="我4" start="337" end="340" text="pro" type="" comment="default value" />
+<我 id="我5" start="420" end="423" text="pro" type="" comment="default value" />
+<我 id="我7" start="633" end="636" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="60" end="63" text="pro" type="" comment="default value" />
+<你 id="你2" start="142" end="145" text="pro" type="" comment="default value" />
+<你 id="你3" start="159" end="162" text="pro" type="" comment="default value" />
+<你 id="你4" start="168" end="171" text="pro" type="" comment="default value" />
+<你 id="你5" start="181" end="184" text="pro" type="" comment="default value" />
+<你 id="你6" start="210" end="213" text="pro" type="" comment="default value" />
+<你 id="你7" start="346" end="349" text="pro" type="" comment="default value" />
+<你 id="你8" start="570" end="573" text="pro" type="" comment="default value" />
+<你 id="你9" start="561" end="564" text="pro" type="" comment="default value" />
+<它 id="它0" start="281" end="284" text="pro" type="" comment="default value" />
+<它 id="它1" start="467" end="470" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="307" end="310" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="361" end="364" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="487" end="490" text="pro" type="" comment="default value" />
+<我们 id="我们3" start="515" end="518" text="pro" type="" comment="default value" />
+<我们 id="我们4" start="596" end="599" text="pro" type="" comment="default value" />
+<我们 id="我们5" start="610" end="613" text="pro" type="" comment="default value" />
+<event id="ev0" start="397" end="400" text="pro" type="" comment="default value" />
+<generic id="g0" start="241" end="244" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="455" end="458" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

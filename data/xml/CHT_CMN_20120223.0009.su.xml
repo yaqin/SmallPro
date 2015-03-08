@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+恩恩 ， *pro* 系 啊 [ 表情 ]
+suid=s1
+你 不 用 回 学校 了 么
+suid=s2
+*pro* 要 啊 ， 不过 星期五 *pro* 没 课 ， 所以 今天 *pro* 就 回家 了
+suid=s3
+噢 ~
+suid=s4
+你 现在 怎样 啦
+suid=s5
+*pro* 就 这样 咯 ， *pro* 等 *pro* 毕业 然后 读 研
+suid=s6
+你 呢 ， 还 读 么 ？
+suid=s7
+*pro* 有 申请 学校 ， 但 也 一边 找 工作 ， *pro* 能 找到 *OP* *T*-1 好 的 ， 就 工作 ， 那 你 现在 在 中山 吗
+suid=s8
+*pro* 在 广州 呢 ， 在 华师
+suid=s9
+*pro* 申请 啊 ， 你 打算 *PRO* 出国 ？
+suid=s10
+*pro* 没有 啦 ， *pro* 是 香港 [ 表情 ]
+suid=s11
+HK 竞争 好 大 呢 ， *pro* 比 *pro* 出国 还 难
+suid=s12
+不过 *pro* 胜 在 *pro* 有 得 吃 有 得 玩 ， *pro* 回家 *pro* 又 近 [ 表情 ]
+suid=s13
+*pro* 还 好 ， 因为 我 现在 的 学校 是 *OP* 香港 浸会 在 珠海 办 *T*-1 的 学校 ， 所以 *pro* 申请 也 容易 些 [ 表情 ]
+suid=s14
+如果 *pro* 进 了 HK 浸会 的话 ， 你 就 是 张小娴 的 校友 了 耶
+suid=s15
+哈哈 ， 其实 在 我们 学校 *pro* 进 浸会 不 会 好 难 ， 只不过 我 不 太 喜欢 我 的 专业 ， 我 是 读 经济 的 ， *pro* 觉得 *pro* 不 太 实用 ， 所以 *pro* 如果 可以 找到 *OP* *T*-1 好 的 工作 *pro* 就 不 读 了 [ 表情 ] ， 那 你 什么 时候 考研 啊
+suid=s16
+我 也 是 申请 ， 所以 *pro* 不 用 考 了
+suid=s17
+你 出国 吗
+suid=s18
+嗯
+suid=s19
+哦哦
+suid=s20
+你 表妹 在 人人 上面 好 活跃 ， 我 整天 看到 她 的 照片 ， O（∩＿∩）O
+suid=s21
+哈哈 ， *pro* 系 啊 ， 因为 她 的 同学 都 上 人人 的 ， 所以 *pro* 就 这样
+suid=s22
+她 去 了 新加坡 读书
+suid=s23
+恩 ， 我 看到 她 在 上面 说 了
+suid=s24
+*pro* 还 看到 你 的 一 张 照片
+suid=s25
+阿燕 的 也 有
+suid=s26
+哈哈 ， 你 这 也 记得 *-1 啊 [ 表情 ] 我 刚刚 加 你 微博 啦 ， 我 先 睡 啦 ， *pro* 有空 *pro* 多 联系 啊 [ 表情 ]
+suid=s27
+噢噢 ， *pro* 好 咧 ， *pro* 晚安
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="63" end="66" text="pro" type="" comment="default value" />
+<我 id="我1" start="82" end="85" text="pro" type="" comment="default value" />
+<我 id="我2" start="100" end="103" text="pro" type="" comment="default value" />
+<我 id="我3" start="151" end="154" text="pro" type="" comment="default value" />
+<我 id="我4" start="166" end="169" text="pro" type="" comment="default value" />
+<我 id="我5" start="174" end="177" text="pro" type="" comment="default value" />
+<我 id="我6" start="220" end="223" text="pro" type="" comment="default value" />
+<我 id="我7" start="250" end="253" text="pro" type="" comment="default value" />
+<我 id="我8" start="307" end="310" text="pro" type="" comment="default value" />
+<我 id="我9" start="373" end="376" text="pro" type="" comment="default value" />
+<我 id="我10" start="742" end="745" text="pro" type="" comment="default value" />
+<我 id="我11" start="769" end="772" text="pro" type="" comment="default value" />
+<我 id="我12" start="802" end="805" text="pro" type="" comment="default value" />
+<我 id="我13" start="863" end="866" text="pro" type="" comment="default value" />
+<我 id="我14" start="1091" end="1094" text="pro" type="" comment="default value" />
+<你 id="你0" start="335" end="338" text="pro" type="" comment="default value" />
+<你 id="你2" start="621" end="624" text="pro" type="" comment="default value" />
+<你 id="你3" start="1248" end="1251" text="pro" type="" comment="default value" />
+<她 id="她0" start="984" end="987" text="pro" type="" comment="default value" />
+<她 id="她1" start="1020" end="1023" text="pro" type="" comment="default value" />
+<它 id="它0" start="386" end="389" text="pro" type="" comment="default value" />
+<它 id="它2" start="460" end="463" text="pro" type="" comment="default value" />
+<它 id="它3" start="470" end="473" text="pro" type="" comment="default value" />
+<它 id="它4" start="499" end="502" text="pro" type="" comment="default value" />
+<它 id="它5" start="525" end="528" text="pro" type="" comment="default value" />
+<它 id="它6" start="751" end="754" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="1193" end="1196" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="1202" end="1205" text="pro" type="" comment="default value" />
+<event id="ev0" start="427" end="430" text="pro" type="" comment="default value" />
+<generic id="g0" start="435" end="438" text="pro" type="" comment="default value" />
+<generic id="g1" start="490" end="493" text="pro" type="" comment="default value" />
+<generic id="g3" start="586" end="589" text="pro" type="" comment="default value" />
+<generic id="g4" start="686" end="689" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="15" end="18" text="pro" type="" />
+<pleonastic id="p3" start="1236" end="1239" text="pro" type="" />
+</TAGS>
+</ProTask>

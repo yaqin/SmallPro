@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 回国 了 没 ？
+suid=s1
+*pro* 没有 ， *pro* 周末 回 ， 你 呢 ？
+suid=s2
+我 周六 凌晨 的 飞机
+suid=s3
+咱们 拓 工 终于 回 啦 ：） ，
+suid=s4
+*pro* 是 的 ， *pro* 高兴 极 了 ， 哈哈
+suid=s5
+*pro* 比 你 回 的 还 早 ， 哈哈
+suid=s6
+*pro* 是 啊 ， *pro* 刚好 赶上 *pro* 回家 过节 ， *OP* *T*-1 接替 你 的 是 谁 啊 ？
+suid=s7
+*pro* 没有 人 来 呀
+suid=s8
+*pro* 暂时 没 人 来 。
+suid=s9
+霍 不 让 *pro* 过来 啊 ？
+suid=s10
+*pro* 不 知道
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="33" end="36" text="pro" type="" comment="default value" />
+<我 id="我1" start="44" end="47" text="pro" type="" comment="default value" />
+<我 id="我2" start="131" end="134" text="pro" type="" comment="default value" />
+<我 id="我3" start="157" end="160" text="pro" type="" comment="default value" />
+<我 id="我4" start="336" end="339" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="188" end="191" text="pro" type="" comment="default value" />
+<你 id="你3" start="212" end="215" text="pro" type="" comment="default value" />
+<它 id="它0" start="119" end="122" text="pro" type="" comment="default value" />
+<它 id="它1" start="200" end="203" text="pro" type="" comment="default value" />
+<它 id="它2" start="260" end="263" text="pro" type="" comment="default value" />
+<它 id="它3" start="283" end="286" text="pro" type="" comment="default value" />
+<generic id="g0" start="314" end="317" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

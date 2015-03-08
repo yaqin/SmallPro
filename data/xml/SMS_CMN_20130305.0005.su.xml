@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+老尼 问 我们 了 吗 ？
+suid=s1
+没 ， *pro* 还 那样 说 ？
+suid=s2
+嗯 。。。 *pro* 谢谢 大哥 ～ 老尼 走 了 *pro* 再 给 我 发 短信 。
+suid=s3
+你 第一 节 课 *pro* 下课 来 *T*-1 吧 ， *pro* 有 家长 培修 ， 还 有 *OP* *T*-2 记 迟到 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="65" end="68" text="pro" type="" comment="default value" />
+<你 id="你0" start="86" end="89" text="pro" type="" comment="default value" />
+<你 id="你1" start="122" end="125" text="pro" type="" comment="default value" />
+<他 id="他0" start="36" end="39" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="143" end="146" text="pro" type="" />
+</TAGS>
+</ProTask>

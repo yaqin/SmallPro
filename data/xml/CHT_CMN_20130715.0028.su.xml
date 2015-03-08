@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 请问 你 住 哪里 ？
+suid=s1
+*pro* 请问 老师 还 要 家具 吗
+suid=s2
+*pro* 要
+suid=s3
+您 住 哪
+suid=s4
+*pro* 不好意思 ， 我 忘 了 我 要 *PRO* 在 你 这边 买 什么 了 ， 你 可以 提醒 一下 我 吗 ？
+suid=s5
+*pro* 是 床 吗 ？
+suid=s6
+*pro* 靠近 studio green
+suid=s7
+我 有 书架 鞋架 台灯 笔记本 储物 挂袋 加湿器 等
+suid=s8
+哦 ， 我 想 起来 了 。
+*pro* 不 用 了 ， *pro* 谢谢 你 ， 因为 *pro* 住 的 远 ， 又 没有 大件 ， *pro* 去 看 的 麻烦
+suid=s9
+椅子 雨伞 厨具 方桌
+suid=s10
+我 可以 拍照 。
+我 住 的 不 远 校车 很 快 到 了
+suid=s11
+*pro* 不 用 了 ， *pro* 谢谢 你 ， 我 得 先 把 大件 的 定 下来 *-1 *pro* 再说
+suid=s12
+*pro* 行
+suid=s13
+*pro* 欢迎 *pro* 到 UD
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="36" end="39" text="pro" type="" comment="default value" />
+<我 id="我2" start="65" end="68" text="pro" type="" comment="default value" />
+<我 id="我3" start="95" end="98" text="pro" type="" comment="default value" />
+<我 id="我4" start="187" end="190" text="pro" type="" comment="default value" />
+<我 id="我5" start="269" end="272" text="pro" type="" comment="default value" />
+<我 id="我6" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我7" start="299" end="302" text="pro" type="" comment="default value" />
+<我 id="我8" start="323" end="326" text="pro" type="" comment="default value" />
+<我 id="我10" start="421" end="424" text="pro" type="" comment="default value" />
+<我 id="我11" start="456" end="459" text="pro" type="" comment="default value" />
+<我 id="我12" start="491" end="494" text="pro" type="" comment="default value" />
+<你 id="你0" start="407" end="410" text="pro" type="" comment="default value" />
+<你 id="你1" start="500" end="503" text="pro" type="" comment="default value" />
+<它 id="它0" start="165" end="168" text="pro" type="" comment="default value" />
+<event id="ev0" start="474" end="477" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

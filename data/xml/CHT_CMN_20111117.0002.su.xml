@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+?
+suid=s1
+？？
+suid=s2
+你 在线 勒 呀
+suid=s3
+*pro* 在 勒 撒
+suid=s4
+为哟
+suid=s5
+嘿嘿 *pro* 不过 在 做 作业
+suid=s6
+恩 *pro* 乖
+suid=s7
+你 勒
+suid=s8
+我 在 画画 [ 表情 ]
+suid=s9
+一哟 *pro* 一 看 *pro* 就 是 作业 做完 哦嘎
+suid=s10
+……
+suid=s11
+*pro* 掂对 我 嘛哈
+suid=s12
+*pro* 没得 啊 我 接到 做 作业 哦咯
+suid=s13
+*pro* 好 嘛
+suid=s14
+哎哟 你 变 哦
+suid=s15
+？？
+suid=s16
+*pro* 咋个 勒 ？
+suid=s17
+反正 你 最近 对 我 冷漠 完 勒
+suid=s18
+*pro* 咋 会 咯 。。。 哎哟 。。
+suid=s19
+*pro* 不 晓得 你 勒
+suid=s20
+我 作业 做 不 完 哦 。。。
+suid=s21
+啊么 你 快 做 嘛
+suid=s22
+6点 勒 课 *pro* 现在 还 有 几 个 题 都 不 会
+suid=s23
+我 急 嘛
+suid=s24
+恩
+suid=s25
+*pro* 体谅 哈 嘛 [ 表情 ]
+suid=s26
+*pro* 好 嘛
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="48" end="51" text="pro" type="" comment="default value" />
+<我 id="我1" start="82" end="85" text="pro" type="" comment="default value" />
+<我 id="我2" start="161" end="164" text="pro" type="" comment="default value" />
+<我 id="我3" start="234" end="237" text="pro" type="" comment="default value" />
+<我 id="我4" start="316" end="319" text="pro" type="" comment="default value" />
+<我 id="我5" start="366" end="369" text="pro" type="" comment="default value" />
+<我 id="我6" start="397" end="400" text="pro" type="" comment="default value" />
+<我 id="我7" start="474" end="477" text="pro" type="" comment="default value" />
+<你 id="你0" start="108" end="111" text="pro" type="" comment="default value" />
+<你 id="你1" start="171" end="174" text="pro" type="" comment="default value" />
+<你 id="你2" start="211" end="214" text="pro" type="" comment="default value" />
+<你 id="你3" start="534" end="537" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="267" end="270" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="563" end="566" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

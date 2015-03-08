@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+啥 出版社 ？
+suid=s1
+社科院 出版社 。
+你 现在 做 老师 了 ？
+suid=s2
+嗯
+suid=s3
+哪 科 的 呀 ？
+suid=s4
+级别 太 高 了
+suid=s5
+信息 技术
+suid=s6
+你 说 谁 ？
+我 嘛 ？
+我们 是 小 社
+suid=s7
+*OP* *pro* *T*-1 哄 小孩 的 玩意
+suid=s8
+计算机 方面 的 ， 挺 厉害 的
+suid=s9
+你 也 像 老师 的
+suid=s10
+*pro* 晕
+suid=s11
+你们 那 能 发进 职称 方面 的 东西 吗 ？
+suid=s12
+要 *pro* 是 书 的话 *pro* 可以 出版 ， 但是 单 篇 的 文章 不 行
+suid=s13
+我们 是 出版 书籍 的 。
+不过 我 可以 帮 你 *PRO* 问 一下
+suid=s14
+我们 院 里 好像 有 杂志社 ， 《 社会 科学 杂志社 》 *pro* 好像 叫 这 个 名字
+suid=s15
+。。。
+suid=s16
+*pro* 别 问 了
+suid=s17
+文章 我 也 写 不 出来 *T*-1
+suid=s18
+[ 表情 ] *pro* 谦虚
+suid=s19
+你 现在 在 哪里 教 计算机 ？
+suid=s20
+*pro* 别 用 初中 的 老 眼光 看 我 ，
+suid=s21
+我 想 *PRO* 谦虚 来着
+suid=s22
+枣庄 薛城 ， 原来 的 29中 北校
+suid=s23
+[ 表情 ] *pro* 好 吧 ， 新 眼光 ， *pro* 戴 墨镜 的 来 看 你
+suid=s24
+哦 ， *pro* 在 薛城 ， 薛城 现在 发展 的 不错 啊 ， 好多 人 都 搬 过去 了
+suid=s25
+*pro* 就 知道 你 用 *pro* 带 有色 眼镜 看 我
+suid=s26
+*pro* 主要 是 你 的 光芒 太 耀眼 了 ， 我 有点 闪光
+suid=s27
+*pro* 白搭 ，
+suid=s28
+小 地方 ， 还 不 如 市中区
+suid=s29
+不过 现在 什么 *pro* 都 看 潜力 的 呀
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="229" end="232" text="pro" type="" comment="default value" />
+<我 id="我1" start="670" end="673" text="pro" type="" comment="default value" />
+<我 id="我2" start="702" end="705" text="pro" type="" comment="default value" />
+<我 id="我3" start="756" end="759" text="pro" type="" comment="default value" />
+<我 id="我4" start="842" end="845" text="pro" type="" comment="default value" />
+<你 id="你0" start="453" end="456" text="pro" type="" comment="default value" />
+<你 id="你1" start="510" end="513" text="pro" type="" comment="default value" />
+<你 id="你2" start="555" end="558" text="pro" type="" comment="default value" />
+<它 id="它0" start="282" end="285" text="pro" type="" comment="default value" />
+<它 id="它1" start="295" end="298" text="pro" type="" comment="default value" />
+<它 id="它2" start="413" end="416" text="pro" type="" comment="default value" />
+<event id="ev0" start="798" end="801" text="pro" type="" comment="default value" />
+<generic id="g0" start="153" end="156" text="pro" type="" comment="default value" />
+<generic id="g1" start="897" end="900" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="651" end="654" text="pro" type="" />
+<pleonastic id="p1" start="771" end="774" text="pro" type="" />
+</TAGS>
+</ProTask>

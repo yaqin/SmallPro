@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+喻 总 ， 我 到 巴西 了 ， 你 住 哪里 啊 ？
+suid=s1
+你 和 拓 工 在 一块 吧 ， 我 住 在 旁边 的 酒店 里 。
+suid=s2
+*pro* 是 的 ， *pro* 还 有 一 个 叫 笑笑 的 ，
+suid=s3
+她 是 我们 的 翻译 ， *pro* 中午 和 拓 工 一起 去 吃饭 吧 。
+suid=s4
+嗯 ， *pro* 看 你 时间 ，
+suid=s5
+12点 ， *pro* 去 国网 会所 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="185" end="188" text="pro" type="" comment="default value" />
+<我 id="我1" start="214" end="217" text="pro" type="" comment="default value" />
+<你 id="你0" start="146" end="149" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="101" end="104" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="89" end="92" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

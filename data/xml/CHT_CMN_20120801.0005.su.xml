@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+宇翔 ， 在 吗 ?
+suid=s1
+*pro* 在
+suid=s2
+*pro* 10号 过来 ?
+suid=s3
+恩
+suid=s4
+12号 你 要 一起 去 玩 吗 ？
+suid=s5
+*pro* 可能 去
+suid=s6
+那 个 海边 离 高铁站 很 远 ？
+suid=s7
+哈哈
+suid=s8
+高铁站 是 深圳 北站 吗 ?
+suid=s9
+*pro* 对
+suid=s10
+*pro* 相当 远
+suid=s11
+你 准备 *PRO* 住到 *OP* 他们 *T*-1 聚会 的 酒店 附近 吗 ?
+suid=s12
+深圳 北站 是 *OP* *pro* 新 开 *T*-1 的 .
+suid=s13
+*pro* 在 龙华 新区 .
+suid=s14
+*pro* 有没有 人 接 你 ? *pro* 没 人 接 的话 我 去 接 你 .
+suid=s15
+*pro* *OP* *pro* *T*-1 来 的 时候 不 担心
+suid=s16
+*pro* 主要 是 *OP* *pro* *T*-1 回去 的 时候 ， 我 是 5点 的 火车 ， 那 个 时候 *pro* 没 车 ？
+suid=s17
+凌晨 五点 ?
+suid=s18
+*pro* 不 是
+suid=s19
+下午
+suid=s20
+*pro* 几号 的 ?
+suid=s21
+12号
+suid=s22
+12号
+suid=s23
+恩
+suid=s24
+*pro* 怎么 买 *OP* *T*-1 这么 早 的
+suid=s25
+*pro* 没有 *OP* *T*-1 晚 点 的 吗
+suid=s26
+6点
+suid=s27
+*pro* 在 海边 玩 , *pro* 才 开始 .
+suid=s28
+*OP* *T*-1 最 晚 一 趟
+suid=s29
+*pro* 到 武汉 11点 了
+suid=s30
+啊
+suid=s31
+那 *pro* 买 6点 的
+suid=s32
+海边 的 活动 也 是 4点 结束 呀
+suid=s33
+只是 他们 的 大巴 要 回 酒店 去
+suid=s34
+6点 *pro* 也 赶 不 上 吧
+suid=s35
+*pro* 四点 结束 *pro* 5点 赶 不 上 的 .
+suid=s36
+6点 *pro* 可以 赶上
+suid=s37
+我 怕 6点 *pro* 也 赶 不 上
+suid=s38
+*pro* 说 *pro* 很 远
+suid=s39
+*pro* 可以 3点多 出发
+suid=s40
+到时 我 也 去 玩 , 送 你们 *PRO* 走 吧
+suid=s41
+嗯
+suid=s42
+你 开车 去 海边 吗 ？
+suid=s43
+*pro* 买 6点 的 吧
+suid=s44
+到时 你 提前 离开 ， 送 我 *PRO* 去 车站 了 ？
+[ 表情 ]
+suid=s45
+*pro* 可以
+suid=s46
+*pro* 好
+suid=s47
+*pro* 12号 不 上班 吧
+suid=s48
+刘茵 什么 时候 回
+suid=s49
+11号 我 跟 茵 自己 去 玩
+suid=s50
+*pro* 主要 有 哪些 *OP* *pro* 玩 *T*-1 的
+suid=s51
+她 是 6点
+suid=s52
+但 她 不 是 高铁站
+suid=s53
+世界 之 窗 锦绣 中华 东部 华侨 城 欢乐谷 等 ..
+suid=s54
+她 是 火车 ?
+suid=s55
+恩
+suid=s56
+她 赶 得 上 吗
+suid=s57
+火车站 远 不 ？
+suid=s58
+*pro* 到时 看看 学兵 来 陪 你们 玩 .
+suid=s59
+我 觉得 *pro* 玄
+suid=s60
+*pro* 比 你 那边 近 一点 .
+suid=s61
+*pro* 也 不 用 ， 我们 自己 去 也 可以
+suid=s62
+大家 难得 休息
+suid=s63
+*pro* 到时 看看 吧 , *pro* 能 一起 走 也 可以 .
+suid=s64
+*pro* 又 热
+suid=s65
+恩
+suid=s66
+*pro* 是 顺路 吗
+suid=s67
+我 跟 茵
+suid=s68
+*pro* 差不多 的 .
+suid=s69
+*pro* 是 罗湖 火车站 吧 ?
+suid=s70
+*pro* 不 知道 咧
+suid=s71
+深圳 站 还是 深圳 西站
+suid=s72
+票 上 有 的 .
+suid=s73
+如果 *pro* 是 深圳 站 的话 *pro* 比较 顺路 .
+suid=s74
+*pro* 到时 看 她 的 安排 吧
+suid=s75
+恩
+suid=s76
+如果 她 不 想 *PRO* *PRO* 那么 早 走 , *pro* 也 可以 和 大巴 一起 走 也 来 的 及 .
+suid=s77
+你 是 10号 晚上 的 10点 到 深圳 ?
+suid=s78
+我 想 *PRO* 飞机 去
+suid=s79
+*pro* 火车 回
+suid=s80
+哦 , 那 也 好
+suid=s81
+机场 离 *OP* 她们 *T*-1 聚会 的 地方 很 近 !
+suid=s82
+恩
+suid=s83
+*pro* 准备 *PRO* 几点 到 呢 ?
+suid=s84
+志华 说 他 去 机场 接 我
+suid=s85
+哦
+suid=s86
+那 就 好
+suid=s87
+*pro* 太 晚 了 ， 我 就 不 用 他 *PRO* 接 了
+suid=s88
+我 自己 打车 去
+suid=s89
+呵呵
+suid=s90
+*pro* 机场 打车 很 方便
+suid=s91
+*pro* 晚上 几点 到
+suid=s92
+北京 的 也 是 晚上 到
+suid=s93
+如果 时间 差不多 , *pro* 可以 一 趟 接完 .
+suid=s94
+恩
+suid=s95
+*pro* 8:45 到
+suid=s96
+*pro* 7点 出发
+suid=s97
+燮华 他们 也 是 晚上 到 吗
+suid=s98
+*pro* 和 他们 差不多 时间
+suid=s99
+*pro* 到时 一 趟 可以 接完
+suid=s100
+呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="29" end="32" text="pro" type="" comment="default value" />
+<我 id="我1" start="105" end="108" text="pro" type="" comment="default value" />
+<我 id="我2" start="394" end="397" text="pro" type="" comment="default value" />
+<我 id="我3" start="405" end="408" text="pro" type="" comment="default value" />
+<我 id="我4" start="454" end="457" text="pro" type="" comment="default value" />
+<我 id="我5" start="777" end="780" text="pro" type="" comment="default value" />
+<我 id="我6" start="899" end="902" text="pro" type="" comment="default value" />
+<我 id="我7" start="995" end="998" text="pro" type="" comment="default value" />
+<我 id="我8" start="1213" end="1216" text="pro" type="" comment="default value" />
+<我 id="我9" start="1810" end="1813" text="pro" type="" comment="default value" />
+<我 id="我10" start="1893" end="1896" text="pro" type="" comment="default value" />
+<我 id="我11" start="1916" end="1919" text="pro" type="" comment="default value" />
+<我 id="我12" start="2083" end="2086" text="pro" type="" comment="default value" />
+<我 id="我13" start="2417" end="2420" text="pro" type="" comment="default value" />
+<我 id="我14" start="2455" end="2458" text="pro" type="" comment="default value" />
+<我 id="我15" start="2477" end="2480" text="pro" type="" comment="default value" />
+<我 id="我18" start="2524" end="2527" text="pro" type="" comment="default value" />
+<你 id="你1" start="45" end="48" text="pro" type="" comment="default value" />
+<你 id="你3" start="566" end="569" text="pro" type="" comment="default value" />
+<你 id="你4" start="625" end="628" text="pro" type="" comment="default value" />
+<你 id="你5" start="816" end="819" text="pro" type="" comment="default value" />
+<你 id="你6" start="936" end="939" text="pro" type="" comment="default value" />
+<你 id="你7" start="967" end="970" text="pro" type="" comment="default value" />
+<你 id="你8" start="1045" end="1048" text="pro" type="" comment="default value" />
+<你 id="你9" start="1141" end="1144" text="pro" type="" comment="default value" />
+<你 id="你10" start="1248" end="1251" text="pro" type="" comment="default value" />
+<你 id="你11" start="1507" end="1510" text="pro" type="" comment="default value" />
+<你 id="你12" start="1647" end="1650" text="pro" type="" comment="default value" />
+<你 id="你13" start="2175" end="2178" text="pro" type="" comment="default value" />
+<你 id="你14" start="2333" end="2336" text="pro" type="" comment="default value" />
+<你 id="你15" start="2359" end="2362" text="pro" type="" comment="default value" />
+<你 id="你16" start="2551" end="2554" text="pro" type="" comment="default value" />
+<他 id="他0" start="1593" end="1596" text="pro" type="" comment="default value" />
+<她 id="她0" start="1547" end="1550" text="pro" type="" comment="default value" />
+<她 id="她1" start="1564" end="1567" text="pro" type="" comment="default value" />
+<她 id="她2" start="1877" end="1880" text="pro" type="" comment="default value" />
+<她 id="她3" start="1986" end="1989" text="pro" type="" comment="default value" />
+<它 id="它0" start="186" end="189" text="pro" type="" comment="default value" />
+<它 id="它1" start="203" end="206" text="pro" type="" comment="default value" />
+<它 id="它2" start="317" end="320" text="pro" type="" comment="default value" />
+<它 id="它3" start="438" end="441" text="pro" type="" comment="default value" />
+<它 id="它4" start="535" end="538" text="pro" type="" comment="default value" />
+<它 id="它5" start="663" end="666" text="pro" type="" comment="default value" />
+<它 id="它6" start="727" end="730" text="pro" type="" comment="default value" />
+<它 id="它7" start="1026" end="1029" text="pro" type="" comment="default value" />
+<它 id="它8" start="1320" end="1323" text="pro" type="" comment="default value" />
+<它 id="它9" start="1692" end="1695" text="pro" type="" comment="default value" />
+<它 id="它10" start="1782" end="1785" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="712" end="715" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="924" end="927" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="1722" end="1725" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="1663" end="1666" text="pro" type="" comment="default value" />
+<你们 id="你们1" start="1759" end="1762" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="342" end="345" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="360" end="363" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="1018" end="1021" text="pro" type="" comment="default value" />
+<generic id="g0" start="288" end="291" text="pro" type="" comment="default value" />
+<generic id="g1" start="497" end="500" text="pro" type="" comment="default value" />
+<generic id="g2" start="2259" end="2262" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="1231" end="1234" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

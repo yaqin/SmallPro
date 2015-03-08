@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 刚刚 安顿 下来
+suid=s1
+我 好 环游 世界 去
+suid=s2
+*pro* 好
+suid=s3
+我 是 2013 版 的 *pro* 怎么 找 不 到 消息 管理器 ？
+suid=s4
+*pro* 找到 了
+suid=s5
+*pro* 正在 试验 第一 个 导出 消息 记录
+suid=s6
+*pro* 明明 只 选 了 一 个 人 *pro* 怎么 全 导 出来 了 ？
+suid=s7
+*pro* 是否 有 查找 替换 功能 ？
+suid=s8
+*pro* 不 想 *PRO* 显示 真实 人名
+suid=s9
+呵呵 *pro* 发现 *pro* 可以 查找 替换
+suid=s10
+你 可以 只 选 一 个 朋友 的 名字 ， 然后 点击 鼠标 右键 ， 再 选 *pro* 导出 记录 ， 这样 *pro* 就 可以 只 导出 一 个 人 的 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="82" end="85" text="pro" type="" comment="default value" />
+<我 id="我2" start="114" end="117" text="pro" type="" comment="default value" />
+<我 id="我3" start="133" end="136" text="pro" type="" comment="default value" />
+<我 id="我4" start="167" end="170" text="pro" type="" comment="default value" />
+<我 id="我5" start="246" end="249" text="pro" type="" comment="default value" />
+<我 id="我6" start="282" end="285" text="pro" type="" comment="default value" />
+<它 id="它0" start="188" end="191" text="pro" type="" comment="default value" />
+<它 id="它1" start="216" end="219" text="pro" type="" comment="default value" />
+<它 id="它2" start="291" end="294" text="pro" type="" comment="default value" />
+<它 id="它3" start="356" end="359" text="pro" type="" comment="default value" />
+<它 id="它4" start="373" end="376" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="53" end="56" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

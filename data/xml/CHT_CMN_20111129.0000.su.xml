@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0000
+*pro* 在 吗 ？
+msgid=s1m0001
+*pro* 在
+msgid=s2m0003
+I-PEX
+msgid=s3m0005
+接口 是 不 是 这个 标准 的 。
+msgid=s4m0006
+天线
+msgid=s5m0007
+你 说 模块 上 的 接口 吗
+msgid=s6m0008
+*pro* 是的
+msgid=s7m0009
+*pro* 好像 不 是 额
+msgid=s8m0010
+*pro* 是 啥 标准 的 ?
+msgid=s9m0011
+我们 在 找 天线 .
+msgid=s10m0014
+你 要 找 天线 供应商
+msgid=s11m0016
+*pro* 是 啊
+msgid=s12m0017
+我 记得 文档 里 有 天线 供应商 的 联系 方式 啊
+msgid=s13m0018
+内置 的 有 吗 ?
+msgid=s14m0019
+文档 里 的 是 外置 的 吧
+msgid=s15m0020
+嗯
+msgid=s16m0021
+内置 的 很多 天线厂 都 有
+msgid=s17m0022
+哦
+msgid=s18m0023
+你 要 找 GPS 天线 吧
+msgid=s19m0024
+*pro* 不 是 RF 天线 吧
+msgid=s20m0025
+*pro* 需要 从新 调测 吗
+msgid=s21m0026
+3G 的
+msgid=s22m0027
+额
+msgid=s23m0028
+Gps 用 *OP* *T*-1 独立 的 .
+msgid=s24m0029
+这个 我 问问 我们 硬件 工程师 *T*-1
+msgid=s25m0030
+我 看见 好多 客户 的 天线 都 很 简单
+msgid=s26m0031
+哦
+msgid=s27m0032
+*pro* 不用 从 做 最 好 了 , *pro* 有 现成 的 天线 的话 .
+msgid=s28m0033
+等下 我 回复 你 吧
+msgid=s29m0034
+*pro* 好的
+msgid=s30m0035
+我 问问 硬件
+msgid=s31m0038
+*pro* 要 能 兼容 WCDMA 和 EVDO 的 频率 .
+msgid=s32m0039
+额
+msgid=s33m0040
+3 G 天线 要求 不 是 很 高
+msgid=s34m0041
+一般 的 天线厂 都 行
+msgid=s35m0042
+我 问 了 硬件
+msgid=s36m0043
+*pro* 匹配 还是 要 重新 匹配 的
+msgid=s37m0044
+哦 ,
+msgid=s38m0045
+*pro* 重新 兼容 要 收费 .
+msgid=s39m0047
+*pro* 不会 吧
+msgid=s40m0048
+*pro* 定做 天线 *pro* 肯定 要 测试 天线 做 的 怎么样 啊
+msgid=s41m0049
+我 问 了 刚才 一 个 客户 他们 的 天线 没有 收 *OP* *pro* *T*-1 重新 兼容 收费 啊
+msgid=s42m0050
+*pro* 定做 , *pro* 不 收费 吗 ?
+msgid=s43m0051
+你 就说 按照 一般 的 3G 天线 来 做
+msgid=s44m0052
+*pro* 应该 都 是 给 你 测试 传导 ， 跟 空间 辐射 这些 吧
+msgid=s45m0053
+开模费 和 研发费 , *pro* 不用 收 *T*-1 ?
+msgid=s46m0054
+这个 *pro* 不 清楚 *T*-1
+msgid=s47m0055
+你 可以 多 问 几 个 天线厂
+msgid=s48m0056
+*pro* 可能 是 有些 厂家 不 会 收 .
+msgid=s49m0057
+*pro* 最好 选 个 *OP* *T*-1 以前 为 我们 公司 模块 做 过 天线 的
+msgid=s50m0058
+这样 费用 *pro* 估计 要 少
+msgid=s51m0059
+那 *pro* 有 *OP* *pro* 推荐 *T*-1 的 吗 ?
+msgid=s52m0060
+这个 我 不 清楚 *T*-1
+msgid=s53m0062
+很多 客户
+msgid=s54m0063
+我 到 过 一 家 天线厂
+msgid=s55m0064
+不过 名字 *pro* 忘记 *T*-1 了 [ 表情 ]
+msgid=s56m0065
+*pro* 在 哪 的 ? 宝安 吗 ?
+msgid=s57m0066
+我 记得 *pro* 是 在 上沙
+msgid=s58m0067
+哦
+msgid=s59m0068
+好 , 我 等会 去 网 上 搜 一下 .
+msgid=s60m0069
+你 可以 多 搜索 几 家 ， 但是 还是 要 根据 你 的 机器 本身 配置
+msgid=s61m0070
+嗯
+msgid=s62m0071
+因为 你 的 机器 结构 不 一样 会 影响 天线 大小 跟 位置 的
+msgid=s63m0072
+*pro* 能 找到 *OP* *T*-1 不 收费 的 公司 吧 .
+msgid=s64m0073
+*pro* 包 *PRO* 调试 好 .
+msgid=s65m0074
+我 问 过 一 个 客户 他 说 *pro* 没有 收 其他 费用
+msgid=s66m0075
+但是 其他 的 *pro* 就 不 知道 *T*-1 了
+msgid=s67m0076
+你 可以 多 问 几 家 公司
+msgid=s68m0077
+*pro* 好
+msgid=s69m0078
+因为 这个 天线 还 是 *OP* *T*-1 比较 容易 匹配 的
+msgid=s70m0079
+不 像 GPS 天线 信号 太 弱 了
+msgid=s71m0080
+嗯
+msgid=s72m0081
+如果 你 的 机器 设备 比较 正规 的话 *pro* 还是 定制 的 好
+msgid=s73m0082
+有的 客户 机器 要 过 CTA 测试 就 定制 天线 了
+msgid=s74m0083
+*pro* 定制 要 收费 吧
+msgid=s75m0084
+*pro* 估计 *pro* 要
+msgid=s76m0085
+天线 可以 用到 两 种 制式 吧 。
+msgid=s77m0086
+嗯
+msgid=s78m0087
+我们 的 天线 一样 是 W 跟 EVDO 的 模块 通用
+msgid=s79m0088
+GSC 天线 接头 比 IPEX 要 贵 好几 元 。
+msgid=s80m0089
+*pro* 是 叫 春天头 吧 ？
+msgid=s81m0091
+春田头
+msgid=s82m0092
+*pro* 没 听说 过
+msgid=s83m0093
+你 要 根据 我们 模块 上 的 接口 来 配置
+msgid=s84m0094
+我们 模块 上 的 接口 只 有 两 种 GSC 跟 HSC 两 种
+msgid=s85m0095
+*pro* 是的
+msgid=s86m0096
+*pro* 刚才 把 接口 截图 发 过去 *-1 确认 了 。
+msgid=s87m0097
+额
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="42" end="45" text="pro" type="" comment="default value" />
+<我 id="我1" start="164" end="167" text="pro" type="" comment="default value" />
+<我 id="我2" start="556" end="559" text="pro" type="" comment="default value" />
+<我 id="我3" start="1281" end="1284" text="pro" type="" comment="default value" />
+<我 id="我4" start="1462" end="1465" text="pro" type="" comment="default value" />
+<我 id="我5" start="1634" end="1637" text="pro" type="" comment="default value" />
+<我 id="我6" start="1800" end="1803" text="pro" type="" comment="default value" />
+<我 id="我7" start="2229" end="2232" text="pro" type="" comment="default value" />
+<我 id="我8" start="2519" end="2522" text="pro" type="" comment="default value" />
+<我 id="我9" start="2550" end="2553" text="pro" type="" comment="default value" />
+<我 id="我11" start="2774" end="2777" text="pro" type="" comment="default value" />
+<我 id="我12" start="2916" end="2919" text="pro" type="" comment="default value" />
+<你 id="你0" start="16" end="19" text="pro" type="" comment="default value" />
+<你 id="你1" start="758" end="761" text="pro" type="" comment="default value" />
+<你 id="你2" start="779" end="782" text="pro" type="" comment="default value" />
+<你 id="你4" start="1566" end="1569" text="pro" type="" comment="default value" />
+<你 id="你5" start="1664" end="1667" text="pro" type="" comment="default value" />
+<你 id="你6" start="1677" end="1680" text="pro" type="" comment="default value" />
+<你 id="你7" start="2085" end="2088" text="pro" type="" comment="default value" />
+<你 id="你8" start="2443" end="2446" text="pro" type="" comment="default value" />
+<你 id="你9" start="2559" end="2562" text="pro" type="" comment="default value" />
+<他 id="他0" start="2136" end="2139" text="pro" type="" comment="default value" />
+<他 id="他1" start="2189" end="2192" text="pro" type="" comment="default value" />
+<它 id="它0" start="187" end="190" text="pro" type="" comment="default value" />
+<它 id="它1" start="216" end="219" text="pro" type="" comment="default value" />
+<它 id="它2" start="523" end="526" text="pro" type="" comment="default value" />
+<它 id="它3" start="889" end="892" text="pro" type="" comment="default value" />
+<它 id="它4" start="1039" end="1042" text="pro" type="" comment="default value" />
+<它 id="它9" start="1526" end="1529" text="pro" type="" comment="default value" />
+<它 id="它10" start="1839" end="1842" text="pro" type="" comment="default value" />
+<它 id="它11" start="1880" end="1883" text="pro" type="" comment="default value" />
+<它 id="它12" start="2722" end="2725" text="pro" type="" comment="default value" />
+<它 id="它13" start="2892" end="2895" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="302" end="305" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="1155" end="1158" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="1167" end="1170" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="1243" end="1246" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="1095" end="1098" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="1129" end="1132" text="pro" type="" comment="default value" />
+<他们 id="他们3" start="1292" end="1295" text="pro" type="" comment="default value" />
+<他们 id="他们4" start="1360" end="1363" text="pro" type="" comment="default value" />
+<他们 id="他们5" start="1425" end="1428" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="842" end="845" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="2296" end="2299" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

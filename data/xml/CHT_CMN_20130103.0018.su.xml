@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+Hi
+suid=s1
+*pro* 干 什么 ？
+suid=s2
+*pro* 出国 都 要 办 什么 手续 ?
+suid=s3
+*pro* 不 知道
+suid=s4
+你 不 是 出 过 ...
+suid=s5
+你 已经 骂 过 我 了 ， 我 不 想 *PRO* 跟 你 再 有 交集
+suid=s6
+?
+suid=s7
+*pro* 88
+suid=s8
+什么 时候
+suid=s9
+*pro* 怎么 突然 变 了 ?
+suid=s10
+我 现在 在 忙 ， 以后 回 你
+suid=s11
+*pro* 请问 你 知道 *pro* 有 什么 好 方法 可以 下载 哈弗 大学 《 幸福 公开课 》 全 套 23 集 吗 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="73" end="76" text="pro" type="" comment="default value" />
+<我 id="我1" start="255" end="258" text="pro" type="" comment="default value" />
+<你 id="你0" start="21" end="24" text="pro" type="" comment="default value" />
+<你 id="你1" start="201" end="204" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="170" end="173" text="pro" type="" comment="default value" />
+<generic id="g0" start="42" end="45" text="pro" type="" comment="default value" />
+<generic id="g1" start="269" end="272" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

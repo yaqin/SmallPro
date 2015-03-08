@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+姐姐 ， 在 吗
+suid=s1
+*pro* 在
+suid=s2
+这 是 我 的 简历
+suid=s3
+*pro* 好 的
+suid=s4
+*pro* 好
+suid=s5
+我 看看
+suid=s6
+你 不 是 写作 还 可以 吗
+suid=s7
+这个 能 不 能 加 点 内容
+suid=s8
+写作 还 好 啦
+suid=s9
+*pro* 是 要 招 *OP* *T*-1 写作 好 的 吗
+suid=s10
+*pro* 也 不 是 啦
+suid=s11
+如果 文笔 好 的话 机会 更 多
+suid=s12
+*pro* 是 招 什么 岗位 啊
+suid=s13
+技术 和 计划员 岗位 都 有
+suid=s14
+*pro* 是 *OP* 你们 单位 外聘 *T*-1 的 吗
+suid=s15
+什么 叫 外聘
+suid=s16
+*pro* 对 外 招聘
+suid=s17
+我 觉得 这个 不 是 很 重要
+suid=s18
+*pro* 就 是 编制
+suid=s19
+这个 不 重要 ？
+suid=s20
+现在 *OP* *pro* 本科 招 进来 *T*-1 的 全 在 人才 中心
+suid=s21
+*pro* 跟 我们 原来 的 不同
+suid=s22
+*pro* 都 是 一样 的
+suid=s23
+那 *pro* 跟 *pro* 原来 在 深圳 是 一样 的
+suid=s24
+*pro* 现在 都 是 这样 的
+suid=s25
+现在 的 都 是 人力 公司 外派
+suid=s26
+*pro* 有 关系 吗
+suid=s27
+我们 子弟 也 进 不 来
+suid=s28
+现在 好 单位 的 正式工 很 难 进 哦
+suid=s29
+*pro* 也 不 算 临时工
+suid=s30
+*pro* 就 是 *pro* 几 年 前 一 次 合同
+suid=s31
+*pro* 先 看看 再说
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="27" end="30" text="pro" type="" comment="default value" />
+<我 id="我1" start="575" end="578" text="pro" type="" comment="default value" />
+<我 id="我2" start="798" end="801" text="pro" type="" comment="default value" />
+<它 id="它0" start="423" end="426" text="pro" type="" comment="default value" />
+<它 id="它1" start="513" end="516" text="pro" type="" comment="default value" />
+<它 id="它2" start="567" end="570" text="pro" type="" comment="default value" />
+<它 id="它3" start="659" end="662" text="pro" type="" comment="default value" />
+<它 id="它4" start="735" end="738" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="472" end="475" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="174" end="177" text="pro" type="" comment="default value" />
+<你们 id="你们1" start="265" end="268" text="pro" type="" comment="default value" />
+<你们 id="你们2" start="375" end="378" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="541" end="544" text="pro" type="" comment="default value" />
+<event id="ev0" start="215" end="218" text="pro" type="" comment="default value" />
+<event id="ev1" start="317" end="320" text="pro" type="" comment="default value" />
+<generic id="g0" start="605" end="608" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="760" end="763" text="pro" type="" />
+<pleonastic id="p1" start="770" end="773" text="pro" type="" />
+<previous_utterance id="pr0" start="62" end="65" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="80" end="83" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

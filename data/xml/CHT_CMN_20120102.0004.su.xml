@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我们 要 不 要 交 实验 作业 ？
+suid=s1
+吓 ， 我 不 知道 哦
+suid=s2
+*pro* 应该 不 用 了 吧
+suid=s3
+*OP* *pro* 当时 *pro* 走 之前 该 交 的 作业 *pro* 都 有 交 *T*-1 的 呀
+suid=s4
+那 *pro* 不 管 了
+suid=s5
+嗯 ， 老师 不 提出 的话 我们 也 不 用 提醒 他 了
+suid=s6
+我 发现 JAVA 是 挺 难 的
+suid=s7
+*pro* 对 啊 ， 我 也 正在 看 。
+我 觉得 即便 *pro* 开卷 *pro* 也 不 会 做
+suid=s8
+这 题 *pro* 是 不 是 选 D ？
+suid=s9
+*pro* 还 没 复习 到
+suid=s10
+*pro* 在 不 ？
+suid=s11
+？
+suid=s12
+*pro* 给 你 发 短信 了 又 *pro* 看到 么
+suid=s13
+杨书剑 想 *PRO* 约 我们 *PRO* 4号 中午 吃饭
+suid=s14
+你 有空 么
+suid=s15
+*pro* 应该 有
+suid=s16
+立秋 还 没 回复
+suid=s17
+那 *pro* 就 先 暂定 4号 中午 咯 ， 杨书剑 5号 就 去 HK 了
+suid=s18
+哦 *pro* 好 的
+suid=s19
+明天 *pro* 再 哪 个 课室
+suid=s20
+==
+suid=s21
+西 202
+suid=s22
+*pro* 9点 开考
+suid=s23
+*pro* OK *pro* 谢谢
+suid=s24
+*pro* 不 用
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="87" end="92" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="96" end="101" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="115" end="121" text=" *pro*" type="" comment="default value" />
+<我 id="我3" start="148" end="153" text="*pro*" type="" comment="default value" />
+<我 id="我4" start="273" end="278" text="*pro*" type="" comment="default value" />
+<我 id="我5" start="325" end="330" text="*pro*" type="" comment="default value" />
+<我 id="我6" start="381" end="386" text="*pro*" type="" comment="default value" />
+<我 id="我7" start="477" end="483" text="*pro* " type="" comment="default value" />
+<我 id="我8" start="671" end="676" text="*pro*" type="" comment="default value" />
+<你 id="你0" start="349" end="354" text="*pro*" type="" comment="default value" />
+<你 id="你1" start="400" end="405" text="*pro*" type="" comment="default value" />
+<你 id="你2" start="590" end="595" text="*pro*" type="" comment="default value" />
+<你 id="你3" start="689" end="695" text="*pro* " type="" comment="default value" />
+<它 id="它0" start="299" end="305" text="*pro* " type="" comment="default value" />
+<它 id="它1" start="662" end="668" text="*pro* " type="" comment="default value" />
+<我们 id="我们0" start="57" end="63" text="*pro* " type="" comment="default value" />
+<我们 id="我们2" start="517" end="524" text=" *pro* " type="" comment="default value" />
+<event id="ev0" start="233" end="238" text="*pro*" type="" comment="default value" />
+<generic id="g0" start="641" end="646" text="*pro*" type="" comment="default value" />
+<pleonastic id="p0" start="263" end="269" text=" *pro*" type="unsure" />
+<pleonastic id="p1" start="568" end="573" text="*pro*" type="" />
+</TAGS>
+</ProTask>

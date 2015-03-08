@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 上完 课 了 吗
+suid=s1
+我们 已经 在 网吧 了 。
+suid=s2
+收到
+suid=s3
+刚才 朱强 给 我 发 的
+suid=s4
+*pro* 真 的 假 的 啊 !
+suid=s5
+*pro* 没 说 啊
+suid=s6
+*pro* 什么 时候 考试 啊 ? *pro* 在 哪 考
+suid=s7
+*pro* 考 啊 ， 现在 人 都 回来 了 。
+suid=s8
+你 考 不 ?
+]]></TEXT>
+<TAGS>
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<他 id="他0" start="115" end="118" text="pro" type="" comment="default value" />
+<它 id="它0" start="89" end="92" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="135" end="138" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="154" end="157" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="174" end="177" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

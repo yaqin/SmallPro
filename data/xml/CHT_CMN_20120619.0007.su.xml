@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+孟娇
+suid=s1
+你 让 彭明伟 *PRO* 上 我 办公室
+suid=s2
+*pro* 不 在 啊
+suid=s3
+哦 ， *pro* 那 算了 。
+*pro* 谢谢 你
+suid=s4
+这 次 你 回复 得 蛮 快
+suid=s5
+嘿嘿 今天 卫生 不 是 很 脏
+suid=s6
+还有 昨天 *pro* 问 清楚 了 1 3 6 7
+suid=s7
+瑜伽
+suid=s8
+1 3 是 晚上
+suid=s9
+1 3 6 7 是 什么
+suid=s10
+*pro* 一 周 四 天 课 ？
+suid=s11
+6 7 是 下午
+suid=s12
+2 4 5 肚皮 舞
+suid=s13
+2 4 5 是 什么 ？
+suid=s14
+我 肯定 是 每 天 晚上
+suid=s15
+2 4 5 是 晚上 吗
+suid=s16
+*pro* 过 两 天 *pro* 还 有 爵士 舞
+suid=s17
+*pro* 是 啊
+suid=s18
+我 都 是 晚上
+suid=s19
+周五 晚上 *pro* 没有
+suid=s20
+爵士 舞 不错
+suid=s21
+我 也 想 *PRO* 学
+suid=s22
+呵呵 *pro* 过 段 时间 *pro* 就 开课
+suid=s23
+你 给 我 总结 下
+suid=s24
+1 3 晚上 瑜伽 2 4 晚上 肚皮
+suid=s25
+*pro* 每 天 晚上 都 有 什么
+suid=s26
+刚才 我 看乱 了
+suid=s27
+*pro* 5 休息
+suid=s28
+6 7 都 是 下午 的 课
+suid=s29
+*pro* 这样 的话 *pro* 晚上 一 周 就 4 天 课
+suid=s30
+另外 ， 晚上 是 几点 到 几点 ？
+suid=s31
+6.20 - 7.20
+suid=s32
+*pro* 过 段 时间 *pro* 可能 改 时间
+suid=s33
+那 *pro* 就 就 不 清楚 了
+suid=s34
+一月 280 3月 580
+suid=s35
+你 可以 去 试课
+suid=s36
+我 昨天 试课
+suid=s37
+*pro* 昨天 试 的 什么 ？
+suid=s38
+瑜伽
+suid=s39
+*pro* 在 具体 什么 位置
+suid=s40
+*pro* 中天 步行街 南头 右边 路口 进去 *pro* 365
+suid=s41
+365 舞蹈 室 在 二 楼 一 楼 是 化妆品
+suid=s42
+对面 是 书店
+suid=s43
+恩 。
+我 要是 骑 自行车 去 ， *pro* 放 哪 呀 ？
+suid=s44
+*pro* 离 我 家 确实 有点 远
+suid=s45
+*pro* 晕 店 门口
+suid=s46
+一 楼 有 人
+suid=s47
+我 的 自行车 很 小 ， *pro* 还 虾轻 ， 别人 一 搬 就 走
+suid=s48
+*OP* 你 体验 *T*-1 的 感受 是 什么 ？
+suid=s49
+*pro* 还 行
+suid=s50
+*OP* *T*-1 最 大 的 感觉 就 是 *pro* 平时 他 缺乏 锻炼 了
+suid=s51
+*pro* 还有 就 是 侠客 好 快 啊
+suid=s52
+*pro* 下课 好 快
+suid=s53
+*pro* 意犹未尽
+suid=s54
+额 *pro* 可以 那么 说
+suid=s55
+你 报完 名 了 ？
+suid=s56
+你 家 离 那里 近 吗 ？
+suid=s57
+*pro* 不 近
+suid=s58
+我 在 哪 学 *pro* 都 不 近
+suid=s59
+老师 教 得 好 吗
+suid=s60
+*OP* *T*-1 学 的 人 多 么 ？
+suid=s61
+昨天 瑜伽 人 不 多
+suid=s62
+肚皮 舞 我 那 天 看 *pro* 有 8 个
+suid=s63
+我 希望 人 少 点
+suid=s64
+我 不 喜欢 人 多
+suid=s65
+*pro* 晕 除了 *pro* 上 小 课 哪 有 *OP* 人 *T*-1 少 的
+suid=s66
+小彭 在 吗
+suid=s67
+*pro* 在 啊
+suid=s68
+你 给 小彭 说 *pro* 什么 时候 去 ？
+suid=s69
+费用 已经 签完
+suid=s70
+他 懂
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="75" end="78" text="pro" type="" comment="default value" />
+<我 id="我1" start="88" end="91" text="pro" type="" comment="default value" />
+<我 id="我2" start="161" end="164" text="pro" type="" comment="default value" />
+<我 id="我3" start="816" end="819" text="pro" type="" comment="default value" />
+<我 id="我4" start="1080" end="1083" text="pro" type="" comment="default value" />
+<我 id="我5" start="1132" end="1135" text="pro" type="" comment="default value" />
+<我 id="我6" start="1379" end="1382" text="pro" type="" comment="default value" />
+<我 id="我7" start="1663" end="1666" text="pro" type="" comment="default value" />
+<你 id="你0" start="901" end="904" text="pro" type="" comment="default value" />
+<你 id="你1" start="966" end="969" text="pro" type="" comment="default value" />
+<你 id="你2" start="1401" end="1404" text="pro" type="" comment="default value" />
+<他 id="他0" start="51" end="54" text="pro" type="" comment="default value" />
+<他 id="他2" start="1357" end="1360" text="pro" type="" comment="default value" />
+<他 id="他3" start="1732" end="1735" text="pro" type="" comment="default value" />
+<他 id="他4" start="1760" end="1763" text="pro" type="" comment="default value" />
+<它 id="它0" start="240" end="243" text="pro" type="" comment="default value" />
+<它 id="它1" start="384" end="387" text="pro" type="" comment="default value" />
+<它 id="它2" start="408" end="411" text="pro" type="" comment="default value" />
+<它 id="它3" start="451" end="454" text="pro" type="" comment="default value" />
+<它 id="它4" start="525" end="528" text="pro" type="" comment="default value" />
+<它 id="它5" start="594" end="597" text="pro" type="" comment="default value" />
+<它 id="它6" start="642" end="645" text="pro" type="" comment="default value" />
+<它 id="它7" start="686" end="689" text="pro" type="" comment="default value" />
+<它 id="它8" start="698" end="701" text="pro" type="" comment="default value" />
+<它 id="它9" start="791" end="794" text="pro" type="" comment="default value" />
+<它 id="它10" start="940" end="943" text="pro" type="" comment="default value" />
+<它 id="它11" start="991" end="994" text="pro" type="" comment="default value" />
+<它 id="它12" start="1103" end="1106" text="pro" type="" comment="default value" />
+<它 id="它13" start="1185" end="1188" text="pro" type="" comment="default value" />
+<它 id="它14" start="1255" end="1258" text="pro" type="" comment="default value" />
+<它 id="它15" start="1326" end="1329" text="pro" type="" comment="default value" />
+<它 id="它16" start="1468" end="1471" text="pro" type="" comment="default value" />
+<它 id="它17" start="1495" end="1498" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="1602" end="1605" text="pro" type="" comment="default value" />
+<generic id="g0" start="1674" end="1677" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="372" end="375" text="pro" type="" />
+<pleonastic id="p1" start="512" end="515" text="pro" type="" />
+<pleonastic id="p2" start="778" end="781" text="pro" type="" />
+<other id="o0" start="1298" end="1301" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

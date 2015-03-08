@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+老哥 ， 这么 早 啊
+suid=s1
+*pro* 一贯 啊
+suid=s2
+…… 我 出 两 贯
+suid=s3
+我 得 检查 出勤
+suid=s4
+哦
+suid=s5
+你 也 够 早 啊
+suid=s6
+你 上 次 说 你 有 朋友 要 *PRO* 做 银座 佳驿 酒店 还是 他 就 是 里面 的 人 ？
+suid=s7
+嗯 ， 宝宝 早 我们 全家 就 早
+suid=s8
+他 是 银座 旅游 的 老大
+suid=s9
+*pro* 拽 啊
+suid=s10
+银座 佳驿 酒店 就 是 银座 旅游 的 *pro* 是 吧 ？
+suid=s11
+*pro* 是 的
+suid=s12
+加盟 归 他 *PRO* 管 ？
+suid=s13
+*pro* 可以 问问
+suid=s14
+*pro* 谢谢 ！
+*pro* 帮 着 问问 啊
+suid=s15
+我们 几 个 朋友 有 意向 合伙 加盟
+suid=s16
+你 的 店址 在 哪里
+suid=s17
+*pro* 现在 正在 考察 物业 ， 并 衡量 *pro* 加盟 哪 家 比较 好
+suid=s18
+济南 本 市 或 泰安 或 章丘 ， *pro* 现在 还 在 研究
+suid=s19
+这 有点 早 吧 ， 起码 你 大体 有 个 地址 了 我 再 跟 人家 说
+suid=s20
+哦
+suid=s21
+*pro* 也 好
+suid=s22
+不然 *pro* 贸然 过去 不 让 人家 *PRO* 说 吗
+suid=s23
+*pro* 加盟 哪 家 也 还 没 定 呢 ， 如家 或者 银座 佳驿
+suid=s24
+*pro* 是 的 ， *pro* 是 不 太 妥当
+suid=s25
+*pro* 准备 个 差不多 我 再 找 他
+suid=s26
+雷凯
+suid=s27
+嗯
+suid=s28
+你 打听 下 *pro* 应该 可以 的
+suid=s29
+*pro* 好
+suid=s30
+*pro* 找好 物业 貌似 *pro* 就 进入 正常 申请 加盟 程序 啦
+suid=s31
+上面 有 人 *pro* 好 办事
+suid=s32
+嗯嗯 ， *pro* 插 个 队 什么 的
+suid=s33
+哈哈
+suid=s34
+那 是
+suid=s35
+*pro* 得 加快 进度 了 ， 据说 *pro* 今年 加盟 有 优惠
+suid=s36
+*pro* 想 *PRO* 干 *pro* 就 趁早 ， 现在 整 个 经济 不 景气 ， 物业 *pro* 议价 有 优势
+suid=s37
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="30" end="33" text="pro" type="" comment="default value" />
+<我 id="我1" start="351" end="354" text="pro" type="" comment="default value" />
+<我 id="我3" start="437" end="440" text="pro" type="" comment="default value" />
+<我 id="我4" start="462" end="465" text="pro" type="" comment="default value" />
+<我 id="我5" start="508" end="511" text="pro" type="" comment="default value" />
+<我 id="我6" start="614" end="617" text="pro" type="" comment="default value" />
+<我 id="我7" start="652" end="655" text="pro" type="" comment="default value" />
+<我 id="我8" start="796" end="799" text="pro" type="" comment="default value" />
+<我 id="我9" start="836" end="839" text="pro" type="" comment="default value" />
+<我 id="我10" start="851" end="854" text="pro" type="" comment="default value" />
+<我 id="我12" start="917" end="920" text="pro" type="" comment="default value" />
+<你 id="你0" start="330" end="333" text="pro" type="" comment="default value" />
+<你 id="你1" start="362" end="365" text="pro" type="" comment="default value" />
+<你 id="你2" start="734" end="737" text="pro" type="" comment="default value" />
+<你 id="你3" start="892" end="895" text="pro" type="" comment="default value" />
+<你 id="你4" start="968" end="971" text="pro" type="" comment="default value" />
+<你 id="你5" start="1015" end="1018" text="pro" type="" comment="default value" />
+<你 id="你6" start="1031" end="1034" text="pro" type="" comment="default value" />
+<你 id="你7" start="1064" end="1067" text="pro" type="" comment="default value" />
+<他 id="他0" start="224" end="227" text="pro" type="" comment="default value" />
+<它 id="它0" start="264" end="267" text="pro" type="" comment="default value" />
+<它 id="它1" start="285" end="288" text="pro" type="" comment="default value" />
+<它 id="它2" start="698" end="701" text="pro" type="" comment="default value" />
+<event id="ev0" start="592" end="595" text="pro" type="" comment="default value" />
+<event id="ev1" start="710" end="713" text="pro" type="" comment="default value" />
+<generic id="g0" start="989" end="992" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="819" end="822" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

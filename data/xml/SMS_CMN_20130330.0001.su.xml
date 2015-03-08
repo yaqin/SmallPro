@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 尽快 把 你 的 优秀 团员 材料 最后 一 段 改为 *pro* 如何 组织 团员 青年 *PRO* 开展 活动 ， 投身 电网 建设 的 内容 ， 再 发给 我 。
+suid=s1
+*pro* 好 的
+suid=s2
+*pro* 是 你 自己 改 的 ？
+suid=s3
+我 觉得 *pro* 主要 写 做法 和 成绩 比较 好 ，
+suid=s4
+如 *pro* 如何 组织 开展 文体 活动 ， 成立 青年 文明 号 ， 关心 青年 成长 ， 荣获 荣誉 等 ， *pro* 别 用 第一 人称 的 角度 写 第三 人称 ， 直接 按 第三 人称 写 。
+suid=s5
+*pro* 是 我 自己 改 的 ，
+suid=s6
+那 我 再 改 —下 吧 ， 晚上 *pro* 给 你 吧 ，
+suid=s7
+现在 *pro* 在 外面 呢 。
+suid=s8
+*pro* 好 的 ！
+*pro* 辛苦 了 ！
+suid=s9
+*pro* 不 辛苦 ， 领导 更 辛苦 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="159" end="162" text="pro" type="" comment="default value" />
+<我 id="我2" start="351" end="354" text="pro" type="" comment="default value" />
+<我 id="我3" start="376" end="379" text="pro" type="" comment="default value" />
+<我 id="我4" start="432" end="435" text="pro" type="" comment="default value" />
+<你 id="你0" start="44" end="47" text="pro" type="" comment="default value" />
+<你 id="你1" start="195" end="198" text="pro" type="" comment="default value" />
+<你 id="你2" start="252" end="255" text="pro" type="" comment="default value" />
+<你 id="你3" start="411" end="414" text="pro" type="" comment="default value" />
+<它 id="它0" start="127" end="130" text="pro" type="" comment="default value" />
+<它 id="它1" start="306" end="309" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="399" end="402" text="pro" type="" />
+<previous_utterance id="pr0" start="109" end="112" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

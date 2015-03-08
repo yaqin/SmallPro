@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在线 吗
+suid=s1
+*pro* 在 啊
+suid=s2
+什么 时间 *pro* 喝 喜酒 呀
+suid=s3
+*pro* 没 打算 啊
+suid=s4
+*pro* 应该 庆贺 一下 呀
+suid=s5
+*pro* 不 庆祝 了
+suid=s6
+*OP* *T*-1 这么 大 的 喜事 *pro* 不 张罗 一下 *T*-2 ， 是 那么 回 事 吗
+suid=s7
+*pro* 办 的话 *pro* 别 漏 了 我 和 孟凡林
+suid=s8
+*pro* 不 办 了
+suid=s9
+按说 *pro* 应该 庆贺 呀
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="34" text="*pro* " type="" comment="default value" />
+<我 id="我1" start="52" end="57" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="73" end="78" text="*pro*" type="" comment="default value" />
+<我 id="我3" start="119" end="124" text="*pro*" type="" comment="default value" />
+<我 id="我4" start="241" end="247" text="*pro* " type="" comment="default value" />
+<你 id="你0" start="9" end="14" text="*pro*" type="" comment="default value" />
+<你 id="你1" start="94" end="100" text="*pro* " type="" comment="default value" />
+<你 id="你2" start="161" end="167" text="*pro* " type="" comment="default value" />
+<你 id="你3" start="202" end="207" text="*pro*" type="" comment="default value" />
+<你 id="你4" start="212" end="219" text=" *pro* " type="" comment="default value" />
+<你 id="你5" start="264" end="270" text="*pro* " type="" comment="default value" />
+</TAGS>
+</ProTask>

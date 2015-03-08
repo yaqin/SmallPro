@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+戴 大 记者 啊 ， *pro* 估计 *pro* 明天 的 活动 不 能 参加 *-1 了 。
+后天 *pro* 要 开 一 个 *OP* *T*-1 很 重要 的 会 ， 市长 带 一 班 市 领导 *PRO* 到 我们 铁山区 来 调研 。
+*pro* 不 能 请假 的 。
+suid=s1
+呵 ， *pro* 好 的 。
+*pro* 有点 遗憾 呀
+suid=s2
+不过 *pro* 还是 以 工作 为 重 ， *pro* 以后 有 机会 再 聚 。
+suid=s3
+如果 *pro* 赶 得 及 我 看 *pro* 能否 后天 到 车站 去 给 她 送 个 行 。
+*pro* 有些 遗憾 ， *pro* 20多 年 没 见面 了 。
+suid=s4
+那样 也 行 ， 她 是 后天 晚上 七点 的 动车 。
+suid=s5
+*pro* 一定 代 我 *PRO* 解释 一下 啊 ， 我 真的 很 希望 *PRO* 参与 这 次 聚会 的 ，
+suid=s6
+*pro* 好 的
+suid=s7
+*pro* 谢谢 。
+*pro* 拜托 了 。
+[ 表情 ]
+suid=s8
+[ 表情 ] *pro* 不 客气
+suid=s9
+*pro* 是 的 ， 小徐 就 是 怕 周一 到 周三 假日 人 太 多 ， 不 敢 来 。
+*pro* 才 错开 时间 的 。
+suid=s10
+*pro* 理解 理解 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="21" end="24" text="pro" type="" comment="default value" />
+<我 id="我1" start="30" end="33" text="pro" type="" comment="default value" />
+<我 id="我2" start="62" end="65" text="pro" type="" comment="default value" />
+<我 id="我3" start="134" end="137" text="pro" type="" comment="default value" />
+<我 id="我4" start="251" end="254" text="pro" type="" comment="default value" />
+<我 id="我5" start="267" end="270" text="pro" type="" comment="default value" />
+<我 id="我6" start="298" end="301" text="pro" type="" comment="default value" />
+<我 id="我7" start="463" end="466" text="pro" type="" comment="default value" />
+<我 id="我8" start="474" end="477" text="pro" type="" comment="default value" />
+<我 id="我9" start="603" end="606" text="pro" type="" comment="default value" />
+<你 id="你0" start="175" end="178" text="pro" type="" comment="default value" />
+<你 id="你1" start="200" end="203" text="pro" type="" comment="default value" />
+<你 id="你2" start="378" end="381" text="pro" type="" comment="default value" />
+<你 id="你3" start="509" end="512" text="pro" type="" comment="default value" />
+<她 id="她0" start="576" end="579" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="220" end="223" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="312" end="315" text="pro" type="" comment="default value" />
+<event id="ev0" start="163" end="166" text="pro" type="" comment="default value" />
+<event id="ev1" start="445" end="448" text="pro" type="" comment="default value" />
+<event id="ev2" start="528" end="531" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

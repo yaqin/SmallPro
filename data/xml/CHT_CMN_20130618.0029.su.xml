@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+姐姐 *pro* 有空 *pro* 帮 我 *PRO* 试 着 *PRO* 倒 下 你 的 QQ 聊天 记录 哈
+suid=s1
+*pro* 点击 这个
+suid=s2
+*pro* 好 的 这 两 天 *pro* 太 忙 *pro* 忘记 了
+suid=s3
+*pro* 没 事 哈哈
+suid=s4
+这个 其实 挺 简单
+suid=s5
+*pro* 行
+suid=s6
+我 等下 跟 你 弄
+suid=s7
+嗯 *pro* 好 的 然后 *pro* 点击 导出 和 导入 下面 的 导出
+suid=s8
+*pro* 好
+suid=s9
+最后 *pro* 保存 到 桌面 就 可以 了
+suid=s10
+*pro* 注意 *pro* 是 txt 文件 然后 *pro* 发给 我 就 可以 了 啊
+suid=s11
+哈哈
+suid=s12
+O（∩＿∩）O *pro* 谢谢
+suid=s13
+嗯 我们 是 没 办法 大家 都 拉 着 自己 亲戚 朋友 *PRO* 找 数据 TT
+suid=s14
+*pro* 不 要紧
+suid=s15
+嘿嘿
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="111" end="114" text="pro" type="" comment="default value" />
+<我 id="我1" start="121" end="124" text="pro" type="" comment="default value" />
+<我 id="我2" start="140" end="143" text="pro" type="" comment="default value" />
+<我 id="我3" start="388" end="391" text="pro" type="" comment="default value" />
+<我 id="我4" start="459" end="462" text="pro" type="" comment="default value" />
+<你 id="你0" start="13" end="16" text="pro" type="" comment="default value" />
+<你 id="你1" start="22" end="25" text="pro" type="" comment="default value" />
+<你 id="你2" start="75" end="78" text="pro" type="" comment="default value" />
+<你 id="你3" start="230" end="233" text="pro" type="" comment="default value" />
+<你 id="你4" start="282" end="285" text="pro" type="" comment="default value" />
+<你 id="你5" start="312" end="315" text="pro" type="" comment="default value" />
+<你 id="你6" start="339" end="342" text="pro" type="" comment="default value" />
+<它 id="它0" start="321" end="324" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="95" end="98" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="180" end="183" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="217" end="220" text="pro" type="" comment="default value" />
+<previous_utterance id="pr3" start="263" end="266" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

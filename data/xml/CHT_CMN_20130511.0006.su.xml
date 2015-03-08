@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 不 在 ， *pro* 发 你 合同 我 看看
+suid=s1
+*pro* 现在 要 吗 ？
+suid=s2
+*pro* 有没有 我 看看
+suid=s3
+我 把 我 的 也 给 你 *PRO* 看看 *-1
+suid=s4
+我 怎么 还 有 个 5% 没有 看见 *pro* 什么 时候 结
+suid=s5
+*pro* 做完 验收 结
+suid=s6
+哦 ， 他 要是 不 验收 呢
+suid=s7
+你 这 合同 也 太 简单 了
+suid=s8
+你 先 看完 撒
+suid=s9
+后面 有 解释
+suid=s10
+我 打 出来 慢慢 看
+suid=s11
+哈哈 ， 那 东湖天下 接 了 没有
+suid=s12
+你 看看 *OP* 他 发给 我 *T*-1 的 报价 是 不 是 你 的
+suid=s13
+那个 发 的 ？
+suid=s14
+张芬
+suid=s15
+*pro* 好 的
+suid=s16
+她 发给 你 做 什么 ？
+suid=s17
+你 东湖天下 谈 下来 了 *-1 没有
+suid=s18
+我 就是 说 *pro* 要 看看 别人 的 报价
+suid=s19
+这个 不 是 我 的
+suid=s20
+那 他 的 价格 也 不 低
+suid=s21
+据说 *pro* 可以 打 85 折
+suid=s22
+我 不 知道 *pro* 是 不 是 张芬 在 说 假话
+suid=s23
+*pro* 不 小得 他们 是 么样 做 的
+suid=s24
+也就是 15W 他 可以 做 *T*-1
+suid=s25
+*pro* 不 赚 钱 来 拼杀
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="173" end="176" text="pro" type="" comment="default value" />
+<我 id="我1" start="482" end="485" text="pro" type="" comment="default value" />
+<我 id="我2" start="620" end="623" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="24" end="27" text="pro" type="" comment="default value" />
+<你 id="你2" start="50" end="53" text="pro" type="" comment="default value" />
+<你 id="你3" start="73" end="76" text="pro" type="" comment="default value" />
+<你 id="你4" start="151" end="154" text="pro" type="" comment="default value" />
+<他 id="他0" start="557" end="560" text="pro" type="" comment="default value" />
+<它 id="它0" start="589" end="592" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="682" end="685" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="403" end="406" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 马上 就 出去 。
+suid=s1
+*pro* 出门 *pro* 提前 说 一 声 ， 我 在 公司 这里 。
+suid=s2
+*pro* 没有
+suid=s3
+下午 *pro* 有 新 消息 吗 ？
+suid=s4
+*pro* 等等 吧
+suid=s5
+我 看 了 *pro* 不 能 打印 准考证 。
+suid=s6
+*pro* 中 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<我 id="我1" start="80" end="83" text="pro" type="" comment="default value" />
+<我 id="我2" start="125" end="128" text="pro" type="" comment="default value" />
+<你 id="你0" start="34" end="37" text="pro" type="" comment="default value" />
+<你 id="你1" start="43" end="46" text="pro" type="" comment="default value" />
+<你 id="你2" start="100" end="103" text="pro" type="" comment="default value" />
+<generic id="g0" start="150" end="153" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="177" end="180" text="pro" type="" />
+</TAGS>
+</ProTask>

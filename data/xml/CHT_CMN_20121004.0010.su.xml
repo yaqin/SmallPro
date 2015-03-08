@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+秋光 哥 在 么
+suid=s1
+？
+suid=s2
+*pro* 在
+suid=s3
+你 那里 能 办 二 级 证 么 *pro* 能 上网 查 的
+suid=s4
+我 只 认识 一 个 ， *pro* 太 贵 了 ， *pro* 不 推荐
+suid=s5
+*pro* 多 钱 啊
+suid=s6
+2w 我 记得 *pro* 是 *T*-1
+suid=s7
+*pro* 很 不 合适
+suid=s8
+*pro* 而且 不 是 济南 的
+suid=s9
+北京 的
+suid=s10
+哦 什么 项目 *pro* 都 能 做 *T*-1 么
+suid=s11
+*pro* 是
+suid=s12
+*pro* 多 长 时间 能 做 出来 啊
+suid=s13
+*pro* 是 真 证
+suid=s14
+这个 *pro* 得 问 *T*-1
+suid=s15
+*pro* 不 是 很 清楚
+suid=s16
+我 有 个 学生 想 *PRO* 报考 人大 或者 北科 的 高 水平 他们 分别 是 11月份 和 12月份 进行 测试 需要 二 级 证 我 问问 *pro* 能 办 呢 咱 济南 我 也 找 人 了 *pro* 有 几 个 还 没有 回信
+suid=s17
+价格 他 要是 觉得 *PRO* 可以 接受 *T*-1 *pro* 就 帮 他 *PRO* 办 就 是 了
+suid=s18
+问题 是 *pro* 需要 多久 能 办 出来 如果 *pro* 过 了 人家 报名 时间 *pro* 那 办 出来 就 没有用 了
+suid=s19
+就 *pro* 这 个 月 就 得 拿到 呗 ？
+suid=s20
+*pro* 能 再 网上 查到 编号 *pro* 是 么
+suid=s21
+*pro* 是 的 ， *pro* 是 真 证
+suid=s22
+你 问问 吧 *pro* *pro* 最 快 什么 时间 能 拿出 证 来 *pro* 好 么
+suid=s23
+*pro* 好 的 ， 我 帮 你 *PRO* 问问
+suid=s24
+*pro* 谢谢 你 啊
+suid=s25
+你 顺便 问问 你 那 朋友 能 操作 人大 么 呵呵
+suid=s26
+呵呵 ， *pro* 好
+suid=s27
+*pro* 一起 问
+suid=s28
+恩 就 是 啊 *pro* 一定 要 稳妥 别 让 人 *PRO* 骗 了 呵呵
+suid=s29
+这个 不 会 ， 自己人
+suid=s30
+哦 你 问问 吧 多少 钱 *pro* 问问 *T*-1 *pro* 先 给 你 部分 定金 等 *pro* 拿到 证 后 给齐
+suid=s31
+*pro* 好 滴
+suid=s32
+你 电话 多少
+suid=s33
+呵呵 ， 我 知道
+suid=s34
+嗯 你 抓紧 落实 我 现在 找 的 其他 人 *PRO* 操作 人大 但是 这个 要价 太 高 了 人家 就 不 想 *PRO* 去 了 你 看看 *OP* 你 找 *T*-1 的 这个 多少 钱 如果 *pro* 便宜 的话 *pro* 就 找 你
+suid=s35
+*pro* 好 的
+suid=s36
+我 也 不 知道 *pro* 能 不 能 操作
+suid=s37
+*pro* 只 能 问问 试试 看
+suid=s38
+嗯 你 先 确定 二 级 证 问问 *pro* 能 不 能 便宜 一点
+suid=s39
+*pro* 好
+suid=s40
+而且 *pro* 用 *OP* *T*-1 最 快 的 时间 给 办理 下来 是 需要 多 长 时间
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="37" end="40" text="pro" type="" comment="default value" />
+<我 id="我1" start="120" end="123" text="pro" type="" comment="default value" />
+<我 id="我2" start="359" end="362" text="pro" type="" comment="default value" />
+<我 id="我3" start="384" end="387" text="pro" type="" comment="default value" />
+<我 id="我4" start="714" end="717" text="pro" type="" comment="default value" />
+<我 id="我5" start="878" end="881" text="pro" type="" comment="default value" />
+<我 id="我6" start="959" end="962" text="pro" type="" comment="default value" />
+<我 id="我7" start="1080" end="1083" text="pro" type="" comment="default value" />
+<我 id="我8" start="1100" end="1103" text="pro" type="" comment="default value" />
+<我 id="我9" start="1295" end="1298" text="pro" type="" comment="default value" />
+<我 id="我10" start="1368" end="1371" text="pro" type="" comment="default value" />
+<你 id="你0" start="569" end="572" text="pro" type="" comment="default value" />
+<你 id="你1" start="987" end="990" text="pro" type="" comment="default value" />
+<你 id="你2" start="1065" end="1068" text="pro" type="" comment="default value" />
+<他 id="他0" start="106" end="109" text="pro" type="" comment="default value" />
+<他 id="他1" start="139" end="142" text="pro" type="" comment="default value" />
+<他 id="他2" start="167" end="170" text="pro" type="" comment="default value" />
+<他 id="他3" start="189" end="192" text="pro" type="" comment="default value" />
+<他 id="他4" start="210" end="213" text="pro" type="" comment="default value" />
+<他 id="他5" start="258" end="261" text="pro" type="" comment="default value" />
+<他 id="他6" start="304" end="307" text="pro" type="" comment="default value" />
+<他 id="他7" start="484" end="487" text="pro" type="" comment="default value" />
+<他 id="他8" start="609" end="612" text="pro" type="" comment="default value" />
+<他 id="他9" start="650" end="653" text="pro" type="" comment="default value" />
+<他 id="他10" start="792" end="795" text="pro" type="" comment="default value" />
+<他 id="他11" start="798" end="801" text="pro" type="" comment="default value" />
+<他 id="他12" start="1283" end="1286" text="pro" type="" comment="default value" />
+<他 id="他13" start="1344" end="1347" text="pro" type="" comment="default value" />
+<他 id="他14" start="1413" end="1416" text="pro" type="" comment="default value" />
+<他 id="他15" start="1460" end="1463" text="pro" type="" comment="default value" />
+<它 id="它0" start="70" end="73" text="pro" type="" comment="default value" />
+<它 id="它1" start="335" end="338" text="pro" type="" comment="default value" />
+<它 id="它2" start="631" end="634" text="pro" type="" comment="default value" />
+<它 id="它3" start="764" end="767" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="511" end="514" text="pro" type="" comment="default value" />
+<event id="ev0" start="733" end="736" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="287" end="290" text="pro" type="" />
+<pleonastic id="p1" start="682" end="685" text="pro" type="" />
+<pleonastic id="p2" start="752" end="755" text="pro" type="" />
+<pleonastic id="p3" start="823" end="826" text="pro" type="" />
+<pleonastic id="p4" start="842" end="845" text="pro" type="" />
+<previous_utterance id="pr0" start="942" end="945" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="1125" end="1128" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="1316" end="1319" text="pro" type="" comment="default value" />
+<previous_utterance id="pr3" start="1440" end="1443" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

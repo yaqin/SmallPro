@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗 ， 陈 经理
+suid=s1
+陈 经理 ， 会议室 那 个 展板 还 没 做 吗 ？
+suid=s2
+*pro* 有 电子版 吗
+suid=s3
+赵 经理 ， 那 个 贤德 设计 不 行
+suid=s4
+我 看 下
+suid=s5
+*pro* 不 会 吧
+suid=s6
+*pro* 还 不 如 卢莹 呢
+suid=s7
+*pro* 没有
+suid=s8
+他 那里 网络 不 行 。
+suid=s9
+*pro* 根本 就 没 怎么 设计
+suid=s10
+*pro* 估计 *pro* 看 了 *pro* 也 没 啥 收获
+suid=s11
+你 没 看 ?
+suid=s12
+*pro* 看 了 。
+*pro* 不 行 。
+suid=s13
+那 你 把 资料 再 发给 我 *-1 吧
+suid=s14
+*pro* 抽 时间 做 吧
+suid=s15
+*pro* 好
+suid=s16
+*pro* 再 发 一下
+suid=s17
+程序 死 了
+suid=s18
+你 那 有 尺子 吗
+suid=s19
+卷尺
+suid=s20
+*pro* 没有
+suid=s21
+工会 就 放 几 张 照片 ？
+suid=s22
+*pro* 是 的
+suid=s23
+*pro* 明确 一下 ， *pro* 是 做 三 块 展板 还是 一 块
+suid=s24
+*pro* 确定 ？
+suid=s25
+三 块
+suid=s26
+*pro* 确定
+suid=s27
+哪个 是 小 块
+suid=s28
+企划 委员会 一 块
+suid=s29
+总裁 办公 委员会 一 块
+suid=s30
+工会 一 块
+suid=s31
+两 个 大 块 ， 一 个 小 块 ， 合计 三 块
+suid=s32
+要求 是 横版 还是 竖版 ？
+suid=s33
+工会
+suid=s34
+*pro* 都 可以
+suid=s35
+竖版 好看 些 *pro* 感觉 *T*-1
+suid=s36
+我 觉得 横版 更 合适
+suid=s37
+[ 表情 ] 压力 很 大
+suid=s38
+*pro* 行 ， 你 设计 呗 。
+suid=s39
+卢 总 那么 相信 你 的 眼光
+suid=s40
+在 咱 公司 *pro* 干 的 多 挨训 的 多
+suid=s41
+*pro* 在 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="181" end="184" text="pro" type="" comment="default value" />
+<我 id="我1" start="248" end="251" text="pro" type="" comment="default value" />
+<我 id="我2" start="257" end="260" text="pro" type="" comment="default value" />
+<我 id="我3" start="267" end="270" text="pro" type="" comment="default value" />
+<我 id="我4" start="308" end="311" text="pro" type="" comment="default value" />
+<我 id="我5" start="483" end="486" text="pro" type="" comment="default value" />
+<我 id="我6" start="559" end="562" text="pro" type="" comment="default value" />
+<我 id="我7" start="625" end="628" text="pro" type="" comment="default value" />
+<我 id="我8" start="821" end="824" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="71" end="74" text="pro" type="" comment="default value" />
+<你 id="你2" start="372" end="375" text="pro" type="" comment="default value" />
+<你 id="你3" start="413" end="416" text="pro" type="" comment="default value" />
+<你 id="你4" start="545" end="548" text="pro" type="" comment="default value" />
+<你 id="你5" start="592" end="595" text="pro" type="" comment="default value" />
+<你 id="你6" start="979" end="982" text="pro" type="" comment="default value" />
+<他 id="他0" start="156" end="159" text="pro" type="" comment="default value" />
+<他 id="他1" start="220" end="223" text="pro" type="" comment="default value" />
+<他 id="他2" start="320" end="323" text="pro" type="" comment="default value" />
+<它 id="它0" start="136" end="139" text="pro" type="" comment="default value" />
+<它 id="它1" start="526" end="529" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="793" end="796" text="pro" type="" comment="default value" />
+<generic id="g0" start="951" end="954" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="396" end="399" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="890" end="893" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

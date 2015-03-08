@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 认识 *OP* *T*-1 开 旅馆 的 吗
+suid=s1
+*OP* *T*-1 有 协议 的 酒店 行 吗 ？
+*pro* 干 么 啊
+suid=s2
+大 酒店 吗 ， 还是 快捷 酒店
+suid=s3
+*pro* no
+suid=s4
+大 酒店 啊
+suid=s5
+我 想 *PRO* 开 一 家 快捷 酒店
+suid=s6
+*pro* 正在 考察 地段
+suid=s7
+具体 操作 流程 什么 的 *pro* 不 太 熟悉 *T*-1
+suid=s8
+*pro* 想 *PRO* 找 个 人 *PRO* 带带
+suid=s9
+*pro* 找 了
+suid=s10
+*pro* 这么 有 魄力 啊 ， 那 *pro* 就 找 陈彪 啊
+suid=s11
+我 只 想 *PRO* 开 纯 旅馆
+suid=s12
+*pro* 不 带 餐饮 的
+suid=s13
+*pro* 带 餐饮 太 麻烦 了
+suid=s14
+纯 旅馆 比较 好
+suid=s15
+哦 ， 那个 *pro* 不 熟 *T*-1 了
+suid=s16
+你 认识 ？
+什么 关系
+suid=s17
+*pro* 有 个 *OP* *T*-1 开 小 旅馆 的 *pro* 不 是 那 种 规模 的 ， 就 是 那 种 和 火车站 附近 那 种 小 平房 一 类 的
+suid=s18
+*pro* 可以 啊
+suid=s19
+*pro* 给 点 经验 也 行 啊
+suid=s20
+qq *pro* 给 我 *T*-1
+suid=s21
+我 同事
+suid=s22
+*pro* 倒
+suid=s23
+年纪 那么 大 了
+suid=s24
+唉
+suid=s25
+[ 表情 ] 50多 的 人 了 不 会 QQ *pro* 好 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="182" end="185" text="pro" type="" comment="default value" />
+<我 id="我1" start="219" end="222" text="pro" type="" comment="default value" />
+<我 id="我2" start="246" end="249" text="pro" type="" comment="default value" />
+<我 id="我3" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我4" start="374" end="377" text="pro" type="" comment="default value" />
+<我 id="我5" start="451" end="454" text="pro" type="" comment="default value" />
+<我 id="我6" start="682" end="685" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="74" end="77" text="pro" type="" comment="default value" />
+<你 id="你2" start="302" end="305" text="pro" type="" comment="default value" />
+<你 id="你3" start="322" end="325" text="pro" type="" comment="default value" />
+<你 id="你4" start="643" end="646" text="pro" type="" comment="default value" />
+<它 id="它0" start="120" end="123" text="pro" type="" comment="default value" />
+<它 id="它1" start="530" end="533" text="pro" type="" comment="default value" />
+<它 id="它2" start="592" end="595" text="pro" type="" comment="default value" />
+<它 id="它3" start="612" end="615" text="pro" type="" comment="default value" />
+<existential id="e0" start="500" end="503" text="pro" type="" comment="default value" />
+<generic id="g0" start="398" end="401" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="753" end="756" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

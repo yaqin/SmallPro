@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+韩 哥
+suid=s1
+恩
+suid=s2
+弟弟
+suid=s3
+哥
+suid=s4
+*pro* 好 的
+suid=s5
+*pro* 不 在
+suid=s6
+*pro* 问 您 个 事
+suid=s7
+就 这 一 个 事 ？
+suid=s8
+*pro* 在 东营 吗 ？
+suid=s9
+*pro* 不 在
+suid=s10
+哦
+suid=s11
+岳 总 这 周 在 东营 吗 ？
+suid=s12
+哦
+suid=s13
+*pro* 该 干 嘛 干 嘛 去
+suid=s14
+*pro* 谢谢 呀
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="89" end="92" text="pro" type="" comment="default value" />
+<我 id="我1" start="154" end="157" text="pro" type="" comment="default value" />
+<我 id="我2" start="248" end="251" text="pro" type="" comment="default value" />
+<你 id="你0" start="71" end="74" text="pro" type="" comment="default value" />
+<你 id="你1" start="131" end="134" text="pro" type="" comment="default value" />
+<你 id="你2" start="221" end="224" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="53" end="56" text="pro" type="" />
+</TAGS>
+</ProTask>

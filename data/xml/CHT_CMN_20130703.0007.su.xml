@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 按照 这个 做 就 行 了 尺寸 1 *RNR*-1 * 0.5 米
+suid=s1
+50 乘 35
+suid=s2
+*pro* 这么 小 啊
+suid=s3
+*pro* 是 啊 ， 不然 *pro* 挂 不 开
+suid=s4
+哦
+suid=s5
+*pro* 啥 时候 能 做好 ， 邢 姐
+suid=s6
+*pro* 明天 给 你 吧
+suid=s7
+*pro* 今天 来 得 及 *pro* 就 今天 给 你
+suid=s8
+*pro* 不 着急
+suid=s9
+明天 就 行
+suid=s10
+*pro* 稍微 给 修饰 一下
+suid=s11
+字体 什么 的 *pro* 看 着 不 顺眼 的话 *pro* 稍微 改改
+suid=s12
+*pro* 鲜艳 一点 醒目 一点 就 可以
+suid=s13
+*pro* 显眼
+suid=s14
+*pro* 不 是 鲜艳
+suid=s15
+*pro* 好 的
+suid=s16
+*pro* 看看 *pro* 行 吧
+suid=s17
+*pro* 很 完美
+suid=s18
+*pro* 谢谢 邢 姐
+suid=s19
+呵呵呵 我 做 了
+suid=s20
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="111" end="114" text="pro" type="" comment="default value" />
+<我 id="我1" start="171" end="174" text="pro" type="" comment="default value" />
+<我 id="我2" start="194" end="197" text="pro" type="" comment="default value" />
+<我 id="我3" start="209" end="212" text="pro" type="" comment="default value" />
+<我 id="我4" start="232" end="235" text="pro" type="" comment="default value" />
+<我 id="我5" start="267" end="270" text="pro" type="" comment="default value" />
+<我 id="我6" start="319" end="322" text="pro" type="" comment="default value" />
+<我 id="我7" start="431" end="434" text="pro" type="" comment="default value" />
+<我 id="我8" start="479" end="482" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="141" end="144" text="pro" type="" comment="default value" />
+<你 id="你2" start="301" end="304" text="pro" type="" comment="default value" />
+<它 id="它0" start="75" end="78" text="pro" type="" comment="default value" />
+<它 id="它1" start="96" end="99" text="pro" type="" comment="default value" />
+<它 id="它2" start="340" end="343" text="pro" type="" comment="default value" />
+<它 id="它3" start="372" end="375" text="pro" type="" comment="default value" />
+<它 id="它4" start="390" end="393" text="pro" type="" comment="default value" />
+<它 id="它5" start="440" end="443" text="pro" type="" comment="default value" />
+<它 id="它6" start="459" end="462" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="412" end="415" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

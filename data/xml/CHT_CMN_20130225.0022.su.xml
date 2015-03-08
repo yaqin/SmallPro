@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗 ？
+suid=s1
+你 好
+suid=s2
+你 好 ！
+*pro* 问 你 一下 ， 工商证 什么 时间 *pro* 去 领 *T*-1 呀 ？
+suid=s3
+3月 中旬 成绩 差 了 吗
+suid=s4
+查
+suid=s5
+*pro* 查 了
+suid=s6
+恩恩 那 *pro* 就 等 着 吧 我 会 通知 你 的
+suid=s7
+*pro* 好 的 ， *pro* 谢谢
+suid=s8
+68 分 过 了 吗 ？
+suid=s9
+高级 还是 中级 ？
+suid=s10
+高级 的 分数线 是 75 分 中级 60
+suid=s11
+*pro* 就 是 *OP* *T*-1 顶 自考 的 那个
+suid=s12
+*pro* 对
+suid=s13
+*pro* 是 中级 还是 高级 呀 ？
+suid=s14
+*OP* 你 考 *T*-1 的 是 本科 段 吗
+suid=s15
+那 就 是 高级
+suid=s16
+哦
+suid=s17
+恩恩
+suid=s18
+68 分 就 是 没 过 了 ？
+suid=s19
+*pro* 那 怎么 ， 什么 时候 *pro* 再 考 ？
+suid=s20
+*OP* *T*-1 没 过 的 怎么办 ， 还 能 补考 吗 ？
+suid=s21
+恩恩 *pro* 可以 补考 6月份
+suid=s22
+*pro* 一 年 就 考 两 次 6 12月份
+suid=s23
+*pro* 3月份 报名
+suid=s24
+补考 费 200 元
+suid=s25
+哦
+suid=s26
+*pro* 需要 把 你 的 资料 身份证 复印件 和 一 寸 两 寸 各 两 张
+suid=s27
+哦
+suid=s28
+什么 时间 *pro* 给 你
+suid=s29
+*pro* 下 周 吧
+suid=s30
+哦
+suid=s31
+到时候 *pro* 让 我 女 朋友 *PRO* 给 你 送 过去 吧 ， 我 在 外地
+suid=s32
+*pro* 好 的
+suid=s33
+张志翔
+suid=s34
+这 次 的 过关率 怎么样 ？
+suid=s35
+*pro* 挺 高 的 90%
+suid=s36
+哦
+suid=s37
+那 到 *OP* *pro* *T*-1 报名 的 时候 *pro* 通知 我 一下 吧
+suid=s38
+*pro* 谢谢
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="48" end="51" text="pro" type="" comment="default value" />
+<我 id="我1" start="134" end="137" text="pro" type="" comment="default value" />
+<我 id="我2" start="202" end="205" text="pro" type="" comment="default value" />
+<我 id="我3" start="348" end="351" text="pro" type="" comment="default value" />
+<我 id="我4" start="499" end="502" text="pro" type="" comment="default value" />
+<我 id="我5" start="746" end="749" text="pro" type="" comment="default value" />
+<我 id="我6" start="801" end="804" text="pro" type="" comment="default value" />
+<我 id="我7" start="998" end="1001" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="73" end="76" text="pro" type="" comment="default value" />
+<你 id="你2" start="157" end="160" text="pro" type="" comment="default value" />
+<你 id="你3" start="566" end="569" text="pro" type="" comment="default value" />
+<你 id="你4" start="625" end="628" text="pro" type="" comment="default value" />
+<你 id="你5" start="678" end="681" text="pro" type="" comment="default value" />
+<你 id="你6" start="765" end="768" text="pro" type="" comment="default value" />
+<你 id="你7" start="973" end="976" text="pro" type="" comment="default value" />
+<它 id="它0" start="291" end="294" text="pro" type="" comment="default value" />
+<它 id="它1" start="908" end="911" text="pro" type="" comment="default value" />
+<event id="ev0" start="480" end="483" text="pro" type="" comment="default value" />
+<generic id="g0" start="591" end="594" text="pro" type="" comment="default value" />
+<generic id="g1" start="953" end="956" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="190" end="193" text="pro" type="" />
+<pleonastic id="p1" start="331" end="334" text="pro" type="" />
+<pleonastic id="p2" start="851" end="854" text="pro" type="" />
+</TAGS>
+</ProTask>

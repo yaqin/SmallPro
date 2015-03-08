@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 新年 快乐
+suid=s1
+*pro* 新年 快乐 ！！！
+suid=s2
+*pro* 不好意思 ， 我 才 看到 ， *pro* 不 知道 你 还 在 吗 ？
+suid=s3
+呵呵 *pro* 在 呢
+suid=s4
+*pro* 过节 *pro* 还 要 忙 工作 么 ？
+suid=s5
+*pro* 没有 …… 我 在 偷偷 的 忙 申请
+suid=s6
+你 刚 过 了 12点
+suid=s7
+*pro* 欢迎 *pro* 来到 2013
+suid=s8
+嘿嘿 *pro* 早安
+suid=s9
+*pro* 晚上 好 ！
+suid=s10
+*pro* 还 好 还 好 *pro* 再 过 10 天 就 更 好 ~
+suid=s11
+*pro* 是 吗 ？？
+suid=s12
+天哪 ！
+suid=s13
+*pro* 再 有 10 天 你 就 回国 了 ？
+suid=s14
+*pro* 对 呀 *pro* 对 呀
+suid=s15
+你 已经 订 了 飞机 票 了 ？
+suid=s16
+*pro* 两 个 月 前 已经 订好
+suid=s17
+啊 ？
+*pro* 真 的 吖 ， 我 还 以为 你 还 没有 决定 好
+suid=s18
+小红 阿姨 怎么 放 你 回国 呢
+suid=s19
+当时 我 是 答应 老板 在 留 一 年 而且 连 签证 和 工作 许可 *pro* 都 递交 申请 了
+suid=s20
+后来 突然 一 天 我 恍然 顿悟 然后 *pro* 鼓起 勇气 说 我 要 做 *OP* 我 想 做 *T*-1 的 事
+suid=s21
+*pro* 就 这么 简单 呵呵
+suid=s22
+你 *pro* 过节 要 忙 什么 大事 ？
+suid=s23
+你 怎么 知道 ？
+suid=s24
+。。。 *pro* 刚 掐 指 小 算 了 一下
+suid=s25
+呵呵 ， 那 是 的
+suid=s26
+你 在 干 什么 ？
+suid=s27
+*pro* 发呆
+suid=s28
+呵呵 ， 那 是 的 ， 你 现在 的 回答 就 真的 很 具有 创意性 呀
+suid=s29
+*pro* 开始 上班 了 。。。 年 过完 啦
+suid=s30
+[ 表情 ] *pro* 是 呀 ， 你 好 吗 ？
+suid=s31
+哦 ， 你 是 说 我 还是 你 ？
+suid=s32
+我 呢
+suid=s33
+哦 ， 嗯 ， 你 在 干 嘛
+suid=s34
+*pro* 看看 邮件 准备 下 *PRO* 做 实验
+suid=s35
+*pro* 晚安 哈 我 去 忙 了
+suid=s36
+*pro* 好 ， *pro* 好好 忙
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="54" end="57" text="pro" type="" comment="default value" />
+<我 id="我1" start="76" end="79" text="pro" type="" comment="default value" />
+<我 id="我2" start="108" end="111" text="pro" type="" comment="default value" />
+<我 id="我3" start="162" end="165" text="pro" type="" comment="default value" />
+<我 id="我4" start="216" end="219" text="pro" type="" comment="default value" />
+<我 id="我5" start="289" end="292" text="pro" type="" comment="default value" />
+<我 id="我6" start="303" end="306" text="pro" type="" comment="default value" />
+<我 id="我7" start="462" end="465" text="pro" type="" comment="default value" />
+<我 id="我8" start="601" end="604" text="pro" type="" comment="default value" />
+<我 id="我9" start="647" end="650" text="pro" type="" comment="default value" />
+<我 id="我10" start="778" end="781" text="pro" type="" comment="default value" />
+<我 id="我11" start="848" end="851" text="pro" type="" comment="default value" />
+<我 id="我12" start="914" end="917" text="pro" type="" comment="default value" />
+<我 id="我13" start="1050" end="1053" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="30" end="33" text="pro" type="" comment="default value" />
+<你 id="你2" start="126" end="129" text="pro" type="" comment="default value" />
+<你 id="你3" start="135" end="138" text="pro" type="" comment="default value" />
+<你 id="你4" start="225" end="228" text="pro" type="" comment="default value" />
+<你 id="你5" start="250" end="253" text="pro" type="" comment="default value" />
+<你 id="你6" start="267" end="270" text="pro" type="" comment="default value" />
+<你 id="你7" start="335" end="338" text="pro" type="" comment="default value" />
+<你 id="你8" start="371" end="374" text="pro" type="" comment="default value" />
+<你 id="你9" start="495" end="498" text="pro" type="" comment="default value" />
+<你 id="你10" start="725" end="728" text="pro" type="" comment="default value" />
+<你 id="你11" start="955" end="958" text="pro" type="" comment="default value" />
+<你 id="你12" start="1087" end="1090" text="pro" type="" comment="default value" />
+<你 id="你13" start="1125" end="1128" text="pro" type="" comment="default value" />
+<event id="ev0" start="697" end="700" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="1115" end="1118" text="pro" type="" />
+<previous_utterance id="pr0" start="406" end="409" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="416" end="419" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

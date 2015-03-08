@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我 看到 了 。
+suid=s1
+我 看到 了 *OP* 你 回 *T*-1 的 信 。
+suid=s2
+宝贝 ， 看 得 到 吗
+suid=s3
+*pro* 看 的 到 。
+suid=s4
+*pro* 好
+suid=s5
+*OP* 刚才 你 发 *T*-1 的 我 没 收到 *T*-2
+suid=s6
+*pro* 是 什么 啊
+suid=s7
+我 看到 了 。
+我 看到 了 *OP* 你 回 *T*-1 的 信 。
+suid=s8
+*pro* 谢谢 哦 。
+你 加油 做事 。
+我 想 *PRO* 打 个 电话 回家 。
+suid=s9
+恩 *pro* 好 的
+suid=s10
+为什么 *pro* 周中 相 *PRO* 打 电话 回家
+suid=s11
+*pro* 是 不 是 想 家 了
+suid=s12
+恩 。
+*pro* 就 是 想 *PRO* 跟 家里人 聊聊 。
+suid=s13
+恩
+suid=s14
+宝贝 要 加油 哦
+suid=s15
+明天 早上 我 起 早 一点 和 你 聊
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="83" end="88" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="228" end="233" text="*pro*" type="" comment="default value" />
+<我 id="我3" start="371" end="376" text="*pro*" type="" comment="default value" />
+<你 id="你0" start="306" end="311" text="*pro*" type="" comment="default value" />
+<你 id="你2" start="340" end="345" text="*pro*" type="" comment="default value" />
+<event id="ev0" start="105" end="110" text="*pro*" type="" comment="default value" />
+<event id="ev1" start="283" end="288" text="*pro*" type="" comment="default value" />
+<generic id="g0" start="162" end="167" text="*pro*" type="" comment="default value" />
+</TAGS>
+</ProTask>

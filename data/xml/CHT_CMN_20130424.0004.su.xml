@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 啊 ， *pro* 上班 忙 不 ？
+suid=s1
+*pro* 在 *pro* 还 好 吧
+suid=s2
+*pro* 这 个 礼拜 有点 忙
+suid=s3
+*pro* 这样 啊 ， 你 是 做 什么 工作 的 呀 。
+suid=s4
+会计
+suid=s5
+哦哦
+suid=s6
+*pro* 不 是 很 了解
+suid=s7
+嘿嘿 ， *pro* 就 是 跟 电脑 打交道 [ 表情 ]
+suid=s8
+恩恩 这个 *pro* 还 是 知道 *T*-1 的
+suid=s9
+你 在 哪里 上班 呢
+suid=s10
+武昌 这边
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="45" end="48" text="pro" type="" comment="default value" />
+<我 id="我1" start="53" end="56" text="pro" type="" comment="default value" />
+<我 id="我2" start="73" end="76" text="pro" type="" comment="default value" />
+<我 id="我3" start="160" end="163" text="pro" type="" comment="default value" />
+<我 id="我4" start="188" end="191" text="pro" type="" comment="default value" />
+<我 id="我5" start="228" end="231" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="22" end="25" text="pro" type="" comment="default value" />
+<event id="ev0" start="99" end="102" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

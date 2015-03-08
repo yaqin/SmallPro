@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 给 的 什么 啊
+suid=s1
+*OP* *pro* 给 藕宝 买 *T*-1 的 小 衣服 *pro* 都 很 便宜 *pro* 穿 着 玩 的 嘿嘿 *pro* 生日 了 *pro* 也 不 知道 *pro* 给 藕宝 买 点 什么 *OP* 我 在 网上 看 *T*-2 的 玩具 我 怕 *T*-3 质量 不 过关
+suid=s2
+*OP* 你 给 藕宝 买 *T*-1 的 东西 已经 够 多 的 了
+suid=s3
+*pro* 都 没有 好 玩意 *pro* 让 藕宝 *PRO* 等 盛 阿姨 *OP* *pro* *T*-1 掌握 财政 大权 的 时候 给 藕宝 买 *OP* *T*-2 好 好 的
+suid=s4
+*pro* 好 的 呢
+suid=s5
+藕宝 会 给 你 加油 的
+suid=s6
+恩恩 我 准备 *PRO* 聘请 藕宝 *PRO* 去 给 我 要 钱 去 哈哈哈哈
+suid=s7
+嗯 ， 藕宝 *pro* 去 了 ， *pro* 见 了 你 婆婆 就 傻笑
+suid=s8
+嘿嘿
+suid=s9
+结果 *pro* 把 我 婆婆 笑 傻 *-1 了
+suid=s10
+嗯 ， *pro* 就 是 这 个 意思 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="34" end="37" text="pro" type="" comment="default value" />
+<我 id="我1" start="101" end="104" text="pro" type="" comment="default value" />
+<我 id="我2" start="114" end="117" text="pro" type="" comment="default value" />
+<我 id="我3" start="272" end="275" text="pro" type="" comment="default value" />
+<我 id="我4" start="520" end="523" text="pro" type="" comment="default value" />
+<你 id="你0" start="243" end="246" text="pro" type="" comment="default value" />
+<她 id="她0" start="73" end="76" text="pro" type="" comment="default value" />
+<她 id="她1" start="90" end="93" text="pro" type="" comment="default value" />
+<她 id="她2" start="430" end="433" text="pro" type="" comment="default value" />
+<她 id="她3" start="442" end="445" text="pro" type="" comment="default value" />
+<她 id="她4" start="484" end="487" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="60" end="63" text="pro" type="" comment="default value" />
+<它们 id="它们1" start="227" end="230" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="330" end="333" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

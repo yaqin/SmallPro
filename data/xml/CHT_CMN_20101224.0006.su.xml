@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+[ 表情 ] *pro* 谢谢
+suid=s1
+悲剧 ， 我 发现 我 *pro* 这 个 学期 修完 只 有 29 个 学分
+suid=s2
+下 学期 高级 英语 1 、 英语 写作 1 、 演讲 艺术 、 词汇学 。。 我 *T*-1 加 起来 有 10 个 学分
+suid=s3
+*pro* 按 *OP* 我 选 *T*-1 的 去 选 吧 你 的 悲剧 不 是 悲剧
+suid=s4
+不过 你 选 过 写作 1 了 。。。
+suid=s5
+题型 ， 即 单词 听写 ， 选择 题 ， spot dictation , 问答 题 。
+suid=s6
+spot dictation 是 啥
+suid=s7
+问答 题 *pro* 又 怎么 做 *T*-1 ？
+suid=s8
+*pro* 就 是 问答 咯 *pro* *pro* 听 了 之后 回答 问题 。。
+suid=s9
+*pro* 就 是 听力 的 主观 题
+suid=s10
+spot dictation 和 单词 听写 有 撒 不同
+suid=s11
+spot dictation 就 像 四 *RNR*-1 六 级 听力 的 那 种 复合式 听写
+suid=s12
+单词 听写 就 是 精读 课 的 那 种 纯 单词 听写
+suid=s13
+复合式 ？
+*pro* 不 太 明白 ？
+suid=s14
+你 没 考 过 四 *RNR*-1 六 级 么
+suid=s15
+*pro* 就 是 四 *RNR*-1 六 级 听力 最后 那 种 听写 啊
+suid=s16
+*pro* 有 啊 …… *pro* 忘记 了
+suid=s17
+*pro* 就 是 听写 句子 吗
+suid=s18
+*pro* 有 篇 文章 ， 然后 挖空 有 *OP* *pro* *T*-1 听写 单词 也 有 句子 的 那 种 咯
+suid=s19
+哦哦 ~ *pro* 明白 ， THX
+suid=s20
+我 不 考 教育学 了
+suid=s21
+*pro* 专心 考 听力 ， 5
+suid=s22
+。。。
+suid=s23
+那 你 教育学 怎么办
+suid=s24
+狂草 *pro* 都 得 写 几 个 字 上去 吧
+suid=s25
+*pro* 不 考 了 呀 就 ， 反正 他们 说 *pro* 不 会 有 挂科 记录
+suid=s26
+。。。
+suid=s27
+呵呵 ， 因为 听力 *pro* 没 复习 过 *T*-1 呢
+suid=s28
+听力 我 也 没有 复习 *T*-1 的
+suid=s29
+你 厉害 嘛 ~ 我 平常 都 没 上课
+suid=s30
+你 打算 *PRO* 裸考 ？
+suid=s31
+*pro* 对 啊
+suid=s32
+这 门 课 *pro* 可以 怎么 复习 *T*-1
+suid=s33
+老师 说 *pro* 会 考 U1 - U3 的 课本 听力 啊
+suid=s34
+那些 听力 很 简单 的
+suid=s35
+[ 表情 ] 我 很 久 没 听 了
+suid=s36
+*pro* 完全 是 中学 水平 *pro* 就 可以 听懂 的
+suid=s37
+。。。。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="16" end="21" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="45" end="51" text="*pro* " type="" comment="default value" />
+<我 id="我3" start="569" end="574" text="*pro*" type="" comment="default value" />
+<我 id="我4" start="674" end="680" text="*pro* " type="" comment="default value" />
+<我 id="我6" start="809" end="815" text="*pro* " type="" comment="default value" />
+<我 id="我7" start="854" end="859" text="*pro*" type="" comment="default value" />
+<我 id="我9" start="950" end="956" text="*pro* " type="" comment="default value" />
+<我 id="我10" start="975" end="981" text=" *pro*" type="" comment="default value" />
+<我 id="我11" start="1026" end="1033" text=" *pro* " type="" comment="default value" />
+<我 id="我12" start="1167" end="1173" text="*pro* " type="" comment="default value" />
+<我 id="我2" start="688" end="691" text="pro" type="" comment="default value" />
+<我 id="我5" start="919" end="922" text="pro" type="" comment="default value" />
+<你 id="你0" start="319" end="324" text="*pro*" type="" comment="default value" />
+<你 id="你1" start="369" end="374" text="*pro*" type="" comment="default value" />
+<你 id="你3" start="1306" end="1311" text="*pro*" type="" comment="default value" />
+<它 id="它0" start="348" end="353" text="*pro*" type="" comment="default value" />
+<它 id="它1" start="399" end="405" text="*pro* " type="" comment="default value" />
+<它 id="它2" start="626" end="631" text="*pro*" type="" comment="default value" />
+<它 id="它3" start="707" end="712" text="*pro*" type="" comment="default value" />
+<它 id="它4" start="1142" end="1147" text="*pro*" type="" comment="default value" />
+<它 id="它5" start="1202" end="1208" text="*pro* " type="" comment="default value" />
+<它 id="它6" start="1289" end="1295" text="*pro* " type="" comment="default value" />
+<existential id="e0" start="734" end="739" text="*pro*" type="" comment="default value" />
+<existential id="e1" start="762" end="767" text="*pro*" type="" comment="default value" />
+<other id="o0" start="152" end="157" text="*pro*" type="" comment="default value" />
+<other id="o1" start="363" end="368" text="*pro*" type="" comment="default value" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+圆圆 妈妈 你 最近 好 不 好 啊 。
+*pro* 忙 吗
+suid=s1
+我 婆婆 走 了 *pro* 有些 忙 啊 ， 不过 *pro* 还 行 哦 *pro* 对 了 我们 房子 搞定 了 。
+suid=s2
+我 婆婆 走 了 以后 我 是 挺 忙 的 ， 不过 *pro* 还 好 啊 ， *pro* 自由 了 ，
+suid=s3
+哦 ， *pro* 对 了 ， 我们 房子 搞定 了 ， *pro* 3月 中 交房 ， *pro* 春天 请 你 和 小石头 *PRO* 到 我们 的 新 家 玩儿 啊
+suid=s4
+*pro* 太 好 了 我们 一定 去
+suid=s5
+*pro* 真 是 个 好 消息 *pro* 为 你 高兴 圆圆 妈妈 。
+suid=s6
+到时候 *pro* 有 什么 *OP* *T*-1 要 帮忙 的 告诉 我们
+suid=s7
+*pro* 好 的 ， *pro* 谢谢 ， 呵呵
+suid=s8
+我 婆婆 走 了 *pro* 有些 忙 啊 ， 不过 *pro* 还 行 哦 *pro* 对 了 我们 房子 搞定 了 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="58" end="61" text="pro" type="" comment="default value" />
+<我 id="我1" start="76" end="79" text="pro" type="" comment="default value" />
+<我 id="我2" start="146" end="149" text="pro" type="" comment="default value" />
+<我 id="我3" start="160" end="163" text="pro" type="" comment="default value" />
+<我 id="我4" start="226" end="229" text="pro" type="" comment="default value" />
+<我 id="我5" start="320" end="323" text="pro" type="" comment="default value" />
+<我 id="我6" start="408" end="411" text="pro" type="" comment="default value" />
+<我 id="我7" start="439" end="442" text="pro" type="" comment="default value" />
+<我 id="我8" start="457" end="460" text="pro" type="" comment="default value" />
+<你 id="你0" start="31" end="34" text="pro" type="" comment="default value" />
+<你 id="你1" start="275" end="278" text="pro" type="" comment="default value" />
+<你 id="你2" start="353" end="356" text="pro" type="" comment="default value" />
+<它 id="它0" start="303" end="306" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="210" end="213" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="88" end="91" text="pro" type="" />
+<pleonastic id="p1" start="185" end="188" text="pro" type="" />
+<pleonastic id="p2" start="469" end="472" text="pro" type="" />
+<previous_utterance id="pr0" start="396" end="399" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

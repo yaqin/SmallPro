@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我 也 来 啦 ， *pro* 在 一 号 教室 呢
+suid=s1
+哦 ， 我 以为 你 在 前台 呢
+suid=s2
+嘿嘿
+suid=s3
+我 *pro* 早上 去 前台 没 看见 你 呢
+suid=s4
+哦 ， 你 现在 九点 上班 吧 ？
+suid=s5
+*pro* 是 啊
+suid=s6
+我 没有 哺乳 时间 了
+suid=s7
+*pro* 是 啊
+suid=s8
+你 孩子 大 了
+suid=s9
+不过 *OP* 你 *T*-1 休 的 时间 长 啊
+suid=s10
+嗯 ， 她 不 喝 奶粉 ， *pro* 真是 愁人
+suid=s11
+*pro* 那么 大 了 。
+*pro* 要 以 *pro* 吃饭 为主 了
+suid=s12
+*pro* 一 天 三 顿 饭 ， *pro* 都 说 *pro* 喝奶 *pro* 长 的 好 啊 ， 呵呵 ， 她 好像 有点 瘦 ， *pro* 才 18 *RNR*-1 ， 19 斤 呢 ， 你 宝贝 呢
+suid=s13
+76 cm ， 20 斤
+suid=s14
+孩子 大 了 ， *OP* *pro* 需要 *T*-1 的 营养 就 多 了 ， 你 得 给 她 多 吃饭
+suid=s15
+我 闺女 现在 就 是 正常 一 天 三 顿 饭 了
+suid=s16
+她 早 就 是 一 天 三 顿 饭 ， 开始 *pro* 能 吃 ， 现在 *pro* 挑食 啦
+suid=s17
+我 闺女 *OP* *T*-1 最 大 的 好处 就 是 嘴 壮 ， *pro* 给 什么 *pro* 都 吃
+suid=s18
+*OP* 她 一 顿 饭 吃 *T*-1 的 比 *OP* 两 *RNR*-2 三 岁 的 小孩 吃 *T*-3 的 都 多
+suid=s19
+她 九 个 月 那回 74 CM 18 斤 ， 冬天 的 时候 ， 现在 还是 体重 18 斤 多 点
+suid=s20
+那 挺 好 啊
+suid=s21
+但是 我 闺女 也 不 胖
+suid=s22
+*pro* 偏 高 偏 瘦
+suid=s23
+就是 脸 大 ， 身上 挺 瘦 的
+suid=s24
+她 *pro* 吃 水果 也 是 ， 开始 *pro* 什么 都 吃 *-1 ， 现在 *pro* 吃 啥 *pro* 就 是 一 口 ， *pro* 再 给 *pro* 也 不 吃
+suid=s25
+恩恩 ， *pro* 是 啊 ， 俺 孩子 也 是 *pro* 看 着 脸面 还 行 ， 身上 竟 是 骨头 ， 呵呵
+suid=s26
+孩子 越 大 心眼 越 多
+suid=s27
+*pro* 是 啊 ， *pro* 现在 就 是 小 大人 了 ， *pro* 就是 不 学 *pro* 说话 ， *pro* 学 事情 很 快 ， *pro* 就 会 叫 爸妈 ， 其他 的 语言 我 是 一点 也 听 不 懂 *T*-1 啊 ， 呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="20" end="23" text="pro" type="" comment="default value" />
+<我 id="我1" start="84" end="87" text="pro" type="" comment="default value" />
+<我 id="我2" start="142" end="145" text="pro" type="" comment="default value" />
+<我 id="我3" start="181" end="184" text="pro" type="" comment="default value" />
+<我 id="我4" start="667" end="670" text="pro" type="" comment="default value" />
+<我 id="我5" start="990" end="993" text="pro" type="" comment="default value" />
+<我 id="我6" start="1047" end="1050" text="pro" type="" comment="default value" />
+<她 id="她0" start="267" end="270" text="pro" type="" comment="default value" />
+<她 id="她1" start="288" end="291" text="pro" type="" comment="default value" />
+<她 id="她2" start="303" end="306" text="pro" type="" comment="default value" />
+<她 id="她3" start="313" end="316" text="pro" type="" comment="default value" />
+<她 id="她4" start="336" end="339" text="pro" type="" comment="default value" />
+<她 id="她5" start="364" end="367" text="pro" type="" comment="default value" />
+<她 id="她6" start="373" end="376" text="pro" type="" comment="default value" />
+<她 id="她7" start="406" end="409" text="pro" type="" comment="default value" />
+<她 id="她8" start="488" end="491" text="pro" type="" comment="default value" />
+<她 id="她9" start="597" end="600" text="pro" type="" comment="default value" />
+<她 id="她10" start="612" end="615" text="pro" type="" comment="default value" />
+<她 id="她11" start="678" end="681" text="pro" type="" comment="default value" />
+<她 id="她12" start="870" end="873" text="pro" type="" comment="default value" />
+<她 id="她13" start="922" end="925" text="pro" type="" comment="default value" />
+<她 id="她14" start="942" end="945" text="pro" type="" comment="default value" />
+<她 id="她15" start="964" end="967" text="pro" type="" comment="default value" />
+<她 id="她16" start="974" end="977" text="pro" type="" comment="default value" />
+<她 id="她17" start="1000" end="1003" text="pro" type="" comment="default value" />
+<她 id="她18" start="1026" end="1029" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="1113" end="1116" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="1125" end="1128" text="pro" type="" comment="default value" />
+<他们 id="他们2" start="1147" end="1150" text="pro" type="" comment="default value" />
+<他们 id="他们3" start="1160" end="1163" text="pro" type="" comment="default value" />
+<他们 id="他们4" start="1171" end="1174" text="pro" type="" comment="default value" />
+<他们 id="他们5" start="1188" end="1191" text="pro" type="" comment="default value" />
+<generic id="g0" start="354" end="357" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

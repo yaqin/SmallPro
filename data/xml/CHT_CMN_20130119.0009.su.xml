@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+^.^ 朗月 清秋 干 嘛 在 ？
+suid=s1
+*pro* 在 看 电视 啊 。。。 华 姐
+suid=s2
+你 最近 好 吗
+suid=s3
+我 在 浠水 ， *pro* 还 好 啦 。
+suid=s4
+啊 你 在 xishui 呀
+suid=s5
+昨天 *pro* 去 看 你 二爷 了
+suid=s6
+*pro* 回去 过年 吗
+suid=s7
+恩
+suid=s8
+不 ， *pro* 明天 回 黄石 。
+suid=s9
+你 回 不 ？
+suid=s10
+*pro* 不 回 呢 我们 才 开学 我 可能 打算 *PRO* 8月份 回国 啊
+suid=s11
+蕊蕊 也 在 一起 过年 吗
+suid=s12
+哦
+suid=s13
+三爷 的 身体 好 吗
+suid=s14
+蕊蕊 在 学 钢琴 ， 不 能 呆 久 。
+suid=s15
+*pro* 还 好
+suid=s16
+哇 ~ *pro* 不错 呢 ！
+suid=s17
+小孩 的 学习 能力 会 很 强 的
+suid=s18
+*pro* 今年 才 学 的 ， 乐感 还 行 。
+suid=s19
+你 二爷 伤心 哟 ， 得 活活 痛死 。
+suid=s20
+等 你 回 *pro* 看 不 到 了
+suid=s21
+嗯呢 。。。。 我 知道 。。 我 跟 二爷 打 了 电话 五一 *OP* 哥 *T*-1 回来 的 时候 *pro* 跟 他们 聊 了 好久
+suid=s22
+*pro* 希望 上帝 能 保佑 二爷 *PRO* 少 受 些 苦 。。。
+suid=s23
+恩
+suid=s24
+*pro* 在 老家 玩 的 开心 哦 ！
+suid=s25
+*pro* 替 我 向 三爷 问 声 好 呢 ！
+suid=s26
+*pro* 过 段 时间 再 跟 二爷 打 电话 呢
+suid=s27
+恩 ， 你 也 照顾 好 自己 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="36" end="39" text="pro" type="" comment="default value" />
+<我 id="我1" start="93" end="96" text="pro" type="" comment="default value" />
+<我 id="我2" start="141" end="144" text="pro" type="" comment="default value" />
+<我 id="我3" start="202" end="205" text="pro" type="" comment="default value" />
+<我 id="我4" start="243" end="246" text="pro" type="" comment="default value" />
+<我 id="我5" start="604" end="607" text="pro" type="" comment="default value" />
+<我 id="我6" start="631" end="634" text="pro" type="" comment="default value" />
+<我 id="我7" start="754" end="757" text="pro" type="" comment="default value" />
+<你 id="你0" start="166" end="169" text="pro" type="" comment="default value" />
+<你 id="你1" start="527" end="530" text="pro" type="" comment="default value" />
+<你 id="你2" start="689" end="692" text="pro" type="" comment="default value" />
+<你 id="你3" start="720" end="723" text="pro" type="" comment="default value" />
+<他 id="他0" start="382" end="385" text="pro" type="" comment="default value" />
+<她 id="她0" start="455" end="458" text="pro" type="" comment="default value" />
+<event id="ev0" start="405" end="408" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

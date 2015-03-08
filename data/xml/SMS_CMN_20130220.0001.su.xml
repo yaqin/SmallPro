@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 请问 你 谁 呀 ！
+suid=s1
+一 个 *OP* *T*-1 被 *OP* 你 删除 *T*-2 朋友
+suid=s2
+你 是 男 的 女 的 呀
+suid=s3
+你 两 个 号码 啊
+suid=s4
+你 网名 叫 啥 啊 多少 号 啊
+suid=s5
+独孤一品
+suid=s6
+这 都 不 是 我 的 号 我 换 手机 号 了
+suid=s7
+哦 那 你 以前 是 用 这 个 号码 给 我 打 得 电话 啊 那 你 现在 用 哪 个 号码 了 *pro* 是 刚才 那 个 号码 吗
+suid=s8
+哦 那 现 谁 在 用 啊
+suid=s9
+别人 总之 你 别 往 这里 发 了 这 卡 我 给 我 老公 和 孩子 *T*-1 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="10" end="13" text="pro" type="" comment="default value" />
+<它 id="它0" start="243" end="246" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

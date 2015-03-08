@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 ？
+suid=s1
+*pro* 在
+suid=s2
+你 有 无 win7 的 镜像 文件
+suid=s3
+*pro* 有
+suid=s4
+*pro* 发给 我 吧
+suid=s5
+*pro* 要 不 要 *OP* *T*-1 激活 的
+suid=s6
+*pro* 是 旗舰 版 还是 家庭 版 ？
+suid=s7
+这 是 原版 的
+suid=s8
+旗舰
+suid=s9
+*pro* 要 激活 码 ？
+suid=s10
+*pro* 要 激活
+suid=s11
+....
+suid=s12
+我 这里 没有
+suid=s13
+你 先 装 吧
+suid=s14
+*pro* 上网 找 激活 码 那些 可以 么
+suid=s15
+*pro* 不 可以
+suid=s16
+*pro* 不 激活 *pro* 用 不 了 的 喔
+suid=s17
+我 不 是 现在 装 ， 可能 明天 或者 后天
+suid=s18
+*pro* 用 的 了 ， 你 先 不 要 激活 ， *pro* 可以 用 30 天
+suid=s19
+等 我 帮 庞洁 *PRO* 重装 完 ， 拿回 移动 硬盘 *pro* 就 有 了
+suid=s20
+*pro* 不 是 我 要 装 ， 我 是 帮 别人 *PRO* 装
+suid=s21
+你 几时 拿回 移动 硬盘 ？
+suid=s22
+*pro* 等 下
+suid=s23
+庞洁 的 电脑 也 要 重装 ？
+suid=s24
+恩
+suid=s25
+我 明晚 用
+suid=s26
+激活 工具
+suid=s27
+*pro* 用 管理员 权限 运行
+suid=s28
+就是 *pro* 解压 了 镜像 之后
+suid=s29
+然后 *pro* 用 loader ？
+suid=s30
+*pro* *pro* 安装 好 系统 之后 才 用 loader
+suid=s31
+loader 是 用来 *pro* 激活 的
+suid=s32
+那 个 镜像 是 不 是 *pro* 解压 完 之后 ， 就 有 个 autorun 或者 setup 可以 选 的 ？
+suid=s33
+在 D 盘 这些 解压 也 行 的 吧
+suid=s34
+这个 。。
+suid=s35
+硬盘 安装 比较 麻烦
+suid=s36
+*pro* 不 是 要 虚拟 光驱 吧
+suid=s37
+虚拟 光驱 也 装 不 到 的
+suid=s38
+这个 怎么办 ？
+suid=s39
+*pro* 是 在 什么 系统 装 的
+suid=s40
+我 不 知道
+suid=s41
+*pro* 有 什么 不同 ？
+suid=s42
+*pro* XP 的话 *pro* 就 复制 就 行
+suid=s43
+*pro* 以上 的话 *pro* 要 用 管理员 帐号 登录 来 复制
+suid=s44
+win7 呢
+suid=s45
+一般 *pro* 进去 *pro* 就 是 管理员 账号 的 吧
+suid=s46
+*pro* 一般 是
+suid=s47
+*pro* 实在 不 行 的话 *pro* 就 用 administrator
+suid=s48
+那 win7 也 复制 ？
+suid=s49
+*pro* 也 是
+suid=s50
+*pro* 用 administrator 啥 意思 ……
+suid=s51
+用户 名
+suid=s52
+*pro* 不 明白 。
+我 觉得 *PRO* 一般 不 会 设 guest 账户 吧
+suid=s53
+不过 user 账户 也 是 不 行 的
+suid=s54
+一般来说 *pro* 没 问题 的 啦
+suid=s55
+你 明晚 十点 后 有空 不 ？
+suid=s56
+如果 我 搞 不 定 *pro* 就 打给 你 ……
+suid=s57
+恩
+suid=s58
+*pro* 解压 就 行 了
+suid=s59
+*pro* 在 C 盘 解压 ？
+suid=s60
+D 盘
+suid=s61
+哦哦 ， *pro* 看错 了
+suid=s62
+loder 有 规定 *pro* 装 在 哪 个 盘 吗
+suid=s63
+*pro* 双击 exe 文件 就 可以 了 吧
+suid=s64
+*pro* 没有
+suid=s65
+右键 ， *pro* 用 管理员 方式 运行
+suid=s66
+O（∩＿∩）O *pro* 谢谢
+suid=s67
+*pro* 有 无 规定 他 的 D 盘 要 *OP* *T*-1 多 大 的 ？
+suid=s68
+网上 说 *pro* 要 25 G
+suid=s69
+D 盘 没 关系
+suid=s70
+C ？
+suid=s71
+恩
+suid=s72
+甘 C 盘 是 不 是 得 有 25 G ？
+suid=s73
+*pro* 最 好
+suid=s74
+[ 图片 ] 如果 他 没 25 G 我 就 给 他 装 XP ……
+suid=s75
+. 恩
+suid=s76
+可素 *pro* 米有 XP 的 镜像 ……
+suid=s77
+*pro* 如果 太 小 的话 不 行
+suid=s78
+。。 我 也 木有
+suid=s79
+*pro* 在 ？
+suid=s80
+*pro* 突然 想到 一 个 问题 ， 就是 那 个 *OP* *T*-1 叫 我 *PRO* 重装 电脑 的 ， 他 说 他 的 电脑 中毒 了 ， 那 我 的 U盘 *pro* 插 进去 岂 不 是 完蛋 了 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="27" end="32" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="70" end="75" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="294" end="300" text="*pro* " type="" comment="default value" />
+<我 id="我3" start="347" end="352" text="*pro*" type="" comment="default value" />
+<我 id="我4" start="357" end="364" text=" *pro* " type="" comment="default value" />
+<我 id="我6" start="500" end="506" text="*pro* " type="" comment="default value" />
+<我 id="我8" start="736" end="742" text="*pro* " type="" comment="default value" />
+<我 id="我9" start="1365" end="1371" text="*pro* " type="" comment="default value" />
+<我 id="我10" start="1418" end="1424" text="*pro* " type="" comment="default value" />
+<我 id="我11" start="1566" end="1572" text=" *pro*" type="" comment="default value" />
+<我 id="我12" start="1627" end="1632" text="*pro*" type="" comment="default value" />
+<我 id="我13" start="1670" end="1677" text=" *pro* " type="" comment="default value" />
+<我 id="我14" start="1702" end="1708" text="*pro* " type="" comment="default value" />
+<我 id="我15" start="1820" end="1826" text=" *pro*" type="" comment="default value" />
+<我 id="我16" start="2069" end="2076" text=" *pro* " type="" comment="default value" />
+<我 id="我17" start="2166" end="2171" text="*pro*" type="" comment="default value" />
+<你 id="你0" start="9" end="14" text="*pro*" type="" comment="default value" />
+<你 id="你1" start="86" end="92" text="*pro* " type="" comment="default value" />
+<你 id="你2" start="107" end="112" text="*pro*" type="" comment="default value" />
+<你 id="你3" start="143" end="149" text="*pro* " type="" comment="default value" />
+<你 id="你6" start="417" end="422" text="*pro*" type="" comment="default value" />
+<你 id="你7" start="590" end="596" text="*pro* " type="" comment="default value" />
+<你 id="你8" start="677" end="683" text="*pro* " type="" comment="default value" />
+<你 id="你9" start="707" end="713" text="*pro* " type="" comment="default value" />
+<你 id="你10" start="768" end="773" text="*pro*" type="" comment="default value" />
+<你 id="你11" start="849" end="856" text=" *pro* " type="" comment="default value" />
+<你 id="你12" start="1125" end="1131" text=" *pro*" type="" comment="default value" />
+<你 id="你13" start="1162" end="1167" text="*pro*" type="" comment="default value" />
+<你 id="你14" start="1215" end="1220" text="*pro*" type="" comment="default value" />
+<你 id="你15" start="1224" end="1230" text="*pro* " type="" comment="default value" />
+<你 id="你16" start="1274" end="1279" text="*pro*" type="" comment="default value" />
+<你 id="你17" start="1289" end="1296" text=" *pro* " type="" comment="default value" />
+<你 id="你18" start="1603" end="1609" text="*pro* " type="" comment="default value" />
+<你 id="你19" start="1729" end="1734" text="*pro*" type="" comment="default value" />
+<你 id="你20" start="1785" end="1792" text=" *pro* " type="" comment="default value" />
+<你 id="你21" start="2147" end="2152" text="*pro*" type="" comment="default value" />
+<它 id="它0" start="202" end="207" text="*pro*" type="" comment="default value" />
+<它 id="它1" start="226" end="232" text="*pro* " type="" comment="default value" />
+<它 id="它2" start="444" end="450" text="*pro* " type="" comment="default value" />
+<它 id="它3" start="972" end="978" text="*pro* " type="" comment="default value" />
+<它 id="它4" start="1044" end="1049" text="*pro*" type="" comment="default value" />
+<它 id="它5" start="1150" end="1155" text="*pro*" type="" comment="default value" />
+<它 id="它6" start="1506" end="1511" text="*pro*" type="" comment="default value" />
+<它 id="它7" start="1894" end="1900" text=" *pro*" type="" comment="default value" />
+<它 id="它8" start="2099" end="2104" text="*pro*" type="" comment="default value" />
+<它 id="它9" start="2252" end="2258" text="*pro* " type="" comment="default value" />
+<existential id="e0" start="1089" end="1094" text="*pro*" type="" comment="default value" />
+<existential id="e1" start="1763" end="1768" text="*pro*" type="" comment="default value" />
+<existential id="e2" start="1839" end="1844" text="*pro*" type="" comment="default value" />
+<event id="ev1" start="1254" end="1259" text="*pro*" type="" comment="default value" />
+<event id="ev2" start="1991" end="1996" text="*pro*" type="" comment="default value" />
+<generic id="g0" start="327" end="332" text="*pro*" type="" comment="default value" />
+<pleonastic id="p0" start="521" end="526" text="*pro*" type="unsure" />
+<pleonastic id="p1" start="817" end="822" text="*pro*" type="unsure" />
+<pleonastic id="p2" start="1346" end="1352" text="*pro* " type="" />
+<other id="o0" start="762" end="768" text="*pro* " type="" comment="unsure" />
+<other id="o1" start="1114" end="1119" text="*pro*" type="" comment="default value" />
+</TAGS>
+</ProTask>

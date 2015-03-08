@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 晚上 请客 吧 经理
+suid=s1
+要不 我们 请 你 哈哈
+suid=s2
+*pro* 不 是 ， *pro* 昨天 河湾 了
+suid=s3
+要不 我 和 班长 请 你 *PRO* 吃 烧饼 去
+suid=s4
+呵呵 *pro* 没 事 你 忙 吧 ， 我 好想 好几 天 没 见 你 了
+suid=s5
+*pro* 没 事 呵呵
+suid=s6
+你 最近 犯 酒瘾 了
+suid=s7
+*pro* 是 吧 ？
+suid=s8
+*pro* 没 事 ， *pro* 看 你 在线 ， 给 你 说 句 话 呵呵
+suid=s9
+我 没 梦见 你 呵呵
+suid=s10
+今天 *pro* 想 *PRO* 接着 醉
+suid=s11
+你 俩 最近 有 事 ？
+suid=s12
+你 怎么 也 感冒 了 ， 我 快 好 了 呵呵 [ 表情 ]
+suid=s13
+哟 ， 你 要 有 事 *pro* 赶紧 说
+suid=s14
+我 怎么 那么 故弄 的 慌
+suid=s15
+心里 没 底
+suid=s16
+*pro* 一般话 吧 ， 他 在 标志 汽车 干 销售 内勤
+suid=s17
+等 我 感冒 好 了 ， *pro* 一块 吃饭
+suid=s18
+*pro* 不 是 吧 ， *pro* 做梦 不 能 传染
+suid=s19
+*pro* 叫 小露 也 行
+suid=s20
+哈哈
+suid=s21
+以前 我 还 管 着 她
+suid=s22
+你 和 她 妹妹 关系 很 好 嘛
+suid=s23
+*pro* 所以 就 认识 了 小露 呵呵
+suid=s24
+*pro* 还 一起 过 的 情人节
+suid=s25
+*pro* 就 是 你 传染 的 *pro* 可能
+suid=s26
+*pro* 对
+suid=s27
+要不 你 问问 她 ， 哪 天 *pro* 喝 多 了 ， *pro* 好像 还 和 她 合唱 了 一 首 歌
+suid=s28
+去年 哈哈
+suid=s29
+哦 ， *pro* 难怪 。
+suid=s30
+好几 个 女 的 ， 就 两 个 男人 ， *pro* 郁闷 死 了
+suid=s31
+*pro* 没有
+suid=s32
+我 在 帝豪 ， 呵呵
+suid=s33
+今年 情人节 ？
+suid=s34
+*pro* 是 的 ， 她 走 了 ， 我 家 来 了 ， *pro* 大概 相差 一 个 月
+suid=s35
+你们 三 过 的 ？
+suid=s36
+那 时候 你 还 没 从 标致 辞职 ？
+suid=s37
+去年 小露 还 在 公司 上班 呢
+suid=s38
+*pro* 不 是 的 ，
+suid=s39
+我 是 来 应聘 的 ， *pro* 在 网上 看到 的
+suid=s40
+你 不 要 冤枉 她 哦
+suid=s41
+*pro* 不 要 多 想 哦
+suid=s42
+你 是 *OP* 她 介绍 来 *T*-1 的 ， *pro* 半天 ？
+！
+suid=s43
+*pro* 拜托 ，
+suid=s44
+你 这样 一 说 ， 我 要 从 二 楼 跳 下去
+suid=s45
+哟
+suid=s46
+你 忙 经理 ， 呵呵 ， 我 要 去 约会 哈哈
+suid=s47
+*pro* 没 冤枉 她
+suid=s48
+*pro* 是 你 靠 自己 实力 来 的
+suid=s49
+嘿嘿
+suid=s50
+*pro* 有 个 女 朋友 要 约 我 ，
+suid=s51
+*pro* 好 啦 ， *pro* 开 玩笑 啦
+suid=s52
+管 ， 你 先 化化妆 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="68" end="71" text="pro" type="" comment="default value" />
+<我 id="我1" start="128" end="131" text="pro" type="" comment="default value" />
+<我 id="我2" start="172" end="175" text="pro" type="" comment="default value" />
+<我 id="我3" start="233" end="236" text="pro" type="" comment="default value" />
+<我 id="我4" start="245" end="248" text="pro" type="" comment="default value" />
+<我 id="我5" start="305" end="308" text="pro" type="" comment="default value" />
+<我 id="我6" start="667" end="670" text="pro" type="" comment="default value" />
+<我 id="我7" start="794" end="797" text="pro" type="" comment="default value" />
+<我 id="我8" start="808" end="811" text="pro" type="" comment="default value" />
+<我 id="我9" start="904" end="907" text="pro" type="" comment="default value" />
+<我 id="我10" start="1153" end="1156" text="pro" type="" comment="default value" />
+<我 id="我11" start="1273" end="1276" text="pro" type="" comment="default value" />
+<我 id="我12" start="1374" end="1377" text="pro" type="" comment="default value" />
+<我 id="我13" start="1439" end="1442" text="pro" type="" comment="default value" />
+<我 id="我14" start="1483" end="1486" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<你 id="你1" start="213" end="216" text="pro" type="" comment="default value" />
+<你 id="你2" start="408" end="411" text="pro" type="" comment="default value" />
+<你 id="你3" start="582" end="585" text="pro" type="" comment="default value" />
+<你 id="你4" start="1200" end="1203" text="pro" type="" comment="default value" />
+<你 id="你5" start="1396" end="1399" text="pro" type="" comment="default value" />
+<他 id="他0" start="468" end="471" text="pro" type="" comment="default value" />
+<它 id="它0" start="56" end="59" text="pro" type="" comment="default value" />
+<它 id="它1" start="726" end="729" text="pro" type="" comment="default value" />
+<它 id="它2" start="1117" end="1120" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="522" end="525" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="698" end="701" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="1013" end="1016" text="pro" type="" comment="default value" />
+<event id="ev0" start="543" end="546" text="pro" type="" comment="default value" />
+<event id="ev1" start="743" end="746" text="pro" type="" comment="default value" />
+<event id="ev2" start="862" end="865" text="pro" type="" comment="default value" />
+<generic id="g0" start="557" end="560" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="761" end="764" text="pro" type="" />
+<pleonastic id="p1" start="926" end="929" text="pro" type="" />
+<pleonastic id="p2" start="983" end="986" text="pro" type="" />
+<pleonastic id="p3" start="1471" end="1474" text="pro" type="" />
+<other id="o0" start="1251" end="1254" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

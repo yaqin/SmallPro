@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+亲 ， 在 吗
+suid=s1
+*OP* *pro* 按 新 工资 结构 做 *T*-1 的 重庆 工资 表
+suid=s2
+驻外 补贴 都 算 在 前面 了 *pro* 是 吧
+suid=s3
+*pro* 单独 有 一 列
+suid=s4
+原芳 他们 都 没有 了
+suid=s5
+王玉龙
+suid=s6
+*pro* 没有
+suid=s7
+就 几 个 人 有
+suid=s8
+以后 他们 都 没有 了 ？
+suid=s9
+这个 谁 定 *T*-1 的
+suid=s10
+我 *pro* 接 过来 时 就 没有 了
+suid=s11
+宝贝
+suid=s12
+*pro* 是 吗
+suid=s13
+我 以前 没 注意 呢
+suid=s14
+据说 *pro* 是 10月份 调 的 ？
+还是 9月份
+suid=s15
+o
+suid=s16
+*OP* 你 *T*-1 休 产假 期间 吧
+suid=s17
+昂
+suid=s18
+这 一 版本 的 数据 和 *OP* *pro* 早前 发给 你 *T*-1 的 数据 没 变化
+suid=s19
+就是 结构 变 了
+suid=s20
+重庆 的 基本 工资 比 济南 低 ？
+suid=s21
+技能 讲师 的 公式 不 大 好 算
+suid=s22
+*pro* 凭 什么 啊 ， 人家 不 是 *OP* 物价 *T*-1 高 的 吗
+suid=s23
+当地 最 低 标准
+suid=s24
+*pro* 是 呢
+suid=s25
+我 也 不 知道
+suid=s26
+咱们 这边 基本 工资 也 统一 调 了 1380
+suid=s27
+济南 最 低 标准
+suid=s28
+你 那 专家 呢
+suid=s29
+*pro* 太 不 合理 了
+suid=s30
+人家 工资 总额 比 我们 高 ， 社会 最低 比 我们 低
+suid=s31
+我们 怎么 这么 倒霉 啊
+suid=s32
+呵呵
+suid=s33
+你 知道 济南市 社平 工资 是 多少 吗
+suid=s34
+*pro* 不 知道
+suid=s35
+*pro* 不 会 又 让 我 *PRO* 受 刺激 了 吧
+suid=s36
+工资 表 难为 你 了 ， 很多 数 是 *OP* *pro* 硬 凑 *T*-1 的 吧
+suid=s37
+亲 ， 工资 表 我 看 着 *T*-1 没 什么 问题
+suid=s38
+你 发 邮件 吧
+suid=s39
+*pro* 好 的
+suid=s40
+我 刚 百度 了 一下 ， 社平 工资 比 济南 低 点
+suid=s41
+*pro* 好 ， 那 我 就 发 邮件 了
+suid=s42
+嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="440" end="443" text="pro" type="" comment="default value" />
+<我 id="我1" start="864" end="867" text="pro" type="" comment="default value" />
+<你 id="你0" start="31" end="34" text="pro" type="" comment="default value" />
+<你 id="你1" start="884" end="887" text="pro" type="" comment="default value" />
+<你 id="你2" start="950" end="953" text="pro" type="" comment="default value" />
+<他 id="他0" start="164" end="167" text="pro" type="" comment="default value" />
+<它 id="它0" start="90" end="93" text="pro" type="" comment="default value" />
+<它 id="它1" start="108" end="111" text="pro" type="" comment="default value" />
+<它 id="它2" start="248" end="251" text="pro" type="" comment="default value" />
+<它 id="它3" start="289" end="292" text="pro" type="" comment="default value" />
+<它 id="它4" start="332" end="335" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="555" end="558" text="pro" type="" comment="default value" />
+<他们 id="他们1" start="734" end="737" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="625" end="628" text="pro" type="" />
+<previous_utterance id="pr0" start="1035" end="1038" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="1092" end="1095" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

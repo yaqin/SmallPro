@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+磊磊 哥 ， 我们 没有 网上 银行 ，
+suid=s1
+你 给 我 一 个 建行 的 号 吧
+suid=s2
+*pro* 好 的 ， *pro* 稍等 ， 我 在 开会 ， 等等 给 你 发 。
+suid=s3
+磊磊 哥 ， 建行 账号 *pro* 别 忘 了 *PRO* 发给 我 *T*-1
+]]></TEXT>
+<TAGS>
+<你 id="你0" start="78" end="81" text="pro" type="" comment="default value" />
+<你 id="你1" start="130" end="133" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="66" end="69" text="pro" type="" />
+</TAGS>
+</ProTask>

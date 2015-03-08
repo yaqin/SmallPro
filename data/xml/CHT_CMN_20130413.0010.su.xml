@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+hello
+suid=s1
+我 跟 我 室友 說 了
+suid=s2
+她 住到 5月 31號
+suid=s3
+所以 我們 倆 的 房間 *pro* 都 可以 從 6月 開始 租 *T*-1
+suid=s4
+你 可以 跟 苏 說 一下 啦 ~
+suid=s5
+*pro* 一樣 的 啊
+suid=s6
+我們 三 個 房間 是 平攤 *-1 的 誒
+suid=s7
+恩 ~~~ 那 我 跟 苏 说
+suid=s8
+*pro* 好 的
+suid=s9
+周 老师 ~~ 我们 最迟 能 到 什么 时候 给 你 答复 呢 ？
+suid=s10
+哇塞 。。 *pro* 不敢當 ……
+suid=s11
+嘻嘻
+suid=s12
+*pro* 能 不 能 儘量 這 個 星期 之內 啊 ~
+suid=s13
+*pro* 好 的 那 我们 尽快
+suid=s14
+嗯吶
+suid=s15
+*pro* 需要 來 看 房子 嗎 ~
+suid=s16
+*pro* 可以 呀 你 一般 什么 时候 有空 ？
+suid=s17
+不過 我 週日 到 週三 都 要 過去 新澤西 那邊 。。
+suid=s18
+哦 *pro* 没 事 *pro* 那 等 你 *PRO* 回来 吧
+suid=s19
+你 *pro* 回来 以后 给 我 发 qq 或者 打 电话 都 行 ~
+suid=s20
+*pro* 好 的
+suid=s21
+*pro* 話說 你 是 住 在 B 棟 還是 咱 這 棟 來著 。。
+suid=s22
+喔 *pro* 那 其實 很 方便 啊 或者 你 如果 想 *PRO* 週三 之前 看 的話 *pro* 聯繫 我 室友 應該 也 行
+suid=s23
+*pro* 好 的
+suid=s24
+那 *pro* 就 週四 或者 週五 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="283" end="286" text="pro" type="" comment="default value" />
+<我 id="我1" start="500" end="503" text="pro" type="" comment="default value" />
+<我 id="我2" start="510" end="513" text="pro" type="" comment="default value" />
+<我 id="我3" start="607" end="610" text="pro" type="" comment="default value" />
+<我 id="我4" start="750" end="753" text="pro" type="" comment="default value" />
+<你 id="你0" start="317" end="320" text="pro" type="" comment="default value" />
+<你 id="你1" start="544" end="547" text="pro" type="" comment="default value" />
+<你 id="你2" start="654" end="657" text="pro" type="" comment="default value" />
+<你 id="你3" start="699" end="702" text="pro" type="" comment="default value" />
+<它 id="它0" start="78" end="81" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="423" end="426" text="pro" type="" comment="default value" />
+<你们 id="你们0" start="394" end="397" text="pro" type="" comment="default value" />
+<它们 id="它们0" start="139" end="142" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="215" end="218" text="pro" type="" />
+<previous_utterance id="pr0" start="355" end="358" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="588" end="591" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="729" end="732" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

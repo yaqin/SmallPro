@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+姐姐 ， 你 好 （ *pro* 来自 手机 QQ : http:／／mobile.qq.com ）
+suid=s1
+我 想 问 你 ， 文科 的 考试 也 是 考 GRE 吧
+suid=s2
+*pro* 不 是 GAMT 吧 ?
+suid=s3
+en *pro* 是 的
+suid=s4
+我 上 次 还 请 姑姑 *PRO* 帮忙 *PRO* 问 你
+suid=s5
+一般 *OP* *pro* *T*-1 自费 的 文科 学校 要求 *pro* 是 多少 分 啊
+suid=s6
+1300 比较 好
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="21" end="24" text="pro" type="" comment="default value" />
+<它 id="它0" start="107" end="110" text="pro" type="" comment="default value" />
+<它 id="它1" start="137" end="140" text="pro" type="" comment="default value" />
+<它 id="它2" start="229" end="232" text="pro" type="" comment="default value" />
+<generic id="g0" start="203" end="206" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

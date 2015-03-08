@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+志明 ， 在 吗 ？
+suid=s1
+*pro* 请问 亚福 查 学费 了 吗 ？
+suid=s2
+*pro* 在 的
+suid=s3
+我 不 知道 喔 ， *pro* 没 问 他
+suid=s4
+你 问问 他 *pro* 好 吗 ？
+suid=s5
+嗯
+suid=s6
+我们 想 *PRO* 了解 一下 ， 这样子 周一 的 时候 *pro* 去 行政楼 查 起来 也 方便
+suid=s7
+亚福 说 *pro* 上 那 个 网 去 查 *pro* 是 查到 *pro* 已经 发放 了
+suid=s8
+*pro* 好 的 ， *pro* 谢谢
+suid=s9
+志明 ~ 你 让 亚福 *PRO* 再 上网 看看 他 的 学费 是否 已 扣 吧 。
+*pro* 谢谢 ~
+suid=s10
+他 说 是 那 1000 是 用来 *pro* 扣 食宿费 了
+suid=s11
+哦哦 ~ 那 学费 还 没有 扣 *pro* 是 吗 ？
+suid=s12
+*pro* 应该 没有 吧
+suid=s13
+*pro* 好 的 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="33" text="*pro*" type="" comment="default value" />
+<我 id="我1" start="59" end="64" text="*pro*" type="" comment="default value" />
+<我 id="我2" start="88" end="93" text="*pro*" type="" comment="default value" />
+<我 id="我4" start="274" end="279" text="*pro*" type="" comment="default value" />
+<我 id="我5" start="335" end="340" text="*pro*" type="" comment="default value" />
+<我 id="我3" start="177" end="180" text="pro" type="" comment="default value" />
+<他 id="他0" start="115" end="120" text="*pro*" type="" comment="default value" />
+<他 id="他1" start="212" end="215" text="pro" type="" comment="default value" />
+<他 id="他3" start="230" end="233" text="pro" type="" comment="default value" />
+<它 id="它0" start="240" end="246" text="*pro* " type="" comment="default value" />
+<它 id="它1" start="434" end="440" text="*pro* " type="" comment="default value" />
+<它 id="它2" start="457" end="463" text="*pro* " type="" comment="default value" />
+<event id="ev1" start="413" end="419" text="*pro* " type="" comment="default value" />
+<pleonastic id="p0" start="373" end="379" text="*pro* " type="" />
+<other id="o0" start="262" end="268" text="*pro* " type="" comment="default value" />
+</TAGS>
+</ProTask>

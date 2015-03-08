@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 要 用 https 打开 *pro* http 打 不 开
+suid=s1
+我 帮 你 *PRO* 注册 账号 吧
+suid=s2
+你 想 *PRO* 要 什么 用户 名
+suid=s3
+你 把 网址 发给 我 *-1
+suid=s4
+*pro* 随便
+suid=s5
+wade1111
+suid=s6
+*pro* 好
+suid=s7
+你 把 网址 再 给 我 发 一 遍 *-1
+suid=s8
+刚才 手机 上 的 没 收到
+suid=s9
+*pro* 注册 好 了
+suid=s10
+你 登 进去 试试 看
+suid=s11
+*pro* 好 的
+suid=s12
+*pro* 进来 了
+suid=s13
+*pro* 点 哪个
+suid=s14
+恩 *pro* 点 home
+suid=s15
+哦
+suid=s16
+然后 *pro* 点 text penn status
+suid=s17
+*pro* 点 进去 *pro* 有 个 *pro* 如何 提供 短信
+suid=s18
+然后 *pro* 点 电脑 qq
+suid=s19
+嗯
+suid=s20
+我 已经 进去 了
+suid=s21
+*pro* 好
+suid=s22
+现在 *pro* 在 看 *pro* 提示 *pro* 怎么 导出 文件
+suid=s23
+然后 你 导出 试试
+suid=s24
+恩
+suid=s25
+你 记得 *PRO* 用 txt 格式 导出
+suid=s26
+然后 *pro* 直接 发给 我 就 行 我 帮 你 *PRO* 上传 比较 快
+suid=s27
+嗯 *pro* 好 的 我 试试
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="130" end="133" text="pro" type="" comment="default value" />
+<我 id="我1" start="234" end="237" text="pro" type="" comment="default value" />
+<我 id="我2" start="296" end="299" text="pro" type="" comment="default value" />
+<我 id="我3" start="316" end="319" text="pro" type="" comment="default value" />
+<我 id="我4" start="529" end="532" text="pro" type="" comment="default value" />
+<我 id="我5" start="548" end="551" text="pro" type="" comment="default value" />
+<你 id="你0" start="25" end="28" text="pro" type="" comment="default value" />
+<你 id="你1" start="338" end="341" text="pro" type="" comment="default value" />
+<你 id="你2" start="374" end="377" text="pro" type="" comment="default value" />
+<你 id="你3" start="408" end="411" text="pro" type="" comment="default value" />
+<你 id="你4" start="456" end="459" text="pro" type="" comment="default value" />
+<你 id="你5" start="638" end="641" text="pro" type="" comment="default value" />
+<它 id="它0" start="419" end="422" text="pro" type="" comment="default value" />
+<它 id="它1" start="429" end="432" text="pro" type="" comment="default value" />
+<它 id="它2" start="539" end="542" text="pro" type="" comment="default value" />
+<previous_utterance id="pr0" start="164" end="167" text="pro" type="" comment="default value" />
+<previous_utterance id="pr1" start="277" end="280" text="pro" type="" comment="default value" />
+<previous_utterance id="pr2" start="509" end="512" text="pro" type="" comment="default value" />
+<previous_utterance id="pr3" start="687" end="690" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

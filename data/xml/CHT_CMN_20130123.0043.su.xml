@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+我 辞职 了 *pro* 有没有 *OP* *T*-1 合适 的 人 推荐 来 七星 做 管家 或者 管家 主管 ？
+*pro* 最好 不 要 是 学生 ？
+suid=s1
+我们 经理 想 *PRO* 让 我 *PRO* 找好 人 *PRO* 填 我 空缺
+suid=s2
+你 不 是 早 就 辞职 到 天津 发展 了 吗 ？
+suid=s3
+*pro* 辞职 了 , 但是 *pro* 还是 要 继续 工作 一 个 月 （ QQ for Pad 支持 个性 表情 发送 :http:／／im.qq.com／pad ）
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="182" end="185" text="pro" type="" comment="default value" />
+<我 id="我1" start="198" end="201" text="pro" type="" comment="default value" />
+<你 id="你0" start="17" end="20" text="pro" type="" comment="default value" />
+<他 id="他0" start="69" end="72" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

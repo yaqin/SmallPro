@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+*pro* 在 吗
+suid=s1
+*pro* 在
+suid=s2
+那 个 表 上 的 收入 ， 咱们 确实 是 没有 *T*-1 的
+suid=s3
+*pro* 没法 填 数
+suid=s4
+如果 *pro* 编 一 个 数字 的话 ， 人家 再 要 完税 证明 之类 的 ， 那个 咱 编 不 出来 *T*-1 的
+suid=s5
+那 我们 重庆市 海天 翘楚 软件 职业 培训 学校 名下 有没有 学生 嘛 ， 如果 *pro* 有 学生 *pro* 就 一定 有 收入
+suid=s6
+*pro* 也 是 必填 数
+suid=s7
+人数 *pro* 能 不 能 不 报 *T*-1 ？
+suid=s8
+因为 人社局 对 我们 太 熟悉 了 ， 他们 知道 我们 第一 年 的 招生 人数 ， 现在 学生 数 为 0 的话 *pro* 不 大 可能
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="28" end="31" text="pro" type="" comment="default value" />
+<我 id="我1" start="86" end="89" text="pro" type="" comment="default value" />
+<我 id="我2" start="110" end="113" text="pro" type="" comment="default value" />
+<你 id="你0" start="10" end="13" text="pro" type="" comment="default value" />
+<它 id="它0" start="257" end="260" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="222" end="225" text="pro" type="" comment="default value" />
+<我们 id="我们1" start="233" end="236" text="pro" type="" comment="default value" />
+<我们 id="我们2" start="283" end="286" text="pro" type="" comment="default value" />
+<event id="ev0" start="375" end="378" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

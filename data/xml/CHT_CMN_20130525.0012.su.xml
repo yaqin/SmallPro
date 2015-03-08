@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+你 在 么 额
+suid=s1
+*pro* 在 啊
+suid=s2
+比赛 *pro* 报 了 多少 了
+suid=s3
+我 说 的 成人
+suid=s4
+组
+suid=s5
+*OP* *T*-1 问 的 很 多 ， 还 都 在 等
+suid=s6
+啊
+suid=s7
+*pro* 不 到 最后 *pro* 不 报
+suid=s8
+什么 时候 到 最后 啊
+suid=s9
+下 周三
+suid=s10
+什么 时候 *pro* 开始 报
+suid=s11
+*pro* 好 的
+suid=s12
+成人 比赛 全 是 业余 的
+suid=s13
+*pro* 是 的
+suid=s14
+*OP* *pro* *T*-1 报名 的 时候 你 告诉 我 一下
+suid=s15
+我 看看 *pro* 到时 报上 单 和 双
+suid=s16
+*pro* 好 ， *pro* 随时 可以 报 啊
+suid=s17
+哈哈
+suid=s18
+专业 的 经历 的 可 不 能 打 成人 组 啊 哈哈
+suid=s19
+到时 *pro* 报名 我们 联系
+suid=s20
+堂堂 常 大 将军 ， 还 怕 专业 的 ！
+suid=s21
+现在 很多 人 都 想 *PRO* 报
+suid=s22
+专业 和 业余 肯定 不 一样
+suid=s23
+那 你 也 不 怕
+suid=s24
+你 还 打 不 过 温楚天 吗 ！
+suid=s25
+业余 比赛 专业 *OP* *T*-1 退役 的 打 *T*-2 大多数 人 都 不 赞成 *T*-3
+suid=s26
+这 是 *OP* 我 参加 过 很多 业余 比赛 发现 *T*-1 的
+suid=s27
+我 现在 打 不 过 了
+suid=s28
+*pro* 打球 少 了 啊
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="26" end="29" text="pro" type="" comment="default value" />
+<我 id="我1" start="347" end="350" text="pro" type="" comment="default value" />
+<我 id="我2" start="745" end="748" text="pro" type="" comment="default value" />
+<你 id="你0" start="384" end="387" text="pro" type="" comment="default value" />
+<你 id="你1" start="461" end="464" text="pro" type="" comment="default value" />
+<generic id="g0" start="47" end="50" text="pro" type="" comment="default value" />
+<generic id="g1" start="144" end="147" text="pro" type="" comment="default value" />
+<generic id="g2" start="157" end="160" text="pro" type="" comment="default value" />
+<generic id="g3" start="216" end="219" text="pro" type="" comment="default value" />
+<generic id="g4" start="303" end="306" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="236" end="239" text="pro" type="" />
+<pleonastic id="p1" start="279" end="282" text="pro" type="" />
+<previous_utterance id="pr0" start="374" end="377" text="pro" type="" comment="default value" />
+</TAGS>
+</ProTask>

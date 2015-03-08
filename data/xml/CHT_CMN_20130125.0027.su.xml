@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0
+徐 科 ， 去年 锦标赛 和 冠军赛 *pro* 评选 体育 道德 风尚 奖 了 吗 ？
+suid=s1
+*pro* 应该 评 了
+suid=s2
+*pro* 看看 成绩册 上 有 吗
+suid=s3
+成绩册 上 没有 呢
+suid=s4
+锦标赛 、 冠军赛 的 体育 道德 风尚 奖 有 济南 吗 ， 徐 科 ？
+suid=s5
+*pro* 好像 没有
+suid=s6
+你们 要 报 吗
+suid=s7
+*pro* 要 啊
+suid=s8
+我 记得 *pro* 是 没有
+suid=s9
+呃 ...
+suid=s10
+*pro* 都 给 *OP* *T*-1 成绩 不 好 的 队伍 了
+suid=s11
+济南 成绩 多 差 啊
+suid=s12
+哈哈
+suid=s13
+今年 *pro* 评 你们
+suid=s14
+*pro* 谢谢
+suid=s15
+*pro* 去年 真 没 我们 吗 ？
+我们 马上 要 考评 了 ， 可以 加分 的
+suid=s16
+*pro* 没有
+suid=s17
+呃 ... *pro* 好 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="370" end="373" text="pro" type="" comment="default value" />
+<你 id="你0" start="84" end="87" text="pro" type="" comment="default value" />
+<它 id="它0" start="176" end="179" text="pro" type="" comment="default value" />
+<它 id="它1" start="236" end="239" text="pro" type="" comment="default value" />
+<它 id="它3" start="388" end="391" text="pro" type="" comment="default value" />
+<它 id="它4" start="440" end="443" text="pro" type="" comment="default value" />
+<我们 id="我们0" start="213" end="216" text="pro" type="" comment="default value" />
+<他们 id="他们0" start="63" end="66" text="pro" type="" comment="default value" />
+<generic id="g0" start="29" end="32" text="pro" type="" comment="default value" />
+<generic id="g1" start="270" end="273" text="pro" type="" comment="default value" />
+<generic id="g2" start="350" end="353" text="pro" type="" comment="default value" />
+<pleonastic id="p0" start="464" end="467" text="pro" type="" />
+</TAGS>
+</ProTask>
