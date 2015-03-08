@@ -7,7 +7,7 @@ class Extract(object):
     def __init__(self):
         self.xmlfile = []
         self.f_loc = sys.argv[1]
-        self.output = sys.argv[1]+"/extract_ouput"
+        self.output = sys.argv[1]+"/extract_ouput/"
         self.f = os.listdir(self.f_loc)
 
     def load_data(self):
