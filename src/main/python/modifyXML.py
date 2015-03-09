@@ -9,7 +9,7 @@ class Extract(object):
         self.f_loc = sys.argv[1]
         self.output = sys.argv[1]+"/extract_ouput/"
         self.f = os.listdir(self.f_loc)
-        print self.f
+        
 
     def load_data(self):
         for x in self.f:
