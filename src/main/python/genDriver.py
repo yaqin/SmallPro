@@ -360,7 +360,7 @@ def getMSGInfo(astr,axml_file):
         s = s.strip()
         if len(s) == 0 or s == None:
             continue
-        msgid = ""
+        msgid = "nomsgid"
         sid = 0
         if re.match("msgid=",s):
             msgid = s.split("=")[1]
