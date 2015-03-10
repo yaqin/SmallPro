@@ -366,7 +366,7 @@ def getMSGInfo(astr,axml_file):
             msgid = s.split("=")[1]
             sid = 0
             continue
-        items.append((axml_file,msgid,sid,s))
+        items.append((axml_file,str(msgid),str(sid),s))
         print axml_file,msgid,sid,s
     return items
 
