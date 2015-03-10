@@ -356,6 +356,7 @@ def getMSGInfo(astr,axml_file):
     """
     strs = astr.split("\n")
     msgid = "nomsgid"
+    items = []
     for s in strs:
         s = s.strip()
         if len(s) == 0 or s == None:
@@ -376,7 +377,6 @@ def readCorpus(corpus_dir,all_xml_csv):
         for afile in filenames: 
             if not afile.endswith(".xml"):
                 continue
-            print afile
             axml_file = os.path.join(dirpath,afile)
             axml_str = parseXML(axml_file)
             axml_info = getMSGInfo(axml_str,afile)
