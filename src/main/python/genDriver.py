@@ -368,7 +368,7 @@ def readCorpus(corpus_dir,all_xml_csv):
     pw = csv.writer(parse_csv)
     for (dirpath, dirnames, filenames) in walk(corpus_dir):
         for afile in filenames: 
-            if not re.match("*.xml",afile):
+            if not afile.endswith(".xml"):
                 continue
             print afile
             axml_file = os.path.join(dirpath,afile)
