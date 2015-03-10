@@ -8,6 +8,7 @@ from nltk.corpus import BracketParseCorpusReader
 from os import walk
 import os,re
 import cPickle
+import xml.etree.ElementTree as ET
 #cmodel = gensim.models.word2vec.Word2Vec.load_word2vec_format('/home/j/yaqin/tools/word2vec/gigaword.bin',binary=True)
 
 def readCSV(annotation):
