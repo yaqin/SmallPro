@@ -357,16 +357,20 @@ def getMSGInfo(astr,axml_file):
     strs = astr.split("\n")
     msgid = "nomsgid"
     items = []
+    sid = 0
     for s in strs:
         s = s.strip()
         if len(s) == 0 or s == None:
             continue
-        sid = 0
         if re.match("msgid=",s):
             msgid = s.split("=")[1]
             sid = 0
             continue
         items.append((axml_file,str(msgid),str(sid),s))
+        if msgid == "nomsgid":
+            sid = 0
+        else:
+            sid += 1
         print axml_file,msgid,sid,s
     return items
 
