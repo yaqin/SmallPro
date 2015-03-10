@@ -349,15 +349,33 @@ def parseXML(im_file):
     for txt in root.findall("TEXT"):
         astr += txt.text    
     return astr
-def readCorpus(corpus_dir):
+
+def getMSGInfo(astr,axml_file):
+    """
+    append msgid and sentence id to each sms
+    """
+    strs = astr.split("\n")
+    items = [axml_file]
+    for s in strs:
+        if re.match("msgid=",s):
+            msgid = s.split("=")[1]
+            sid = 0
+        items.append((msgid,sid,s.strip()))
+    return items
+
+def readCorpus(corpus_dir,all_xml_csv):
+    parse_csv = open(all_xml_csv,"w")
+    pw = csv.writer(parse_csv)
     for (dirpath, dirnames, filenames) in walk(corpus_dir):
         for afile in filenames: 
+            if not re.match("*.xml",afile):
+                continue
+            print afile
             axml_file = os.path.join(dirpath,afile)
-            #atask_file = dirpath + "/" + afile
-            astr = parseXML(axml_file)
-            output = codecs.open(axml_file+".txt","w",encoding="utf8")
-            output.write(astr)
-            output.close()
+            axml_str = parseXML(axml_file)
+            axml_info = getMSGInfo(astr,axml_file)
+            pw.writerow(axml_info)
+    parse_csv.close()
 
 if __name__ == "__main__":
     json_data=open('../../../conf/zeropro.json')
@@ -373,8 +391,8 @@ if __name__ == "__main__":
 #     data["cmodel"] = cmodel
 #     data["cmodel"] = "cmodel"
 #     readAnnotatedData(annotation_dict,task_dict,**data)
-    
-    readCorpus("/home/j/yaqin/Code/SmallPro/data/xml/extract_ouput")
+    all_xml_csv = "/home/j/yaqin/Code/SmallPro/data/all_xml_info.csv"
+    readCorpus("/home/j/yaqin/Code/SmallPro/data/xml/extract_ouput",all_xml_csv)
     #readSMS(**data)
 #     readStagesTrain(**data)
     #writeCSV(annotation_file+".clean",annotation_dict)
