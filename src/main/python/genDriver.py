@@ -371,7 +371,7 @@ def getMSGInfo(astr,axml_file):
     return items
 
 def readCorpus(corpus_dir,all_xml_csv):
-    parse_csv = open(all_xml_csv,"w")
+    parse_csv = codecs.open(all_xml_csv,"w",encoding="utf8")
     pw = csv.writer(parse_csv)
     for (dirpath, dirnames, filenames) in walk(corpus_dir):
         for afile in filenames: 
