@@ -382,7 +382,7 @@ def readCorpus(corpus_dir,all_xml_csv):
             axml_info = getMSGInfo(axml_str,afile)
             for a in axml_info:
                 for b in a:
-                    pw.write(a+"|")
+                    pw.write(b+"|")
                 pw.write("\n")
     parse_csv.close()
 
