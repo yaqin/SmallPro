@@ -350,9 +350,9 @@ if __name__ == "__main__":
     task_dir = data["task_dir"]
     annotation_dict = readCSV(annotation_file)
     task_dict = readTask(task_dir)
-    print annotation_dict
+    print annotation_dict[:10]
     print "======"
-    print task_dict
+    print task_dict[:10]
 #     cmodel = gensim.models.word2vec.Word2Vec.load_word2vec_format(gigaword_vector,binary=True)
 #     data["cmodel"] = cmodel
     #readAnnotatedData(annotation_dict,task_dict,**data)
