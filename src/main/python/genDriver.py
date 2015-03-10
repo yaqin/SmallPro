@@ -338,7 +338,25 @@ def generateSMSTheanoFormat(syncsv,wvcsv):
 
 
             
-           
+def parseXML(im_file):
+    """
+    extract text from a xml file
+    """
+    tree = ET.parse(im_file)
+    root = tree.getroot()    
+    astr = ""
+    for txt in root.findall("TEXT"):
+        astr += txt.text    
+    return astr
+def readCorpus(corpus_dir):
+    for (dirpath, dirnames, filenames) in walk(corpus_dir):
+        for afile in filenames: 
+            axml_file = os.path.join(dirpath,afile)
+            #atask_file = dirpath + "/" + afile
+            astr = parseXML(axml_file)
+            output = codecs.open(axml_file+".txt"+"w",encoding="utf8")
+            output.write(astr)
+            output.close()
 
 if __name__ == "__main__":
     json_data=open('../../../conf/zeropro.json')
@@ -352,8 +370,10 @@ if __name__ == "__main__":
     task_dict = readTask(task_dir)
 #     cmodel = gensim.models.word2vec.Word2Vec.load_word2vec_format(gigaword_vector,binary=True)
 #     data["cmodel"] = cmodel
-    data["cmodel"] = "cmodel"
-    readAnnotatedData(annotation_dict,task_dict,**data)
+#     data["cmodel"] = "cmodel"
+#     readAnnotatedData(annotation_dict,task_dict,**data)
+    
+    readCorpus("/home/j/yaqin/Code/SmallPro/data/xml/extract_ouput")
     #readSMS(**data)
 #     readStagesTrain(**data)
     #writeCSV(annotation_file+".clean",annotation_dict)
