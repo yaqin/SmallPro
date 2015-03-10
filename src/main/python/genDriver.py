@@ -366,6 +366,7 @@ def getMSGInfo(astr,axml_file):
             msgid = s.split("=")[1]
             sid = 0
         items.append((msgid,sid,s))
+        print msgid,sid,s
     return items
 
 def readCorpus(corpus_dir,all_xml_csv):
