@@ -372,7 +372,9 @@ def readCorpus(corpus_dir,all_xml_csv):
                 continue
             print afile
             axml_file = os.path.join(dirpath,afile)
+            axml_str = ""
             axml_str = parseXML(axml_file)
+            axml_info = []
             axml_info = getMSGInfo(astr,axml_file)
             pw.writerow(axml_info)
     parse_csv.close()
