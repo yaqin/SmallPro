@@ -350,10 +350,10 @@ if __name__ == "__main__":
     task_dir = data["task_dir"]
     annotation_dict = readCSV(annotation_file)
     task_dict = readTask(task_dir)
-    print task_dict[task_dict.keys()[0]]
 #     cmodel = gensim.models.word2vec.Word2Vec.load_word2vec_format(gigaword_vector,binary=True)
 #     data["cmodel"] = cmodel
-    #readAnnotatedData(annotation_dict,task_dict,**data)
+    data["cmodel"] = "cmodel"
+    readAnnotatedData(annotation_dict,task_dict,**data)
     #readSMS(**data)
 #     readStagesTrain(**data)
     #writeCSV(annotation_file+".clean",annotation_dict)
