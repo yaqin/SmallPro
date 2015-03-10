@@ -355,18 +355,18 @@ def getMSGInfo(astr,axml_file):
     append msgid and sentence id to each sms
     """
     strs = astr.split("\n")
-    items = [axml_file]
+    msgid = "nomsgid"
     for s in strs:
         s = s.strip()
         if len(s) == 0 or s == None:
             continue
-        msgid = "nomsgid"
         sid = 0
         if re.match("msgid=",s):
             msgid = s.split("=")[1]
             sid = 0
-        items.append((msgid,sid,s))
-        print msgid,sid,s
+            continue
+        items.append((axml_file,msgid,sid,s))
+        print axml_file,msgid,sid,s
     return items
 
 def readCorpus(corpus_dir,all_xml_csv):
@@ -380,7 +380,8 @@ def readCorpus(corpus_dir,all_xml_csv):
             axml_file = os.path.join(dirpath,afile)
             axml_str = parseXML(axml_file)
             axml_info = getMSGInfo(axml_str,afile)
-            pw.writerow(axml_info)
+            for a in axml_info:
+                pw.writerow(a)
     parse_csv.close()
 
 if __name__ == "__main__":
