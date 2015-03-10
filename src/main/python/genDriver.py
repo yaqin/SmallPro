@@ -355,7 +355,7 @@ def readCorpus(corpus_dir):
             axml_file = os.path.join(dirpath,afile)
             #atask_file = dirpath + "/" + afile
             astr = parseXML(axml_file)
-            output = codecs.open(axml_file+".txt"+"w",encoding="utf8")
+            output = codecs.open(axml_file+".txt","w",encoding="utf8")
             output.write(astr)
             output.close()
 
