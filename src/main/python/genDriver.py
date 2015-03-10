@@ -357,13 +357,15 @@ def getMSGInfo(astr,axml_file):
     strs = astr.split("\n")
     items = [axml_file]
     for s in strs:
-        print s
+        s = s.strip()
+        if len(s) == 0 or s == None:
+            continue
         msgid = ""
         sid = 0
         if re.match("msgid=",s):
             msgid = s.split("=")[1]
             sid = 0
-        items.append((msgid,sid,s.strip()))
+        items.append((msgid,sid,s))
     return items
 
 def readCorpus(corpus_dir,all_xml_csv):
@@ -376,7 +378,7 @@ def readCorpus(corpus_dir,all_xml_csv):
             print afile
             axml_file = os.path.join(dirpath,afile)
             axml_str = parseXML(axml_file)
-            axml_info = getMSGInfo(axml_str,axml_file)
+            axml_info = getMSGInfo(axml_str,afile)
             pw.writerow(axml_info)
     parse_csv.close()
 
