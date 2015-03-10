@@ -384,7 +384,7 @@ def readCorpus(corpus_dir,all_xml_csv):
                 for b in a:
                     pw.write(b+"|")
                 pw.write("\n")
-    parse_csv.close()
+    pw.close()
 
 if __name__ == "__main__":
     json_data=open('../../../conf/zeropro.json')
