@@ -357,6 +357,8 @@ def getMSGInfo(astr,axml_file):
     strs = astr.split("\n")
     items = [axml_file]
     for s in strs:
+        msgid = ""
+        sid = 0
         if re.match("msgid=",s):
             msgid = s.split("=")[1]
             sid = 0
