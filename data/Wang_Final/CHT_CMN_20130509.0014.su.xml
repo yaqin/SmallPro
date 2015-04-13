@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135688
+亚丽 你 怎么样 了 ？
+suid=s1 participant=135688
+*pro* 工作 之后 *pro* 什么 感受 啊 *pro* 前 两 天 和 刘莉 聊天 还 提到 你 了 *pro* 有空 给 我 留言 啊
+suid=s2 participant=135688
+我 这边 第二 学期 结束 了 但是 我 很 迷茫 都 不 知道 *pro* 毕业 之后 *pro* 怎么办
+suid=s3 participant=135688
+语言 问题 不 是 *OP* 一 年 两 年 *pro* 能 解决 *T*-1 的 了 得 我 有 死 也 不 想 *PRO* 做 研发 我 好 愁 啊 你 怎么样
+suid=s4 participant=135704
+*pro* 刚刚 睡醒 ， 才 看到 哈 。
+suid=s5 participant=135704
+我 挺 好 的 ， 我们 部门 不 是 产品线 ， 只 做 前期 技术 预研 ， 所以 *pro* 不 累 ， *pro* 根本 没有 *OP* *pro* 说 *T*-1 的 *pro* 那么 累 。
+suid=s6 participant=135704
+感受 就 是 *pro* 很 想 *PRO* 在 这 待 下去 呵呵 ， 如果 *pro* 在 产品线 的话 当然 *pro* 还 是 累死累活 的 了 。
+suid=s7 participant=135704
+这里 跟 学校 差不多 ， 大家 关系 特 简单 ， *pro* 乐于助人 。
+suid=s8 participant=135704
+我 觉得 你 肯定 没 问题 啊 ， 你 做 销售 潜力 应该 很 大 吧 ？
+销售 工资 也 非常 高 呀 ， *pro* 还 很 锻炼 人 。
+suid=s9 participant=135704
+其实 *pro* 根本 不 用 担心 自己 现在 什么 也 不 会 *T*-1 ， *pro* 到 公司 *pro* 都 有 培训 ，
+suid=s10 participant=135704
+不过 *pro* 主要 还 是 靠 自己 *PRO* 学 ， *pro* 在 项目 中 边 做 边 学 ， 按 自己 的 兴趣 选择 就 行 ， 别的 *pro* 不 用 担心 *T*-1 哦 呵呵
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="98" id="我0" start="95" text="pro" type="" />
+<我 comment="default value" end="205" id="我1" start="202" text="pro" type="" />
+<我 comment="default value" end="277" id="我2" start="274" text="pro" type="" />
+<我 comment="default value" end="364" id="我3" start="361" text="pro" type="" />
+<我 comment="default value" end="217" id="我4" start="214" text="pro" type="" />
+<我 comment="default value" end="458" id="我5" start="455" text="pro" type="" />
+<我 comment="default value" end="470" id="我6" start="467" text="pro" type="" />
+<我 comment="default value" end="550" id="我7" start="547" text="pro" type="" />
+<你 comment="default value" end="72" id="你0" start="69" text="pro" type="" />
+<你 comment="default value" end="84" id="你1" start="81" text="pro" type="" />
+<你 comment="default value" end="127" id="你2" start="124" text="pro" type="" />
+<你 comment="default value" end="487" id="你3" start="484" text="pro" type="" />
+<你 comment="default value" end="503" id="你4" start="500" text="pro" type="" />
+<你 comment="default value" end="820" id="你5" start="817" text="pro" type="" />
+<你 comment="default value" end="989" id="你6" start="986" text="pro" type="" />
+<它 comment="default value" end="773" id="它0" start="770" text="pro" type="" />
+<generic comment="default value" end="583" id="g0" start="580" text="pro" type="" />
+<generic comment="default value" end="601" id="g1" start="598" text="pro" type="" />
+<generic comment="default value" end="676" id="g2" start="673" text="pro" type="" />
+<generic comment="default value" end="859" id="g3" start="856" text="pro" type="" />
+<generic comment="default value" end="870" id="g4" start="867" text="pro" type="" />
+<generic comment="default value" end="916" id="g5" start="913" text="pro" type="" />
+<generic comment="default value" end="944" id="g6" start="941" text="pro" type="" />
+</TAGS>
+</ProTask>

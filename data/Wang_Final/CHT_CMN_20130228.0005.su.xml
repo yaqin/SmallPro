@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0001 participant=133980
+这 是 15 条 线
+msgid=s1m0002 participant=133980
+*pro* 如果 连 13 条 ， *pro* 要 去掉 两 条
+msgid=s2m0003 participant=133980
+*pro* 假设 A B C D E F 六 个 顶点 ， 因为 *pro* 去掉 两 条 线 ， 所以 至多 4 个 顶点 受 影响 ，
+msgid=s3m0003 participant=133980
+*pro* 不妨 设 A B 没 受 影响 ， 即 A B 与 其他 所有 均 有 连线
+msgid=s4m0004 participant=133980
+然后 *pro* 在 *OP* *T*-1 剩下 四 个 点 中 找 两 个 点 ， 他们 互相 有 连线 即 可
+msgid=s5m0004 participant=133980
+（ *pro* 肯定 存在 ， 因为 *pro* 剩下 4 个 点 *pro* 共 有 六 条 线 ， *pro* 只 去掉 了 两 条 ）
+msgid=s6m0005 participant=133980
+第二 问 ， *pro* 去掉 A B , C D , E F 三 条 线 即 可
+msgid=s7m0006 participant=133980
+因为 这样 如果 *pro* 要 取 4 个 点 ， A B C D E F 这 3 组 至少 一 组 要 取 两 个 点 ， 但 这 两 个 点 没有 连线
+msgid=s8m0007 participant=133980
+*pro* 有 问题 *pro* 可以 电话 我
+msgid=s9m0008 participant=133980
+*pro* 平常 一般 都 有空
+msgid=s10m0009 participant=133980
+*pro* 好 的 *pro* 谢谢
+msgid=s11m0010 participant=133980
+*pro* 没 问题 了 ？
+msgid=s12m0011 participant=133980
+这个 还 蛮 简单
+msgid=s13m0012 participant=133980
+竞赛 有 一 类 题 ， *pro* 叫 图论
+msgid=s14m0013 participant=133980
+反正 我们 那 时候 ， 高中 要 学 ， *pro* 超 难 ， *pro* 是 *OP* *T*-1 最 难 的 一 类 题型
+msgid=s15m0014 participant=133980
+*pro* 有 题
+msgid=s16m0015 participant=133980
+发
+msgid=s17m0016 participant=133980
+*pro* 在 拍照
+msgid=s18m0018 participant=133980
+[ 图片 ] *pro* 如果 能 分 ， *pro* 肯定 分成 这样
+msgid=s19m0019 participant=133980
+一 个 1次 × 一 个 2次
+msgid=s20m0020 participant=133980
+然后 ， *pro* 由 条件
+msgid=s21m0021 participant=133980
+d 是 奇数
+msgid=s22m0022 participant=133980
+所以 k 与 n 都 是 奇数
+msgid=s23m0023 participant=133980
+我 网 又 开始 发神经 了
+msgid=s24m0025 participant=133980
+*pro* 打 不 开
+msgid=s25m0028 participant=133980
+*pro* 收 的 到 吗
+msgid=s26m0030 participant=133980
+恩
+msgid=s27m0035 participant=133980
+恩
+msgid=s28m0036 participant=133980
+这 个 题 ， 我 基本 没 怎么 想 *T*-1 ， 因为 方法 比较 确定
+msgid=s29m0037 participant=133980
+代数 题 ， *pro* 把 未知数 设 出来 *-1
+msgid=s30m0038 participant=133980
+然后 *pro* 把 条件 表示 出来 *-1
+msgid=s31m0039 participant=133980
+*pro* 就 OK 了
+msgid=s32m0040 participant=133980
+我 觉得 代数 题 比较 有 方向 ， 就 像 *pro* 有 指南针 ， *pro* 朝 目标 前进 ， *pro* 总 能 做 出来
+msgid=s33m0041 participant=133980
+几何 有的 太 难 ， 辅助线 什么 的 *pro* 完全 搞 不 清楚 *T*-1 ， 像 *OP* *T*-2 无 头 苍蝇 乱 撞
+msgid=s34m0042 participant=133980
+那 是 你 厉害
+msgid=s35m0043 participant=133980
+。
+我 也 是 尽量 把 我 的 感受 与 心得 与 学生 分享 *-1
+msgid=s36m0044 participant=133980
+不过 *pro* 做 题 也 很 重要 ， 我 包 里 一直 放 着 一 本 中等 数学 ， 平常 没 事 就 做
+msgid=s37m0045 participant=133980
+地铁 上 ， *pro* 吃饭 之前 *OP* *pro* *T*-1 等 *pro* 上 饭 等 时候 *pro* 都 做
+msgid=s38m0048 participant=133980
+*pro* 证 *OP* 我 说 *T*-1 的 这个 ， 感觉 *pro* 好 点
+msgid=s39m0049 participant=133980
+恩
+msgid=s40m0050 participant=133980
+因式 分解 就 完 了
+msgid=s41m0052 participant=133980
+*pro* 把 2 ^ 2n 看作 x
+msgid=s42m0053 participant=133980
+*pro* 然后 说明 *pro* 是 100 的 倍数
+msgid=s43m0054 participant=133980
+后面 是 4 的 倍数
+msgid=s44m0055 participant=133980
+然后 *pro* 看 尾数
+msgid=s45m0056 participant=133980
+4 的 奇数 次方 尾数 是 4
+msgid=s46m0057 participant=133980
+所以 前后 两 项 都 是 5 的 倍数
+msgid=s47m0058 participant=133980
+恩
+msgid=s48m0060 participant=133980
+这 是 *pro* 设 的 ， 因为 *pro* 如果 能 分 ， *pro* 肯定 分成 一 个 1次 和 1 个 2次
+msgid=s49m0061 participant=133980
+为何 x = 1
+msgid=s50m0062 participant=133980
+我 想想 ， 这 个 式子 是 要 恒 成立 的
+msgid=s51m0063 participant=133980
+*pro* 令 x = 1 ， 左边 由 条件 是 个 奇数
+msgid=s52m0064 participant=133980
+右边 怎么 算 呢
+msgid=s53m0065 participant=133980
+k *pro* 刚才 说 过 *T*-1 了 *pro* 是 奇数
+msgid=s54m0066 participant=133980
+所以 右边 是 偶数
+msgid=s55m0067 participant=133980
+嗯 ， 这样 简单 些
+msgid=s56m0068 participant=133980
+x = 1 ， *pro* 想 不 明白 *T*-1
+msgid=s57m0069 participant=133980
+*pro* 不 是 ， *pro* 设 了 之后
+msgid=s58m0070 participant=133980
+x 可以 随意 赋值 ， *pro* 都 得 成立
+msgid=s59m0073 participant=133980
+*pro* 就 要 对 所有 x 都 成立
+msgid=s60m0074 participant=133980
+x = 2 也 要 成立
+msgid=s61m0075 participant=133980
+*pro* 可以 随意 赋值
+msgid=s62m0076 participant=133980
+*OP* *pro* *T*-1 设 一 的 理由
+msgid=s63m0077 participant=133980
+观察
+msgid=s64m0078 participant=133980
+很多 时候 *pro* 可以 找 *OP* *T*-1 算 起来 比较 方便 的
+msgid=s65m0079 participant=133980
+我 觉得 理由 主要 是 ， *pro* 设 1 可以 出现 b + c
+msgid=s66m0080 participant=133980
+这样 *pro* 判断 奇偶 比较 方便
+msgid=s67m0081 participant=133980
+万一 只有 1 成立 呢
+msgid=s68m0083 participant=133980
+但是 这 两 个 多想式 并 不 相等
+msgid=s69m0085 participant=133980
+这 才 叫 多项式 相等
+msgid=s70m0086 participant=133980
+换句话说 ， 如果 *pro* 要 相等 ， *pro* 就 意味 着 *pro* 对 任意 x 都 成立
+msgid=s71m0087 participant=133980
+*pro* 必须 恒等 *pro* 是 吧
+msgid=s72m0088 participant=133980
+*pro* 对
+msgid=s73m0089 participant=133980
+因式 分解 ， 属于 一 种 整式 恒等 变形
+msgid=s74m0090 participant=133980
+因式 分解 后 Ｘ 有 固定 解 啊
+msgid=s75m0092 participant=133980
+这 是 因式 分解 ， x 为 任意值 *pro* 都 要 成立 啊
+msgid=s76m0093 participant=133980
+*pro* 话说 明天 明心 考试 咧 ， *pro* 调整 好 状态 啊
+msgid=s77m0094 participant=133980
+*pro* 别 太 累
+msgid=s78m0095 participant=133980
+*pro* 没有 说 等于 0 啊
+msgid=s79m0096 participant=133980
+谁 说 *pro* 等于 0 啊
+msgid=s80m0097 participant=133980
+*pro* 明白 了
+msgid=s81m0098 participant=133980
+*pro* 明天 考 8 年级 不 打紧
+msgid=s82m0099 participant=133980
+哦 。。。
+msgid=s83m0100 participant=133980
+*pro* 是 套读 的
+msgid=s84m0101 participant=133980
+7 年级 呢 ？
+msgid=s85m0102 participant=133980
+7 年级 的 后天
+msgid=s86m0103 participant=133980
+*pro* 现在 都 太 疯狂
+msgid=s87m0104 participant=133980
+*pro* 太 超前 也 不 一定 好
+msgid=s88m0105 participant=133980
+伢 早 睡 了
+msgid=s89m0107 participant=133980
+我 在 看 *OP* 他 *T*-1 有 疑问 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="770" id="我0" start="767" text="pro" type="" />
+<我 comment="default value" end="831" id="我1" start="828" text="pro" type="" />
+<我 comment="default value" end="1205" id="我2" start="1202" text="pro" type="" />
+<我 comment="default value" end="1561" id="我3" start="1558" text="pro" type="" />
+<我 comment="default value" end="2092" id="我4" start="2089" text="pro" type="" />
+<我 comment="default value" end="2387" id="我5" start="2384" text="pro" type="" />
+<我 comment="default value" end="2418" id="我6" start="2415" text="pro" type="" />
+<我 comment="default value" end="2433" id="我7" start="2430" text="pro" type="" />
+<我 comment="default value" end="3298" id="我8" start="3295" text="pro" type="" />
+<我 comment="default value" end="3463" id="我9" start="3460" text="pro" type="" />
+<我 comment="default value" end="4599" id="我10" start="4596" text="pro" type="" />
+<我 comment="default value" end="4820" id="我11" start="4817" text="pro" type="" />
+<我 comment="default value" end="4865" id="我12" start="4862" text="pro" type="" />
+<我 comment="default value" end="4960" id="我13" start="4957" text="pro" type="" />
+<我 comment="default value" end="2404" id="我14" start="2401" text="pro" type="" />
+<你 comment="default value" end="723" id="你1" start="720" text="pro" type="" />
+<你 comment="default value" end="874" id="你2" start="871" text="pro" type="" />
+<你 comment="default value" end="1607" id="你3" start="1604" text="pro" type="" />
+<你 comment="default value" end="2477" id="你4" start="2474" text="pro" type="" />
+<你 comment="default value" end="2510" id="你5" start="2507" text="pro" type="" />
+<你 comment="default value" end="4621" id="你6" start="4618" text="pro" type="" />
+<你 comment="default value" end="4671" id="你7" start="4668" text="pro" type="" />
+<你 comment="default value" end="4717" id="你8" start="4714" text="pro" type="" />
+<它 comment="default value" end="980" id="它0" start="977" text="pro" type="" />
+<它 comment="default value" end="1047" id="它1" start="1044" text="pro" type="" />
+<它 comment="default value" end="1059" id="它2" start="1056" text="pro" type="" />
+<它 comment="default value" end="1921" id="它4" start="1918" text="pro" type="" />
+<它 comment="default value" end="2702" id="它5" start="2699" text="pro" type="" />
+<它 comment="default value" end="3008" id="它6" start="3005" text="pro" type="" />
+<它 comment="default value" end="3319" id="它7" start="3316" text="pro" type="" />
+<它 comment="default value" end="3516" id="它8" start="3513" text="pro" type="" />
+<它 comment="default value" end="3528" id="它9" start="3525" text="pro" type="" />
+<它 comment="default value" end="3588" id="它10" start="3585" text="pro" type="" />
+<它 comment="default value" end="3635" id="它11" start="3632" text="pro" type="" />
+<它 comment="default value" end="3738" id="它12" start="3735" text="pro" type="" />
+<我们 comment="default value" end="5094" id="我们0" start="5091" text="pro" type="" />
+<你们 comment="default value" end="5144" id="你们0" start="5141" text="pro" type="" />
+<它们 comment="default value" end="4243" id="它们0" start="4240" text="pro" type="" />
+<它们 comment="default value" end="4256" id="它们1" start="4253" text="pro" type="" />
+<它们 comment="default value" end="4269" id="它们2" start="4266" text="pro" type="" />
+<它们 comment="default value" end="4321" id="它们3" start="4318" text="pro" type="" />
+<它们 comment="default value" end="4550" id="它们4" start="4547" text="pro" type="" />
+<existential comment="default value" end="422" id="e0" start="419" text="pro" type="" />
+<existential comment="default value" end="439" id="e1" start="436" text="pro" type="" />
+<existential comment="default value" end="454" id="e2" start="451" text="pro" type="" />
+<existential comment="default value" end="712" id="e3" start="709" text="pro" type="" />
+<existential comment="default value" end="1125" id="e4" start="1122" text="pro" type="" />
+<existential comment="default value" end="1992" id="e5" start="1989" text="pro" type="" />
+<event comment="default value" end="4773" id="ev0" start="4770" text="pro" type="" />
+<generic comment="default value" end="82" id="g0" start="79" text="pro" type="" />
+<generic comment="default value" end="100" id="g1" start="97" text="pro" type="" />
+<generic comment="default value" end="148" id="g2" start="145" text="pro" type="" />
+<generic comment="default value" end="181" id="g3" start="178" text="pro" type="" />
+<generic comment="default value" end="251" id="g4" start="248" text="pro" type="" />
+<generic comment="default value" end="332" id="g5" start="329" text="pro" type="" />
+<generic comment="default value" end="472" id="g6" start="469" text="pro" type="" />
+<generic comment="default value" end="531" id="g7" start="528" text="pro" type="" />
+<generic comment="default value" end="608" id="g8" start="605" text="pro" type="" />
+<generic comment="default value" end="1257" id="g9" start="1254" text="pro" type="" />
+<generic comment="default value" end="1272" id="g10" start="1269" text="pro" type="" />
+<generic comment="default value" end="1376" id="g11" start="1373" text="pro" type="" />
+<generic comment="default value" end="1808" id="g12" start="1805" text="pro" type="" />
+<generic comment="default value" end="1866" id="g13" start="1863" text="pro" type="" />
+<generic comment="default value" end="2006" id="g14" start="2003" text="pro" type="" />
+<generic comment="default value" end="2022" id="g15" start="2019" text="pro" type="" />
+<generic comment="default value" end="2291" id="g16" start="2288" text="pro" type="" />
+<generic comment="default value" end="2636" id="g17" start="2633" text="pro" type="" />
+<generic comment="default value" end="2690" id="g18" start="2687" text="pro" type="" />
+<generic comment="default value" end="2802" id="g19" start="2799" text="pro" type="" />
+<generic comment="default value" end="2993" id="g20" start="2990" text="pro" type="" />
+<generic comment="default value" end="3023" id="g21" start="3020" text="pro" type="" />
+<generic comment="default value" end="3187" id="g22" start="3184" text="pro" type="" />
+<generic comment="default value" end="3792" id="g23" start="3789" text="pro" type="" />
+<generic comment="default value" end="3890" id="g24" start="3887" text="pro" type="" />
+<generic comment="default value" end="3974" id="g25" start="3971" text="pro" type="" />
+<generic comment="default value" end="4033" id="g26" start="4030" text="pro" type="" />
+<previous_utterance comment="default value" end="821" id="pr0" start="818" text="pro" type="" />
+<previous_utterance comment="default value" end="4333" id="pr1" start="4330" text="pro" type="" />
+<previous_utterance comment="default value" end="4377" id="pr2" start="4374" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+老哥 ， 这么 早 啊
+suid=s1 participant=137046
+*pro* 一贯 啊
+suid=s2 participant=136693
+…… 我 出 两 贯
+suid=s3 participant=137046
+我 得 检查 出勤
+suid=s4 participant=136693
+哦
+suid=s5 participant=137046
+你 也 够 早 啊
+suid=s6 participant=136693
+你 上 次 说 你 有 朋友 要 *PRO* 做 银座 佳驿 酒店 还是 他 就 是 里面 的 人 ？
+suid=s7 participant=136693
+嗯 ， 宝宝 早 我们 全家 就 早
+suid=s8 participant=137046
+他 是 银座 旅游 的 老大
+suid=s9 participant=136693
+*pro* 拽 啊
+suid=s10 participant=136693
+银座 佳驿 酒店 就 是 银座 旅游 的 *pro* 是 吧 ？
+suid=s11 participant=137046
+*pro* 是 的
+suid=s12 participant=136693
+加盟 归 他 *PRO* 管 ？
+suid=s13 participant=137046
+*pro* 可以 问问
+suid=s14 participant=136693
+*pro* 谢谢 ！
+*pro* 帮 着 问问 啊
+suid=s15 participant=136693
+我们 几 个 朋友 有 意向 合伙 加盟
+suid=s16 participant=137046
+你 的 店址 在 哪里
+suid=s17 participant=136693
+*pro* 现在 正在 考察 物业 ， 并 衡量 *pro* 加盟 哪 家 比较 好
+suid=s18 participant=136693
+济南 本 市 或 泰安 或 章丘 ， *pro* 现在 还 在 研究
+suid=s19 participant=137046
+这 有点 早 吧 ， 起码 你 大体 有 个 地址 了 我 再 跟 人家 说
+suid=s20 participant=136693
+哦
+suid=s21 participant=136693
+*pro* 也 好
+suid=s22 participant=137046
+不然 *pro* 贸然 过去 不 让 人家 *PRO* 说 吗
+suid=s23 participant=136693
+*pro* 加盟 哪 家 也 还 没 定 呢 ， 如家 或者 银座 佳驿
+suid=s24 participant=136693
+*pro* 是 的 ， *pro* 是 不 太 妥当
+suid=s25 participant=137046
+*pro* 准备 个 差不多 我 再 找 他
+suid=s26 participant=137046
+雷凯
+suid=s27 participant=136693
+嗯
+suid=s28 participant=137046
+你 打听 下 *pro* 应该 可以 的
+suid=s29 participant=136693
+*pro* 好
+suid=s30 participant=136693
+*pro* 找好 物业 貌似 *pro* 就 进入 正常 申请 加盟 程序 啦
+suid=s31 participant=137046
+上面 有 人 *pro* 好 办事
+suid=s32 participant=136693
+嗯嗯 ， *pro* 插 个 队 什么 的
+suid=s33 participant=136693
+哈哈
+suid=s34 participant=137046
+那 是
+suid=s35 participant=136693
+*pro* 得 加快 进度 了 ， 据说 *pro* 今年 加盟 有 优惠
+suid=s36 participant=137046
+*pro* 想 *PRO* 干 *pro* 就 趁早 ， 现在 整 个 经济 不 景气 ， 物业 *pro* 议价 有 优势
+suid=s37 participant=136693
+嗯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="71" id="我0" start="68" text="pro" type="" />
+<我 comment="default value" end="599" id="我1" start="596" text="pro" type="" />
+<我 comment="default value" end="639" id="我2" start="636" text="pro" type="" />
+<我 comment="default value" end="782" id="我3" start="779" text="pro" type="" />
+<我 comment="default value" end="807" id="我4" start="804" text="pro" type="" />
+<我 comment="default value" end="872" id="我5" start="869" text="pro" type="" />
+<我 comment="default value" end="1111" id="我6" start="1108" text="pro" type="" />
+<我 comment="default value" end="1231" id="我7" start="1228" text="pro" type="" />
+<我 comment="default value" end="1428" id="我8" start="1425" text="pro" type="" />
+<我 comment="default value" end="1443" id="我9" start="1440" text="pro" type="" />
+<我 comment="default value" end="1547" id="我10" start="1544" text="pro" type="" />
+<我 comment="default value" end="1655" id="我11" start="1652" text="pro" type="" />
+<你 comment="default value" end="650" id="你0" start="647" text="pro" type="" />
+<你 comment="default value" end="1054" id="你1" start="1051" text="pro" type="" />
+<你 comment="default value" end="1721" id="你2" start="1718" text="pro" type="" />
+<你 comment="default value" end="1737" id="你3" start="1734" text="pro" type="" />
+<他 comment="default value" end="417" id="他0" start="414" text="pro" type="" />
+<existential comment="default value" end="1676" id="e0" start="1673" text="pro" type="" />
+<existential comment="default value" end="1770" id="e1" start="1767" text="pro" type="" />
+<generic comment="default value" end="1503" id="g0" start="1500" text="pro" type="" />
+<pleonastic end="1188" id="p0" start="1185" text="pro" type="" />
+<pleonastic end="1350" id="p1" start="1347" text="pro" type="" />
+<previous_utterance comment="default value" end="476" id="pr0" start="473" text="pro" type="" />
+<previous_utterance comment="default value" end="516" id="pr1" start="513" text="pro" type="" />
+<previous_utterance comment="default value" end="1013" id="pr2" start="1010" text="pro" type="" />
+<previous_utterance comment="default value" end="1176" id="pr3" start="1173" text="pro" type="" />
+<previous_utterance comment="default value" end="1392" id="pr4" start="1389" text="pro" type="" />
+</TAGS>
+</ProTask>

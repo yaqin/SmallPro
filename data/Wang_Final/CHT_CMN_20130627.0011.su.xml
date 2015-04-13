@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136873
+亲 在 吗 ？？
+suid=s1 participant=136873
+*pro* 在 啦 我 朋友 这 周 有 事情 去 不 了
+suid=s2 participant=136873
+我们 去 不 ？
+suid=s3 participant=136873
+欢乐谷
+suid=s4 participant=136868
+这 周 正好 周六 我 要 去 杭州
+suid=s5 participant=136868
+而且 *pro* 会 下雨 天气 不 是 很 好
+suid=s6 participant=136868
+要么 我们 下 周 去 吧 人 多 好玩 [ 表情 ]
+suid=s7 participant=136873
+你 要 去 杭州 *pro* 是 吧 ？
+*pro* 玩 么
+suid=s8 participant=136868
+嗯 *pro* 对 的
+suid=s9 participant=136873
+*pro* 知道 了 下 次 估计 欢乐谷 边上 的 玛雅 水上 乐园 都 开 了 哈哈
+suid=s10 participant=136868
+*pro* 对 呀 *pro* 对 呀 *pro* 要 带 泳衣 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="68" id="我0" start="65" text="pro" type="" />
+<我 comment="default value" end="442" id="我1" start="439" text="pro" type="" />
+<你 comment="default value" end="366" id="你0" start="363" text="pro" type="" />
+<我们 comment="default value" end="535" id="我们0" start="532" text="pro" type="" />
+<pleonastic end="241" id="p0" start="238" text="pro" type="" />
+<previous_utterance comment="default value" end="354" id="pr0" start="351" text="pro" type="" />
+<previous_utterance comment="default value" end="405" id="pr1" start="402" text="pro" type="" />
+<previous_utterance comment="default value" end="515" id="pr2" start="512" text="pro" type="" />
+<previous_utterance comment="default value" end="525" id="pr3" start="522" text="pro" type="" />
+</TAGS>
+</ProTask>

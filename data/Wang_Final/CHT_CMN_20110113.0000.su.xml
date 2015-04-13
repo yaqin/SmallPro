@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+表姐 ， *pro* 一般 从 中国 寄 东西 到 美国 *pro* 是 按 重量 算 的 吗 ？
+suid=s1 participant=135882
+大概 每 公斤 *pro* 多少 钱 ？
+还有 *pro* 多久 可以 到 ？
+suid=s2 participant=138436
+*pro* 是 啊 。。。 如果 *pro* 邮政 平邮 的话 ， 坑内 *pro* 100 - 200 ／ kg
+suid=s3 participant=138436
+*pro* 大概 2 个 星期 吧
+suid=s4 participant=138436
+快递 就 好 贵 了
+]]></TEXT>
+<TAGS>
+<generic comment="default value" end="37" id="g0" start="34" text="pro" type="" />
+<pleonastic end="61" id="p0" start="58" text="pro" type="" />
+<pleonastic end="117" id="p1" start="114" text="pro" type="" />
+<pleonastic end="133" id="p2" start="130" text="pro" type="" />
+<pleonastic end="193" id="p3" start="190" text="pro" type="" />
+<pleonastic end="213" id="p4" start="210" text="pro" type="" />
+<pleonastic end="261" id="p5" start="258" text="pro" type="" />
+<previous_utterance comment="default value" end="176" id="pr0" start="173" text="pro" type="" />
+</TAGS>
+</ProTask>

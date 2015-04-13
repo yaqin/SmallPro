@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138449
+*pro* 最近 怎么样
+suid=s1 participant=135882
+*pro* 还 行 吧 ， *pro* 忙 得 要 死
+suid=s2 participant=135882
+你 呢 ， *pro* 研究生 考试 怎样 ？
+suid=s3 participant=135882
+*pro* 不好意思 ， *pro* 最近 都 没有 找 你
+suid=s4 participant=138449
+*pro* 没 关系
+suid=s5 participant=138449
+你 忙 嘛
+suid=s6 participant=138449
+我 决定 *PRO* 去 华工 了
+suid=s7 participant=138449
+今日 *pro* 现场 确认 了
+suid=s8 participant=135882
+（⊙o⊙）
+suid=s9 participant=135882
+*pro* 是 五山 校区 吗
+suid=s10 participant=138449
+*pro* 系 啊
+suid=s11 participant=135882
+哈哈 ， 那里 和 华师 很 近 的
+suid=s12 participant=138449
+*pro* 系 啊 ， *pro* 一 个 地铁站 而已
+suid=s13 participant=135882
+那 你 下 学期 还 要 回 学校 吗 ， *pro* 等 *pro* 毕业
+suid=s14 participant=135882
+暨大 那边 *pro* 怎么 恢复 *T*-1
+suid=s15 participant=135882
+*pro* 回复
+suid=s16 participant=138449
+下 学期 *pro* 基本上 不 用 翻 ， 到 毕业 论文 时 *pro* 再 回去
+suid=s17 participant=138449
+暨大 那边 我 自动 放弃 *T*-1 了
+suid=s18 participant=135882
+暨大 这么 好
+suid=s19 participant=138449
+*pro* 主要 是 我们 学校 这边 要求 对方 是 985 高校
+suid=s20 participant=135882
+*pro* 这样
+suid=s21 participant=135882
+不过 华工 也 挺 好 的 ， 而且 *pro* 容易 找 男朋友 啦 [ 表情 ]
+suid=s22 participant=138449
+嘻嘻
+suid=s23 participant=135882
+还是说 你 现在 已经 有主 了
+suid=s24 participant=135882
+*pro* 明天 不 用 过节
+suid=s25 participant=138449
+*pro* 暂时 来 说 ， *pro* 明天 不 用 过
+suid=s26 participant=138449
+你 呢
+suid=s27 participant=135882
+*pro* 依旧 single 咯
+suid=s28 participant=138449
+那 以后 你 来 华工 ， 我 帮 你 *PRO* 介绍 啊
+suid=s29 participant=135882
+他 在 广州 读书 ？
+suid=s30 participant=138449
+*pro* 没有 ， 等 *pro* 见面 *pro* 跟 你 详谈 吧
+suid=s31 participant=135882
+噢 ~ *pro* 好 嘞
+suid=s32 participant=138449
+你 那边 是 白天 吗
+suid=s33 participant=135882
+反正 我 12月 就 回去 了
+suid=s34 participant=138449
+*pro* 好 啊
+suid=s35 participant=135882
+*pro* 是 啊 ， 早上 快 九点 ， *pro* 跟 你们 那边 差 了 14 个 小时
+suid=s36 participant=138449
+我 这边 快 11点
+suid=s37 participant=138449
+学校 不 人性 ， *pro* 要 断电 断网 了
+suid=s38 participant=135882
+那 你 快 去 准备 *PRO* 睡 吧
+suid=s39 participant=135882
+我 以为 你 在 家 里
+suid=s40 participant=138449
+*pro* 好 啊 ， *pro* 在 学校
+suid=s41 participant=138449
+*pro* 要 准备 期末 考试 呢
+suid=s42 participant=135882
+*pro* 加油 ~~
+suid=s43 participant=138449
+*pro* 好 的
+suid=s44 participant=135882
+*pro* 88
+suid=s45 participant=138449
+那 *pro* 晚安 咯
+suid=s46 participant=138449
+*pro* 不 对
+suid=s47 participant=138449
+*pro* 是 我 晚安
+suid=s48 participant=138449
+*pro* 88
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="72" id="我0" start="69" text="pro" type="" />
+<我 comment="default value" end="86" id="我1" start="83" text="pro" type="" />
+<我 comment="default value" end="178" id="我2" start="175" text="pro" type="" />
+<我 comment="default value" end="191" id="我3" start="188" text="pro" type="" />
+<我 comment="default value" end="776" id="我5" start="773" text="pro" type="" />
+<我 comment="default value" end="804" id="我6" start="801" text="pro" type="" />
+<我 comment="default value" end="1235" id="我9" start="1232" text="pro" type="" />
+<我 comment="default value" end="1310" id="我10" start="1307" text="pro" type="" />
+<我 comment="default value" end="1955" id="我12" start="1952" text="pro" type="" />
+<我 comment="default value" end="1994" id="我13" start="1991" text="pro" type="" />
+<我 comment="default value" end="1220" id="我4" start="1217" text="pro" type="" />
+<我 comment="default value" end="1477" id="我7" start="1474" text="pro" type="" />
+<我 comment="default value" end="1809" id="我8" start="1806" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="133" id="你1" start="130" text="pro" type="" />
+<你 comment="default value" end="236" id="你2" start="233" text="pro" type="" />
+<你 comment="default value" end="355" id="你3" start="352" text="pro" type="" />
+<你 comment="default value" end="637" id="你5" start="634" text="pro" type="" />
+<你 comment="default value" end="645" id="你6" start="642" text="pro" type="" />
+<你 comment="default value" end="1048" id="你8" start="1045" text="pro" type="" />
+<你 comment="default value" end="2041" id="你10" start="2038" text="pro" type="" />
+<你 comment="default value" end="2158" id="你11" start="2155" text="pro" type="" />
+<你 comment="default value" end="1176" id="你4" start="1173" text="pro" type="" />
+<他 comment="default value" end="1455" id="他0" start="1452" text="pro" type="" />
+<它 comment="default value" end="429" id="它2" start="426" text="pro" type="" />
+<它 comment="default value" end="929" id="它3" start="926" text="pro" type="" />
+<我们 comment="default value" end="1468" id="我们0" start="1465" text="pro" type="" />
+<我们 comment="default value" end="1706" id="我们1" start="1703" text="pro" type="" />
+<我们 comment="default value" end="2119" id="我们2" start="2116" text="pro" type="" />
+<我们 comment="default value" end="2276" id="我们3" start="2273" text="pro" type="" />
+<他们 comment="default value" end="688" id="他们1" start="685" text="pro" type="" />
+<他们 comment="default value" end="734" id="他们0" start="731" text="pro" type="" />
+<它们 comment="default value" end="570" id="它们0" start="567" text="pro" type="" />
+<event comment="default value" end="992" id="ev0" start="989" text="pro" type="" />
+<pleonastic end="1943" id="p0" start="1940" text="pro" type="" />
+<pleonastic end="2235" id="p1" start="2232" text="pro" type="" />
+<previous_utterance comment="default value" end="473" id="pr0" start="470" text="pro" type="" />
+<previous_utterance comment="default value" end="558" id="pr1" start="555" text="pro" type="" />
+<previous_utterance comment="default value" end="1524" id="pr2" start="1521" text="pro" type="" />
+<previous_utterance comment="default value" end="1646" id="pr3" start="1643" text="pro" type="" />
+<previous_utterance comment="default value" end="1684" id="pr4" start="1681" text="pro" type="" />
+<previous_utterance comment="default value" end="2081" id="pr5" start="2078" text="pro" type="" />
+<previous_utterance comment="default value" end="2197" id="pr6" start="2194" text="pro" type="" />
+</TAGS>
+</ProTask>

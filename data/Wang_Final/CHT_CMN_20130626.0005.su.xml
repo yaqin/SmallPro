@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136825
+妞 阿 ， 你 对 上海 商学院 有 了解 不 ？
+suid=s1 participant=133148
+我 没有 了解 啊 ， *pro* 只是 去 过 几 次
+suid=s2 participant=136825
+我 得 一 个 朋友 向 我 打听
+suid=s3 participant=136825
+我 就 问问 你 阿
+suid=s4 participant=136825
+*pro* 没 事儿
+suid=s5 participant=133148
+哦 ， 我 去 时 *OP* *T*-1 参加 的 是 一 个 *OP* *T*-2 培训 有钱人 的 班级 ， 其他 的 *pro* 都 不 太 了解 *T*-3 ， 你 百度 试试 ， 网上 可能 有 介绍
+suid=s6 participant=136825
+哈哈
+suid=s7 participant=136825
+你 还 参加 过 这 种 阿
+suid=s8 participant=136825
+*pro* 有意思 哈
+suid=s9 participant=133148
+*pro* 是 以前 他们 组织 活动 ， 我 跟着 去 玩 的
+suid=s10 participant=133148
+*pro* 都 是 些 企业 的 负责人 参加
+suid=s11 participant=133148
+我 是 去 打 酱油
+suid=s12 participant=133148
+名字 叫 上海 商学院 还是 长江 商学院 呀 ， 我 也 不 记得
+suid=s13 participant=136825
+哈哈
+suid=s14 participant=136825
+*pro* 真 能 变 *PRO* 有钱 吗
+suid=s15 participant=133148
+*pro* 不 知道 ， 我 也 没 仔细 听 ， 台 上 的 老师 讲 的 挺 好 的 ， 但是 *pro* 也 就 是 *pro* nb轰轰 的 那 种 风格
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="97" id="我0" start="94" text="pro" type="" />
+<我 comment="default value" end="324" id="我1" start="321" text="pro" type="" />
+<我 comment="default value" end="803" id="我2" start="800" text="pro" type="" />
+<他 comment="default value" end="853" id="他0" start="850" text="pro" type="" />
+<它 comment="default value" end="467" id="它0" start="464" text="pro" type="" />
+<他们 comment="default value" end="567" id="他们0" start="564" text="pro" type="" />
+<generic comment="default value" end="752" id="g0" start="749" text="pro" type="" />
+<generic comment="default value" end="865" id="g1" start="862" text="pro" type="" />
+<pleonastic end="224" id="p0" start="221" text="pro" type="" />
+<pleonastic end="506" id="p1" start="503" text="pro" type="" />
+</TAGS>
+</ProTask>

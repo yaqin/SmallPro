@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138153
+你们 家 宝宝 不 是 一般 二般 的 可爱 及 漂亮 啊
+suid=s1 participant=130530
+*pro* 大概 需要 加 你 *PRO* 为 好友 才 能 看 啊 ， *pro* 好不容易 找到 ， *pro* 还 要 申请 个 账号 才 行 ， 结果 *pro* 上去 了 ， *pro* 还 要 你 通过 验证 才 行 ， 哎 ！
+*pro* 好事多磨 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="126" id="我0" start="123" text="pro" type="" />
+<我 comment="default value" end="142" id="我1" start="139" text="pro" type="" />
+<我 comment="default value" end="169" id="我2" start="166" text="pro" type="" />
+<我 comment="default value" end="89" id="我3" start="86" text="pro" type="" />
+<pleonastic end="210" id="p0" start="207" text="pro" type="" />
+<pleonastic end="182" id="p1" start="179" text="pro" type="" />
+</TAGS>
+</ProTask>

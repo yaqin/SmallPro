@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=130533
+*pro* 周二 没 事 吧 ？
+suid=s1 participant=138170
+嗯 *pro* 没 事儿 ！
+suid=s2 participant=130533
+周二 早上 *pro* 去 outlets
+suid=s3 participant=130533
+*pro* 去 delaware 那 家
+suid=s4 participant=138170
+我赛 我赛 ~ delaware 那 家 是 哪 家 ？
+suid=s5 participant=138170
+*pro* 不 是 费城 这 家 ？
+suid=s6 participant=130533
+*pro* 不 是
+suid=s7 participant=130533
+我 看 了 一下 牌子 比 费城 的 多
+suid=s8 participant=138170
+*pro* 好 来 ！
+*pro* 有 的 去 就 好 ！
+suid=s9 participant=130533
+恩恩 他 说 *pro* 不 要 钱 但是 要 我们 *PRO* 帮 他 *PRO* 带 东西
+suid=s10 participant=138170
+嗯 *pro* 好 ~ 呃 他 开车 过去 然后 不 逛 ？
+咱 给 他 买 ？
+suid=s11 participant=130533
+*pro* 不 是 他 可能 一 人 买 不 了 那么 多 还 让 我们 *PRO* 带上 护照
+suid=s12 participant=130533
+*pro* 可能 一 人 限购 多少 个 吧
+suid=s13 participant=130533
+我 看到 *pro* 还 有 AF 和 Hollister
+suid=s14 participant=138170
+*pro* 太 好 啦 ！！
+suid=s15 participant=130533
+*pro* 是 的
+suid=s16 participant=138170
+周二 *pro* 可以 爽 了 ~
+suid=s17 participant=138170
+*pro* 周二 一早 几点 ？
+suid=s18 participant=138170
+我 得 先 去 VP 还 *OP* *pro* *T*-1 录课 的 小 摄像机 ~
+suid=s19 participant=130533
+*pro* 8点 多 吧
+suid=s20 participant=138170
+邓璐瑶 不 group study 了 ？
+suid=s21 participant=138170
+*pro* 行 *pro* 应该 来 得 及 ~
+suid=s22 participant=130533
+她 说 *pro* 看 *pro* 能 不 能 改到 周三
+suid=s23 participant=138170
+*OP* 那边 订 *T*-1 的 周二 *pro* 是 吧 ~
+suid=s24 participant=130533
+*pro* 对 *pro* 本来 说 明天 但是 我 明天 上午 要 tutor 没 办法 改
+suid=s25 participant=138170
+*pro* 好 吧 *pro* 就 周二 别 改 了 ~
+suid=s26 participant=130533
+*pro* 行
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="78" id="我0" start="75" text="pro" type="" />
+<我 comment="default value" end="167" id="我1" start="164" text="pro" type="" />
+<我 comment="default value" end="1304" id="我2" start="1301" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<他 comment="default value" end="466" id="他0" start="463" text="pro" type="" />
+<她 comment="default value" end="1181" id="她0" start="1178" text="pro" type="" />
+<她 comment="default value" end="1189" id="她1" start="1186" text="pro" type="" />
+<它 comment="default value" end="271" id="它0" start="268" text="pro" type="" />
+<我们 comment="default value" end="124" id="我们0" start="121" text="pro" type="" />
+<我们 comment="default value" end="414" id="我们1" start="411" text="pro" type="" />
+<我们 comment="default value" end="874" id="我们2" start="871" text="pro" type="" />
+<我们 comment="default value" end="917" id="我们3" start="914" text="pro" type="" />
+<我们 comment="default value" end="1033" id="我们4" start="1030" text="pro" type="" />
+<我们 comment="default value" end="1132" id="我们5" start="1129" text="pro" type="" />
+<我们 comment="default value" end="1382" id="我们6" start="1379" text="pro" type="" />
+<existential comment="default value" end="737" id="e0" start="734" text="pro" type="" />
+<generic comment="default value" end="980" id="g0" start="977" text="pro" type="" />
+<pleonastic end="681" id="p0" start="678" text="pro" type="" />
+<pleonastic end="790" id="p1" start="787" text="pro" type="" />
+<previous_utterance comment="default value" end="317" id="pr0" start="314" text="pro" type="" />
+<previous_utterance comment="default value" end="402" id="pr1" start="399" text="pro" type="" />
+<previous_utterance comment="default value" end="537" id="pr2" start="534" text="pro" type="" />
+<previous_utterance comment="default value" end="604" id="pr3" start="601" text="pro" type="" />
+<previous_utterance comment="default value" end="833" id="pr5" start="830" text="pro" type="" />
+<previous_utterance comment="default value" end="1124" id="pr6" start="1121" text="pro" type="" />
+<previous_utterance comment="default value" end="1256" id="pr7" start="1253" text="pro" type="" />
+<previous_utterance comment="default value" end="1296" id="pr8" start="1293" text="pro" type="" />
+<previous_utterance comment="default value" end="1372" id="pr9" start="1369" text="pro" type="" />
+<previous_utterance comment="default value" end="1429" id="pr10" start="1426" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0000 participant=132065
+你 号 卞 工 *pro* 在 不 ?
+msgid=s1m0001 participant=132065
+现在 *pro* 有 个 问题 我们 这 2 天 刚 给 护理 上线 手持 PDA 系统 *OP* *pro* *T*-1 在 里面 输入 体温单 的 时候 *pro* 输入 下午 的 *pro* 正常 在 一 个 格 的 后面 显示 *OP* *pro* *T*-2 输入 上午 的 时候 *pro* 就 不 显示
+msgid=s2m0002 participant=133506
+你 说
+msgid=s3m0004 participant=133506
+*pro* 是 我们 公司 的 吗
+msgid=s4m0005 participant=133506
+接口 是 不 是 有 问题
+msgid=s5m0006 participant=132065
+*pro* 不 是
+msgid=s6m0007 participant=132065
+关键 是 *OP* *pro* 下午 输入 *T*-1 的 血压 就 能 在 你们 的 电子 病历 上 显示
+msgid=s7m0008 participant=133506
+血压 可以
+msgid=s8m0009 participant=132065
+*pro* 选择 上午 的 时间点 *pro* 就 不 显示
+msgid=s9m0010 participant=133506
+电子 病历 应该 是 没有 问题 都 的 ， 如果 护士 操作 没有 问题 的化 ， *pro* 就 得 从 接口 里 找 原因
+msgid=s10m0011 participant=132065
+*pro* 能 给 我 *PRO* 远程 看 一下 吗
+msgid=s11m0012 participant=132065
+我 不 知道 哪 个 病号 是 的 啊
+msgid=s12m0013 participant=132065
+*OP* *pro* *T*-1 昨天 下 科室 的 时候 我 看 着 护理 输 的
+msgid=s13m0014 participant=132065
+然后 我 也 试 了 下
+msgid=s14m0015 participant=132065
+确实 上午 的 *pro* 保存 完 在 电子 病历 里 没 信息
+msgid=s15m0016 participant=132065
+下午 点 的 就 可以
+msgid=s16m0017 participant=132065
+那 你 觉得 *pro* 是 电子 病历 的 问题 吗 ？
+msgid=s17m0018 participant=132065
+因为 这个 牵扯 到 两 家 的 系统
+msgid=s18m0019 participant=132065
+体温 是 从 pda 里 录入 ， 在 pad 里 保存
+msgid=s19m0020 participant=132065
+现在 问题 是 全 院 都 这样 ， 还是 某 个 病人 的 这样
+msgid=s20m0021 participant=133506
+*pro* 都 是 这样 的
+msgid=s21m0022 participant=133506
+*pro* 如果 都 是 这 个 问题 ， *pro* 就 要 到 接口 里 找 原因
+msgid=s22m0023 participant=133506
+当时 医院 的 接口 是 谁 做 的 ， *pro* 让 他们 *PRO* 检查 一下
+msgid=s23m0024 participant=133506
+他们 叫 我 *PRO* 找 电子 病历 的 工程师 ...
+msgid=s24m0025 participant=133506
+现在 我 认为 问题 是 他们 那边 的 数据 没有 传 过来
+msgid=s25m0026 participant=133506
+哦 回头 我 再 问问
+msgid=s26m0027 participant=133506
+你 号 卞 工 *pro* 在 不 ?
+msgid=s27m0028 participant=133506
+现在 *pro* 有 个 病历 24408830 号 *pro* 做 的 手术 护理 里面 手术 后 天数 显示 为 1 ／ 14
+msgid=s28m0029 participant=133506
+护理 说 *pro* 应 为 1 ／ 1
+msgid=s29m0030 participant=133506
+我 再 里面 修改 保存 数据 *pro* 显示 是 灰色 *pro* 不 叫 *pro* 保存
+msgid=s30m0031 participant=133506
+远程
+msgid=s31m0032 participant=133506
+你 用 主任 的 机器 吧 *pro* 没 人
+msgid=s32m0033 participant=133506
+我 整理 没有 电子 病历
+msgid=s33m0034 participant=133506
+服务器 上 的 电子 病历 还 老 报错
+msgid=s34m0035 participant=133506
+我 这边 没 装 远程 软件
+msgid=s35m0036 participant=133506
+*pro* 只 能 求求 远程
+msgid=s36m0037 participant=133506
+我 开 的话 *pro* 会 很 卡 ....
+msgid=s37m0038 participant=133506
+你 要 用 护士 的 工号
+msgid=s38m0039 participant=133506
+远程 我 给 改 *T*-1
+msgid=s39m0040 participant=133506
+guest1 密码
+msgid=s40m0041 participant=133506
+zz3hospital
+msgid=s41m0042 participant=133506
+住院 号 是 244088 吗 *pro* 找 不 到 这 个 人
+msgid=s42m0043 participant=133506
+*pro* 选择 时间
+msgid=s43m0044 participant=133506
+*pro* 换成 周 才 行
+msgid=s44m0046 participant=133506
+外科 的 病号
+msgid=s45m0047 participant=133506
+前面 还 有 4 个 0 ....
+msgid=s46m0048 participant=133506
+0000244088
+msgid=s47m0049 participant=133506
+现在 *pro* 有 了 吧
+msgid=s48m0050 participant=133506
+*pro* 有 了
+msgid=s49m0051 participant=133506
+你们 护理部 为什么 说 *pro* 要 写 1 ／ 1
+msgid=s50m0052 participant=132065
+*pro* 30号 做 的 手术
+msgid=s51m0053 participant=132065
+*pro* 不 就 应该 是 1 ／ 14 吗
+msgid=s52m0055 participant=132065
+*pro* 不 知道
+msgid=s53m0056 participant=132065
+这个 是 完全 正确 的 ， *pro* 是 按照 山东省 病历 书写 规范 来 的
+msgid=s54m0057 participant=132065
+护士 说 的 *pro* 要 改 1 ／ 1 ..
+msgid=s55m0058 participant=132065
+你们 还是 要 有 一些 护理 常识 的 ， 要不然 他们 经常 忽悠 人 的
+msgid=s56m0059 participant=132065
+这个 是 什么 意思 呢 ?
+msgid=s57m0060 participant=132065
+1 ／ 14 的 意思 是 上 一 次 手术 距离 现在 14 天 ， 30号 的 手术 距离 现在 1 天
+msgid=s58m0061 participant=132065
+哦
+msgid=s59m0062 participant=132065
+1 ／ 1 的 意思 是 上 一 次 手术 距离 现在 1 天 ， 30号 的 手术 距离 现在 也 是 一 天
+msgid=s60m0063 participant=132065
+您 认为 哪 一 个 对
+msgid=s61m0064 participant=132065
+*pro* 草 来
+msgid=s62m0065 participant=132065
+*pro* 晕死 了
+msgid=s63m0066 participant=132065
+这 个 病人 肯定 之前 做 过 手术
+msgid=s64m0067 participant=132065
+*pro* 不 能 听 护士 的
+msgid=s65m0068 participant=132065
+你 看看 他 的 体温单 上 ， 写 的 很 明显 的
+msgid=s66m0069 participant=132065
+鹏 哥 我 给 你 截图
+msgid=s67m0070 participant=132065
+那 病历 里面 怎么 只 有 *OP* *T*-1 30号 开始 的 信息 ??
+msgid=s68m0072 participant=132065
+5.17号 *pro* 有 手术 的
+msgid=s69m0073 participant=132065
+哦
+msgid=s70m0074 participant=133506
+电子 体温单 现在 没有 问题 单 额
+msgid=s71m0075 participant=133506
+恩 我 知道 了 我 和 他们 说 吧
+msgid=s72m0076 participant=133506
+咱们 信息科 这边 *pro* 接到 他们 的 电话 ， 最好 能 认真 的 看 一下 他们 的 病历
+msgid=s73m0077 participant=133506
+像 这 个 病历 ， 电子 体温单 里 就 没有 问题 的 ，
+msgid=s74m0078 participant=133506
+恩
+msgid=s75m0080 participant=133506
+整理 还 不 对
+msgid=s76m0081 participant=133506
+这里 还 不 对
+msgid=s77m0082 participant=133506
+*pro* 应该 是 1 ／ 14 *pro* 还 显示 1 ／ 1
+msgid=s78m0083 participant=133506
+*pro* 到底 要 什么
+msgid=s79m0084 participant=133506
+这 个 1 ／ 1 是 对应 的 30日 的 记录
+msgid=s80m0085 participant=132065
+*pro* 应该 是 1 ／ 14 *pro* 现在 是 1 ／ 1
+msgid=s81m0086 participant=132065
+刚才 你 是 不 是 说 反 了
+msgid=s82m0088 participant=132065
+恩 不过 *OP* 科室 和 我 说 *T*-1 的 是 *pro* 要 改成 1 ／ 1 的 现在 *pro* 是 护士长 说 的 *pro* 要 改 1 ／ 14
+msgid=s83m0090 participant=132065
+*pro* 改 就 是 了
+msgid=s84m0091 participant=132065
+*pro* 直接 改 、
+msgid=s85m0092 participant=132065
+*pro* 在 哪 改 ?
+msgid=s86m0093 participant=132065
+*pro* 本来 就 应该 是 1 ／ 14 . 你 非 要 改成 1 ／ 1
+msgid=s87m0094 participant=132065
+*pro* 改好 了 *pro* 还 让 我 *PRO* 给 改 回来
+msgid=s88m0095 participant=132065
+这个 直接 在 格子 里 改
+msgid=s89m0096 participant=132065
+刚才 那 个 小 护士 说 的 批量 里 的 不 对 *pro* 要 改 1 ／ 14 改成 1 ／ 1
+msgid=s90m0097 participant=133506
+*pro* *pro* 改好 后 直接 保存
+msgid=s91m0098 participant=133506
+现在 护士长 又 说 批量 是 *OP* *T*-1 对 的 *OP* 外面 的 体温单 上 显示 *T*-2 的 1 ／ 1 不 对 *pro* 应该 是 1 ／ 14
+msgid=s92m0099 participant=133506
+*pro* 直接 改 就 行
+msgid=s93m0100 participant=133506
+*pro* *pro* 改好 了 保存
+msgid=s94m0102 participant=133506
+*pro* 在 这个 上面 直接 改 ?
+msgid=s95m0103 participant=133506
+*pro* 对
+msgid=s96m0104 participant=133506
+*pro* 输入 不 上 啊
+msgid=s97m0105 participant=133506
+*pro* *pro* 改好 了 保存
+msgid=s98m0106 participant=133506
+我 刚才 操作 您 看到 了 *T*-1 吗
+msgid=s99m0107 participant=133506
+*pro* 输入 不 上 *pro* 怎么 改
+msgid=s100m0108 participant=132065
+没 那 是 王翔 的 机器
+msgid=s101m0109 participant=132065
+远程 我 再 操作 一 遍 *T*-1
+msgid=s102m0110 participant=132065
+我 这 个 机器 正在 正 无线 PDA 机器 的
+msgid=s103m0111 participant=132065
+您 看 一下
+msgid=s104m0112 participant=132065
+*pro* 下午 有空 没 现在 我 过 不 去 正在 整 无线 的 PDA 呢
+msgid=s105m0113 participant=132065
+*pro* 行 吧
+msgid=s106m0114 participant=132065
+*pro* 要是 刚 开始 你 告诉 护士 那样 是 *OP* *T*-1 对 的 *pro* 不 就 没 事 了 吗
+msgid=s107m0115 participant=132065
+关键 *OP* 护士 和 护士长 说 *T*-1 的 不 是 一 回 事
+msgid=s108m0116 participant=132065
+*pro* 非 要 改成 1 ／ 1 , 这不 *pro* 还 得 改 回来
+msgid=s109m0118 participant=132065
+*pro* 了解 一下 体温单 输入 规则 *pro* 以后 就 不 会 让 他们 *PRO* 忽悠 了
+msgid=s110m0119 participant=132065
+*pro* 郁闷 啊
+msgid=s111m0120 participant=132065
+鹏 哥 ， *OP* 软考 考 *T*-1 的 什么 啊
+msgid=s112m0121 participant=132065
+网络 工程师
+msgid=s113m0122 participant=132065
+*pro* 好 了 ， 那 我 去 吃饭 了 哈
+msgid=s114m0123 participant=132065
+下午 *pro* *pro* 有 时间 喊 我 *PRO* 依稀
+msgid=s115m0124 participant=132065
+恩 下午 我 叫 我 科室 的 人 *PRO* 联系 你 我 下午 休班
+msgid=s116m0125 participant=132065
+*pro* 郁闷 *pro* 中午 要 晚 回去 了
+msgid=s117m0126 participant=132065
+*pro* 还 要 整 无线 设备
+msgid=s118m0127 participant=132065
+*pro* 都 是 工作
+msgid=s119m0128 participant=132065
+*pro* 是 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="1985" id="我0" start="1982" text="pro" type="" />
+<我 comment="default value" end="2275" id="我1" start="2272" text="pro" type="" />
+<我 comment="default value" end="2332" id="我2" start="2329" text="pro" type="" />
+<我 comment="default value" end="2586" id="我3" start="2583" text="pro" type="" />
+<我 comment="default value" end="3137" id="我4" start="3134" text="pro" type="" />
+<我 comment="default value" end="3705" id="我5" start="3702" text="pro" type="" />
+<我 comment="default value" end="3749" id="我6" start="3746" text="pro" type="" />
+<我 comment="default value" end="5064" id="我7" start="5061" text="pro" type="" />
+<我 comment="default value" end="5186" id="我8" start="5183" text="pro" type="" />
+<我 comment="default value" end="5672" id="我9" start="5669" text="pro" type="" />
+<我 comment="default value" end="5769" id="我10" start="5766" text="pro" type="" />
+<我 comment="default value" end="5929" id="我11" start="5926" text="pro" type="" />
+<我 comment="default value" end="5942" id="我12" start="5939" text="pro" type="" />
+<我 comment="default value" end="6645" id="我13" start="6642" text="pro" type="" />
+<我 comment="default value" end="6997" id="我14" start="6994" text="pro" type="" />
+<我 comment="default value" end="7006" id="我15" start="7003" text="pro" type="" />
+<我 comment="default value" end="7059" id="我16" start="7056" text="pro" type="" />
+<你 comment="default value" end="46" id="你0" start="43" text="pro" type="" />
+<你 comment="default value" end="695" id="你1" start="692" text="pro" type="" />
+<你 comment="default value" end="751" id="你2" start="748" text="pro" type="" />
+<你 comment="default value" end="1425" id="你3" start="1422" text="pro" type="" />
+<你 comment="default value" end="1502" id="你4" start="1499" text="pro" type="" />
+<你 comment="default value" end="1744" id="你5" start="1741" text="pro" type="" />
+<你 comment="default value" end="2638" id="你6" start="2635" text="pro" type="" />
+<你 comment="default value" end="2684" id="你7" start="2681" text="pro" type="" />
+<你 comment="default value" end="3848" id="你8" start="3845" text="pro" type="" />
+<你 comment="default value" end="4969" id="你9" start="4966" text="pro" type="" />
+<你 comment="default value" end="5017" id="你10" start="5014" text="pro" type="" />
+<你 comment="default value" end="5197" id="你11" start="5194" text="pro" type="" />
+<你 comment="default value" end="5392" id="你12" start="5389" text="pro" type="" />
+<你 comment="default value" end="5398" id="你13" start="5395" text="pro" type="" />
+<你 comment="default value" end="5569" id="你14" start="5566" text="pro" type="" />
+<你 comment="default value" end="5618" id="你15" start="5615" text="pro" type="" />
+<你 comment="default value" end="5624" id="你16" start="5621" text="pro" type="" />
+<你 comment="default value" end="5818" id="你17" start="5815" text="pro" type="" />
+<你 comment="default value" end="5824" id="你18" start="5821" text="pro" type="" />
+<你 comment="default value" end="6195" id="你20" start="6192" text="pro" type="" />
+<你 comment="default value" end="6316" id="你21" start="6313" text="pro" type="" />
+<你 comment="default value" end="6358" id="你22" start="6355" text="pro" type="" />
+<你 comment="default value" end="6483" id="你23" start="6480" text="pro" type="" />
+<你 comment="default value" end="6507" id="你24" start="6504" text="pro" type="" />
+<你 comment="default value" end="6860" id="你25" start="6857" text="pro" type="" />
+<你 comment="default value" end="6866" id="你26" start="6863" text="pro" type="" />
+<你 comment="default value" end="6557" id="你19" start="6554" text="pro" type="" />
+<你 comment="default value" end="6579" id="你27" start="6576" text="pro" type="" />
+<她 comment="default value" end="2978" id="她0" start="2975" text="pro" type="" />
+<她 comment="default value" end="3266" id="她1" start="3263" text="pro" type="" />
+<她 comment="default value" end="5332" id="她3" start="5329" text="pro" type="" />
+<它 comment="default value" end="184" id="它0" start="181" text="pro" type="" />
+<它 comment="default value" end="237" id="它1" start="234" text="pro" type="" />
+<它 comment="default value" end="320" id="它2" start="317" text="pro" type="" />
+<它 comment="default value" end="606" id="它3" start="603" text="pro" type="" />
+<它 comment="default value" end="1895" id="它4" start="1892" text="pro" type="" />
+<它 comment="default value" end="1961" id="它5" start="1958" text="pro" type="" />
+<它 comment="default value" end="1975" id="它6" start="1972" text="pro" type="" />
+<它 comment="default value" end="3079" id="它7" start="3076" text="pro" type="" />
+<它 comment="default value" end="3197" id="它8" start="3194" text="pro" type="" />
+<它 comment="default value" end="4554" id="它10" start="4551" text="pro" type="" />
+<它 comment="default value" end="4731" id="它11" start="4728" text="pro" type="" />
+<它 comment="default value" end="4880" id="它12" start="4877" text="pro" type="" />
+<它 comment="default value" end="4918" id="它13" start="4915" text="pro" type="" />
+<它 comment="default value" end="5112" id="它14" start="5109" text="pro" type="" />
+<它 comment="default value" end="5517" id="它15" start="5514" text="pro" type="" />
+<它 comment="default value" end="4572" id="它9" start="4569" text="pro" type="" />
+<它 comment="default value" end="4749" id="它16" start="4746" text="pro" type="" />
+<我们 comment="default value" end="141" id="我们0" start="138" text="pro" type="" />
+<我们 comment="default value" end="170" id="我们1" start="167" text="pro" type="" />
+<我们 comment="default value" end="214" id="我们2" start="211" text="pro" type="" />
+<我们 comment="default value" end="471" id="我们3" start="468" text="pro" type="" />
+<我们 comment="default value" end="588" id="我们4" start="585" text="pro" type="" />
+<我们 comment="default value" end="4290" id="我们5" start="4287" text="pro" type="" />
+<他们 comment="default value" end="3028" id="他们0" start="3025" text="pro" type="" />
+<他们 comment="default value" end="4623" id="他们1" start="4620" text="pro" type="" />
+<它们 comment="default value" end="1354" id="它们0" start="1351" text="pro" type="" />
+<它们 comment="default value" end="1403" id="它们1" start="1400" text="pro" type="" />
+<existential comment="default value" end="94" id="e0" start="91" text="pro" type="" />
+<existential comment="default value" end="1793" id="e1" start="1790" text="pro" type="" />
+<existential comment="default value" end="2079" id="e2" start="2076" text="pro" type="" />
+<existential comment="default value" end="2875" id="e3" start="2872" text="pro" type="" />
+<existential comment="default value" end="2921" id="e4" start="2918" text="pro" type="" />
+<existential comment="default value" end="4089" id="e5" start="4086" text="pro" type="" />
+<event comment="default value" end="7112" id="ev1" start="7109" text="pro" type="" />
+<generic comment="default value" end="999" id="g1" start="996" text="pro" type="" />
+<generic comment="default value" end="1817" id="g2" start="1814" text="pro" type="" />
+<pleonastic end="872" id="p0" start="869" text="pro" type="" />
+<pleonastic end="1112" id="p1" start="1109" text="pro" type="" />
+<pleonastic end="4902" id="p2" start="4899" text="pro" type="" />
+<previous_utterance comment="default value" end="418" id="pr0" start="415" text="pro" type="" />
+<previous_utterance comment="default value" end="5727" id="pr1" start="5724" text="pro" type="" />
+<previous_utterance comment="default value" end="6271" id="pr2" start="6268" text="pro" type="" />
+<previous_utterance comment="default value" end="6797" id="pr3" start="6794" text="pro" type="" />
+<previous_utterance comment="default value" end="7160" id="pr4" start="7157" text="pro" type="" />
+</TAGS>
+</ProTask>

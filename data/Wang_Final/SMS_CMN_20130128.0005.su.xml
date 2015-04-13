@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131597
+马上
+suid=s1 participant=131752
+速度 啊 磊 哥 。
+suid=s2 participant=131597
+*pro* 稍等 ， 你们 先 下去 ，
+suid=s3 participant=131597
+*pro* 别 在 那里 站 着 。
+suid=s4 participant=131752
+*pro* 不 来 了 吗 ？
+suid=s5 participant=131597
+*pro* 待会 到
+suid=s6 participant=131752
+*pro* 收到 。
+suid=s7 participant=131597
+你 还 回来 不 ？
+suid=s8 participant=131752
+*pro* 下午 回去 ， 我 在 同事 家 呢 。
+suid=s9 participant=131597
+你 把 刚才 那 个 短信 帮 我 *PRO* 给 董方旭 和 朱先康 说 一下 *-1
+suid=s10 participant=131752
+*pro* 好 的 。
+suid=s11 participant=131752
+*pro* 还 去 玩 吧 你们 ？
+suid=s12 participant=131597
+*pro* 去 啊 ， 待会 就 去 。
+suid=s13 participant=131597
+*pro* 好 的
+suid=s14 participant=131752
+我 也 过去 ， *pro* 还 是 那里 吗 ？
+suid=s15 participant=131752
+*pro* 开完 了 吗 ？
+suid=s16 participant=131597
+*pro* 还 没 呢 ， *pro* 应该 快 了 。
+suid=s17 participant=131597
+*pro* 好 的
+suid=s18 participant=131752
+*pro* 一会儿 去 那里 集合 吧 。
+suid=s19 participant=131597
+*pro* 待会 都 回来 ， *pro* 要 考试 的
+suid=s20 participant=131752
+几点 啊 ？
+suid=s21 participant=131597
+*pro* 没 说 ， 你们 三点 回来 就 行
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="237" id="我0" start="234" text="pro" type="" />
+<我 comment="default value" end="275" id="我1" start="272" text="pro" type="" />
+<我 comment="default value" end="351" id="我2" start="348" text="pro" type="" />
+<我 comment="default value" end="749" id="我3" start="746" text="pro" type="" />
+<我 comment="default value" end="763" id="我4" start="760" text="pro" type="" />
+<你 comment="default value" end="148" id="你0" start="145" text="pro" type="" />
+<你 comment="default value" end="194" id="你1" start="191" text="pro" type="" />
+<你 comment="default value" end="706" id="你2" start="703" text="pro" type="" />
+<你 comment="default value" end="844" id="你3" start="841" text="pro" type="" />
+<我们 comment="default value" end="565" id="我们0" start="562" text="pro" type="" />
+<你们 comment="default value" end="100" id="你们0" start="97" text="pro" type="" />
+<你们 comment="default value" end="518" id="你们1" start="515" text="pro" type="" />
+<你们 comment="default value" end="661" id="你们2" start="658" text="pro" type="" />
+<他们 comment="default value" end="894" id="他们0" start="891" text="pro" type="" />
+<他们 comment="default value" end="910" id="他们1" start="907" text="pro" type="" />
+<他们 comment="default value" end="986" id="他们2" start="983" text="pro" type="" />
+<previous_utterance comment="default value" end="478" id="pr0" start="475" text="pro" type="" />
+<previous_utterance comment="default value" end="614" id="pr1" start="611" text="pro" type="" />
+<previous_utterance comment="default value" end="806" id="pr2" start="803" text="pro" type="" />
+</TAGS>
+</ProTask>

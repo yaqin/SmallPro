@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+*pro* 咋 没 动静 了 ？
+suid=s1 participant=137132
+*pro* 这些 天 有点 忙 ， 没 顾 得 上
+suid=s2 participant=136693
+*pro* 忙 啥 ？
+新 项目 ？
+suid=s3 participant=137132
+新 旧 *pro* 一起 忙 *T*-1
+suid=s4 participant=136693
+*pro* 准备 *PRO* 上 新 项目 ？
+suid=s5 participant=137132
+嗯
+suid=s6 participant=136693
+网上 有 介绍 什么 的 吗 ？
+*pro* 具体 叫 什么 ， 我 搜搜 *T*-1
+suid=s7 participant=137132
+思八达 是 不 是 离 你 家 很 近
+suid=s8 participant=137132
+等 我 去 济南 *pro* 当面 跟 你 说 吧
+suid=s9 participant=136693
+*pro* 好 滴 ， 近期 你 过来 ？
+suid=s10 participant=137132
+嗯 ， *pro* 得 20号 左右
+suid=s11 participant=136693
+哦 ， 还是 那 个 会 ？
+suid=s12 participant=137132
+嗯
+suid=s13 participant=137132
+大前天 我 在 济南
+suid=s14 participant=136693
+啊 ？
+*pro* 怎么 不 给 我 打 电话
+suid=s15 participant=136693
+这个 总部 在 济南 吗 ？
+suid=s16 participant=137132
+我 想 *PRO* *OP* *pro* *T*-1 有 大 空 的 时候
+suid=s17 participant=137132
+*pro* 没 想到 ， *pro* 没有 大 空 ， *pro* 就 没 联系 你
+suid=s18 participant=136693
+*pro* 至于 这么 赶 嘛 ， *pro* 又 是 当天 往返 ？
+suid=s19 participant=137132
+*pro* 在 那里 住 了 一 晚 ， 第二 天 晚上 十二点半 到 潍
+suid=s20 participant=136693
+*pro* 倒 ， *pro* 怎么 听 着 *pro* 和 传销 似的
+suid=s21 participant=136693
+*pro* 就 是 上课 吗 ？
+suid=s22 participant=137132
+我 是 去 上 思八达 的 课程
+suid=s23 participant=137132
+思八达 是 *OP* *pro* *T*-1 给 企业 老板 培训 的 机杨
+suid=s24 participant=137132
+构
+suid=s25 participant=136693
+*pro* 和 *OP* 你 *T*-1 之前 来 的 不 是 一 回 事 ？
+suid=s26 participant=137132
+*pro* 不 是
+suid=s27 participant=136693
+哦 ， 我 说 呢
+suid=s28 participant=136693
+*pro* 20号 也 是 来 培训 ？
+suid=s29 participant=137132
+20 *pro* 是 有 招商会 ，
+suid=s30 participant=137132
+你 准备 好 自己 做 生意 了 吗 ？
+suid=s31 participant=136693
+*pro* 没有 好 项目 啊
+suid=s32 participant=136693
+*pro* 头疼
+suid=s33 participant=137132
+*pro* 没 事 ， 万事 开头 难 ， *pro* 要 相信 自己
+suid=s34 participant=136693
+据说 今年 大 环境 都 不 好 ， 赔钱 多 赚钱 少
+suid=s35 participant=137132
+这 是 事实
+suid=s36 participant=136693
+*pro* 所以 不 敢 贸然 行动 啊
+suid=s37 participant=136693
+20号 招商会 你 过来 *T*-1 呆 几 天 ？
+suid=s38 participant=137132
+*pro* 先 不 跟 你 说 了 ， 需要 出去 趟
+suid=s39 participant=137132
+两 天 最多 ， 二十号 你 能 有空 吗 ？
+suid=s40 participant=136693
+*pro* 应该 能 出来 ， 你 在 哪 开会 ？
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="76" id="我0" start="73" text="pro" type="" />
+<我 comment="default value" end="179" id="我1" start="176" text="pro" type="" />
+<我 comment="default value" end="430" id="我2" start="427" text="pro" type="" />
+<我 comment="default value" end="528" id="我3" start="525" text="pro" type="" />
+<我 comment="default value" end="793" id="我4" start="790" text="pro" type="" />
+<我 comment="default value" end="844" id="我5" start="841" text="pro" type="" />
+<我 comment="default value" end="857" id="我6" start="854" text="pro" type="" />
+<我 comment="default value" end="872" id="我7" start="869" text="pro" type="" />
+<我 comment="default value" end="979" id="我8" start="976" text="pro" type="" />
+<我 comment="default value" end="1045" id="我9" start="1042" text="pro" type="" />
+<我 comment="default value" end="1055" id="我10" start="1052" text="pro" type="" />
+<我 comment="default value" end="1586" id="我11" start="1583" text="pro" type="" />
+<我 comment="default value" end="1630" id="我14" start="1627" text="pro" type="" />
+<我 comment="default value" end="1823" id="我15" start="1820" text="pro" type="" />
+<我 comment="default value" end="1927" id="我16" start="1924" text="pro" type="" />
+<我 comment="default value" end="2035" id="我17" start="2032" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="129" id="你1" start="126" text="pro" type="" />
+<你 comment="default value" end="223" id="你2" start="220" text="pro" type="" />
+<你 comment="default value" end="687" id="你3" start="684" text="pro" type="" />
+<你 comment="default value" end="915" id="你4" start="912" text="pro" type="" />
+<你 comment="default value" end="933" id="你5" start="930" text="pro" type="" />
+<你 comment="default value" end="1068" id="你6" start="1065" text="pro" type="" />
+<你 comment="default value" end="1110" id="你7" start="1107" text="pro" type="" />
+<你 comment="default value" end="1441" id="你8" start="1438" text="pro" type="" />
+<你 comment="default value" end="1667" id="你10" start="1664" text="pro" type="" />
+<你 comment="default value" end="1689" id="你11" start="1686" text="pro" type="" />
+<它 comment="default value" end="320" id="它0" start="317" text="pro" type="" />
+<event comment="default value" end="1297" id="ev0" start="1294" text="pro" type="" />
+<pleonastic end="1211" id="p0" start="1208" text="pro" type="" />
+<pleonastic end="1493" id="p1" start="1490" text="pro" type="" />
+<previous_utterance comment="default value" end="474" id="pr0" start="471" text="pro" type="" />
+<previous_utterance comment="default value" end="1365" id="pr1" start="1362" text="pro" type="" />
+</TAGS>
+</ProTask>

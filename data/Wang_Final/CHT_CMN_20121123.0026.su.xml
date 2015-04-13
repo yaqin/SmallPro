@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138194
+*pro* 在 啊 。
+最近 *pro* 忙 吗 ？
+suid=s1 participant=138202
+*pro* 还 好 !
+suid=s2 participant=138194
+股市 跌 的 一塌糊涂 ， 你 的 股票 还 是 很 稳健 的 呢 。
+suid=s3 participant=138202
+*pro* 很少 见 你
+suid=s4 participant=138202
+*pro* 别 提 了
+suid=s5 participant=138194
+最近 办公楼 搬迁 。
+suid=s6 participant=138202
+*pro* 老 坐 电梯
+suid=s7 participant=138202
+高点 没 出
+suid=s8 participant=138194
+*pro* 比 我 的 757 强 多 了 。
+suid=s9 participant=138202
+*pro* 又 口
+suid=s10 participant=138202
+*pro* 又 回来 了
+suid=s11 participant=138194
+这个 gj 没救 了 。
+*pro* 瞎 折腾 。
+suid=s12 participant=138202
+呵呵
+suid=s13 participant=138194
+*pro* 不 将 股民 的 血汗 榨干 *-1 *pro* 是 不 会 有 起色 的 。
+suid=s14 participant=138202
+*pro* 是 的
+suid=s15 participant=138202
+*pro* 要 学 会议 精神 了 吧
+suid=s16 participant=138194
+*pro* 现在 又 在 研究 什么 *pro* 出台 房产税 呢 。
+*pro* 一天到晚 算计 老百姓 。
+suid=s17 participant=138202
+*pro* 是 呀
+suid=s18 participant=138194
+明天 *pro* 不 会 来 ， *pro* 要求 *pro* 学 18 大 呢 。
+nn的 。
+suid=s19 participant=138202
+哈哈
+suid=s20 participant=138202
+老 套路
+suid=s21 participant=138202
+*pro* 在 找 *OP* *T*-1 新 的 增长点
+suid=s22 participant=138194
+*pro* 有 什么 用 的 。
+温鸡子 还 在 让 老百姓 *PRO* 忘 了 他 呢 。
+*pro* 真 不 要 lian 。
+suid=s23 participant=138202
+哈哈 ! *pro* 怕 别人 找 他 *PRO* 算帐
+suid=s24 participant=138194
+*pro* 是 的 。
+*pro* 没 做 过 一 件 好事 。
+suid=s25 participant=138202
+上 界 全 退光 是 *pro* 在 丢 包服
+suid=s26 participant=138194
+未来 习 总 的 日子 也 不 好 过 啊 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="86" id="我0" start="83" text="pro" type="" />
+<我 comment="default value" end="188" id="我1" start="185" text="pro" type="" />
+<我 comment="default value" end="306" id="我2" start="303" text="pro" type="" />
+<我 comment="default value" end="469" id="我3" start="466" text="pro" type="unsure" />
+<我 comment="default value" end="880" id="我4" start="877" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="47" id="你1" start="44" text="pro" type="" />
+<你 comment="default value" end="228" id="你2" start="225" text="pro" type="" />
+<你 comment="default value" end="380" id="你3" start="377" text="pro" type="" />
+<你 comment="default value" end="431" id="你4" start="428" text="pro" type="unsure" />
+<他 comment="default value" end="1122" id="他0" start="1119" text="pro" type="" />
+<他 comment="default value" end="1174" id="他1" start="1171" text="pro" type="" />
+<他 comment="default value" end="1238" id="他2" start="1235" text="pro" type="" />
+<它 comment="default value" end="1075" id="它0" start="1072" text="pro" type="" />
+<我们 comment="default value" end="755" id="我们0" start="752" text="pro" type="" />
+<我们 comment="default value" end="774" id="我们1" start="771" text="pro" type="" />
+<我们 comment="default value" end="791" id="我们2" start="788" text="pro" type="" />
+<我们 comment="default value" end="903" id="我们3" start="900" text="pro" type="" />
+<我们 comment="default value" end="1018" id="我们4" start="1015" text="pro" type="" />
+<你们 comment="default value" end="707" id="你们0" start="704" text="pro" type="" />
+<他们 comment="default value" end="523" id="他们0" start="520" text="pro" type="" />
+<他们 comment="default value" end="595" id="他们1" start="592" text="pro" type="" />
+<他们 comment="default value" end="620" id="他们2" start="617" text="pro" type="" />
+<他们 comment="default value" end="894" id="他们3" start="891" text="pro" type="" />
+<他们 comment="default value" end="1298" id="他们4" start="1295" text="pro" type="" />
+<previous_utterance comment="default value" end="669" id="pr0" start="666" text="pro" type="" />
+<previous_utterance comment="default value" end="839" id="pr1" start="836" text="pro" type="" />
+<previous_utterance comment="default value" end="1226" id="pr2" start="1223" text="pro" type="" />
+</TAGS>
+</ProTask>

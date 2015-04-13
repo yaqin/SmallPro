@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135717
+我 看到 了 。
+suid=s1 participant=135717
+我 看到 了 *OP* 你 回 *T*-1 的 信 。
+suid=s2 participant=137471
+宝贝 ， 看 得 到 吗
+suid=s3 participant=135717
+*pro* 看 的 到 。
+suid=s4 participant=137471
+*pro* 好
+suid=s5 participant=137471
+*OP* 刚才 你 发 *T*-1 的 我 没 收到 *T*-2
+suid=s6 participant=137471
+*pro* 是 什么 啊
+suid=s7 participant=135717
+我 看到 了 。
+我 看到 了 *OP* 你 回 *T*-1 的 信 。
+suid=s8 participant=135717
+*pro* 谢谢 哦 。
+你 加油 做事 。
+我 想 *PRO* 打 个 电话 回家 。
+suid=s9 participant=137471
+恩 *pro* 好 的
+suid=s10 participant=137471
+为什么 *pro* 周中 相 *PRO* 打 电话 回家
+suid=s11 participant=137471
+*pro* 是 不 是 想 家 了
+suid=s12 participant=135717
+恩 。
+*pro* 就 是 想 *PRO* 跟 家里人 聊聊 。
+suid=s13 participant=137471
+恩
+suid=s14 participant=137471
+宝贝 要 加油 哦
+suid=s15 participant=137471
+明天 早上 我 起 早 一点 和 你 聊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="163" id="我0" start="160" text="pro" type="" />
+<我 comment="default value" end="403" id="我1" start="400" text="pro" type="" />
+<我 comment="default value" end="622" id="我3" start="619" text="pro" type="" />
+<你 comment="default value" end="519" id="你0" start="516" text="pro" type="" />
+<你 comment="default value" end="572" id="你2" start="569" text="pro" type="" />
+<它 comment="default value" end="299" id="它0" start="296" text="pro" type="" />
+<pleonastic end="204" id="p0" start="201" text="pro" type="" />
+<previous_utterance comment="default value" end="477" id="pr0" start="474" text="pro" type="" />
+</TAGS>
+</ProTask>

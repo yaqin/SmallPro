@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133446
+呜呜 白 的 卖没 了
+suid=s1 participant=133413
+哈哈 *pro* 走 红 的 吧 情人节 礼物 呢
+suid=s2 participant=133446
+哈哈 *pro* 对 哈 ！
+suid=s3 participant=133413
+你 买 了 那 个 gf5 么
+suid=s4 participant=133446
+*pro* 木有 阿 *pro* 还是 想 *PRO* 等 白色
+suid=s5 participant=133446
+我 看 ebay 双 镜头 是 506 觉得 *pro* 蛮 合适 的 *pro* 不过 是 香港 的 ， *pro* 不 知道 *pro* 真 的 假 的
+suid=s6 participant=133413
+香港 的 就 算了 吧
+suid=s7 participant=133446
+嗯嗯 *pro* 怕 *pro* 是 *OP* *T*-1 假 的 哈
+suid=s8 participant=133446
+下午 的 课 我 不 去 *T*-1 了
+suid=s9 participant=133413
+*pro* 好 的 哈哈 我 知道 情人节 你 忙 哈 哦哈哈哈哈哈
+suid=s10 participant=133446
+*pro* 不 是 *pro* 是 心里 不 说服 *pro* 被 *OP* 老师 欺负 *T*-1 了 呜呜
+suid=s11 participant=133413
+*pro* 拍拍 哎 有些 老师 就 这样 *pro* 别 放 在 心 上 哈
+suid=s12 participant=133446
+关键 *pro* 说 我 抄袭 别人 的 但 这 真的 是 我 一 字 一 句 写 的 呜呜
+suid=s13 participant=133413
+啊 *pro* 不 会 吧 那 这个 好 过分 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="209" id="我0" start="206" text="pro" type="" />
+<我 comment="default value" end="220" id="我1" start="217" text="pro" type="" />
+<我 comment="default value" end="323" id="我2" start="320" text="pro" type="" />
+<我 comment="default value" end="417" id="我3" start="414" text="pro" type="" />
+<我 comment="default value" end="598" id="我4" start="595" text="pro" type="" />
+<我 comment="default value" end="614" id="我5" start="611" text="pro" type="" />
+<我 comment="default value" end="672" id="我6" start="669" text="pro" type="" />
+<你 comment="default value" end="74" id="你0" start="71" text="pro" type="" />
+<你 comment="default value" end="694" id="你1" start="691" text="pro" type="" />
+<他 comment="default value" end="743" id="他0" start="740" text="pro" type="" />
+<他 comment="default value" end="817" id="他1" start="814" text="pro" type="" />
+<它 comment="default value" end="292" id="它0" start="289" text="pro" type="" />
+<它 comment="default value" end="334" id="它1" start="331" text="pro" type="" />
+<它 comment="default value" end="425" id="它2" start="422" text="pro" type="" />
+<pleonastic end="305" id="p0" start="302" text="pro" type="" />
+<previous_utterance comment="default value" end="127" id="pr0" start="124" text="pro" type="" />
+<previous_utterance comment="default value" end="525" id="pr1" start="522" text="pro" type="" />
+<previous_utterance comment="default value" end="588" id="pr2" start="585" text="pro" type="" />
+</TAGS>
+</ProTask>

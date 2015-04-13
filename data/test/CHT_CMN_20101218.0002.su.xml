@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+志明 ， 在 吗 ？
+suid=s1 participant=135882
+*pro* 请问 亚福 查 学费 了 吗 ？
+suid=s2 participant=138505
+*pro* 在 的
+suid=s3 participant=138505
+我 不 知道 喔 ， *pro* 没 问 他
+suid=s4 participant=135882
+你 问问 他 *pro* 好 吗 ？
+suid=s5 participant=138505
+嗯
+suid=s6 participant=135882
+我们 想 *PRO* 了解 一下 ， 这样子 周一 的 时候 *pro* 去 行政楼 查 起来 也 方便
+suid=s7 participant=138505
+亚福 说 *pro* 上 那 个 网 去 查 *pro* 是 查到 *pro* 已经 发放 了
+suid=s8 participant=135882
+*pro* 好 的 ， *pro* 谢谢
+suid=s9 participant=135882
+志明 ~ 你 让 亚福 *PRO* 再 上网 看看 他 的 学费 是否 已 扣 吧 。
+*pro* 谢谢 ~
+suid=s10 participant=138505
+他 说 是 那 1000 是 用来 *pro* 扣 食宿费 了
+suid=s11 participant=135882
+哦哦 ~ 那 学费 还 没有 扣 *pro* 是 吗 ？
+suid=s12 participant=138505
+*pro* 应该 没有 吧
+suid=s13 participant=135882
+*pro* 好 的 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="70" id="我0" start="67" text="pro" type="" />
+<我 comment="default value" end="120" id="我1" start="117" text="pro" type="" />
+<我 comment="default value" end="168" id="我2" start="165" text="pro" type="" />
+<我 comment="default value" end="449" id="我4" start="446" text="pro" type="" />
+<我 comment="default value" end="529" id="我5" start="526" text="pro" type="" />
+<我 comment="default value" end="313" id="我3" start="310" text="pro" type="" />
+<他 comment="default value" end="367" id="他1" start="364" text="pro" type="" />
+<他 comment="default value" end="385" id="他3" start="382" text="pro" type="" />
+<它 comment="default value" end="396" id="它0" start="393" text="pro" type="" />
+<它 comment="default value" end="685" id="它2" start="682" text="pro" type="" />
+<generic comment="default value" end="586" id="g0" start="583" text="pro" type="" />
+<pleonastic end="727" id="p0" start="724" text="pro" type="" />
+<previous_utterance comment="default value" end="214" id="pr0" start="211" text="pro" type="" />
+<previous_utterance comment="default value" end="437" id="pr1" start="434" text="pro" type="" />
+<previous_utterance comment="default value" end="645" id="pr2" start="642" text="pro" type="" />
+</TAGS>
+</ProTask>

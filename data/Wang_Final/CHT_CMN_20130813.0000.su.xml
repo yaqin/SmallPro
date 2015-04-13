@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138069
+你 要 用 https 打开 *pro* http 打 不 开
+suid=s1 participant=138069
+我 帮 你 *PRO* 注册 账号 吧
+suid=s2 participant=138069
+你 想 *PRO* 要 什么 用户 名
+suid=s3 participant=138062
+你 把 网址 发给 我 *-1
+suid=s4 participant=138062
+*pro* 随便
+suid=s5 participant=138062
+wade1111
+suid=s6 participant=138069
+*pro* 好
+suid=s7 participant=138062
+你 把 网址 再 给 我 发 一 遍 *-1
+suid=s8 participant=138062
+刚才 手机 上 的 没 收到
+suid=s9 participant=138069
+*pro* 注册 好 了
+suid=s10 participant=138069
+你 登 进去 试试 看
+suid=s11 participant=138062
+*pro* 好 的
+suid=s12 participant=138062
+*pro* 进来 了
+suid=s13 participant=138062
+*pro* 点 哪个
+suid=s14 participant=138069
+恩 *pro* 点 home
+suid=s15 participant=138062
+哦
+suid=s16 participant=138069
+然后 *pro* 点 text penn status
+suid=s17 participant=138069
+*pro* 点 进去 *pro* 有 个 *pro* 如何 提供 短信
+suid=s18 participant=138069
+然后 *pro* 点 电脑 qq
+suid=s19 participant=138062
+嗯
+suid=s20 participant=138062
+我 已经 进去 了
+suid=s21 participant=138069
+*pro* 好
+suid=s22 participant=138062
+现在 *pro* 在 看 *pro* 提示 *pro* 怎么 导出 文件
+suid=s23 participant=138069
+然后 你 导出 试试
+suid=s24 participant=138069
+恩
+suid=s25 participant=138069
+你 记得 *PRO* 用 txt 格式 导出
+suid=s26 participant=138069
+然后 *pro* 直接 发给 我 就 行 我 帮 你 *PRO* 上传 比较 快
+suid=s27 participant=138062
+嗯 *pro* 好 的 我 试试
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="427" id="我0" start="424" text="pro" type="" />
+<我 comment="default value" end="546" id="我1" start="543" text="pro" type="" />
+<我 comment="default value" end="585" id="我2" start="582" text="pro" type="" />
+<你 comment="default value" end="228" id="你0" start="225" text="pro" type="" />
+<你 comment="default value" end="700" id="你1" start="697" text="pro" type="" />
+<你 comment="default value" end="753" id="你2" start="750" text="pro" type="" />
+<你 comment="default value" end="764" id="你3" start="761" text="pro" type="" />
+<你 comment="default value" end="820" id="你4" start="817" text="pro" type="" />
+<你 comment="default value" end="969" id="你5" start="966" text="pro" type="" />
+<你 comment="default value" end="988" id="你6" start="985" text="pro" type="" />
+<你 comment="default value" end="1154" id="你7" start="1151" text="pro" type="" />
+<你 comment="default value" end="47" id="你8" start="44" text="pro" type="" />
+<你 comment="default value" end="626" id="你9" start="623" text="pro" type="" />
+<它 comment="default value" end="979" id="它0" start="976" text="pro" type="" />
+<generic comment="default value" end="774" id="g0" start="771" text="pro" type="" />
+<previous_utterance comment="default value" end="300" id="pr0" start="297" text="pro" type="" />
+<previous_utterance comment="default value" end="508" id="pr1" start="505" text="pro" type="" />
+<previous_utterance comment="default value" end="930" id="pr2" start="927" text="pro" type="" />
+<previous_utterance comment="default value" end="1222" id="pr3" start="1219" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136577
+*pro* 别 忘 了 *PRO* 跟 港 哥 要 宿舍 钥匙 啊
+suid=s1 participant=134013
+港 哥 不 走
+suid=s2 participant=136577
+昂
+suid=s3 participant=134013
+你 给 张 哥 要 一 把 吧 ？
+suid=s4 participant=136577
+咱 三 个 用 一 把 行 吗 ？
+suid=s5 participant=136577
+我 不好意思 跟 张 哥 要
+suid=s6 participant=134013
+我去
+suid=s7 participant=136577
+高 哥 没 在 ， 要不然 我 跟 高 哥 要
+suid=s8 participant=136577
+要不然 咱 宿舍 的 锁芯 *pro* 换 一 个 *T*-1 吧 ， *pro* 换 个 *OP* *T*-2 普通 的
+suid=s9 participant=136577
+那样 *pro* 都 能 配 钥匙
+suid=s10 participant=136577
+*pro* 也 不 贵 ， 只是 小张 哥 让 不 让 *pro* 换
+suid=s11 participant=136577
+他 嫌 普通 锁芯 不 安全
+suid=s12 participant=136577
+其实 咱 宿舍 没有 多少 *OP* *T*-1 值钱 的 东西
+suid=s13 participant=134013
+这个 *pro* 不 敢 说 *T*-1
+suid=s14 participant=136577
+*pro* 好 吧
+suid=s15 participant=134013
+*pro* 绝对 挨熊
+suid=s16 participant=136577
+昂
+suid=s17 participant=136577
+*pro* 操 他
+suid=s18 participant=134013
+你 去
+suid=s19 participant=136577
+咱 俩 没 钥匙
+suid=s20 participant=134013
+他 有 自创
+suid=s21 participant=136577
+这样 *pro* 一直 不 方便
+suid=s22 participant=136577
+*pro* 是 痔疮
+suid=s23 participant=136577
+*pro* 不 是 自创
+suid=s24 participant=134013
+恩恩
+suid=s25 participant=136577
+昂
+suid=s26 participant=136577
+改天 我 试探性 的 问问 他
+suid=s27 participant=134013
+*pro* 好 吧
+suid=s28 participant=136577
+昂
+suid=s29 participant=134013
+我 无所谓
+suid=s30 participant=134013
+*pro* 都 行
+suid=s31 participant=136577
+我 基本 每 周 都 不 走
+suid=s32 participant=136577
+我 有所谓 ， 哈哈
+suid=s33 participant=134013
+*pro* 是 呀 ！
+suid=s34 participant=136577
+昂 ， 我 得 试试
+suid=s35 participant=134013
+*pro* 祝 你 好运 ！
+suid=s36 participant=136577
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="676" id="我0" start="673" text="pro" type="" />
+<我 comment="default value" end="830" id="我1" start="827" text="pro" type="" />
+<我 comment="default value" end="1304" id="我2" start="1301" text="pro" type="" />
+<我 comment="default value" end="1503" id="我3" start="1500" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<他 comment="default value" end="1017" id="他0" start="1014" text="pro" type="" />
+<他 comment="default value" end="1056" id="他1" start="1053" text="pro" type="" />
+<它 comment="default value" end="505" id="它0" start="502" text="pro" type="" />
+<我们 comment="default value" end="384" id="我们0" start="381" text="pro" type="" />
+<我们 comment="default value" end="406" id="我们1" start="403" text="pro" type="" />
+<我们 comment="default value" end="462" id="我们2" start="459" text="pro" type="" />
+<我们 comment="default value" end="533" id="我们3" start="530" text="pro" type="" />
+<我们 comment="default value" end="760" id="我们4" start="757" text="pro" type="" />
+<我们 comment="default value" end="975" id="我们5" start="972" text="pro" type="" />
+<previous_utterance comment="default value" end="722" id="pr0" start="719" text="pro" type="" />
+<previous_utterance comment="default value" end="1202" id="pr1" start="1199" text="pro" type="" />
+<previous_utterance comment="default value" end="1424" id="pr2" start="1421" text="pro" type="" />
+<previous_utterance comment="default value" end="1546" id="pr3" start="1543" text="pro" type="" />
+</TAGS>
+</ProTask>

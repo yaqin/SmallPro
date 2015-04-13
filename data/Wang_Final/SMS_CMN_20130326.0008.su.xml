@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133481
+昨天 我 买 了 一些 等 *pro* 周末 或者 下 周 买 更 多 *pro* 一起 给 你 你 不 着急 寄走 吧
+suid=s1 participant=133413
+*pro* 不 急 呢 你 买 了 多少 啊 我 刚 在 上课 呵呵
+suid=s2 participant=133481
+喔 到 下 周 *pro* 可能 有 30 - 40 呦 *pro* 等 我 你 去 上课 吧 *pro* *pro* 明天 到 了 聊
+suid=s3 participant=133413
+哇 *pro* 厉害 啊 你 是 在 哪里 买到 这么 多 的 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="46" id="我0" start="43" text="pro" type="" />
+<我 comment="default value" end="68" id="我1" start="65" text="pro" type="" />
+<我 comment="default value" end="190" id="我2" start="187" text="pro" type="" />
+<你 comment="default value" end="120" id="你0" start="117" text="pro" type="" />
+<你 comment="default value" end="211" id="你1" start="208" text="pro" type="" />
+<你 comment="default value" end="280" id="你2" start="277" text="pro" type="" />
+<我们 comment="default value" end="230" id="我们0" start="227" text="pro" type="" />
+<我们 comment="default value" end="236" id="我们1" start="233" text="pro" type="" />
+</TAGS>
+</ProTask>

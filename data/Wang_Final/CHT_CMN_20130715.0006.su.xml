@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136752
+*pro* 下班 *pro* 想 *PRO* 去 吃 酸辣粉 吗
+suid=s1 participant=136767
+我 已经 在家 了
+suid=s2 participant=136752
+哦
+suid=s3 participant=136752
+我们 那 个 产品 ， 你 就 写 个 *pro* 很 好 ， *pro* 喜欢 ， 就 可以 了
+suid=s4 participant=136752
+然后 *pro* 给 5 分 好评
+suid=s5 participant=136767
+*pro* 好 的
+suid=s6 participant=136752
+今天 *pro* 在 单位 吗
+suid=s7 participant=136767
+*pro* 在
+suid=s8 participant=136752
+*pro* 去 吃 酸辣粉 吗
+suid=s9 participant=136767
+*pro* 不 去 了 ， *pro* 买好 了 光明村 的 熟食
+suid=s10 participant=136767
+*pro* 要 *PRO* 回家 吃
+suid=s11 participant=136752
+哦 *pro* 好 的
+suid=s12 participant=136767
+*pro* 下 次 吧
+suid=s13 participant=136752
+*pro* 好
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="360" id="我0" start="357" text="pro" type="" />
+<我 comment="default value" end="438" id="我1" start="435" text="pro" type="" />
+<我 comment="default value" end="452" id="我2" start="449" text="pro" type="" />
+<我 comment="default value" end="500" id="我3" start="497" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="41" id="你1" start="38" text="pro" type="" />
+<你 comment="default value" end="190" id="你2" start="187" text="pro" type="" />
+<你 comment="default value" end="238" id="你3" start="235" text="pro" type="" />
+<你 comment="default value" end="320" id="你4" start="317" text="pro" type="" />
+<它 comment="default value" end="178" id="它0" start="175" text="pro" type="" />
+<我们 comment="default value" end="395" id="我们0" start="392" text="pro" type="" />
+<我们 comment="default value" end="587" id="我们1" start="584" text="pro" type="" />
+<previous_utterance comment="default value" end="280" id="pr0" start="277" text="pro" type="" />
+<previous_utterance comment="default value" end="549" id="pr1" start="546" text="pro" type="" />
+<previous_utterance comment="default value" end="627" id="pr2" start="624" text="pro" type="" />
+</TAGS>
+</ProTask>

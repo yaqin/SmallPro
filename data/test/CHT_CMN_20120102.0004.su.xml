@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138513
+我们 要 不 要 交 实验 作业 ？
+suid=s1 participant=135882
+吓 ， 我 不 知道 哦
+suid=s2 participant=135882
+*pro* 应该 不 用 了 吧
+suid=s3 participant=135882
+*OP* *pro* 当时 *pro* 走 之前 该 交 的 作业 *pro* 都 有 交 *T*-1 的 呀
+suid=s4 participant=138513
+那 *pro* 不 管 了
+suid=s5 participant=135882
+嗯 ， 老师 不 提出 的话 我们 也 不 用 提醒 他 了
+suid=s6 participant=138513
+我 发现 JAVA 是 挺 难 的
+suid=s7 participant=135882
+*pro* 对 啊 ， 我 也 正在 看 。
+我 觉得 即便 *pro* 开卷 *pro* 也 不 会 做
+suid=s8 participant=135882
+这 题 *pro* 是 不 是 选 D ？
+suid=s9 participant=138513
+*pro* 还 没 复习 到
+suid=s10 participant=135882
+*pro* 在 不 ？
+suid=s11 participant=138513
+？
+suid=s12 participant=135882
+*pro* 给 你 发 短信 了 又 *pro* 看到 么
+suid=s13 participant=135882
+杨书剑 想 *PRO* 约 我们 *PRO* 4号 中午 吃饭
+suid=s14 participant=135882
+你 有空 么
+suid=s15 participant=138513
+*pro* 应该 有
+suid=s16 participant=135882
+立秋 还 没 回复
+suid=s17 participant=135882
+那 *pro* 就 先 暂定 4号 中午 咯 ， 杨书剑 5号 就 去 HK 了
+suid=s18 participant=138513
+哦 *pro* 好 的
+suid=s19 participant=138513
+明天 *pro* 再 哪 个 课室
+suid=s20 participant=135882
+==
+suid=s21 participant=135882
+西 202
+suid=s22 participant=135882
+*pro* 9点 开考
+suid=s23 participant=138513
+*pro* OK *pro* 谢谢
+suid=s24 participant=135882
+*pro* 不 用
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="167" id="我0" start="164" text="pro" type="" />
+<我 comment="default value" end="176" id="我1" start="173" text="pro" type="" />
+<我 comment="default value" end="196" id="我2" start="193" text="pro" type="" />
+<我 comment="default value" end="247" id="我3" start="244" text="pro" type="" />
+<我 comment="default value" end="429" id="我4" start="426" text="pro" type="" />
+<我 comment="default value" end="519" id="我5" start="516" text="pro" type="" />
+<我 comment="default value" end="632" id="我6" start="629" text="pro" type="" />
+<我 comment="default value" end="785" id="我7" start="782" text="pro" type="" />
+<我 comment="default value" end="1131" id="我8" start="1128" text="pro" type="" />
+<你 comment="default value" end="562" id="你0" start="559" text="pro" type="" />
+<你 comment="default value" end="651" id="你1" start="648" text="pro" type="" />
+<你 comment="default value" end="974" id="你2" start="971" text="pro" type="" />
+<你 comment="default value" end="1168" id="你3" start="1165" text="pro" type="" />
+<它 comment="default value" end="420" id="它2" start="417" text="pro" type="" />
+<它 comment="default value" end="474" id="它3" start="471" text="pro" type="" />
+<我们 comment="default value" end="118" id="我们0" start="115" text="pro" type="" />
+<我们 comment="default value" end="864" id="我们1" start="861" text="pro" type="" />
+<generic comment="default value" end="1082" id="g0" start="1079" text="pro" type="" />
+<pleonastic end="1122" id="p0" start="1119" text="pro" type="" />
+<previous_utterance comment="default value" end="389" id="pr0" start="386" text="pro" type="" />
+<previous_utterance comment="default value" end="933" id="pr1" start="930" text="pro" type="" />
+</TAGS>
+</ProTask>

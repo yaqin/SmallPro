@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137841
+*pro* 青葱 岁月 啊
+suid=s1 participant=137803
+吃货
+suid=s2 participant=137841
+*pro* 求 视频
+suid=s3 participant=137841
+*pro* 看来 *pro* 还 有 *OP* *T*-1 喝 完全 醉 的 啊
+suid=s4 participant=137803
+这 名字 不 是 我 取 的
+suid=s5 participant=137803
+*pro* 是 不 是 挺 无聊 的
+suid=s6 participant=137841
+*pro* 很 像 你 。
+suid=s7 participant=137841
+*pro* 很 可爱
+suid=s8 participant=137803
+哈 *pro* 好 吧
+suid=s9 participant=137841
+但 看 不 出来 *pro* 醉 了 啊
+suid=s10 participant=137803
+*pro* 醉 了 没 事 我 晃 脚 干 嘛
+suid=s11 participant=137841
+我 经常 晃 啊 ， *pro* 这么 趴 着 ， 很 自然 啊
+suid=s12 participant=137803
+厄 *pro* 好 吧
+suid=s13 participant=137841
+*pro* 还 有 啥 *OP* *T*-1 好玩 的 视频 啊
+suid=s14 participant=137803
+*pro* 没 了 *pro* 找 不 到
+suid=s15 participant=137841
+切
+suid=s16 participant=137803
+哈哈哈 *pro* 被 发现 了 *-1 么
+suid=s17 participant=137841
+啥 ？
+suid=s18 participant=137841
+*pro* 可能 不 是 很 跟上 节奏 啊
+suid=s19 participant=137841
+这 是 个 语气词 啊
+suid=s20 participant=137841
+*pro* 不 是 动词
+suid=s21 participant=137803
+你 的 意思 难道 不 是 *pro* 不 相信 么
+suid=s22 participant=137841
+*pro* 是 啊
+suid=s23 participant=137841
+*pro* 不 相信
+suid=s24 participant=137803
+*pro* 对 啊
+suid=s25 participant=137841
+*pro* 来 吧
+suid=s26 participant=137841
+*pro* 让 暴风雨 *PRO* 来 得 更 猛烈 些 吧
+suid=s27 participant=137803
+*pro* 不 要
+suid=s28 participant=137803
+*pro* 没有 兴趣
+suid=s29 participant=137841
+。
+suid=s30 participant=137841
+。。 你 要 睡 了 ？
+suid=s31 participant=137803
+*pro* 没 视频
+suid=s32 participant=137841
+哦
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="103" id="我0" start="100" text="pro" type="" />
+<我 comment="default value" end="141" id="我1" start="138" text="pro" type="" />
+<我 comment="default value" end="464" id="我2" start="461" text="pro" type="" />
+<我 comment="default value" end="527" id="我3" start="524" text="pro" type="" />
+<我 comment="default value" end="678" id="我4" start="675" text="pro" type="" />
+<我 comment="default value" end="688" id="我5" start="685" text="pro" type="" />
+<我 comment="default value" end="1240" id="我7" start="1237" text="pro" type="" />
+<我 comment="default value" end="1278" id="我8" start="1275" text="pro" type="" />
+<我 comment="default value" end="1389" id="我9" start="1386" text="pro" type="" />
+<你 comment="default value" end="424" id="你0" start="421" text="pro" type="" />
+<你 comment="default value" end="617" id="你1" start="614" text="pro" type="" />
+<你 comment="default value" end="762" id="你2" start="759" text="pro" type="" />
+<你 comment="default value" end="841" id="你3" start="838" text="pro" type="" />
+<你 comment="default value" end="987" id="你4" start="984" text="pro" type="" />
+<你 comment="default value" end="1066" id="你5" start="1063" text="pro" type="" />
+<它 comment="default value" end="251" id="它0" start="248" text="pro" type="" />
+<它 comment="default value" end="297" id="它1" start="294" text="pro" type="" />
+<它 comment="default value" end="338" id="它2" start="335" text="pro" type="" />
+<它 comment="default value" end="932" id="它3" start="929" text="pro" type="" />
+<我们 comment="default value" end="1181" id="我们0" start="1178" text="pro" type="" />
+<existential comment="default value" end="150" id="e0" start="147" text="pro" type="" />
+<pleonastic end="32" id="p0" start="29" text="pro" type="" />
+<pleonastic end="1143" id="p1" start="1140" text="pro" type="" />
+<previous_utterance comment="default value" end="378" id="pr0" start="375" text="pro" type="" />
+<previous_utterance comment="default value" end="579" id="pr1" start="576" text="pro" type="" />
+<previous_utterance comment="default value" end="1028" id="pr2" start="1025" text="pro" type="" />
+<previous_utterance comment="default value" end="1105" id="pr3" start="1102" text="pro" type="" />
+</TAGS>
+</ProTask>

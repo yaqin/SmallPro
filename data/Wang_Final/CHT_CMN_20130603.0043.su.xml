@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137026
+我 上 齐鲁 晚报 了
+suid=s1 participant=136693
+[ 表情 ] *pro* 寻 人 启事 吗
+suid=s2 participant=137026
+恩 *pro* 找 不 到 胖哥 了 对 我 的 宣传 呵呵
+suid=s3 participant=136693
+*pro* 晕 ， *pro* 就 打 一 场 球 ， *pro* 还 输 了 ... *pro* 还 宣传
+suid=s4 participant=136693
+*pro* 好 臭屁 哟 你
+suid=s5 participant=136693
+哈哈
+suid=s6 participant=136693
+*pro* 明白
+suid=s7 participant=137026
+*pro* 输 *pro* 一定 要 输 的 本身 就 是 政治 球 胖哥 你 还 不 明白 吗
+suid=s8 participant=136693
+省 小球 中心 专门 办 了 个 比赛 给 常 导 发 奖金 ...
+suid=s9 participant=137026
+*pro* 再 就 是 *pro* 输 也 要 输 的 漂亮
+suid=s10 participant=136693
+别 ， *pro* 不 是 跟 我 哈 ， *pro* 别 埋汰 我
+suid=s11 participant=137026
+*pro* 这些 年 跟着 你们 学 的 *pro* 都 学会 了 很多 的
+suid=s12 participant=137026
+那 就 是 了 我们 把 常 导 的 奖金 拿走 了 *-1 *pro* 以后 还 有 好 果子 吃 吗
+suid=s13 participant=137026
+我 的 球 呢 胖哥
+suid=s14 participant=136693
+*OP* 比赛 剩 下来 *T*-1 的 就 20几 个 ， 我 哪里 还 有 ， *pro* 加 起来 给 你
+suid=s15 participant=136693
+马 老师 嫌 *pro* 少 ， 直接 就 没 要
+suid=s16 participant=136693
+*pro* 2号 早晨 还 一 大 箱 呢
+suid=s17 participant=136693
+*pro* 下午 就 剩 那 点 了
+suid=s18 participant=136693
+*pro* 是 啊
+suid=s19 participant=136693
+马 老师 还 奇怪 呢
+suid=s20 participant=136693
+她 先 预约 了 ， 没 想到 *pro* 只 剩 这么 点 了 ， 就 不 要 了
+suid=s21 participant=137026
+当时 *pro* 不 是 箱子 里面 很多 的 吗
+suid=s22 participant=136693
+*pro* 不 知道 场地 上 有 多少 ， 一会 我 问问 王博
+suid=s23 participant=137026
+*pro* 现在 总共 有 多少
+suid=s24 participant=137026
+球 要是 多 了 我 就 去 拿
+suid=s25 participant=137026
+胖哥 *pro* 有 多少 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="122" id="我0" start="119" text="pro" type="" />
+<我 comment="default value" end="178" id="我1" start="175" text="pro" type="" />
+<我 comment="default value" end="332" id="我2" start="329" text="pro" type="" />
+<我 comment="default value" end="368" id="我3" start="365" text="pro" type="" />
+<我 comment="default value" end="376" id="我4" start="373" text="pro" type="" />
+<我 comment="default value" end="518" id="我5" start="515" text="pro" type="" />
+<我 comment="default value" end="628" id="我6" start="625" text="pro" type="" />
+<我 comment="default value" end="649" id="我7" start="646" text="pro" type="" />
+<我 comment="default value" end="726" id="我8" start="723" text="pro" type="" />
+<我 comment="default value" end="857" id="我9" start="854" text="pro" type="" />
+<我 comment="default value" end="1254" id="我10" start="1251" text="pro" type="" />
+<你 comment="default value" end="78" id="你0" start="75" text="pro" type="" />
+<你 comment="default value" end="188" id="你1" start="185" text="pro" type="" />
+<你 comment="default value" end="206" id="你2" start="203" text="pro" type="" />
+<你 comment="default value" end="222" id="你3" start="219" text="pro" type="" />
+<你 comment="default value" end="260" id="你4" start="257" text="pro" type="" />
+<你 comment="default value" end="569" id="你5" start="566" text="pro" type="" />
+<你 comment="default value" end="587" id="你6" start="584" text="pro" type="" />
+<它 comment="default value" end="907" id="它0" start="904" text="pro" type="" />
+<它 comment="default value" end="1145" id="它1" start="1142" text="pro" type="" />
+<existential comment="default value" end="1316" id="e0" start="1313" text="pro" type="" />
+<existential comment="default value" end="1409" id="e1" start="1406" text="pro" type="" />
+<pleonastic end="506" id="p0" start="503" text="pro" type="" />
+<pleonastic end="954" id="p1" start="951" text="pro" type="" />
+<pleonastic end="1004" id="p2" start="1001" text="pro" type="" />
+<pleonastic end="1203" id="p3" start="1200" text="pro" type="" />
+<previous_utterance comment="default value" end="1051" id="pr0" start="1048" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137903
+玮 姐 ， 我 同事 下午 大约 2点半 过去 找 你 *PRO* 拿 水宝宝
+suid=s1 participant=137980
+*pro* 能否 早 点 ？
+suid=s2 participant=137903
+大约 几点
+suid=s3 participant=137980
+2点 前 行 不 ， 我 下午 2点 有 个 培训
+suid=s4 participant=137903
+*pro* 好 ， 我 问问 她
+suid=s5 participant=137980
+你 是 不 是 还 要 2 盒 孕妇 dha ？
+suid=s6 participant=137903
+*pro* 是 的
+suid=s7 participant=137980
+正巧 那 天 糖 多 给 我 了 2 盒 我 还 没 给 她 拿 回去
+suid=s8 participant=137980
+*pro* 那 一起 正好 都 给 你
+suid=s9 participant=137903
+*pro* 好 的 呢
+suid=s10 participant=137903
+我 给 她 说 了 ， 她 看看 要是 2点 前 *pro* 能 赶 过去 *pro* 就 去 拿 ， 要不然 就 *OP* 我 *T*-1 过去 的 时候 *pro* 再 去 拿
+suid=s11 participant=137980
+亲 ， *pro* 本来 拜托 巧 总 *PRO* 转交 给 你 同事 的
+suid=s12 participant=137980
+刚 巧 总 说 她 下午 有 事 要 出去 ， 所以 就 把 东西 放 *-1 在 c 座 前台 了
+suid=s13 participant=137903
+哦 ， *pro* 好 的 ， 我 给 我 同事 说 一 声
+suid=s14 participant=137903
+*pro* 直接 过去 拿 就 可以 了 吗
+suid=s15 participant=137903
+*pro* 好 的 呢
+suid=s16 participant=137903
+*pro* 谢谢
+suid=s17 participant=137980
+这样 你 同事 几点 过去 都 行 ， *pro* 从 前台 ， 说 张文娟 的 名字 就 行 了
+suid=s18 participant=137980
+c 座 的 前台 哈
+suid=s19 participant=137980
+*pro* 不好意思 哈
+suid=s20 participant=137903
+*pro* 没 事 ， *pro* 每 次 都 麻烦 你们 的
+suid=s21 participant=137980
+*pro* 今天 正好 赶巧 了 ， *pro* 一 天 的 培训
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="423" id="我0" start="420" text="pro" type="" />
+<我 comment="default value" end="589" id="我1" start="586" text="pro" type="" />
+<我 comment="default value" end="633" id="我2" start="630" text="pro" type="" />
+<我 comment="default value" end="924" id="我3" start="921" text="pro" type="" />
+<我 comment="default value" end="1078" id="我4" start="1075" text="pro" type="" />
+<我 comment="default value" end="1131" id="我5" start="1128" text="pro" type="" />
+<我 comment="default value" end="1179" id="我6" start="1176" text="pro" type="" />
+<我 comment="default value" end="1198" id="我7" start="1195" text="pro" type="" />
+<她 comment="default value" end="99" id="她0" start="96" text="pro" type="" />
+<她 comment="default value" end="535" id="她1" start="532" text="pro" type="" />
+<她 comment="default value" end="548" id="她2" start="545" text="pro" type="" />
+<她 comment="default value" end="833" id="她3" start="830" text="pro" type="" />
+<她 comment="default value" end="981" id="她4" start="978" text="pro" type="" />
+<pleonastic end="1119" id="p0" start="1116" text="pro" type="" />
+<previous_utterance comment="default value" end="227" id="pr0" start="224" text="pro" type="" />
+<previous_utterance comment="default value" end="323" id="pr1" start="320" text="pro" type="" />
+<previous_utterance comment="default value" end="470" id="pr2" start="467" text="pro" type="" />
+<previous_utterance comment="default value" end="778" id="pr3" start="775" text="pro" type="" />
+<previous_utterance comment="default value" end="884" id="pr4" start="881" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131700
+你 妹 啊
+suid=s1 participant=131623
+你 妹 ~^＿^~ *pro* 听课 *pro* 不 能 玩 手机
+suid=s2 participant=131700
+*pro* 滚蛋 。。。。 死 吉吉
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="75" id="我0" start="72" text="pro" type="" />
+<我 comment="default value" end="84" id="我1" start="81" text="pro" type="" />
+<你 comment="default value" end="126" id="你0" start="123" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131226
+张 总 ， 刘 律师 说 ， *pro* 明天 中午 12点 前 将 合同 确认 *RNR*-2 回传 过来 *-1
+suid=s1 participant=134111
+*pro* 好 的
+suid=s2 participant=131226
+张 总 ， 刚刚 卢 总 说 《 制度 汇编 》 *pro* 要 重新 整理 2012 版本 。
+*pro* 要 精简 。
+之前 的 太 冗长 。
+suid=s3 participant=131226
+我 想 问 ， 前 段 时间 ， 你 让 高红霞 *PRO* 整理 企业 简介 ， 她 整理 了 吗 ？
+卢 总 说 原来 的 公司 简介 太 长 了
+suid=s4 participant=134111
+企业 简介 他 说 *pro* 先 用 着 *T*-1 ， *pro* 让 广州 那边 *PRO* 整 。
+suid=s5 participant=131226
+这个 是 *OP* 梁 经理 前 段 时间 整理 *T*-1 的 ， 我 还 没 给 卢 总 看 呢
+suid=s6 participant=134111
+你 告诉 卢 总 吧
+suid=s7 participant=131226
+你 先 看看 *pro* 怎么样
+suid=s8 participant=134111
+这 有 太 简单 了
+suid=s9 participant=131226
+我 觉得 *pro* 也 是 。
+suid=s10 participant=134111
+各 部门 报 下 月 计划 交给 卢 总 看看
+suid=s11 participant=131226
+*pro* 还 没 报 上来
+suid=s12 participant=134111
+李艳丽 报 了 吗
+suid=s13 participant=131226
+没
+suid=s14 participant=134111
+刚才 *pro* 交到 财务 一 份
+suid=s15 participant=134111
+评级 标准 *pro* 也 要 卢 总 *PRO* 签字
+suid=s16 participant=134111
+*OP* *T*-1 对应 的 各 部门 的 考核 细则 *pro* 也 要 汇总 发放 到 各 部门 *T*-2
+suid=s17 participant=131226
+*pro* 好 ， 你 是 说 《 岗位 等级 评定 方案 》 *pro* 也 要 卢 总 *PRO* 签字 吗 ？
+suid=s18 participant=134111
+*pro* 是 的 *pro* 包括 各 部门 的 考核 细则
+suid=s19 participant=131226
+各 部门 的 考核 细则 是 指 业务 考核 这 一 块 啊 ？
+suid=s20 participant=134111
+*pro* 是 的
+suid=s21 participant=131226
+恩 。
+*pro* 好 的 。
+suid=s22 participant=131226
+张 总 ， 我 将 承包 协议 发到 你 的 邮箱 里 *-1 了 。
+刘 律师 修改 完 得
+suid=s23 participant=134111
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<他 comment="default value" end="47" id="他0" start="44" text="pro" type="unsure" />
+<他 comment="default value" end="180" id="他1" start="177" text="pro" type="" />
+<他 comment="default value" end="204" id="他2" start="201" text="pro" type="" />
+<他 comment="default value" end="369" id="他4" start="366" text="pro" type="" />
+<他 comment="default value" end="389" id="他5" start="386" text="pro" type="" />
+<她 comment="default value" end="849" id="她0" start="846" text="pro" type="" />
+<它 comment="default value" end="563" id="它0" start="560" text="pro" type="" />
+<它 comment="default value" end="643" id="它1" start="640" text="pro" type="" />
+<它 comment="default value" end="899" id="它2" start="896" text="pro" type="" />
+<它 comment="default value" end="1068" id="它3" start="1065" text="pro" type="" />
+<他们 comment="default value" end="735" id="他们0" start="732" text="pro" type="" />
+<他们 comment="default value" end="979" id="他们2" start="976" text="pro" type="" />
+<它们 comment="default value" end="1133" id="它们1" start="1130" text="pro" type="" />
+<previous_utterance comment="default value" end="118" id="pr0" start="115" text="pro" type="" />
+<previous_utterance comment="default value" end="1036" id="pr2" start="1033" text="pro" type="" />
+<previous_utterance comment="default value" end="1123" id="pr3" start="1120" text="pro" type="" />
+<previous_utterance comment="default value" end="1244" id="pr4" start="1241" text="pro" type="" />
+<previous_utterance comment="default value" end="1286" id="pr5" start="1283" text="pro" type="" />
+<previous_utterance comment="default value" end="1402" id="pr6" start="1399" text="pro" type="" />
+</TAGS>
+</ProTask>

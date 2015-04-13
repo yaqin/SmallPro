@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132065
+董 工 在 么 ？
+亿维 说 授权 已经 放 出来 了 说 *pro* 和 你们 联系 完 了 你 看看 什么 时候 *pro* 能 给 我们 开通 平台 ？
+*pro* 顺便 把 端口 互访 给 开开 *-1 把
+suid=s1 participant=133514
+*pro* 在 吗 ？
+suid=s2 participant=133514
+*pro* 试 一下 ， *pro* 应该 可以 互通 了
+]]></TEXT>
+<TAGS>
+<你 comment="default value" end="91" id="你0" start="88" text="pro" type="" />
+<你 comment="default value" end="112" id="你1" start="109" text="pro" type="" />
+<你 comment="default value" end="167" id="你2" start="164" text="pro" type="" />
+<你 comment="default value" end="206" id="你3" start="203" text="pro" type="" />
+<它 comment="default value" end="62" id="它1" start="59" text="pro" type="" />
+<它们 comment="default value" end="219" id="它们0" start="216" text="pro" type="" />
+</TAGS>
+</ProTask>

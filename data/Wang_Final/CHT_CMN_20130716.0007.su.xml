@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133148
+海燕 ， 你 好 ， 艺术 史 那 本 书 的 译者 联系 我 了 ， 因为 报价 较 高 ， 我们 现在 在 和 他 谈 价格 ， *pro* 谈好 了 *pro* 给 你 说 哈 。
+另 ， 译者 是 4 个 人 的 团队 ， 他们 问 *pro* 能否 提供 英文 原版 书 和 电子版 *pro* 做 参考 ， 你 这边 有 吗 ？
+suid=s1 participant=136845
+*pro* 好 的 ！
+原版 书 我 分 两 次 寄 了 2 本 *T*-1 过去 。
+一般 情况 翻译版 的 书 我们 只 提供 2 本 样书 *T*-1 。
+*pro* 这样 ， 我 再 找 人大社 把 之前 的 样书 要 回来 *-1 ， *pro* 可能 有些 旧 。
+*pro* 给 译者 *pro* 用 应该 可以 了
+suid=s2 participant=136845
+电子版 是 收费 的 ， 每 本 书 1170 港币 。
+而且 *pro* 要 等 正式 合同 出 了 之后 美国 才 会 给
+suid=s3 participant=133148
+嗯 ， *pro* 好 的 ， *pro* 有 书 做 好 不过 了 ， 我 这 两 天 和 译者 尽量 把 价格 的 事情 说定 *-1 。
+suid=s4 participant=136845
+*pro* OK 。
+suid=s5 participant=133148
+如果 电子版 没有 ， *pro* 也 先 不 急 ， 我 先 给 译者 把 情况 说明 *-1
+suid=s6 participant=136845
+*pro* 好 的 。
+电子版 等 你们 选题 通过 后 ， 我们 签 了 合同 *pro* 就 能 向 美国 申请 *T*-1 。
+当然 *pro* 要 社 里 *PRO* 考虑 一下 成本 ， *pro* 觉得 *PRO* 确实 需要 ， *pro* 再 申请 。
+suid=s7 participant=133148
+嗯 ， 那 是 ~~
+suid=s8 participant=133148
+海燕 ， 和 译者 价格 谈好 *-1 了 ， 现在 *pro* 就 等 出版局 的 批复 了 ：）
+suid=s9 participant=136845
+*pro* 太 好 了 ~~ ·
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="110" id="我0" start="107" text="pro" type="" />
+<你 comment="default value" end="369" id="你0" start="366" text="pro" type="" />
+<你 comment="default value" end="663" id="你1" start="660" text="pro" type="" />
+<我们 comment="default value" end="99" id="我们0" start="96" text="pro" type="" />
+<我们 comment="default value" end="455" id="我们2" start="452" text="pro" type="" />
+<我们 comment="default value" end="530" id="我们3" start="527" text="pro" type="" />
+<我们 comment="default value" end="768" id="我们4" start="765" text="pro" type="" />
+<我们 comment="default value" end="797" id="我们5" start="794" text="pro" type="" />
+<我们 comment="default value" end="826" id="我们6" start="823" text="pro" type="" />
+<我们 comment="default value" end="849" id="我们7" start="846" text="pro" type="" />
+<我们 comment="default value" end="954" id="我们8" start="951" text="pro" type="" />
+<你们 comment="default value" end="153" id="你们0" start="150" text="pro" type="" />
+<他们 comment="default value" end="179" id="他们1" start="176" text="pro" type="" />
+<他们 comment="default value" end="380" id="他们2" start="377" text="pro" type="" />
+<它们 comment="default value" end="353" id="它们0" start="350" text="pro" type="" />
+<pleonastic end="311" id="p0" start="308" text="pro" type="" />
+<pleonastic end="1005" id="p1" start="1002" text="pro" type="" />
+<previous_utterance comment="default value" end="230" id="pr0" start="227" text="pro" type="" />
+<previous_utterance comment="default value" end="518" id="pr2" start="515" text="pro" type="" />
+<previous_utterance comment="default value" end="613" id="pr3" start="610" text="pro" type="" />
+<previous_utterance comment="default value" end="727" id="pr4" start="724" text="pro" type="" />
+</TAGS>
+</ProTask>

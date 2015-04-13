@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133485
+这 是 *OP* 他们 整理 出来 *T*-1 的 照片
+suid=s1 participant=133485
+*pro* 发给 你
+suid=s2 participant=133537
+*pro* 好 , *pro* 谢谢 。
+*pro* 发 我 邮箱 （ *pro* 来自 手机 QQ : http:／／mobile.qq.com ）
+suid=s3 participant=133537
+陈明江 正在 鼓动 大家 *PRO* 周末 到 武汉
+suid=s4 participant=133485
+qq 邮箱 吗
+suid=s5 participant=133485
+大家 ？
+suid=s6 participant=133485
+同学 吗 ？
+suid=s7 participant=133485
+*pro* 把 我 加 *-1 群 吧
+suid=s8 participant=133485
+*pro* 看看 大家 认识 我 不 ？
+suid=s9 participant=133537
+我 手机 上网 加 不 了
+suid=s10 participant=133485
+哦
+suid=s11 participant=133537
+你 与 陈明江 说 一下
+suid=s12 participant=133537
+他们 正在 讨论
+suid=s13 participant=133485
+他 可以 加 吗 ？
+suid=s14 participant=133537
+你 申请 *PRO* 加入 · 很多 人 可 批准 。
+*pro* 都 在线
+suid=s15 participant=133485
+他们 不 认识 我 呀
+suid=s16 participant=133537
+我 在 群 里 说 一下
+suid=s17 participant=133485
+群 号 *pro* 告诉 我 *T*-1
+suid=s18 participant=133537
+周少蓉 认识
+suid=s19 participant=133485
+*pro* 好像 记得
+suid=s20 participant=133485
+*pro* 美女
+suid=s21 participant=133485
+个子 高高 的
+suid=s22 participant=133485
+*pro* 很 漂亮
+suid=s23 participant=133485
+*pro* 是 吧
+suid=s24 participant=133537
+*pro* 是 她 （ *pro* 来自 手机 QQ : http:／／mobile.qq.com ）
+suid=s25 participant=133485
+我 记得
+suid=s26 participant=133485
+群 号 *pro* 告诉 我 *T*-1 撒
+suid=s27 participant=133537
+周末 *pro* 可能 到 武汉
+suid=s28 participant=133537
+群 号 *pro* 给 你 *T*-1 丁
+suid=s29 participant=133485
+*pro* 出差 吗 ？
+suid=s30 participant=133485
+还是 *pro* 特地 来 玩 ？
+suid=s31 participant=133537
+*pro* 凑热闹 玩
+suid=s32 participant=133537
+你 电话 下 陈明江 看 几 个 人 了
+suid=s33 participant=133485
+群 号 *pro* 没有 给 我 *T*-1 呀
+suid=s34 participant=133537
+55217415
+suid=s35 participant=133537
+*pro* 收到 ?
+suid=s36 participant=133485
+*pro* 加 了
+suid=s37 participant=133485
+*pro* 等待 *pro* 验证
+suid=s38 participant=133537
+你 等等 我 到 群 里 看 她们 还 在 不
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="88" id="我0" start="85" text="pro" type="" />
+<我 comment="default value" end="136" id="我1" start="133" text="pro" type="" />
+<我 comment="default value" end="900" id="我2" start="897" text="pro" type="" />
+<我 comment="default value" end="1257" id="我3" start="1254" text="pro" type="" />
+<我 comment="default value" end="1303" id="我4" start="1300" text="pro" type="" />
+<我 comment="default value" end="1436" id="我5" start="1433" text="pro" type="" />
+<我 comment="default value" end="1654" id="我7" start="1651" text="pro" type="" />
+<我 comment="default value" end="1692" id="我8" start="1689" text="pro" type="" />
+<你 comment="default value" end="147" id="你0" start="144" text="pro" type="" />
+<你 comment="default value" end="384" id="你1" start="381" text="pro" type="" />
+<你 comment="default value" end="431" id="你2" start="428" text="pro" type="" />
+<你 comment="default value" end="820" id="你3" start="817" text="pro" type="" />
+<你 comment="default value" end="1207" id="你4" start="1204" text="pro" type="" />
+<你 comment="default value" end="1349" id="你5" start="1346" text="pro" type="" />
+<你 comment="default value" end="1393" id="你6" start="1390" text="pro" type="" />
+<你 comment="default value" end="1529" id="你7" start="1526" text="pro" type="" />
+<你 comment="default value" end="1615" id="你8" start="1612" text="pro" type="" />
+<你 comment="default value" end="1701" id="你9" start="1698" text="pro" type="" />
+<她 comment="default value" end="940" id="她0" start="937" text="pro" type="" />
+<她 comment="default value" end="1013" id="她1" start="1010" text="pro" type="" />
+<它 comment="default value" end="162" id="它0" start="159" text="pro" type="" />
+<它 comment="default value" end="1102" id="它1" start="1099" text="pro" type="" />
+<他们 comment="default value" end="696" id="他们0" start="693" text="pro" type="" />
+<pleonastic end="1090" id="p0" start="1087" text="pro" type="" />
+<previous_utterance comment="default value" end="126" id="pr0" start="123" text="pro" type="" />
+<previous_utterance comment="default value" end="1052" id="pr1" start="1049" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131623
+亲 视频 呢
+suid=s1 participant=131623
+恩恩 。。 我们 班 的 视频 还 在 做 [ 表情 ]
+suid=s2 participant=131623
+[ 表情 ] *pro* 预计 *pro* 何时 完工 。。
+suid=s3 participant=131623
+*pro* 今晚 完工 [ 表情 ]
+suid=s4 participant=131623
+现在 *pro* 有 一 个 做完 了 。。 *pro* 先 发 过去 ？
+suid=s5 participant=131623
+*pro* 一块 吧
+suid=s6 participant=131623
+恩恩 。。 明早 可以 么 ？
+suid=s7 participant=131623
+嗯 明 中午 吧 *pro* 别 熬 太 晚 了 *pro* 做完 了 *pro* 告诉 我 我 让 我们 部 干事 *PRO* 去 找 你 *PRO* 拷
+suid=s8 participant=131623
+嗯 *pro* 成 。
+[ 表情 ] *pro* 谢谢 了 哈
+suid=s9 participant=132645
+*pro* ok 了 吗
+suid=s10 participant=131623
+嗯
+suid=s11 participant=132645
+*pro* 都 完成 ； 饿 ？
+suid=s12 participant=131623
+嗯 。
+*pro* 必须 滴 。
+suid=s13 participant=131623
+*pro* 一共 就 三 个 [ 表情 ]
+suid=s14 participant=132645
+你 在 哪 个 宿舍 我 找 人 *PRO* 去 拷
+suid=s15 participant=131623
+619 [ 表情 ] 我 晚上 送 过去 ？
+suid=s16 participant=132645
+我 找 我们 部 的 *PRO* 去 你 宿舍 拷 就 行 啦 。
+suid=s17 participant=131623
+恩恩 。
+*pro* 成 。。 *pro* 让 奎 *PRO* 来 吧 [ 表情 ]
+suid=s18 participant=132645
+我 还 能 吩咐 动 他 么 。。
+suid=s19 participant=131623
+*pro* 必须 能 呗 [ 表情 ] 我 都 想 他 了
+suid=s20 participant=131623
+我 下去 吃饭 准备 晚自习 了 哈 。。 [ 表情 ]
+suid=s21 participant=132645
+*pro* 等 会 。
+suid=s22 participant=131623
+啊 ？
+suid=s23 participant=132645
+*pro* 找 人 *PRO* 去 拷 啊 啊啊
+suid=s24 participant=131623
+*pro* 下 了 晚自习 就 好 。。
+suid=s25 participant=131623
+现在 七点半 *pro* 就 下 晚自习 了
+suid=s26 participant=132645
+哦哦 那 行
+suid=s27 participant=131623
+恩恩 。。 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="229" id="我0" start="226" text="pro" type="" />
+<我 comment="default value" end="249" id="我1" start="246" text="pro" type="" />
+<我 comment="default value" end="497" id="我2" start="494" text="pro" type="" />
+<我 comment="default value" end="657" id="我3" start="654" text="pro" type="" />
+<我 comment="default value" end="698" id="我4" start="695" text="pro" type="" />
+<我 comment="default value" end="932" id="我5" start="929" text="pro" type="" />
+<我 comment="default value" end="1220" id="我6" start="1217" text="pro" type="" />
+<我 comment="default value" end="1329" id="我7" start="1326" text="pro" type="" />
+<你 comment="default value" end="291" id="你0" start="288" text="pro" type="" />
+<你 comment="default value" end="381" id="你1" start="378" text="pro" type="" />
+<你 comment="default value" end="397" id="你2" start="394" text="pro" type="" />
+<你 comment="default value" end="408" id="你3" start="405" text="pro" type="" />
+<你 comment="default value" end="608" id="你4" start="605" text="pro" type="" />
+<你 comment="default value" end="1033" id="你5" start="1030" text="pro" type="" />
+<你 comment="default value" end="1148" id="你6" start="1145" text="pro" type="" />
+<你 comment="default value" end="1273" id="你7" start="1270" text="pro" type="" />
+<我们 comment="default value" end="180" id="我们0" start="177" text="pro" type="" />
+<你们 comment="default value" end="129" id="你们0" start="126" text="pro" type="" />
+<你们 comment="default value" end="138" id="你们1" start="135" text="pro" type="" />
+<previous_utterance comment="default value" end="480" id="pr0" start="477" text="pro" type="" />
+<previous_utterance comment="default value" end="537" id="pr1" start="534" text="pro" type="" />
+<previous_utterance comment="default value" end="921" id="pr2" start="918" text="pro" type="" />
+</TAGS>
+</ProTask>

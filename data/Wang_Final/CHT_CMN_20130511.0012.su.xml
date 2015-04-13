@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131603
+你 好 ， 这 张 不 是 照片 的 格式 ， 你 能 转化 为 照片 的 格式 吗 ？
+suid=s1 participant=131603
+我 美国 签证 需要 用到 这 张 照片
+suid=s2 participant=131603
+或者 根据 这 个 PDF 格式 ， 你们 能 打印 出 照片 的 形式 吗 ？
+*pro* 如果 可以 ， 也 行
+suid=s3 participant=137643
+*pro* 可以
+suid=s4 participant=137643
+*pro* 要 加洗 一 版 吗
+suid=s5 participant=131603
+你们 那里 有 美国 签证 照片 的 格式 大小 吗 ？
+*pro* 加洗 一 版 多少 钱 ？
+suid=s6 participant=131603
+*pro* 便宜 点 ， 我 经常 在 你们 那 打印 的
+suid=s7 participant=131603
+*pro* 这 两 天 几乎 每 天 都 能 看到 我
+suid=s8 participant=131603
+另外 ， 普通 照片 *pro* 洗 一 张 *T*-1 多少 钱 ？
+我 提供 电子版 的
+suid=s9 participant=131603
+另另外 ， *pro* 复印 一 张 黑白 A4纸 文件 多少 钱 ？
+suid=s10 participant=137643
+*pro* 加洗 一 版 是 15 元 一 版 2 张 5 * 5
+suid=s11 participant=131603
+2 寸 正方形 （ 51 mm x 51 mm ） 彩色 正面 照
+suid=s12 participant=131603
+一 版 才 两 张 ？
+[ 表情 ]
+suid=s13 participant=137643
+你 这个 改 不 了 *-1
+suid=s14 participant=137643
+大小 调 不 出来
+suid=s15 participant=131603
+哦 ， *pro* 这样 ， 那 *pro* 算了
+suid=s16 participant=137643
+您 过来 照 一下 吧
+suid=s17 participant=131603
+你们 那边 可以 照 吗 ？
+suid=s18 participant=131603
+美国 签证 照片 ？
+suid=s19 participant=137643
+*pro* 可以
+suid=s20 participant=137643
+20 元 一 版 *pro* 连 照 在 洗
+suid=s21 participant=131603
+*pro* 好 的
+suid=s22 participant=131603
+你 好 ， *pro* 麻烦 *pro* 第一 份 文件 只 打印 第一 页
+suid=s23 participant=131603
+第二 份 文件 Study Plan *pro* 打印 一 份 *T*-1
+suid=s24 participant=131603
+我 晚上 7：30 去 取
+suid=s25 participant=137643
+*pro* 好
+suid=s26 participant=131603
+*pro* 谢谢 [ 表情 ]
+suid=s27 participant=131603
+*pro* 不好意思 呀 ， 你 还 没有 打印 吧 ？
+suid=s28 participant=131603
+第二 份 *pro* 打印 这 个 版本 的 ，
+suid=s29 participant=137643
+*pro* 打完 了
+suid=s30 participant=131603
+哦 ， 那 *pro* *OP* *pro* 打完 *T*-1 的 那 张 不 要 *T*-2 ， 要 这 张
+suid=s31 participant=131603
+因为 *pro* 有 个 教授 的 名称 改 了 一下
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="238" id="我0" start="235" text="pro" type="" />
+<我 comment="default value" end="274" id="我1" start="271" text="pro" type="" />
+<我 comment="default value" end="347" id="我2" start="344" text="pro" type="" />
+<我 comment="default value" end="517" id="我3" start="514" text="pro" type="" />
+<我 comment="default value" end="586" id="我4" start="583" text="pro" type="" />
+<我 comment="default value" end="913" id="我5" start="910" text="pro" type="" />
+<我 comment="default value" end="1072" id="我6" start="1069" text="pro" type="" />
+<我 comment="default value" end="1204" id="我7" start="1201" text="pro" type="" />
+<我 comment="default value" end="1409" id="我9" start="1406" text="pro" type="" />
+<我 comment="default value" end="1453" id="我10" start="1450" text="pro" type="" />
+<我 comment="default value" end="1515" id="我11" start="1512" text="pro" type="" />
+<我 comment="default value" end="1563" id="我12" start="1560" text="pro" type="" />
+<我 comment="default value" end="1619" id="我13" start="1616" text="pro" type="" />
+<我 comment="default value" end="1689" id="我14" start="1686" text="pro" type="" />
+<你 comment="default value" end="193" id="你0" start="190" text="pro" type="" />
+<你 comment="default value" end="394" id="你2" start="391" text="pro" type="" />
+<你 comment="default value" end="451" id="你3" start="448" text="pro" type="" />
+<你 comment="default value" end="644" id="你4" start="641" text="pro" type="" />
+<你 comment="default value" end="1608" id="你5" start="1605" text="pro" type="" />
+<你 comment="default value" end="1213" id="你1" start="1210" text="pro" type="" />
+<你 comment="default value" end="1284" id="你6" start="1281" text="pro" type="" />
+<generic comment="default value" end="1118" id="g0" start="1115" text="pro" type="" />
+<previous_utterance comment="default value" end="900" id="pr0" start="897" text="pro" type="" />
+<previous_utterance comment="default value" end="1160" id="pr1" start="1157" text="pro" type="" />
+<previous_utterance comment="default value" end="1373" id="pr2" start="1370" text="pro" type="" />
+</TAGS>
+</ProTask>

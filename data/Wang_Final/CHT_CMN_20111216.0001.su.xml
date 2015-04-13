@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0000 participant=133628
+*pro* 在 不 在
+msgid=s1m0002 participant=133623
+*pro* 在
+msgid=s2m0003 participant=133628
+你们 的 WINCE 用 的 怎么样 了
+msgid=s3m0004 participant=133628
+*pro* 可以 拨号 上网 吗
+msgid=s4m0005 participant=133623
+*pro* 可以
+msgid=s5m0006 participant=133628
+驱动 怎么 装 的
+msgid=s6m0007 participant=133628
+*pro* 是 编译 到 内核 里 吗
+msgid=s7m0008 participant=133623
+嗯
+msgid=s8m0010 participant=133628
+EVDO 跟 W 都 没 问题 吧
+msgid=s9m0011 participant=133623
+嗯
+msgid=s10m0013 participant=133623
+驱动 编译 到 内核 里 后 驱动 *pro* 不用 每 次 都 加载 *T*-1 ， *pro* 是 吗 ？
+msgid=s11m0014 participant=133623
+嗯
+msgid=s12m0015 participant=133623
+自动
+msgid=s13m0016 participant=133623
+*pro* 好
+msgid=s14m0017 participant=133623
+你 测试 过 *pro* 把 W 跟 EVDO 的 驱动 都 编译 到 内核 去 ， 然后 W 跟 EVDO 的 模块 都 能 用
+msgid=s15m0018 participant=133623
+*pro* 测试 过 没
+msgid=s16m0019 participant=133623
+嗯
+msgid=s17m0020 participant=133623
+你 就是 这么 整 的 啊
+msgid=s18m0021 participant=133623
+*pro* 是的
+msgid=s19m0022 participant=133623
+*pro* 是 按 你 的 指导 吗 !
+msgid=s20m0025 participant=133628
+没有
+msgid=s21m0026 participant=133628
+我 怕 你 没 这样 编译 以后 换 模块 就 需要 重新 编译 了
+msgid=s22m0028 participant=133628
+哦
+msgid=s23m0029 participant=133628
+*pro* 有 个 客户 就 是 这样
+msgid=s24m0030 participant=133628
+*pro* 没有 *pro* 现在 是 自动 识别
+msgid=s25m0032 participant=133628
+WCDMA 模块 信号 不 是 很 好
+msgid=s26m0033 participant=133628
+*pro* 都 编译 进去 了 就 可以 自动 识别
+msgid=s27m0034 participant=133628
+嗯
+msgid=s28m0035 participant=133628
+我 在 其他 地方 测试 *pro* 也 不 好
+msgid=s29m0036 participant=133628
+联通 3G 信号 不 给力
+msgid=s30m0037 participant=133628
+2 G 的 都 是 满格 信号
+msgid=s31m0038 participant=133628
+嗯 , 我们 今天 去 香港 测试 .
+msgid=s32m0039 participant=133628
+*pro* 好
+msgid=s33m0040 participant=133628
+*pro* 测试 完 后 ， 我 再 问问 你 香港 信号 怎么样
+msgid=s34m0041 participant=133628
+*pro* 是的
+msgid=s35m0042 participant=133628
+香港 的 网络 服务商 是 哪个 》 ？
+msgid=s36m0043 participant=133628
+联通 还是 其他 的
+msgid=s37m0044 participant=133628
+连通
+msgid=s38m0045 participant=133628
+*pro* 主要 是 WCDMA
+msgid=s39m0046 participant=133628
+额
+msgid=s40m0047 participant=133623
+那就好
+msgid=s41m0048 participant=133623
+*pro* 去 测试 一下
+msgid=s42m0049 participant=133623
+不过 联通 的 下载 带宽 好像 放大 了 ， 我 上次 测试 下载 能 达到 400 K B
+msgid=s43m0050 participant=133623
+*pro* 非常 快
+msgid=s44m0051 participant=133623
+平均 240 KB／S
+msgid=s45m0052 participant=133623
+哦
+msgid=s46m0053 participant=133623
+但 我们 这里 测
+msgid=s47m0054 participant=133623
+速度 很 慢
+msgid=s48m0055 participant=133623
+你 用 迅雷 下载
+msgid=s49m0056 participant=133623
+信号值 才 8
+msgid=s50m0057 participant=133628
+上网 都 有 问题
+msgid=s51m0058 participant=133628
+信号 一般 有 13，99 啊
+msgid=s52m0060 participant=133628
+你 接 了 甜心 没
+msgid=s53m0061 participant=133628
+天线
+msgid=s54m0063 participant=133628
+那 是 外置 天线
+msgid=s55m0064 participant=133628
+内置 的 8
+msgid=s56m0065 participant=133628
+嗯
+msgid=s57m0067 participant=133628
+*pro* 也 试了
+msgid=s58m0068 participant=133628
+*pro* 这么 低 啊
+msgid=s59m0070 participant=133628
+*pro* 是 啊
+msgid=s60m0071 participant=133628
+*pro* 上网 上 不 了
+msgid=s61m0072 participant=133628
+5.0 的 驱动 *pro* 发给 你们 *-1 能 用 啊 ？
+msgid=s62m0073 participant=133628
+*pro* 上 了 速度 也 慢 !
+msgid=s63m0074 participant=133628
+嗯
+msgid=s64m0076 participant=133628
+信号 太 差 了
+msgid=s65m0077 participant=133628
+*pro* 没办法
+msgid=s66m0078 participant=133628
+*OP* *pro* *T*-1 到 香港 测试 结果
+msgid=s67m0079 participant=133628
+*pro* 看看 今天 的
+msgid=s68m0080 participant=133628
+嗯
+msgid=s69m0081 participant=133628
+昨天 在 香港 测试 结果 怎么样 啊
+msgid=s70m0082 participant=133623
+*pro* 还好.
+msgid=s71m0084 participant=133623
+信号 强度 有 多 打
+msgid=s72m0087 participant=133623
+香港 信号 这么 好 啊
+msgid=s73m0088 participant=133623
+那当然
+msgid=s74m0090 participant=133623
+香港 主要 是 WCDMA
+msgid=s75m0091 participant=133623
+31 是 满格 的 信号
+msgid=s76m0092 participant=133623
+嗯
+msgid=s77m0093 participant=133623
+深圳 大多数 地方 有 18，99 就 不 错 了
+msgid=s78m0095 participant=133623
+内地 连通 差 !
+msgid=s79m0096 participant=133623
+联通 的 3 G 信号 都 没 做好 *pro* 还 普及 3 G
+msgid=s80m0098 participant=133628
+嗯 , 网络 覆盖 差 , 实力 弱 点 .
+msgid=s81m0099 participant=133628
+*OP* *T*-1 最 成熟 的 3G 技术 *pro* 给 了 联通 ， 联通 *T*-2 *pro* 没 把握 好
+msgid=s82m0102 participant=133628
+移动 要 后起 直 追 了
+msgid=s83m0103 participant=133628
+TD 现在 *pro* 不 知道 咋样
+msgid=s84m0104 participant=133628
+TD 的 我 也 不 了解 *T*-1
+msgid=s85m0105 participant=133628
+*pro* 不过 也 有 问题
+msgid=s86m0106 participant=133628
+*pro* 上次 买 了 一 个 TD 智能机 ， 老是 接 不 到 电话
+msgid=s87m0107 participant=133628
+哦
+msgid=s88m0108 participant=133628
+2 G 接 电话 就 没 问题 ， 3 G 的 有 点 问题
+msgid=s89m0109 participant=133628
+TD 是 不 太 稳定
+msgid=s90m0111 participant=133623
+国产 技术 还 需要 改进 下
+msgid=s91m0114 participant=133623
+你 WINCE5.0 的 驱动 也 是 W 的 跟 E VDO 的 一 起 编译 到 内核 吗
+msgid=s92m0115 participant=133623
+*pro* 也 可以 插 这 两 种 模块 都 可以 用 吧
+msgid=s93m0116 participant=133623
+内置 天线 厂家 有 没 有 介绍 的 ?
+msgid=s94m0118 participant=133623
+嗯
+msgid=s95m0119 participant=133623
+*OP* *pro* 上次 说 *T*-1 的 那 家 你 问过 了 *T*-2 没
+msgid=s96m0120 participant=133623
+*pro* 没 找到
+msgid=s97m0121 participant=133623
+天线厂 我 还 真 没 到 过 几 家 *T*-1
+msgid=s98m0122 participant=133623
+*pro* 没有 *OP* *T*-1 具体 的 公司 名
+msgid=s99m0123 participant=133623
+因为 这 3 G 天线 都 挺 容易 配
+msgid=s100m0124 participant=133623
+*pro* 网上 搜索 一下
+msgid=s101m0125 participant=133623
+*pro* 估计 *pro* 很多
+msgid=s102m0126 participant=133623
+*pro* 鱼龙混杂
+msgid=s103m0128 participant=133623
+你 要 先 看看 规模
+msgid=s104m0129 participant=133623
+*pro* 然后 选 几 家 再 亲自 去 一下
+msgid=s105m0130 participant=133623
+*pro* 带上 你 的 机器
+msgid=s106m0131 participant=133623
+因为 *pro* 要 根据 你 的 机器 配
+msgid=s107m0132 participant=133623
+嗯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="83" id="我0" start="80" text="pro" type="" />
+<我 comment="default value" end="228" id="我1" start="225" text="pro" type="" />
+<我 comment="default value" end="967" id="我2" start="964" text="pro" type="" />
+<我 comment="default value" end="1164" id="我3" start="1161" text="pro" type="" />
+<我 comment="default value" end="1682" id="我4" start="1679" text="pro" type="" />
+<我 comment="default value" end="2780" id="我5" start="2777" text="pro" type="" />
+<我 comment="default value" end="2916" id="我6" start="2913" text="pro" type="" />
+<我 comment="default value" end="2974" id="我7" start="2971" text="pro" type="" />
+<我 comment="default value" end="3032" id="我8" start="3029" text="pro" type="" />
+<我 comment="default value" end="3164" id="我9" start="3161" text="pro" type="" />
+<我 comment="default value" end="4092" id="我10" start="4089" text="pro" type="" />
+<我 comment="default value" end="4244" id="我11" start="4241" text="pro" type="" />
+<我 comment="default value" end="4757" id="我12" start="4754" text="pro" type="" />
+<我 comment="default value" end="4829" id="我13" start="4826" text="pro" type="" />
+<我 comment="default value" end="4934" id="我14" start="4931" text="pro" type="" />
+<我 comment="default value" end="5104" id="我15" start="5101" text="pro" type="" />
+<我 comment="default value" end="5250" id="我16" start="5247" text="pro" type="" />
+<你 comment="default value" end="38" id="你0" start="35" text="pro" type="" />
+<你 comment="default value" end="178" id="你1" start="175" text="pro" type="" />
+<你 comment="default value" end="700" id="你2" start="697" text="pro" type="" />
+<你 comment="default value" end="793" id="你3" start="790" text="pro" type="" />
+<你 comment="default value" end="1332" id="你4" start="1329" text="pro" type="" />
+<你 comment="default value" end="2055" id="你5" start="2052" text="pro" type="" />
+<你 comment="default value" end="3213" id="你6" start="3210" text="pro" type="" />
+<你 comment="default value" end="3270" id="你7" start="3267" text="pro" type="" />
+<你 comment="default value" end="4595" id="你8" start="4592" text="pro" type="" />
+<你 comment="default value" end="5054" id="你9" start="5051" text="pro" type="" />
+<你 comment="default value" end="5310" id="你10" start="5307" text="pro" type="" />
+<它 comment="default value" end="313" id="它0" start="310" text="pro" type="" />
+<它 comment="default value" end="1227" id="它1" start="1224" text="pro" type="" />
+<它 comment="default value" end="1442" id="它2" start="1439" text="pro" type="" />
+<它 comment="default value" end="2185" id="它3" start="2182" text="pro" type="" />
+<它 comment="default value" end="2825" id="它4" start="2822" text="pro" type="" />
+<它 comment="default value" end="3408" id="它5" start="3405" text="pro" type="" />
+<它 comment="default value" end="4194" id="它6" start="4191" text="pro" type="" />
+<我们 comment="default value" end="5364" id="我们0" start="5361" text="pro" type="" />
+<他们 comment="default value" end="3837" id="他们0" start="3834" text="pro" type="" />
+<他们 comment="default value" end="3967" id="他们1" start="3964" text="pro" type="" />
+<他们 comment="default value" end="3991" id="他们2" start="3988" text="pro" type="" />
+<它们 comment="default value" end="5157" id="它们0" start="5154" text="pro" type="" />
+<existential comment="default value" end="1218" id="e0" start="1215" text="pro" type="" />
+<generic comment="default value" end="506" id="g0" start="503" text="pro" type="" />
+<pleonastic end="1930" id="p0" start="1927" text="pro" type="" />
+<pleonastic end="5113" id="p1" start="5110" text="pro" type="" />
+<previous_utterance comment="default value" end="532" id="pr0" start="529" text="pro" type="" />
+<previous_utterance comment="default value" end="651" id="pr1" start="648" text="pro" type="" />
+<previous_utterance comment="default value" end="924" id="pr2" start="921" text="pro" type="" />
+<previous_utterance comment="default value" end="1640" id="pr3" start="1637" text="pro" type="" />
+<previous_utterance comment="default value" end="1750" id="pr4" start="1747" text="pro" type="" />
+<previous_utterance comment="default value" end="2872" id="pr5" start="2869" text="pro" type="" />
+</TAGS>
+</ProTask>

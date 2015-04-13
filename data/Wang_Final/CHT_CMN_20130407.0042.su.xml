@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+你 咋 这么 长 时间 没 动静 ？
+suid=s1 participant=136991
+啥 动静 ？
+suid=s2 participant=136693
+*pro* 不 说话 不 上线 什么 的 啊
+suid=s3 participant=136693
+*pro* 还 没 调整 好 心态 ？
+suid=s4 participant=136991
+哦 ， *pro* 有时候 上线 ， *pro* 不过 和 大家 聊 啥 呢 ？
+我 现在 居家 居 得 都 有点儿 傻 了 [ 表情 ]
+suid=s5 participant=136991
+我 现在 就 在 党家庄 混 ， 都 不 怎么 出门 [ 表情 ]
+suid=s6 participant=136693
+*pro* 多久 不 上班 了 ？
+suid=s7 participant=136991
+*pro* 半 年 了 吧
+suid=s8 participant=136991
+*pro* 快 和 社会 脱节 了 ， 我 现在 就 是 柴 米 油 盐 啊
+suid=s9 participant=136693
+*pro* 停薪 留职 还是 病休 ？
+suid=s10 participant=136991
+事假
+suid=s11 participant=136991
+他奶奶的 。
+停薪 留职 *pro* 不 给 我 办 *T*-1 呢 ， *pro* 说 *pro* 是 担心 我 另 谋 职业
+suid=s12 participant=136693
+你 单位 不错 啊
+suid=s13 participant=136693
+事假 *pro* 怎么 开 工资 ？
+suid=s14 participant=136991
+*pro* 木 工资 啊
+suid=s15 participant=136693
+*pro* 厉害
+suid=s16 participant=136693
+*pro* 准备 *PRO* 什么 时候 恢复 上班 啊 ？
+suid=s17 participant=136991
+*pro* 生完 老二 吧 [ 表情 ] 虽然 *pro* 还 不 知 什么 时候
+suid=s18 participant=136693
+*pro* 要上 了 吗
+suid=s19 participant=136991
+*pro* 还 没 开始 ， *pro* 不 是 刚 过 了 半 年 嘛
+suid=s20 participant=136991
+上半年
+suid=s21 participant=136693
+*pro* 快 准备 了 ？
+我们 准备 *PRO* 等 藕宝 断奶 开始 要
+suid=s22 participant=136991
+你们 也 准备 *PRO* 再 要 ？
+suid=s23 participant=136693
+*pro* 是 啊
+suid=s24 participant=136693
+*pro* 要不 一起 呗
+suid=s25 participant=136991
+那 你 闺女 是 不 是 一 岁 断奶 啊
+suid=s26 participant=136693
+*pro* 是 啊
+suid=s27 participant=136991
+你们 厉害 ！
+suid=s28 participant=136693
+8 ， 9月份 *pro* 开始 要 ？
+suid=s29 participant=136991
+你 是 说 我 吗 ？
+suid=s30 participant=136991
+我们 上半年 要 ， *pro* 顺其自然
+suid=s31 participant=136693
+哦
+suid=s32 participant=136693
+我们 必须 等 *pro* 断奶 ， 不然 *pro* 一旦 *PRO* 要上 藕宝 就 没 奶 了
+suid=s33 participant=136991
+*pro* 是 啊 ， 藕宝 妈 奶 这么 好 啊 ？
+suid=s34 participant=136991
+藕宝 有 福 ！
+suid=s35 participant=136693
+*pro* 早 就 添 辅食 了
+suid=s36 participant=136693
+你 有没有 计划 *PRO* 去 美国 生 啊 ？
+我 早 就 开始 研究 了
+suid=s37 participant=136991
+*pro* 没有
+suid=s38 participant=136991
+我 可 没 那么 多 钱
+suid=s39 participant=136693
+*pro* 不 多
+suid=s40 participant=136693
+10w 正好
+suid=s41 participant=136991
+我 上 哪儿 捣鼓 10万 去 啊 ？
+！
+[ 表情 ] 我们 现在 又 是 穷人 了
+suid=s42 participant=136693
+*OP* *pro* 给 孩子 *T*-1 的 可 就 不 仅仅 是 10w 这么 简单 了
+suid=s43 participant=136693
+你 可 想好 了 ， 这 机会 可 不 是 时时 都 有 的 ， *pro* 就 这 一 个 了
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="213" id="我1" start="210" text="pro" type="" />
+<我 comment="default value" end="228" id="我2" start="225" text="pro" type="" />
+<我 comment="default value" end="412" id="我3" start="409" text="pro" type="" />
+<我 comment="default value" end="453" id="我4" start="450" text="pro" type="" />
+<我 comment="default value" end="776" id="我5" start="773" text="pro" type="" />
+<我 comment="default value" end="913" id="我6" start="910" text="pro" type="" />
+<我 comment="default value" end="937" id="我7" start="934" text="pro" type="" />
+<我 comment="default value" end="1024" id="我8" start="1021" text="pro" type="" />
+<我 comment="default value" end="1039" id="我9" start="1036" text="pro" type="" />
+<我 comment="default value" end="1541" id="我10" start="1538" text="pro" type="" />
+<我 comment="default value" end="1618" id="我11" start="1615" text="pro" type="" />
+<我 comment="default value" end="1632" id="我12" start="1629" text="pro" type="" />
+<我 comment="default value" end="1895" id="我13" start="1892" text="pro" type="" />
+<我 comment="default value" end="2123" id="我14" start="2120" text="pro" type="" />
+<你 comment="default value" end="112" id="你0" start="109" text="pro" type="" />
+<你 comment="default value" end="162" id="你1" start="159" text="pro" type="" />
+<你 comment="default value" end="367" id="你2" start="364" text="pro" type="" />
+<你 comment="default value" end="519" id="你4" start="516" text="pro" type="" />
+<你 comment="default value" end="732" id="你5" start="729" text="pro" type="" />
+<你 comment="default value" end="817" id="你6" start="814" text="pro" type="" />
+<你 comment="default value" end="854" id="你7" start="851" text="pro" type="" />
+<你 comment="default value" end="983" id="你8" start="980" text="pro" type="" />
+<你 comment="default value" end="1121" id="你9" start="1118" text="pro" type="" />
+<你 comment="default value" end="2226" id="你10" start="2223" text="pro" type="" />
+<他 comment="default value" end="1782" id="他0" start="1779" text="pro" type="" />
+<它 comment="default value" end="1973" id="它0" start="1970" text="pro" type="" />
+<我们 comment="default value" end="1275" id="我们0" start="1272" text="pro" type="" />
+<你们 comment="default value" end="1449" id="你们0" start="1446" text="pro" type="" />
+<他们 comment="default value" end="611" id="他们0" start="608" text="pro" type="" />
+<他们 comment="default value" end="635" id="他们1" start="632" text="pro" type="" />
+<他们 comment="default value" end="643" id="他们2" start="640" text="pro" type="" />
+<previous_utterance comment="default value" end="1237" id="pr0" start="1234" text="pro" type="" />
+<previous_utterance comment="default value" end="1367" id="pr1" start="1364" text="pro" type="" />
+<previous_utterance comment="default value" end="1689" id="pr2" start="1686" text="pro" type="" />
+</TAGS>
+</ProTask>

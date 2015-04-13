@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+老师 ， 那 个 疫苗 证明 的 东西 。
+*pro* 要 那 哪些 表格 给 医生 *PRO* 填写 ？
+suid=s1 participant=138427
+我 应该 有 把 表格 发给 你 *-1 吧 ？
+*pro* 就 把 那 个 表格 打印 出来 *-1 就 行 了
+suid=s2 participant=135882
+呃 ， 你 能 再 发 一 次 吗 ？
+我 不 知道 *pro* 放 哪 了
+suid=s3 participant=135882
+*pro* 怎么 *pro* 这么 早 就 上班 了
+suid=s4 participant=138427
+你 近期 过来 广州 吗 ？
+其实 学校 也 把 那 个 表 寄 过来 *-1 了 ， 你 顺便 过来 的话 ， *pro* 拿 现成 的 也 行
+suid=s5 participant=135882
+我 20号 回去 ， 21号 签证 ， 不过 不 一定 去 你 公司 那边
+suid=s6 participant=135882
+你 在 广图 还是 在 天河 ？
+suid=s7 participant=138427
+广图
+suid=s8 participant=138427
+那 你 还是 打印 电子版 的 吧
+suid=s9 participant=135882
+嗯嗯 ， *pro* 好 啊 。
+你 发给 我 吧
+suid=s10 participant=135882
+老师 你 发 邮箱 或者 发 离线 文件 给 我 吧 。
+我 现在 要 出去 一下 。
+*pro* 麻烦 你 啦
+suid=s11 participant=138427
+*pro* 已经 发 了 离线 文件 ， *pro* 收到 *pro* 告诉 我 一 声 ~~
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="54" id="我0" start="51" text="pro" type="" />
+<我 comment="default value" end="225" id="我1" start="222" text="pro" type="" />
+<我 comment="default value" end="701" id="我2" start="698" text="pro" type="" />
+<我 comment="default value" end="742" id="我3" start="739" text="pro" type="" />
+<你 comment="default value" end="138" id="你0" start="135" text="pro" type="" />
+<你 comment="default value" end="264" id="你1" start="261" text="pro" type="" />
+<你 comment="default value" end="273" id="你2" start="270" text="pro" type="" />
+<你 comment="default value" end="375" id="你3" start="372" text="pro" type="" />
+<你 comment="default value" end="763" id="你4" start="760" text="pro" type="" />
+<你 comment="default value" end="772" id="你5" start="769" text="pro" type="" />
+<previous_utterance comment="default value" end="608" id="pr0" start="605" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138062
+姐 五一 哪 玩 呢
+suid=s1 participant=138065
+*pro* 明天 就 上班 了
+suid=s2 participant=138065
+就 今天 *pro* 放假 一 天 ， 昨天 半 天
+suid=s3 participant=138062
+明天 不 是 五一 么
+suid=s4 participant=138065
+*pro* 是 啊
+suid=s5 participant=138065
+但是 *pro* 该 上班 了
+suid=s6 participant=138062
+*pro* 晕 *pro* 好 辛苦 啊
+suid=s7 participant=138065
+*pro* 还 好 吧
+suid=s8 participant=138065
+恁 放假 三 天 吧 ？
+suid=s9 participant=138065
+你 准备 *PRO* 去 哪 玩 啊
+suid=s10 participant=138062
+我 哪 也 没 去 *-1
+suid=s11 participant=138062
+刚才 *pro* 去 超市 买 了 个 小 烤鸡
+suid=s12 participant=138062
+*pro* 回来 自己 啃 呢
+suid=s13 participant=138062
+哈哈
+suid=s14 participant=138065
+*pro* 吃独食 呢
+suid=s15 participant=138062
+嗯
+suid=s16 participant=138065
+*pro* 晕 ~
+suid=s17 participant=138062
+你 吃饭 了 么
+suid=s18 participant=138065
+*pro* 吃 了 了
+suid=s19 participant=138062
+啊
+suid=s20 participant=138065
+*pro* 怎么 了
+suid=s21 participant=138065
+*pro* 都 八点 多 了 ， 你 还 没 吃 吗 ？
+suid=s22 participant=138062
+*pro* 没 呢
+suid=s23 participant=138062
+*pro* 不 饿
+suid=s24 participant=138065
+*pro* 这么 晚 了 *pro* 还 没 吃 啊
+suid=s25 participant=138065
+*pro* 少 吃 点
+suid=s26 participant=138062
+嗯 *pro* 行 我 现在 胖 不 行 了 肚子 都 起来 了 *pro* 吓人
+suid=s27 participant=138065
+*pro* 赶紧 减肥
+suid=s28 participant=138062
+*pro* 不 行 了 *pro* 现在 能 吃
+suid=s29 participant=138062
+一 顿 饭 *pro* 两 大 碗 棉套
+suid=s30 participant=138062
+面条
+suid=s31 participant=138065
+*pro* 晕
+suid=s32 participant=138065
+*pro* 吃 那么 多 啊
+suid=s33 participant=138062
+嗯 现在 身体 好 *pro* 吃 嘛 嘛 香
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="70" id="我0" start="67" text="pro" type="" />
+<我 comment="default value" end="118" id="我1" start="115" text="pro" type="" />
+<我 comment="default value" end="246" id="我2" start="243" text="pro" type="" />
+<我 comment="default value" end="286" id="我3" start="283" text="pro" type="" />
+<我 comment="default value" end="334" id="我4" start="331" text="pro" type="" />
+<我 comment="default value" end="505" id="我5" start="502" text="pro" type="" />
+<我 comment="default value" end="555" id="我6" start="552" text="pro" type="" />
+<我 comment="default value" end="700" id="我7" start="697" text="pro" type="" />
+<我 comment="default value" end="775" id="我8" start="772" text="pro" type="" />
+<我 comment="default value" end="941" id="我9" start="938" text="pro" type="" />
+<我 comment="default value" end="979" id="我10" start="976" text="pro" type="" />
+<我 comment="default value" end="1222" id="我12" start="1219" text="pro" type="" />
+<我 comment="default value" end="1234" id="我13" start="1231" text="pro" type="" />
+<我 comment="default value" end="1281" id="我14" start="1278" text="pro" type="" />
+<我 comment="default value" end="1355" id="我15" start="1352" text="pro" type="" />
+<我 comment="default value" end="1444" id="我16" start="1441" text="pro" type="" />
+<你 comment="default value" end="294" id="你0" start="291" text="pro" type="" />
+<你 comment="default value" end="630" id="你1" start="627" text="pro" type="" />
+<你 comment="default value" end="845" id="你2" start="842" text="pro" type="" />
+<你 comment="default value" end="1030" id="你3" start="1027" text="pro" type="" />
+<你 comment="default value" end="1182" id="你4" start="1179" text="pro" type="" />
+<你 comment="default value" end="1072" id="你5" start="1069" text="pro" type="" />
+<你 comment="default value" end="1391" id="你6" start="1388" text="pro" type="" />
+<它 comment="default value" end="1145" id="它0" start="1142" text="pro" type="" />
+<pleonastic end="884" id="p0" start="881" text="pro" type="" />
+<pleonastic end="1017" id="p1" start="1014" text="pro" type="" />
+<previous_utterance comment="default value" end="206" id="pr0" start="203" text="pro" type="" />
+<previous_utterance comment="default value" end="1114" id="pr1" start="1111" text="pro" type="" />
+</TAGS>
+</ProTask>

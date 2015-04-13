@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132631
+*pro* 啥 时候 回 南京 ？
+suid=s1 participant=131944
+下 周 吧 ， *pro* 在 这里 待 几 天 ， 反正 *pro* 去 缅甸 没有 这么 快
+suid=s2 participant=132631
+伊朗人 明天 走 吧 ？
+suid=s3 participant=131944
+嗯 ， 今天 *pro* 带 他们 *PRO* 去 了 博物馆 ， 给 他们 导游 了 一 把
+suid=s4 participant=131944
+你 得 帮 我 *PRO* 申请 *PRO* 把 缅甸 的 等级 升高 点 *-1 啊 ， 那边 内战 呢 ， *pro* 看 新闻 *pro* 就 知道 了
+suid=s5 participant=132631
+我 会 考虑 的
+suid=s6 participant=131944
+兄弟们 可 是 上 火线 的 ， 陈超 ， 王小兵 都 说 *OP* *T*-1 不 好 去 的 地方 ，
+suid=s7 participant=132631
+*pro* 放心 了 ， 我 会 帮 你 *PRO* 考虑 的 。
+suid=s8 participant=131944
+嗯 ， *pro* 多谢 ！
+suid=s9 participant=132631
+*pro* 这 次 和 伊朗人 接触 这 几 天 ， *pro* 感觉 调度 项目 把握性 有 多 大 ？
+suid=s10 participant=131944
+陈超 要是 不 拿下 *pro* 得 要 砍死 了 ，
+suid=s11 participant=131944
+昨天 *pro* 和 南网 交流 ， 人家 相当 配合 ，
+suid=s12 participant=131944
+伊朗人 问 南网 的 ， 作为 用户 ， 你 对 open 3000 评价 几 分 ？
+人家 直接 给 9.5 分
+suid=s13 participant=132631
+*pro* 是 啊 ， 这 次 股份 公司 这边 配合 的 确实 很 给力 ， 这 个 项目 *pro* 再 拿 不 下来 *T*-1 *pro* 真的 对不起 江东 父老 啊 。
+suid=s14 participant=131944
+我们 对 他 也 是 很 配合 ， 今天 我 送 一 个 人 *PRO* 去 机场 ， *pro* 包括 *pro* 替 他 导游 好 这些 伊朗人 ， *pro* 再 不 拿下 ， *pro* 有 何 面目 ？
+suid=s15 participant=132631
+*pro* 要 下班 了 ， 先 不 多 说 了 ， 你 出差 注意 安全 ， 缅甸 的 事 *pro* 随时 等 我 电话 通知 吧 。
+suid=s16 participant=131944
+嗯 ，
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="85" id="我0" start="82" text="pro" type="" />
+<我 comment="default value" end="107" id="我1" start="104" text="pro" type="" />
+<我 comment="default value" end="200" id="我2" start="197" text="pro" type="" />
+<我 comment="default value" end="557" id="我3" start="554" text="pro" type="" />
+<我 comment="default value" end="1049" id="我5" start="1046" text="pro" type="" />
+<我 comment="default value" end="1131" id="我6" start="1128" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="492" id="你1" start="489" text="pro" type="" />
+<你 comment="default value" end="595" id="你2" start="592" text="pro" type="" />
+<你 comment="default value" end="622" id="你3" start="619" text="pro" type="" />
+<你 comment="default value" end="1178" id="你4" start="1175" text="pro" type="" />
+<他 comment="default value" end="688" id="他0" start="685" text="pro" type="" />
+<我们 comment="default value" end="736" id="我们0" start="733" text="pro" type="" />
+<我们 comment="default value" end="924" id="我们1" start="921" text="pro" type="" />
+<我们 comment="default value" end="1073" id="我们2" start="1070" text="pro" type="" />
+<我们 comment="default value" end="1088" id="我们3" start="1085" text="pro" type="" />
+<我们 comment="default value" end="945" id="我们4" start="942" text="pro" type="" />
+<event comment="default value" end="1040" id="ev0" start="1037" text="pro" type="" />
+<generic comment="default value" end="324" id="g0" start="321" text="pro" type="" />
+<generic comment="default value" end="335" id="g1" start="332" text="pro" type="" />
+<previous_utterance comment="default value" end="877" id="pr0" start="874" text="pro" type="" />
+</TAGS>
+</ProTask>

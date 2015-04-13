@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136892
+你 电脑 有没有 换 过 *-1 啊
+suid=s1 participant=136868
+你 说 笔记本 啊
+suid=s2 participant=136892
+嗯
+suid=s3 participant=136868
+*pro* 没有 啊 我 现在 用 啊 *pro* 不 用 的
+suid=s4 participant=136868
+家里 就 用 ipad 上上网
+suid=s5 participant=136892
+我 的 也 开始 慢 了 *pro* 想 *PRO* 带 出去 的话 *pro* 还是 换 一 只
+suid=s6 participant=136892
+HP 真是 不 行 啊
+suid=s7 participant=136868
+*pro* 对 呀 你 出国 *pro* 肯定 买 个 *OP* *T*-1 轻便 的 吧
+suid=s8 participant=136892
+这 只 是 *pro* 不 知道 *pro* 什么 时候 就 崩溃 了
+suid=s9 participant=136868
+嗯 *pro* 买 个 *OP* *T*-1 新 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="144" id="我0" start="141" text="pro" type="" />
+<我 comment="default value" end="164" id="我1" start="161" text="pro" type="" />
+<我 comment="default value" end="259" id="我2" start="256" text="pro" type="" />
+<我 comment="default value" end="281" id="我3" start="278" text="pro" type="" />
+<我 comment="default value" end="500" id="我5" start="497" text="pro" type="" />
+<你 comment="default value" end="377" id="你0" start="374" text="pro" type="" />
+<它 comment="default value" end="452" id="它0" start="449" text="pro" type="" />
+<generic comment="default value" end="441" id="g0" start="438" text="pro" type="" />
+<previous_utterance comment="default value" end="362" id="pr0" start="359" text="pro" type="" />
+</TAGS>
+</ProTask>

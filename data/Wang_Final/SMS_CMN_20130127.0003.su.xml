@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133467
+*pro* 周末 在 ， *pro* 今天 一直 难受 再 睡觉
+suid=s1 participant=133413
+哦哦 我 明天 大概 下午 或者 晚上 在 学校 你 大概 什么 时候 在 学校 呢
+suid=s2 participant=133467
+*pro* 都 在 学校 我
+suid=s3 participant=133413
+哦哦 你 在 学校 什么 地方 来着 ？
+*pro* 有 地址 么
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="45" id="我1" start="42" text="pro" type="" />
+<我 comment="default value" end="162" id="我2" start="159" text="pro" type="" />
+<existential comment="default value" end="225" id="e0" start="222" text="pro" type="" />
+</TAGS>
+</ProTask>

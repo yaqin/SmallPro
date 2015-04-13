@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134167
+*pro* 有没有
+suid=s1 participant=134167
+移动 硬盘 ， 我 现在 给 你 拷 *T*-1
+suid=s2 participant=134729
+*pro* 好 的 ， 马上
+suid=s3 participant=134167
+我 无意中 看到 你 移动 硬盘 有 电影 ， *pro* 借来 拷贝 一下 啊 ~~
+suid=s4 participant=134729
+*pro* 好 ， 呵呵
+suid=s5 participant=134729
+什么 电影 啊 ， 我 都 忘 了
+suid=s6 participant=134167
+我 整 个 文件夹 都 拷 *-1 了 ，，
+suid=s7 participant=134729
+*pro* 不 会 吧
+suid=s8 participant=134729
+里面 没有 私人 的 东西 吧 ， 哈哈
+suid=s9 participant=134167
+*pro* 就 是 电影 那个 ， 要不 你 看看 ， 我 没 仔细 看 ，
+suid=s10 participant=134729
+哈哈 ， *pro* 开 玩笑 ， 好像 那些 电影 都 是 我 男朋友 给 我 的
+suid=s11 participant=134167
+*pro* 不好意思 ， *pro* 就 是 *OP* *pro* *T*-1 找 我 那 个 文件夹 的 时候 ， *pro* 看到 了 。。 因为 这边 我 不 下 电影 ， 所以 *pro* 看到 你 有 ， *pro* 就 找 你 拿
+suid=s12 participant=134167
+你 可以 再 看看 的 。。
+suid=s13 participant=134729
+*pro* 没 关系 啊 ， 呵呵
+suid=s14 participant=134729
+*pro* 对 ， 我 再 复习 一下 ， 好像 里面 有 些 电影 我 没 看 过
+suid=s15 participant=134167
+呵呵 *pro* 好 的
+suid=s16 participant=134729
+那 个 盘 太 久 了 ， 我 这 四 *RNR*-1 五 年 的 东西 都 在 里面
+suid=s17 participant=134167
+呵呵 ， *pro* 看 的 出来 。。
+suid=s18 participant=134167
+*pro* 好 的 呵呵
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="187" id="我0" start="184" text="pro" type="" />
+<我 comment="default value" end="528" id="我1" start="525" text="pro" type="" />
+<我 comment="default value" end="594" id="我2" start="591" text="pro" type="" />
+<我 comment="default value" end="653" id="我4" start="650" text="pro" type="" />
+<我 comment="default value" end="687" id="我5" start="684" text="pro" type="" />
+<我 comment="default value" end="702" id="我6" start="699" text="pro" type="" />
+<我 comment="default value" end="1022" id="我7" start="1019" text="pro" type="" />
+<我 comment="default value" end="622" id="我8" start="619" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="369" id="你1" start="366" text="pro" type="" />
+<它 comment="default value" end="456" id="它0" start="453" text="pro" type="" />
+<event comment="default value" end="787" id="ev0" start="784" text="pro" type="" />
+<pleonastic end="607" id="p0" start="604" text="pro" type="" />
+<previous_utterance comment="default value" end="121" id="pr0" start="118" text="pro" type="" />
+<previous_utterance comment="default value" end="234" id="pr1" start="231" text="pro" type="" />
+<previous_utterance comment="default value" end="833" id="pr2" start="830" text="pro" type="" />
+<previous_utterance comment="default value" end="907" id="pr3" start="904" text="pro" type="" />
+<previous_utterance comment="default value" end="1066" id="pr4" start="1063" text="pro" type="" />
+</TAGS>
+</ProTask>

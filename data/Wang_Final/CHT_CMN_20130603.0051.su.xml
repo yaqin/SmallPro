@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137879
+我们 的 plan 一直 要 用到 哪 一 天 呀 ？
+2013-06-03 10:21:17 冰红茶 我 也 不 知道 啊
+suid=s1 participant=137774
+你 有 什么 想法 *pro* 啥 时候 停 吗 ？
+suid=s2 participant=137879
+到时候 *pro* *pro* 提前 点 通知 哈 ， 我 怕 *pro* 忽然 跟 外界 失去 联系 啦 哈哈 2013-06-03 10:21:49 冰红茶 哦 ， 咱 得 统一 个 时间
+suid=s3 participant=137774
+*pro* 然后 一起 给 退 出来 才 行
+suid=s4 participant=137879
+嗯 我 目前 都 还 好 2013-06-03 10:22:26 王菁 *pro* 对 2013-06-03 10:22:54 冰红茶 我 六月 中旬 应该 就 不 在 费城 了
+suid=s5 participant=137879
+啊啊 ， 你 要 去 哪 2013-06-03 10:23:25 冰红茶 *pro* 西雅图 去 了
+suid=s6 participant=137879
+恭喜 啊 *pro* 找到 工作 了 2013-06-03 10:23:57 冰红茶 呵呵
+suid=s7 participant=137774
+你 呢
+suid=s8 participant=137879
+还 *pro* 在 看 哈哈 2013-06-03 10:24:11 冰红茶 恩
+suid=s9 participant=137879
+那 之后 *pro* 怎么 给 你 话费 呢 2013-06-03 10:24:22 冰红茶 *pro* 转账 吧
+suid=s10 participant=137879
+哦 PNC *pro* 有 *T*-1 吗 ？
+suid=s11 participant=137774
+*pro* 没有
+suid=s12 participant=137774
+*pro* 只 有 boa
+suid=s13 participant=137879
+这 。。
+suid=s14 participant=137879
+我 想想 2013-06-03 10:30:36 王菁 其他 几 个 人 去 哪 ？
+suid=s15 participant=137774
+*pro* 不 知道 。
+suid=s16 participant=137879
+*pro* 有没有
+suid=s17 participant=137774
+刘夕林 和 林菲亚 都 有 ， 刘玺 *pro* 不 知道 *T*-1
+suid=s18 participant=137879
+*pro* 行 你 几号 中 大概 我 要么 提前 打给 你 要么 转给 他们 两 个 中 *OP* *T*-1 有 PNC 的 那个 2013-06-03 10:33:21 冰红茶 也 可以
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="208" id="我0" start="205" text="pro" type="" />
+<我 comment="default value" end="651" id="我1" start="648" text="pro" type="" />
+<我 comment="default value" end="504" id="我2" start="501" text="pro" type="" />
+<我 comment="default value" end="722" id="我3" start="719" text="pro" type="" />
+<我 comment="default value" end="855" id="我4" start="852" text="pro" type="" />
+<我 comment="default value" end="892" id="我5" start="889" text="pro" type="" />
+<我 comment="default value" end="1038" id="我6" start="1035" text="pro" type="" />
+<我 comment="default value" end="1136" id="我7" start="1133" text="pro" type="" />
+<你 comment="default value" end="180" id="你0" start="177" text="pro" type="" />
+<你 comment="default value" end="186" id="你1" start="183" text="pro" type="" />
+<你 comment="default value" end="550" id="你3" start="547" text="pro" type="" />
+<你 comment="default value" end="764" id="你4" start="761" text="pro" type="" />
+<你 comment="default value" end="809" id="你5" start="806" text="pro" type="" />
+<我们 comment="default value" end="132" id="我们0" start="129" text="pro" type="" />
+<我们 comment="default value" end="300" id="我们1" start="297" text="pro" type="" />
+<他们 comment="default value" end="1079" id="他们0" start="1076" text="pro" type="" />
+<previous_utterance comment="default value" end="386" id="pr0" start="383" text="pro" type="" />
+<previous_utterance comment="default value" end="1181" id="pr1" start="1178" text="pro" type="" />
+</TAGS>
+</ProTask>

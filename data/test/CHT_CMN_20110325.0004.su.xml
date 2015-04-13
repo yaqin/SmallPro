@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+思思 ~ *pro* 推荐 你 一 本 好 书 《 瑾年 绝恋 醉 流苏 》 ， 古言 穿越 文 。
+*pro* 觉得 *pro* 挺 适合 你 的 。
+suid=s1 participant=138521
+oye
+suid=s2 participant=138521
+我 去 看看
+suid=s3 participant=135882
+*pro* 真的 超 好看 啊 ~~~
+suid=s4 participant=135882
+*pro* 力荐
+suid=s5 participant=138521
+*pro* ok
+suid=s6 participant=138521
+你 看 过 你 不 入 地狱 谁 入 地狱 没
+suid=s7 participant=135882
+我 记得 *pro* 好像 看 过
+suid=s8 participant=135882
+男 女 主角 叫 啥
+suid=s9 participant=138521
+钟原 沐尔
+suid=s10 participant=135882
+*pro* 看 了
+suid=s11 participant=135882
+那 女 主 一开始 还 是 光头 的
+suid=s12 participant=138521
+*pro* 是 啊
+suid=s13 participant=138521
+哈哈哈
+suid=s14 participant=138521
+哪个 好 好笑
+suid=s15 participant=135882
+*pro* 又 是 小白女 加 腹黑男
+suid=s16 participant=138521
+女 主 其实 也 挺 聪明 的
+suid=s17 participant=138521
+我 去 开大
+suid=s18 participant=135882
+草
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="37" id="我0" start="34" text="pro" type="" />
+<我 comment="default value" end="83" id="我1" start="80" text="pro" type="" />
+<我 comment="default value" end="248" id="我2" start="245" text="pro" type="" />
+<我 comment="default value" end="376" id="我3" start="373" text="pro" type="" />
+<我 comment="default value" end="488" id="我4" start="485" text="pro" type="" />
+<它 comment="default value" end="92" id="它0" start="89" text="pro" type="" />
+<它 comment="default value" end="201" id="它1" start="198" text="pro" type="" />
+<它 comment="default value" end="679" id="它2" start="676" text="pro" type="" />
+<pleonastic end="284" id="p0" start="281" text="pro" type="" />
+<previous_utterance comment="default value" end="573" id="pr0" start="570" text="pro" type="" />
+</TAGS>
+</ProTask>

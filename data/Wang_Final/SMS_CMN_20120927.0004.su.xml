@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133413
+最近 *pro* 好 么 绿卡 申请 到 了 么
+suid=s1 participant=133448
+绿卡 申请 到 了 ， 最近 工作 很 忙 ， *pro* 有 点 压力 。。。
+suid=s2 participant=133413
+*pro* 恭喜 恭喜 我 想 *PRO* 问 下 你 知道 一般 年 工资 多少 么 因为 我 现在 的 公司 想 *PRO* 留下 我 他们 和 我 谈 价格 我 没 概念
+suid=s3 participant=133448
+你 呢 ， *pro* 现在 还 在 上班 吗 ？
+*pro* 选 了 几 门 课 啊
+suid=s4 participant=133448
+啊 ， *pro* 真 的 啊 ， *pro* 太 好 了 啊 ， 一般 硕士 刚 开始 工作 年薪 五 到 六万 好像 差不多
+suid=s5 participant=133413
+哦哦 那 这 个 公司 太 少 了 她们 只 给 我 3万 左右
+suid=s6 participant=133413
+但是 *pro* 有 个 问题 是 我 可能 一 年 左右 就 得 去 子续 那边 所以 我 在 纠结 *pro* 要 不 要 在 这边 好好 找 工作
+suid=s7 participant=133448
+哦 ， *pro* 如果 能 给 你 sponsershipm 也 值 啊
+suid=s8 participant=133413
+*pro* 是 可以 给 但是 不 保证 绿卡
+suid=s9 participant=133448
+只要 *pro* 能 给 你 工作 签证 我 觉得 *pro* 可以 考虑 ， 今天 *pro* 有点 晚 了 ， 明天 我 有空 给 你 电话
+suid=s10 participant=133413
+*pro* 是 的 她们 肯定 给 我 工作 签证 这个 她们 保证 了 *T*-1 不过 *pro* 就 是 工资 低 啊 但是 子续 他 可能 要 去 加州 所以 我 估计 一 年 *pro* 也 就 跑 了 所以 我 在 纠结 *pro* 现在 要 不 要 花 这么 大 功夫 找 工作 *pro* 明天 聊 哈
+suid=s11 participant=133448
+哦 ， *pro* 是 有点 纠结 ， *pro* 好 的 ， 明天 *pro* 聊
+suid=s12 participant=133448
+*pro* 晚安
+suid=s13 participant=133413
+*pro* 好 的 *pro* 晚安
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="108" id="我0" start="105" text="pro" type="" />
+<我 comment="default value" end="152" id="我1" start="149" text="pro" type="" />
+<我 comment="default value" end="494" id="我2" start="491" text="pro" type="" />
+<我 comment="default value" end="543" id="我3" start="540" text="pro" type="" />
+<我 comment="default value" end="905" id="我4" start="902" text="pro" type="" />
+<我 comment="default value" end="929" id="我5" start="926" text="pro" type="" />
+<我 comment="default value" end="1118" id="我6" start="1115" text="pro" type="" />
+<你 comment="default value" end="35" id="你0" start="32" text="pro" type="" />
+<你 comment="default value" end="274" id="你1" start="271" text="pro" type="" />
+<你 comment="default value" end="294" id="你2" start="291" text="pro" type="" />
+<你 comment="default value" end="737" id="你3" start="734" text="pro" type="" />
+<你 comment="default value" end="1004" id="你4" start="1001" text="pro" type="" />
+<你 comment="default value" end="1071" id="你5" start="1068" text="pro" type="" />
+<我们 comment="default value" end="959" id="我们0" start="956" text="pro" type="" />
+<我们 comment="default value" end="1035" id="我们1" start="1032" text="pro" type="" />
+<他们 comment="default value" end="599" id="他们0" start="596" text="pro" type="" />
+<他们 comment="default value" end="660" id="他们1" start="657" text="pro" type="" />
+<他们 comment="default value" end="714" id="他们2" start="711" text="pro" type="" />
+<pleonastic end="343" id="p0" start="340" text="pro" type="" />
+<pleonastic end="357" id="p1" start="354" text="pro" type="" />
+<pleonastic end="754" id="p2" start="751" text="pro" type="" />
+<pleonastic end="858" id="p3" start="855" text="pro" type="" />
+<previous_utterance comment="default value" end="812" id="pr0" start="809" text="pro" type="" />
+<previous_utterance comment="default value" end="1020" id="pr1" start="1017" text="pro" type="" />
+<previous_utterance comment="default value" end="1108" id="pr2" start="1105" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133574
+你 回来 了 ？
+suid=s1 participant=131944
+*pro* 是 啊
+suid=s2 participant=133574
+包 *pro* 帮 我 *PRO* 问 *T*-1 怎样 了
+suid=s3 participant=131944
+1075 美元 ， 不过 人家 没有 货 ， 所以 ， *pro* 也 省心 了 [ 表情 ]
+suid=s4 participant=133574
+中国人 都 买完 了 [ 表情 ]
+suid=s5 participant=131944
+那 *pro* 就 不 知道 *T*-1 了 ， *pro* 有 *pro* 还 麻烦 呢 ， 我 可 是 把 你 的 指示 当 最高 指示 哦 [ 表情 ]
+suid=s6 participant=133574
+我 说 *pro* 怎么 不 打 电话 给 我 呢
+suid=s7 participant=133574
+*pro* 下 次 吧
+suid=s8 participant=131944
+侨光路 华夏 大 酒店 ， *pro* 知道 *T*-1 么 ？
+suid=s9 participant=133574
+*pro* 不 太 清楚
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="285" id="我0" start="282" text="pro" type="" />
+<我 comment="default value" end="316" id="我1" start="313" text="pro" type="" />
+<我 comment="default value" end="542" id="我2" start="539" text="pro" type="" />
+<你 comment="default value" end="107" id="你0" start="104" text="pro" type="" />
+<你 comment="default value" end="191" id="你1" start="188" text="pro" type="" />
+<你 comment="default value" end="394" id="你2" start="391" text="pro" type="" />
+<你 comment="default value" end="496" id="你3" start="493" text="pro" type="" />
+<我们 comment="default value" end="443" id="我们0" start="440" text="pro" type="" />
+<existential comment="default value" end="308" id="e0" start="305" text="pro" type="" />
+<previous_utterance comment="default value" end="68" id="pr0" start="65" text="pro" type="" />
+</TAGS>
+</ProTask>

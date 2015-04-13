@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134116
+hi , 陳 小姐 , 之前 *OP* *pro* 發給 您 *T*-1 的 年審 資料 *pro* 有 確認 過 *T*-2 嗎 ? [ 表情 ]
+suid=s1 participant=131226
+恩 。
+suid=s2 participant=131226
+*pro* 确认 了
+suid=s3 participant=134116
+恩 , *pro* 好 的 呢
+suid=s4 participant=134116
+那 您 公司 *PRO* 有空 安排 下 尾款 , *pro* 放假 前 我 把 文件 寄給 您 公司 *-1 吧 , 呵呵
+suid=s5 participant=131226
+*pro* 好 的 。
+尾款 *pro* 已经 交给 财务 *T*-1 ， 等待 审核 呢 。
+suid=s6 participant=131226
+*pro* 应该 快 了
+suid=s7 participant=134116
+*pro* 好 的 , *pro* 沒 事
+suid=s8 participant=134116
+你們 幾號 放假 啊
+suid=s9 participant=131226
+*pro* 30号 开始 放
+suid=s10 participant=134116
+哈哈 ,, *pro* 一樣 呢
+suid=s11 participant=134116
+我們 也 是 , 8號 上班
+suid=s12 participant=131226
+但是 我们 3号 就 上班 了
+suid=s13 participant=134116
+啊 ,, *pro* 不 是 中秋 跟 國慶 一起 放假 嗎
+suid=s14 participant=131226
+*pro* 是 的 。
+我们 放 三 天 就 不错 了
+suid=s15 participant=134116
+不過 我們 是 有 客戶 放 三 天 的 , 可能 公司 規定 也 不 一樣
+suid=s16 participant=131226
+哎 ， 我们 最 惨 了 。
+suid=s17 participant=134116
+各 有 各 的 好 吧
+suid=s18 participant=134116
+我們 就 是 假期 *pro* 正常 跟著 國家 走 , 其他 的 福利 什麽 的 不 咋地
+suid=s19 participant=131226
+我们 不仅 没 啥 福利 ， *pro* 假期 更 是 没有 *-1
+suid=s20 participant=134116
+*pro* 是 不 是 你們 那 個 地方 的 原因 啊
+suid=s21 participant=131226
+*pro* 有 这 个 原因
+suid=s22 participant=134116
+*pro* 對 啊 ,, *pro* 應該 是 跟 區域 城市 有關
+suid=s23 participant=134116
+在 深圳 這邊 什麽 都 高
+suid=s24 participant=134116
+*pro* 就 是 工資 吧 有些 公司 不錯 , 有些 不 行 , 我們 就 不 行 啦
+suid=s25 participant=134116
+*pro* 一般般
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="52" id="我0" start="49" text="pro" type="" />
+<我 comment="default value" end="165" id="我1" start="162" text="pro" type="" />
+<我 comment="default value" end="351" id="我2" start="348" text="pro" type="" />
+<你 comment="default value" end="77" id="你0" start="74" text="pro" type="" />
+<你 comment="default value" end="272" id="你1" start="269" text="pro" type="" />
+<它 comment="default value" end="988" id="它0" start="985" text="pro" type="" />
+<它 comment="default value" end="1229" id="它1" start="1226" text="pro" type="" />
+<我们 comment="default value" end="538" id="我们0" start="535" text="pro" type="" />
+<我们 comment="default value" end="587" id="我们1" start="584" text="pro" type="" />
+<我们 comment="default value" end="1068" id="我们2" start="1065" text="pro" type="" />
+<我们 comment="default value" end="1396" id="我们3" start="1393" text="pro" type="" />
+<你们 comment="default value" end="718" id="你们0" start="715" text="pro" type="" />
+<existential comment="default value" end="1173" id="e0" start="1170" text="pro" type="" />
+<event comment="default value" end="411" id="ev0" start="408" text="pro" type="" />
+<pleonastic end="463" id="p0" start="460" text="pro" type="" />
+<pleonastic end="1116" id="p1" start="1113" text="pro" type="" />
+<pleonastic end="1322" id="p2" start="1319" text="pro" type="" />
+<previous_utterance comment="default value" end="207" id="pr0" start="204" text="pro" type="" />
+<previous_utterance comment="default value" end="336" id="pr1" start="333" text="pro" type="" />
+<previous_utterance comment="default value" end="451" id="pr2" start="448" text="pro" type="" />
+<previous_utterance comment="default value" end="772" id="pr3" start="769" text="pro" type="" />
+<previous_utterance comment="default value" end="1216" id="pr4" start="1213" text="pro" type="" />
+</TAGS>
+</ProTask>

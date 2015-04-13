@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132614
+你 妈 还 在 做事 吗
+suid=s1 participant=130521
+她 前 一 段 时间 在 幼儿园 打工
+suid=s2 participant=130521
+半 个 月 前 我 姨夫 出 车祸 过世 了
+suid=s3 participant=130521
+她 要 照顾 我 小姨 ， 辞工 了
+suid=s4 participant=132614
+哦
+suid=s5 participant=130521
+我 嫂子 可能 怀孕 了
+suid=s6 participant=132614
+*pro* 未必 要 去 上海
+suid=s7 participant=130521
+所以 我 爸妈 可能 会 去 上海
+suid=s8 participant=130521
+*pro* 现在 还 不 确定
+suid=s9 participant=130521
+他们 想 *PRO* 去 ， 我 让 他们 *PRO* 征求 ### 的 意见
+suid=s10 participant=132614
+*pro* 就 是
+suid=s11 participant=132614
+要是 他们 不 喜欢 *pro* 就 别 去 了
+suid=s12 participant=130521
+*pro* 上 次 去 上海 跟 嫂子 闹 得 很 僵 ， 嫂子 未必 想 *PRO* 让 他们 *PRO* 去
+suid=s13 participant=130521
+他们 很 想 *PRO* 去 的 ， *pro* 抱 孙子 的 愿望 很 强烈
+suid=s14 participant=132614
+*pro* 就 是 啊
+suid=s15 participant=132614
+老人 啊
+suid=s16 participant=130521
+我 是 觉得 他们 关系 已经 那么 僵 了 ， *pro* 没 必要 去
+suid=s17 participant=130521
+媳妇 自己 妈妈 更 合适
+suid=s18 participant=132614
+*pro* 就 是
+suid=s19 participant=132614
+*pro* 吃苦 不 讨好
+suid=s20 participant=130521
+我 会 跟 他们 讲明 利害
+suid=s21 participant=130521
+*pro* 劝 他们 *PRO* 别 去
+suid=s22 participant=132614
+如果 他们 需要 *pro* 可以
+suid=s23 participant=132614
+如果 *pro* 不 喜欢 他们 去 ， *pro* 就 别 去
+suid=s24 participant=132614
+免得 以后 *pro* 有 话 说
+suid=s25 participant=130521
+*pro* 也 是
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="1031" id="我0" start="1028" text="pro" type="" />
+<她 comment="default value" end="284" id="她0" start="281" text="pro" type="" />
+<她 comment="default value" end="1129" id="她1" start="1126" text="pro" type="" />
+<她 comment="default value" end="1193" id="她2" start="1190" text="pro" type="" />
+<他们 comment="default value" end="372" id="他们0" start="369" text="pro" type="" />
+<他们 comment="default value" end="532" id="他们1" start="529" text="pro" type="" />
+<他们 comment="default value" end="574" id="他们2" start="571" text="pro" type="" />
+<他们 comment="default value" end="678" id="他们3" start="675" text="pro" type="" />
+<他们 comment="default value" end="825" id="他们4" start="822" text="pro" type="" />
+<他们 comment="default value" end="946" id="他们5" start="943" text="pro" type="" />
+<他们 comment="default value" end="1147" id="他们6" start="1144" text="pro" type="" />
+<他们 comment="default value" end="1089" id="他们7" start="1086" text="pro" type="" />
+<previous_utterance comment="default value" end="727" id="pr0" start="724" text="pro" type="" />
+<previous_utterance comment="default value" end="483" id="pr1" start="480" text="pro" type="" />
+<previous_utterance comment="default value" end="908" id="pr2" start="905" text="pro" type="" />
+<previous_utterance comment="default value" end="1233" id="pr3" start="1230" text="pro" type="" />
+</TAGS>
+</ProTask>

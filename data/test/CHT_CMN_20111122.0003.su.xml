@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138244
+老师 我 想 *PRO* 干完 这 年 就 不 在 这 啦 ! *pro* 想 *PRO* 先 回家 再 去 迪拜 （ *pro* 来自 手机 QQ : http:／／mobile.qq.com／v／ ）
+suid=s1 participant=138194
+哦 ， *pro* 可以 啊 。
+suid=s2 participant=138244
+这里 一 年 就 好 了 *pro* 先 回国 我 现在 在 投 简历 了 如果 *pro* 不 行 *pro* 可能 要 找 袁 经理 *PRO* 帮忙 啦
+suid=s3 participant=138194
+*pro* 可以 啊 ， *pro* 需要 的话 我 可以 跟 袁 经理 说说 这 事 。
+suid=s4 participant=138244
+恩 *pro* 先 靠 自己 *pro* 实在 不 行 就 找 他 *PRO* 帮 下 忙 !
+suid=s5 participant=138194
+*pro* 好 的 ， *pro* 没 事 。
+suid=s6 participant=138244
+*pro* 谢谢 *pro* 二月 就 结束 *pro* 一 年 了
+suid=s7 participant=138244
+我 得 上班 了 *pro* 早点 睡 吧 老师
+suid=s8 participant=138194
+*pro* 回国 *pro* 会 经过 武汉 吗 。
+*pro* 好 的 。
+*pro* 再见 。
+suid=s9 participant=138244
+*pro* 应该 不 经过 ! 以后 *pro* 回 武汉 拿 护口 看看 老师 现在 我 有 个 男 朋友
+suid=s10 participant=138244
+他 是 英国 的 事业 有 成 吧
+suid=s11 participant=138244
+他 明年 去 迪拜 要 我 *PRO* 和 他 走
+suid=s12 participant=138194
+*pro* 祝贺 [ 图片 ]
+suid=s13 participant=138244
+但 *pro* 怎么 也 得 有 工作
+suid=s14 participant=138194
+*pro* *pro* 可以 到 迪拜 前 先 将 工作 落实 *-1 。
+suid=s15 participant=138244
+*pro* 是 啊 要 *pro* 好 的话 我 妈 说 *pro* 要 我 *PRO* 学习
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="64" id="我0" start="61" text="pro" type="" />
+<我 comment="default value" end="92" id="我1" start="89" text="pro" type="" />
+<我 comment="default value" end="219" id="我2" start="216" text="pro" type="" />
+<我 comment="default value" end="247" id="我3" start="244" text="pro" type="" />
+<我 comment="default value" end="257" id="我4" start="254" text="pro" type="" />
+<我 comment="default value" end="388" id="我5" start="385" text="pro" type="" />
+<我 comment="default value" end="401" id="我6" start="398" text="pro" type="" />
+<我 comment="default value" end="473" id="我7" start="470" text="pro" type="" />
+<我 comment="default value" end="512" id="我8" start="509" text="pro" type="" />
+<我 comment="default value" end="521" id="我9" start="518" text="pro" type="" />
+<我 comment="default value" end="703" id="我10" start="700" text="pro" type="" />
+<我 comment="default value" end="722" id="我11" start="719" text="pro" type="" />
+<我 comment="default value" end="886" id="我12" start="883" text="pro" type="" />
+<我 comment="default value" end="932" id="我13" start="929" text="pro" type="" />
+<你 comment="default value" end="326" id="你2" start="323" text="pro" type="" />
+<你 comment="default value" end="583" id="你3" start="580" text="pro" type="" />
+<你 comment="default value" end="626" id="你4" start="623" text="pro" type="" />
+<你 comment="default value" end="635" id="你5" start="632" text="pro" type="" />
+<你 comment="default value" end="978" id="你6" start="975" text="pro" type="" />
+<你 comment="default value" end="984" id="你7" start="981" text="pro" type="" />
+<她 comment="default value" end="1073" id="她0" start="1070" text="pro" type="" />
+<我们 comment="default value" end="665" id="我们0" start="662" text="pro" type="" />
+<pleonastic end="1056" id="p0" start="1053" text="pro" type="" />
+<previous_utterance comment="default value" end="166" id="pr2" start="163" text="pro" type="" />
+<previous_utterance comment="default value" end="313" id="pr3" start="310" text="pro" type="" />
+<previous_utterance comment="default value" end="461" id="pr4" start="458" text="pro" type="" />
+<previous_utterance comment="default value" end="653" id="pr5" start="650" text="pro" type="" />
+<previous_utterance comment="default value" end="1044" id="pr6" start="1041" text="pro" type="" />
+<other comment="default value" end="535" id="o0" start="532" text="pro" type="" />
+</TAGS>
+</ProTask>

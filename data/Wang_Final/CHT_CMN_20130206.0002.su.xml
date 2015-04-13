@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134112
+那 我 问 下 马 姨
+suid=s1 participant=134112
+*pro* 好 *pro* 谢谢 *pro* 新年 快乐
+suid=s2 participant=131226
+这个 你 问 下 财务 *pro* 去年 是 如何 计算 *T*-1 的
+suid=s3 participant=131226
+*pro* 应该 是 和 去年 一样 的
+suid=s4 participant=134112
+*pro* 不 去 行 不 行 啊 ？
+suid=s5 participant=131226
+*pro* 不 谢 。
+*pro* 新年 快乐
+suid=s6 participant=131226
+初八 你们 俩 谁 来 呢 ？
+suid=s7 participant=134112
+那 到时候 我们 俩 看看 *pro* 去 一 个
+suid=s8 participant=131226
+初九 初十 培训 谁 来 ？
+suid=s9 participant=134112
+*pro* 都 去 肯定 不 行
+suid=s10 participant=134112
+*pro* 不 许 *pro* 关门
+suid=s11 participant=131226
+*pro* 肯定 不 行
+suid=s12 participant=131226
+你们 两 个 人 都 不 想 *PRO* 来 吗 ？
+suid=s13 participant=131226
+但是 卢 总 要求 广州 的 都 过来 了
+suid=s14 participant=134112
+*pro* 必须 穿 正装 吗 ？
+suid=s15 participant=131226
+*pro* 行
+suid=s16 participant=131226
+*pro* 来 一 个
+suid=s17 participant=134112
+哦 我们 没有 冬季 工装
+suid=s18 participant=131226
+*pro* 是
+suid=s19 participant=131226
+*OP* *pro* *T*-1 初八 开会 那 天 *pro* 穿 工装 吧
+suid=s20 participant=131226
+*pro* 初九 初十 正装 不 限于 工装
+suid=s21 participant=134112
+春秋装 ， 西装 太 单薄 了 点
+suid=s22 participant=131226
+以前 的 呀
+suid=s23 participant=131226
+以前 的 是 什么 ？
+suid=s24 participant=134112
+*pro* 好 的 *pro* 知道 了 。
+suid=s25 participant=131226
+我们 现在 的 工装 也 没有 *OP* *T*-1 厚 的 呀
+suid=s26 participant=131226
+*pro* 开会 要求 的 *pro* 都 穿 工装 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="79" id="我0" start="76" text="pro" type="" />
+<我 comment="default value" end="239" id="我1" start="236" text="pro" type="" />
+<我 comment="default value" end="520" id="我2" start="517" text="pro" type="" />
+<我 comment="default value" end="1163" id="我3" start="1160" text="pro" type="" />
+<你 comment="default value" end="88" id="你0" start="85" text="pro" type="" />
+<你 comment="default value" end="286" id="你1" start="283" text="pro" type="" />
+<你 comment="default value" end="530" id="你3" start="527" text="pro" type="" />
+<你 comment="default value" end="298" id="你2" start="295" text="pro" type="" />
+<它 comment="default value" end="191" id="它0" start="188" text="pro" type="" />
+<我们 comment="default value" end="394" id="我们0" start="391" text="pro" type="" />
+<我们 comment="default value" end="713" id="我们1" start="710" text="pro" type="" />
+<我们 comment="default value" end="795" id="我们2" start="792" text="pro" type="" />
+<我们 comment="default value" end="940" id="我们3" start="937" text="pro" type="" />
+<我们 comment="default value" end="981" id="我们4" start="978" text="pro" type="" />
+<我们 comment="default value" end="1265" id="我们5" start="1262" text="pro" type="" />
+<我们 comment="default value" end="1279" id="我们6" start="1276" text="pro" type="" />
+<我们 comment="default value" end="918" id="我们7" start="915" text="pro" type="" />
+<你们 comment="default value" end="475" id="你们0" start="472" text="pro" type="" />
+<他们 comment="default value" end="139" id="他们0" start="136" text="pro" type="" />
+<event comment="default value" end="567" id="ev0" start="564" text="pro" type="" />
+<previous_utterance comment="default value" end="71" id="pr0" start="68" text="pro" type="" />
+<previous_utterance comment="default value" end="759" id="pr1" start="756" text="pro" type="" />
+<previous_utterance comment="default value" end="877" id="pr2" start="874" text="pro" type="" />
+<previous_utterance comment="default value" end="1153" id="pr3" start="1150" text="pro" type="" />
+</TAGS>
+</ProTask>

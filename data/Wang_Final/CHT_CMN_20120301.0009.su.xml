@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138349
+*pro* 明天 想 *PRO* 去 ROSE 么
+suid=s1 participant=138194
+*pro* 啥 时候 ？
+suid=s2 participant=138349
+你 那 个 钱 什么 时候 交 *-1 啊
+suid=s3 participant=138194
+早上 吧
+suid=s4 participant=138349
+*pro* 貌似 只有 花期 银行 有 银联
+suid=s5 participant=138194
+哦
+suid=s6 participant=138349
+*pro* *pro* 这样 的话 只 能 去 中国 城 那边
+suid=s7 participant=138194
+但是 我们 这边 貌似 *pro* 没有 花期
+suid=s8 participant=138194
+花旗
+suid=s9 participant=138349
+*pro* 是 啊 所以 要不 我 就 明早 去 一 趟
+suid=s10 participant=138194
+？
+*pro* 去 哪儿 ？
+suid=s11 participant=138194
+银行
+suid=s12 participant=138349
+*pro* 去 中国 城 那边 啊 ， 你 要 有 时间 咱 就 顺道 去 ROSE *pro* 没 时间 我 就 回来 了
+suid=s13 participant=138349
+就 *pro* rose 附近 *pro* 貌似
+suid=s14 participant=138194
+*pro* 好 的
+suid=s15 participant=138349
+你 想 *PRO* 去 啊 [ 表情 ]
+suid=s16 participant=138194
+*pro* 去 rose 啊
+suid=s17 participant=138194
+哈哈 我 压抑 好久 了
+suid=s18 participant=138349
+哈哈 *pro* 好 吧
+suid=s19 participant=138194
+*pro* 要 释放 下
+suid=s20 participant=138349
+哈哈哈 [ 表情 ]
+suid=s21 participant=138349
+我 带 你 *PRO* 去 做 30 姐 的 火车
+suid=s22 participant=138194
+*pro* 好 的 传说 中 的 火车
+suid=s23 participant=138349
+嗯 [ 表情 ]
+suid=s24 participant=138194
+你 在 学校 电脑 可以 上 qq ？
+suid=s25 participant=138349
+我 带 自己 的 电脑 啊
+suid=s26 participant=138194
+哦 *pro* soga
+suid=s27 participant=138349
+网页 版 也 能 上 啊 只不过 学校 电脑 没有 中文
+suid=s28 participant=138194
+网页 版 的 好像 很 慢 呢
+suid=s29 participant=138349
+*pro* 还 行 *pro* 看 网速 吧
+suid=s30 participant=138349
+*pro* 几点 走 啊
+suid=s31 participant=138349
+明早
+suid=s32 participant=138194
+你 想 *PRO* 啥 时 走 ？
+suid=s33 participant=138349
+9点 啊
+suid=s34 participant=138194
+*pro* 行
+suid=s35 participant=138194
+那 今晚 *pro* 要 早 睡 了
+suid=s36 participant=138349
+*pro* 回来 我 跟 你 一块 去 交 房租
+suid=s37 participant=138349
+嗯
+suid=s38 participant=138194
+哎呀 我 下午 1点半 到 两点 有 writing coach 我们 啥 时候 回来 ？
+suid=s39 participant=138349
+估计 11点 吧 *pro* 去完 ROSE *pro* 就 回来
+suid=s40 participant=138349
+*pro* 就 不 去 别的 地儿 了 吧 *pro* 也 没有 体力
+suid=s41 participant=138194
+*pro* 好 的 反正 我 1点钟 要 赶 回来
+suid=s42 participant=138349
+嗯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="556" id="我0" start="553" text="pro" type="" />
+<我 comment="default value" end="599" id="我1" start="596" text="pro" type="" />
+<我 comment="default value" end="1223" id="我2" start="1220" text="pro" type="" />
+<我 comment="default value" end="1814" id="我3" start="1811" text="pro" type="" />
+<我 comment="default value" end="1828" id="我4" start="1825" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="291" id="你1" start="288" text="pro" type="" />
+<你 comment="default value" end="484" id="你2" start="481" text="pro" type="" />
+<你 comment="default value" end="787" id="你3" start="784" text="pro" type="" />
+<你 comment="default value" end="912" id="你4" start="909" text="pro" type="" />
+<你 comment="default value" end="1414" id="你5" start="1411" text="pro" type="" />
+<你 comment="default value" end="1606" id="你6" start="1603" text="pro" type="" />
+<你 comment="default value" end="1648" id="你7" start="1645" text="pro" type="" />
+<你 comment="default value" end="1867" id="你8" start="1864" text="pro" type="" />
+<你 comment="default value" end="1889" id="你9" start="1886" text="pro" type="" />
+<它 comment="default value" end="1363" id="它0" start="1360" text="pro" type="" />
+<existential comment="default value" end="356" id="e0" start="353" text="pro" type="" />
+<generic comment="default value" end="1373" id="g0" start="1370" text="pro" type="" />
+<pleonastic end="85" id="p0" start="82" text="pro" type="" />
+<pleonastic end="206" id="p1" start="203" text="pro" type="" />
+<pleonastic end="285" id="p2" start="282" text="pro" type="" />
+<pleonastic end="649" id="p3" start="646" text="pro" type="" />
+<pleonastic end="663" id="p4" start="660" text="pro" type="" />
+<previous_utterance comment="default value" end="425" id="pr0" start="422" text="pro" type="" />
+<previous_utterance comment="default value" end="700" id="pr1" start="697" text="pro" type="" />
+<previous_utterance comment="default value" end="874" id="pr2" start="871" text="pro" type="" />
+<previous_utterance comment="default value" end="1046" id="pr3" start="1043" text="pro" type="" />
+<previous_utterance comment="default value" end="1565" id="pr4" start="1562" text="pro" type="" />
+<previous_utterance comment="default value" end="1931" id="pr5" start="1928" text="pro" type="" />
+</TAGS>
+</ProTask>

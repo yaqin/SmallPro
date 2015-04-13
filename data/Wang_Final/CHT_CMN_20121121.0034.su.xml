@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136755
+印刷 委托书 拿到 了
+suid=s1 participant=136755
+我 扫描 下 发给 你
+suid=s2 participant=136755
+原件 我 今天 寄 出去 *T*-1
+suid=s3 participant=137872
+*pro* 太 好 了 *pro* 谢谢 啦
+suid=s4 participant=137872
+*pro* 好 的 *pro* 辛苦 了
+suid=s5 participant=136755
+原件 *pro* 寄给 你 *T*-1 就 行 了 吧 ？
+suid=s6 participant=137872
+*pro* 稍等 我 问 一下 印厂 那边
+suid=s7 participant=136755
+*pro* 好 的
+suid=s8 participant=137872
+*pro* 直接 寄给 我 吧
+suid=s9 participant=136755
+*pro* 对 了 ， 印刷厂 的 收款 证明 原件 还 没 寄 过来
+suid=s10 participant=136755
+吗 ？
+suid=s11 participant=136755
+*pro* 什么 时候 能 到 ？
+suid=s12 participant=137872
+我 马上 问
+suid=s13 participant=136755
+*pro* 好
+suid=s14 participant=137872
+*pro* 稍等 哈 *pro* 正在 问 印厂 那边 呢
+suid=s15 participant=136755
+*pro* 对 ，
+suid=s16 participant=136755
+*pro* 是 传真 ， 但 *pro* 不 知道 *pro* 是 谁 传 的
+suid=s17 participant=137872
+*pro* 不好意思 ， 我们 没 协调 好 。
+suid=s18 participant=136755
+*pro* 可以 ， 一般 我 应该 在 *pro* 拿到 证明 后 才 寄出 委印单 的 。
+委印单 刚刚 寄 出去 了 ， 你 注意 *PRO* 查收
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="168" id="我0" start="165" text="pro" type="" />
+<我 comment="default value" end="257" id="我1" start="254" text="pro" type="" />
+<我 comment="default value" end="664" id="我2" start="661" text="pro" type="" />
+<我 comment="default value" end="764" id="我3" start="761" text="pro" type="" />
+<我 comment="default value" end="817" id="我4" start="814" text="pro" type="" />
+<我 comment="default value" end="891" id="我5" start="888" text="pro" type="" />
+<你 comment="default value" end="216" id="你0" start="213" text="pro" type="" />
+<你 comment="default value" end="311" id="你1" start="308" text="pro" type="" />
+<你 comment="default value" end="397" id="你2" start="394" text="pro" type="" />
+<你 comment="default value" end="536" id="你3" start="533" text="pro" type="" />
+<你 comment="default value" end="653" id="你4" start="650" text="pro" type="" />
+<它 comment="default value" end="749" id="它0" start="746" text="pro" type="" />
+<它 comment="default value" end="775" id="它1" start="772" text="pro" type="" />
+<pleonastic end="156" id="p0" start="153" text="pro" type="" />
+<previous_utterance comment="default value" end="206" id="pr0" start="203" text="pro" type="" />
+<previous_utterance comment="default value" end="360" id="pr1" start="357" text="pro" type="" />
+<previous_utterance comment="default value" end="440" id="pr2" start="437" text="pro" type="" />
+<previous_utterance comment="default value" end="617" id="pr3" start="614" text="pro" type="" />
+<previous_utterance comment="default value" end="711" id="pr4" start="708" text="pro" type="" />
+<previous_utterance comment="default value" end="870" id="pr5" start="867" text="pro" type="" />
+</TAGS>
+</ProTask>

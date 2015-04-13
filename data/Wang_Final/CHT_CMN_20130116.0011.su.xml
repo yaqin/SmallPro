@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136687
+*pro* 在 吗
+suid=s1 participant=136863
+嗯 *pro* 收到 ！
+suid=s2 participant=136863
+那 单词 用 什么 书 呢
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="71" id="我0" start="68" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+</TAGS>
+</ProTask>

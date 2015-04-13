@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=130521
+你 还 没 睡
+suid=s1 participant=130521
+你 已经 到 美国 了 吗
+suid=s2 participant=132677
+我 离 *pro* 出国 不 远 了 ， 我 在 中国 新疆
+suid=s3 participant=130521
+你 还 真是 天南海北 呀
+suid=s4 participant=130521
+我 先 吃饭 去 ， *pro* 饿死 了
+suid=s5 participant=132677
+*pro* 真 是 的 ， *pro* 好 的
+suid=s6 participant=132677
+*pro* 少 吃 点 ， *pro* 小心 *pro* 长胖
+suid=s7 participant=132677
+我 也 要 先 睡 了 ， *pro* 坚持 到 现在 也 不 容易 了
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="112" id="我0" start="109" text="pro" type="" />
+<我 comment="default value" end="218" id="我1" start="215" text="pro" type="" />
+<我 comment="default value" end="380" id="我2" start="377" text="pro" type="" />
+<你 comment="default value" end="256" id="你0" start="253" text="pro" type="" />
+<你 comment="default value" end="307" id="你1" start="304" text="pro" type="" />
+<你 comment="default value" end="321" id="你2" start="318" text="pro" type="" />
+<你 comment="default value" end="330" id="你3" start="327" text="pro" type="" />
+<previous_utterance comment="default value" end="270" id="pr0" start="267" text="pro" type="" />
+</TAGS>
+</ProTask>

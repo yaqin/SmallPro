@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133491
+hi
+suid=s1 participant=133485
+清雅
+suid=s2 participant=133485
+*pro* 在 吗 ？
+suid=s3 participant=133491
+en
+suid=s4 participant=133491
+*pro* 上 个 星期 爸爸 过来 时 ， 给 了 一 部 新 手机
+suid=s5 participant=133491
+*pro* 是 舅舅 的
+suid=s6 participant=133485
+呵呵
+suid=s7 participant=133491
+*pro* 不 是
+suid=s8 participant=133485
+*pro* IPHONE ?
+suid=s9 participant=133491
+三星
+suid=s10 participant=133485
+哦
+suid=s11 participant=133485
+你 喜欢 吗 ？
+suid=s12 participant=133491
+恩
+suid=s13 participant=133491
+*pro* 但 大 不 了 电话
+suid=s14 participant=133485
+？
+suid=s15 participant=133491
+*pro* 好像 是 移动 网络 不 可 用
+suid=s16 participant=133485
+啊
+suid=s17 participant=133485
+旧 手机 呢 ？
+suid=s18 participant=133485
+我 怀疑 *pro* 是 联通 的
+suid=s19 participant=133485
+这 周 *pro* 回来 吗 ？
+suid=s20 participant=133491
+*pro* 还 不 确定
+suid=s21 participant=133485
+哦
+suid=s22 participant=133485
+要是 *pro* 不 回来 我 就 让 阿姨 *PRO* 给 你 送 饭
+suid=s23 participant=133485
+*pro* 洗 衣服
+suid=s24 participant=133485
+*pro* 还 像 上 次 那样
+suid=s25 participant=133485
+*pro* 周六 下午 来 。
+suid=s26 participant=133491
+恩 ， *pro* 好
+suid=s27 participant=133491
+那 *pro* 如果 是 联通 的 *pro* 怎么办 呢
+suid=s28 participant=133485
+*pro* 换 号码
+suid=s29 participant=133485
+我 再 给 你 买 个 号
+suid=s30 participant=133485
+*pro* 换 号 可以 吧 ？
+suid=s31 participant=133491
+*pro* 好 吧
+suid=s32 participant=133491
+那 我 这 个 星期 不 回去
+suid=s33 participant=133485
+*pro* 好
+suid=s34 participant=133485
+你 自己 要 注意
+suid=s35 participant=133485
+*pro* 不 能 一 个 人 住
+suid=s36 participant=133485
+旧 手机 还 在 你 那里 吗
+suid=s37 participant=133491
+*pro* 在
+suid=s38 participant=133491
+如果 寝室 没 别人 ， 我 同桌 和 我 一起
+suid=s39 participant=133485
+*pro* 好 的
+suid=s40 participant=133491
+恩
+suid=s41 participant=133485
+那 *pro* 先 用 旧 手机
+suid=s42 participant=133491
+*pro* 没有 牛奶 了
+suid=s43 participant=133485
+我 要 阿姨 *PRO* 给 你 带来
+suid=s44 participant=133485
+水果 呢
+suid=s45 participant=133491
+*pro* 吃完 了
+suid=s46 participant=133485
+梨子 ， 苹果 我 已经 买好 *T*-1 了
+suid=s47 participant=133491
+*pro* 是 小 梨 吗
+suid=s48 participant=133485
+*pro* *OP* *T*-1 大 的
+suid=s49 participant=133485
+你 要 *OP* *T*-1 小 的 我 给 你 买
+suid=s50 participant=133491
+*pro* *OP* *T*-1 小 的 吧
+suid=s51 participant=133485
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="785" id="我0" start="782" text="pro" type="" />
+<我 comment="default value" end="1053" id="我2" start="1050" text="pro" type="" />
+<我 comment="default value" end="1147" id="我3" start="1144" text="pro" type="" />
+<我 comment="default value" end="1273" id="我4" start="1270" text="pro" type="" />
+<我 comment="default value" end="1844" id="我5" start="1841" text="pro" type="" />
+<我 comment="default value" end="1935" id="我6" start="1932" text="pro" type="" />
+<你 comment="default value" end="92" id="你0" start="89" text="pro" type="" />
+<你 comment="default value" end="744" id="你1" start="741" text="pro" type="" />
+<你 comment="default value" end="859" id="你2" start="856" text="pro" type="" />
+<你 comment="default value" end="1228" id="你4" start="1225" text="pro" type="" />
+<你 comment="default value" end="1519" id="你5" start="1516" text="pro" type="" />
+<你 comment="default value" end="1721" id="你6" start="1718" text="pro" type="" />
+<她 comment="default value" end="921" id="她0" start="918" text="pro" type="" />
+<她 comment="default value" end="960" id="她1" start="957" text="pro" type="" />
+<她 comment="default value" end="1053" id="她2" start="1050" text="pro" type="" />
+<它 comment="default value" end="224" id="它0" start="221" text="pro" type="" />
+<它 comment="default value" end="294" id="它1" start="291" text="pro" type="" />
+<它 comment="default value" end="501" id="它2" start="498" text="pro" type="" />
+<它 comment="default value" end="1107" id="它3" start="1104" text="pro" type="" />
+<它 comment="default value" end="1608" id="它4" start="1605" text="pro" type="" />
+<existential comment="default value" end="576" id="e0" start="573" text="pro" type="" />
+<pleonastic end="161" id="p0" start="158" text="pro" type="" />
+<pleonastic end="331" id="p1" start="328" text="pro" type="" />
+<pleonastic end="699" id="p2" start="696" text="pro" type="" />
+<pleonastic end="1977" id="p3" start="1974" text="pro" type="" />
+<pleonastic end="2081" id="p4" start="2078" text="pro" type="" />
+<pleonastic end="2132" id="p5" start="2129" text="pro" type="" />
+<previous_utterance comment="default value" end="1091" id="pr0" start="1088" text="pro" type="" />
+<previous_utterance comment="default value" end="1355" id="pr1" start="1352" text="pro" type="" />
+<previous_utterance comment="default value" end="1429" id="pr2" start="1426" text="pro" type="" />
+<previous_utterance comment="default value" end="1678" id="pr3" start="1675" text="pro" type="" />
+<previous_utterance comment="default value" end="1144" id="pr4" start="1141" text="pro" type="" />
+</TAGS>
+</ProTask>

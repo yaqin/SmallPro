@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136575
+张志祥 你 在 办公室 吗 ？
+suid=s1 participant=136575
+*pro* 帮 我 *PRO* 找 张 总 签 个 字 行 吗 ？
+suid=s2 participant=134013
+张 总 在 东营
+suid=s3 participant=136575
+哦
+suid=s4 participant=136575
+那 我 先 传给 你 等 他 回来 了 再 找 他 *PRO* 签 行 不 行 ？
+suid=s5 participant=136575
+*pro* 不 是 很 着急
+suid=s6 participant=134013
+你 急着 用 吗 ？
+suid=s7 participant=136575
+*pro* 可以 等 他 回来 再 签
+suid=s8 participant=136575
+新华 信托 要 的
+suid=s9 participant=136575
+我 看 了 一下 内容 两 份 实际 内容 一致
+suid=s10 participant=136575
+*OP* *pro* 主要 叙述 *T*-1 的 是 工程 进度 和 销售 情况 *pro* 从 监理 月报 和 销售 月报 里 摘抄 的
+suid=s11 participant=136575
+等 张 总 回 河口 你 帮 我 *PRO* 找 他 签 一下 吧 *pro* 多谢 了 ！
+suid=s12 participant=134013
+*pro* 好 的
+suid=s13 participant=134013
+*pro* 不 客气
+suid=s14 participant=134013
+两 份 是 *OP* *T*-1 一样 的 吗 ？
+suid=s15 participant=136575
+名称 不 一样
+suid=s16 participant=136575
+内容 雷同
+suid=s17 participant=136575
+两 份 都 需要 签
+suid=s18 participant=136575
+嗯
+suid=s19 participant=134013
+*pro* 都 签 吗 ？
+suid=s20 participant=134013
+*pro* 在 哪 签
+suid=s21 participant=136575
+*pro* 对
+suid=s22 participant=134013
+“ 对方 当事人 签字 ” 这 栏 吗
+suid=s23 participant=136575
+右上角 对方 当事人 那里
+suid=s24 participant=134013
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="270" id="我0" start="267" text="pro" type="" />
+<我 comment="default value" end="350" id="我1" start="347" text="pro" type="" />
+<我 comment="default value" end="619" id="我2" start="616" text="pro" type="" />
+<你 comment="default value" end="75" id="你0" start="72" text="pro" type="" />
+<你 comment="default value" end="698" id="你1" start="695" text="pro" type="" />
+<它 comment="default value" end="492" id="它0" start="489" text="pro" type="" />
+<他们 comment="default value" end="528" id="他们0" start="525" text="pro" type="" />
+<它们 comment="default value" end="930" id="它们0" start="927" text="pro" type="" />
+<它们 comment="default value" end="972" id="它们1" start="969" text="pro" type="" />
+<previous_utterance comment="default value" end="660" id="pr0" start="657" text="pro" type="" />
+<previous_utterance comment="default value" end="1012" id="pr1" start="1009" text="pro" type="" />
+<previous_utterance comment="default value" end="1138" id="pr2" start="1135" text="pro" type="" />
+</TAGS>
+</ProTask>

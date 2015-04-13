@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131603
+你 住 哪 ？
+suid=s1 participant=137716
+110 Cheltenham Rd
+suid=s2 participant=131603
+明天 *OP* *pro* *T*-1 晚 些 时候 *pro* 联系 你 可以 吗 ？
+suid=s3 participant=137716
+晚上 我 要 去 抓 螃蟹 嘿嘿 早上 可以 吗 ？
+suid=s4 participant=131603
+哦 … 那 我们 再 约 吧 ， 我 明天 预约 了 一 天 看 床
+suid=s5 participant=137716
+*pro* 好 的
+suid=s6 participant=137716
+你 好 *pro* 请问 *pro* 还 要 来 看 沙发 吗 ？
+suid=s7 participant=131603
+*pro* 抱歉 ， 今天 *pro* 太 累 不 去 了 。
+suid=s8 participant=137716
+…… 我 是 问 你 明天 哈哈 *pro* 今天 这么 晚 了 你 想 *PRO* 看 了 *pro* 再 联系 吧
+suid=s9 participant=131603
+*pro* 好 的 ， *pro* 真是 感谢 。
+*pro* 主要 是 我 昨天 也 查 了 一下 *OP* 你 *T*-1 住 的 地方 ， 不 知道 *PRO* 怎么 走 …… 就 不 好 安排 *PRO* 什么 时候 去
+suid=s10 participant=137716
+哦 你 是 刚 来 吗 ？
+*pro* 还 没有 GPS *pro* 就 在 学校 西边 紧挨 着 嘿嘿 *pro* 熟悉 了 就 知道 了
+suid=s11 participant=131603
+嗯嗯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="120" id="我0" start="117" text="pro" type="" />
+<我 comment="default value" end="139" id="我1" start="136" text="pro" type="" />
+<我 comment="default value" end="341" id="我2" start="338" text="pro" type="" />
+<我 comment="default value" end="398" id="我3" start="395" text="pro" type="" />
+<我 comment="default value" end="412" id="我4" start="409" text="pro" type="" />
+<我 comment="default value" end="556" id="我5" start="553" text="pro" type="" />
+<我 comment="default value" end="570" id="我6" start="567" text="pro" type="" />
+<我 comment="default value" end="701" id="我7" start="698" text="pro" type="" />
+<我 comment="default value" end="716" id="我8" start="713" text="pro" type="" />
+<我 comment="default value" end="740" id="我9" start="737" text="pro" type="" />
+<你 comment="default value" end="350" id="你0" start="347" text="pro" type="" />
+<我们 comment="default value" end="504" id="我们0" start="501" text="pro" type="" />
+<pleonastic end="474" id="p0" start="471" text="pro" type="" />
+<previous_utterance comment="default value" end="300" id="pr0" start="297" text="pro" type="" />
+<previous_utterance comment="default value" end="544" id="pr1" start="541" text="pro" type="" />
+</TAGS>
+</ProTask>

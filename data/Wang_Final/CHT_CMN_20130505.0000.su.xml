@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0000 participant=131944
+*pro* 在 么 ？
+msgid=s1m0001 participant=132633
+串补 的 模拟量 信号 均 取自 串补 高压 平台 上 的 电容 电流 、 MOV 电流 等 （ 500 kv 电位 ） ，
+msgid=s2m0001 participant=132633
+为了 *PRO* 确保 *pro* 满足 绝缘 要求 故 串补 会 在 平台 上 装 一 个 测量箱 ， *pro* 通过 测量箱 将 模拟量 转成 光 数字 信号 后 ， *pro* 在 通过 光纤 （ 绝缘 ） 传 下 平台 到 控保 系统 ， 然后 *pro* 由 控保 系统 转给 录波 。
+msgid=s3m0001 participant=132633
+老外 不 太 认可 这 种 做法 ， 认为 *pro* 应该 要 给 他 模拟量 才 行 。
+msgid=s4m0001 participant=132633
+这 对 我 来说 有 点 难度 。
+msgid=s5m0002 participant=131944
+“ *pro* 平台 上 装 一 个 测量箱 ” ， 这 个 模拟量 是 测 什么 内容 ？
+多 大 信号 ？
+*pro* 然道 是 500 kV 和 一次 电流 信号 ？
+msgid=s6m0003 participant=132633
+测量箱 用于 *pro* 采集 平台 上 CT , PT 的 二次 电流 电压 信号 *pro* 通常 是 1 A 和 100 V *pro* 再 转换 成 数字 光 信号 。
+msgid=s7m0004 participant=131944
+那 就 对 了 ， 你 在 1 A 和 100 V 的 地方 直接 给 他们 不 行 么 ？
+msgid=s8m0005 participant=131944
+*pro* *PRO* 拉 电缆 直接 给 他们
+msgid=s9m0006 participant=132633
+这些 CT , PT 在 500 kv 平台 上 ， *pro* 拉 电缆 的话 电缆 要 经过 平台 *pro* 就 要求 和 平台 的 绝缘 强度 也 要 满足 500 kv 。
+这 没法 办 啊 ！
+msgid=s10m0007 participant=132633
+*pro* 在 二次侧 啊 ， *pro* 不 是 100 V 和 1 A 么 ？
+*pro* 怎么 给 你们 的 测量箱 ， *pro* 就 怎么 给 他们
+msgid=s11m0008 participant=132633
+然道 *OP* *T*-1 给 你们 测量箱 的 电缆 也 需要 500 kV 的 绝缘 强度 ？
+msgid=s12m0009 participant=132633
+测量箱 也 在 平台 上 ， 他们 的 录波 在 小室 。
+这 两 个 东东 的 电位 不 一样 。
+msgid=s13m0010 participant=132633
+测量箱 和 平台 是 等 电位 的 。
+msgid=s14m0011 participant=132633
+*pro* 是 不 是 这么 回 事 ， 高压 一次 电流 、 电压 *PRO* 拉 大 电缆 到 你们 的 平台 ， 通过 平台 上 的 PT , CT 转成 100 V , 1 A ， 再 通过 小 电缆 给 你们 的 测量箱 ？
+msgid=s15m0012 participant=132633
+*pro* 是
+msgid=s16m0013 participant=132633
+*pro* *PRO* 小 电缆 处 电压 并 个 ， 电流 串 个 给 他们 不 行 么 ？
+msgid=s17m0014 participant=132633
+你们 电压 2 端 ， 电流 2 端 给 他们 ， *pro* 等 不 等 电位 应该 没有 关系 啊
+msgid=s18m0015 participant=132633
+常规 的 PT , CT 一 、 二次 间 绝缘 即 为 一次 对地 绝缘 （ 500 kv ） 。
+msgid=s19m0015 participant=132633
+*OP* 串补 用 *T*-1 PT , CT 要 放 在 平台 上 一 、 二次 间 绝缘 只 满足 串联 电容器 电压 （ 线路 电流 乘以 容抗 ） 即 可 。
+msgid=s20m0015 participant=132633
+也就是说 串补 PT , CT 的 二次侧 也 是 高 电位 。
+msgid=s21m0015 participant=132633
+一 个 高 电位 的 二次侧 只 能 接 同 电位 的 平台 测量箱 ， 不 能 接 地 电位 的 录波器 。
+msgid=s22m0016 participant=132633
+我 不 知道 *pro* 说 清楚 没 ， *pro* 有 机会 面谈 可能 效果 更 好 。
+msgid=s23m0017 participant=132633
+国内 怎么 解决 的 ？
+别人 能 采用 你们 数字 信号 ？
+*pro* 做 个 规约 就 行 ？
+msgid=s24m0018 participant=132633
+*pro* 都 可以 啊 ！
+老外 认为 *pro* 一定 要 接给 它 *OP* *T*-1 原始 的 模拟量 才 合适 。
+msgid=s25m0019 participant=132633
+*pro* 说 实话 吧 ， 老喻 ， 作为 录波 ， 就 是 监视 和 分析 ， *pro* 确实 要 *OP* *T*-1 原始 的 ， *OP* *T*-2 独立 的 才 行 ， *pro* 类似于 冲裁方
+msgid=s26m0020 participant=132633
+*pro* 是 啊 ！
+这样 *pro* 就 要 他们 *PRO* 按 我 的 规约 采集 *OP* *T*-1 来自 平台 测量箱 的 光 信号 。
+这 种 定制 的 活 量 又 不 大 ， 老外 不 愿意 *PRO* 干 。
+msgid=s27m0021 participant=132633
+*OP* *pro* *T*-1 不 赚 钱 的 事 谁 也 不 愿意 *PRO* 干 *T*-2 。
+msgid=s28m0022 participant=132633
+你们 这个 必须 给 他们 录波 么 ？
+你们 只是 涉及 经济 运行 啊 ？
+msgid=s29m0022 participant=132633
+录波 只是 做 故障 分析 用 啊 ， *pro* 采集 了 母线 电压 ， 线路 电流 就 行 了
+msgid=s30m0022 participant=132633
+*pro* 照 这么 说 ， 变压器 档位 也 要 给 他们 录波 了 ？
+事实 不 是 啊 。
+msgid=s31m0023 participant=132633
+我 这里 有 些 设备 电流 电压 ， *pro* 可以 分析 故障 过程 中 串补 分设备 的 状态 是否 正常 ， 是否 有 变化 。
+msgid=s32m0024 participant=132633
+*pro* 就 是 啊 ， *pro* 没有 必要 在 给 它 再 录 啊 ， 你 属于 经济 范畴 的 ， *pro* 顶多 给 硬接点 给 它 启动 此 线路 的 录波
+msgid=s33m0025 participant=132633
+因为 它 串 在 线路 中 *PRO* 一旦 发生 故障 可能 会 导致 线路 断开 ， 故 *pro* 对 它 比较 重视 。
+msgid=s34m0025 participant=132633
+*pro* 希望 *pro* 充分 掌握 设备 的 状态 。
+msgid=s35m0026 participant=132633
+或许 *pro* 有 个 图 好 些 吧 ， *pro* 可能 的话 20号 我 会 过去
+msgid=s36m0027 participant=132633
+*pro* 好 的 ， 以后 *pro* 合作 的 机会 很 多 。
+*pro* 到时 面谈 。
+msgid=s37m0028 participant=132633
+电容器 故障 就 是 击穿 ？
+msgid=s38m0029 participant=132633
+*pro* 是 啊 ！
+*pro* 先 击穿 ， 后 爆炸 ， 后 炸断 。
+msgid=s39m0030 participant=132633
+按 道理 阻抗 增大 了 ， 线路 保护 不 会 动作 啊
+msgid=s40m0031 participant=132633
+这 种 故障 线路 保护 可能 不 动 ， 所以 串补 就 靠 自己 的 旁路 开关 将 串补 旁路 掉退 出 运行 ， 保护 设备 *PRO* 不 会 严重 受损 。
+msgid=s41m0032 participant=132633
+嗯 ， *pro* 保护 你们 自己 的 设备 ， *OP* *pro* *T*-1 录波 的 目的 就 是 *pro* 监视 。
+但 规程 规范 需要 单独 录波 *PRO* 去 监视 ， 还是 自己 监视 就 可以 ？
+msgid=s42m0033 participant=132633
+规程 规范 *pro* 没 明确 *pro* 用 哪 种 *T*-1 ， 而是 建议 两 者 皆 可 。
+所以 *pro* 还 需要 和 用户 沟通 听听 他们 的 意见 。
+msgid=s43m0034 participant=132633
+那 你 就 据理力争 把 它 废 了 *-1 ，
+msgid=s44m0035 participant=132633
+这 个 道理 很 明晰 ， 比如 变压器 也 会 爆炸 ， 它 录波 也 不 能 去 监视 *T*-1 啊
+msgid=s45m0036 participant=132633
+只要 外头 的 电流 电压 监视 到 就 行 了
+msgid=s46m0037 participant=132633
+同样 ， 还有 电源 也 会 爆炸 ， 它 录波 也 不 监视 *T*-1 的
+msgid=s47m0038 participant=132633
+*pro* 是 啊 ！
+有时候 用户 的 想法 就 是 个 惯性 思维 ， *pro* 不管 有用 没用 只要 你 有 *OP* *T*-1 可能 实现 的 功能 ， *pro* 就 一定 会 先 按 *PRO* 实现 这 个 功能 来 提 要求 。
+msgid=s48m0038 participant=132633
+道理 有时候 他们 也 明白 *T*-1 ， 但 *OP* *pro* *T*-2 看 问题 的 立场 不同 要求 自然 也 就 不同 。
+msgid=s49m0039 participant=132633
+你 先 要 从 国网 巴西 公司 入手 去 说服 ， 而且 录波 已经 录 了 这 条 线路 的 电压 、 电流 ， 你 可以 在 串补 故障 ， 旁路 动作 时 给 个 接点 去 启动 录波 就 是 了
+msgid=s50m0040 participant=131944
+我们 也 在 想 *PRO* 怎么 进一步 沟通 。
+*pro* 谢谢 你 的 建议 ， 我 这边 准备 *PRO* 下线 了 。
+*pro* 有 时间 *pro* 见面 再 聊 。
+*pro* 拜拜 ！
+msgid=s51m0042 participant=131944
+*pro* 拜拜 ！
+msgid=s52m0043 participant=131944
+*pro* 早 ， 你们 还 要 待 多久 ？
+*pro* 不 要 我 过来 了 ， 你们 都 走 了 哦
+msgid=s53m0044 participant=131944
+我 的 签证 只 到 这 个 月 中下旬 ， *pro* 正在 申请 *PRO* 续签 *pro* 不 知 *pro* 能否 续签 下来 。
+msgid=s54m0044 participant=131944
+*pro* 如果 签 下来 *pro* 就 可 再 延 一 个 月 ， 否则 *pro* 就 只 能 被 遣 回国 *-1 了 。
+msgid=s55m0045 participant=131944
+你 是 45 天 的 ？
+我 的 是 90 天
+msgid=s56m0046 participant=131944
+正好 ， 等 你们 定 了 ， 我 决定 行程 ，
+msgid=s57m0047 participant=131944
+*pro* 不 对 啊 ， 你们 是 4月 15日 过去 的 啊
+msgid=s58m0048 participant=131944
+才 30 天 ？
+msgid=s59m0049 participant=131944
+我 是 30 天 的 。
+据 我们 海外 商务 人员 说 现在 *pro* 只 能 办下 这 种 。
+*pro* 看来 还是 你们 海外 商务 比较 强 。
+msgid=s60m0050 participant=132633
+兄弟 我 是 自己 去 办 ， *pro* 还 便宜 ，
+msgid=s61m0051 participant=132633
+90 天 ， 一 年 *pro* 累计 180 天
+msgid=s62m0052 participant=132633
+小伙 这么 强 。
+我们 是 统一 由 商务 去 办 的 ， 所以 具体 情况 我 也 不 清楚 *T*-1 。
+*pro* 只 知道 他们 正在 帮 我 *PRO* 续签 。
+msgid=s63m0053 participant=132633
+自己 是 不 是 以前 办 过 ， 要不 套路 你 自己 去 摸 *T*-1 *pro* 感觉 *pro* 费时 费力 啊 ， *pro* 应该 很 麻烦 。
+msgid=s64m0054 participant=132633
+*pro* 没 办 过 *OP* *pro* *T*-1 去 巴西 的 ， 也 没 去 过 巴西 。
+你们 从 北京 到 巴黎 再 到 巴西 ?
+msgid=s65m0055 participant=132633
+我们 是 在 迪拜 转 的 机 ， 你们 南瑞 好像 都 是 在 巴黎 转 的 机 。
+msgid=s66m0056 participant=132633
+*pro* 迪拜 转机 的话 ， 后程 太 久 吧 ？
+*pro* 需要 带 多少 美元 现金 ？
+msgid=s67m0057 participant=132633
+*OP* *pro* *T*-1 这儿 用 雷尔 的 消费 和 *pro* 北京 用 人民币 差不多 。
+msgid=s68m0057 participant=132633
+这儿 一 瓶 可乐 3 雷尔 ， 北京 是 3 人民币 。
+msgid=s69m0057 participant=132633
+雷尔 对 美元 汇率 约 为 2 : 1 。
+*OP* 我们 *T*-1 住 的 酒店 约 350 雷尔 一 晚 ， *pro* 一 天 吃饭 *pro* 估计 *PRO* 便宜 也 要 50 雷尔 ， *pro* 再 加上 打车 30 雷尔 ， *OP* *pro* *T*-2 准备 *PRO* 待 的 天数 ， *pro* 基本 可以 估算 个 大概 。
+msgid=s70m0058 participant=131944
+*pro* 不 能 刷卡 ？
+信用卡 ？
+msgid=s71m0059 participant=131944
+*pro* 没错 。
+*pro* 迪拜 转机 有 这 个 问题 。
+但 总 时长 差不多 。
+msgid=s72m0060 participant=131944
+我 滴 神 啊 ， *pro* 1千 一 个 晚上
+msgid=s73m0061 participant=131944
+*pro* 能 。
+但 这 *pro* 好像 不 用 密码 。
+信用卡 容易 盗刷 有 危险
+msgid=s74m0062 participant=131944
+*OP* 我们 *T*-1 住 这儿 离 国网 驻地 比较 近 ， *pro* 在 海滩 边 环境 比较 好 ， 所以 *pro* 比较 贵 。
+msgid=s75m0062 participant=131944
+南瑞 一般 不 住 这 附近 ， *pro* 应该 会 便宜 些 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="2076" id="我0" start="2073" text="pro" type="" />
+<我 comment="default value" end="2334" id="我1" start="2331" text="pro" type="" />
+<我 comment="default value" end="2490" id="我2" start="2487" text="pro" type="" />
+<我 comment="default value" end="3276" id="我3" start="3273" text="pro" type="" />
+<我 comment="default value" end="3364" id="我4" start="3361" text="pro" type="" />
+<我 comment="default value" end="4786" id="我5" start="4783" text="pro" type="" />
+<我 comment="default value" end="5052" id="我6" start="5049" text="pro" type="" />
+<我 comment="default value" end="5073" id="我7" start="5070" text="pro" type="" />
+<我 comment="default value" end="5083" id="我8" start="5080" text="pro" type="" />
+<我 comment="default value" end="5134" id="我9" start="5131" text="pro" type="" />
+<我 comment="default value" end="5148" id="我10" start="5145" text="pro" type="" />
+<我 comment="default value" end="5173" id="我11" start="5170" text="pro" type="" />
+<我 comment="default value" end="5513" id="我12" start="5510" text="pro" type="" />
+<我 comment="default value" end="5494" id="我13" start="5491" text="pro" type="" />
+<我 comment="default value" end="5755" id="我14" start="5752" text="pro" type="" />
+<我 comment="default value" end="5860" id="我15" start="5857" text="pro" type="" />
+<我 comment="default value" end="5935" id="我16" start="5932" text="pro" type="" />
+<我 comment="default value" end="6120" id="我17" start="6117" text="pro" type="" />
+<我 comment="default value" end="6148" id="我18" start="6145" text="pro" type="" />
+<我 comment="default value" end="6427" id="我19" start="6424" text="pro" type="" />
+<我 comment="default value" end="6570" id="我20" start="6567" text="pro" type="" />
+<你 comment="default value" end="38" id="你0" start="35" text="pro" type="" />
+<你 comment="default value" end="3111" id="你1" start="3108" text="pro" type="" />
+<你 comment="default value" end="4941" id="你2" start="4938" text="pro" type="" />
+<你 comment="default value" end="6414" id="你3" start="6411" text="pro" type="" />
+<你 comment="default value" end="6457" id="你4" start="6454" text="pro" type="" />
+<你 comment="default value" end="6484" id="你5" start="6481" text="pro" type="" />
+<你 comment="default value" end="6514" id="你6" start="6511" text="pro" type="" />
+<它 comment="default value" end="2376" id="它0" start="2373" text="pro" type="" />
+<它 comment="default value" end="2427" id="它1" start="2424" text="pro" type="" />
+<它 comment="default value" end="3566" id="它2" start="3563" text="pro" type="" />
+<它 comment="default value" end="3962" id="它3" start="3959" text="pro" type="" />
+<它 comment="default value" end="6236" id="它4" start="6233" text="pro" type="" />
+<它 comment="default value" end="6780" id="它5" start="6777" text="pro" type="" />
+<它 comment="default value" end="6907" id="它6" start="6904" text="pro" type="" />
+<它 comment="default value" end="6971" id="它7" start="6968" text="pro" type="" />
+<它 comment="default value" end="5649" id="它8" start="5646" text="pro" type="" />
+<我们 comment="default value" end="900" id="我们1" start="897" text="pro" type="" />
+<我们 comment="default value" end="2091" id="我们2" start="2088" text="pro" type="" />
+<我们 comment="default value" end="2869" id="我们4" start="2866" text="pro" type="" />
+<我们 comment="default value" end="2972" id="我们5" start="2969" text="pro" type="" />
+<我们 comment="default value" end="3224" id="我们6" start="3221" text="pro" type="" />
+<我们 comment="default value" end="3285" id="我们7" start="3282" text="pro" type="" />
+<我们 comment="default value" end="3436" id="我们8" start="3433" text="pro" type="" />
+<我们 comment="default value" end="3456" id="我们9" start="3453" text="pro" type="" />
+<我们 comment="default value" end="4012" id="我们10" start="4009" text="pro" type="" />
+<我们 comment="default value" end="4825" id="我们11" start="4822" text="pro" type="" />
+<我们 comment="default value" end="4836" id="我们12" start="4833" text="pro" type="" />
+<我们 comment="default value" end="4851" id="我们13" start="4848" text="pro" type="" />
+<我们 comment="default value" end="4896" id="我们14" start="4893" text="pro" type="" />
+<我们 comment="default value" end="6881" id="我们15" start="6878" text="pro" type="" />
+<你们 comment="default value" end="1010" id="你们0" start="1007" text="pro" type="" />
+<你们 comment="default value" end="1074" id="你们2" start="1071" text="pro" type="" />
+<你们 comment="default value" end="815" id="你们3" start="812" text="pro" type="" />
+<你们 comment="default value" end="1541" id="你们4" start="1538" text="pro" type="" />
+<你们 comment="default value" end="2183" id="你们5" start="2180" text="pro" type="" />
+<你们 comment="default value" end="3814" id="你们6" start="3811" text="pro" type="" />
+<你们 comment="default value" end="4965" id="你们9" start="4962" text="pro" type="" />
+<他们 comment="default value" end="1026" id="他们0" start="1023" text="pro" type="" />
+<他们 comment="default value" end="1052" id="他们1" start="1049" text="pro" type="" />
+<他们 comment="default value" end="549" id="他们2" start="546" text="pro" type="" />
+<他们 comment="default value" end="4396" id="他们3" start="4393" text="pro" type="" />
+<他们 comment="default value" end="4442" id="他们4" start="4439" text="pro" type="" />
+<他们 comment="default value" end="4548" id="他们5" start="4545" text="pro" type="" />
+<existential comment="default value" end="3070" id="e0" start="3067" text="pro" type="" />
+<existential comment="default value" end="3344" id="e1" start="3341" text="pro" type="" />
+<event comment="default value" end="925" id="ev0" start="922" text="pro" type="" />
+<event comment="default value" end="1347" id="ev1" start="1344" text="pro" type="" />
+<event comment="default value" end="1649" id="ev2" start="1646" text="pro" type="" />
+<event comment="default value" end="2236" id="ev3" start="2233" text="pro" type="" />
+<event comment="default value" end="5591" id="ev4" start="5588" text="pro" type="" />
+<event comment="default value" end="5869" id="ev5" start="5866" text="pro" type="" />
+<event comment="default value" end="5885" id="ev6" start="5882" text="pro" type="" />
+<generic comment="default value" end="191" id="g0" start="188" text="pro" type="" />
+<generic comment="default value" end="232" id="g1" start="229" text="pro" type="" />
+<generic comment="default value" end="266" id="g2" start="263" text="pro" type="" />
+<generic comment="default value" end="307" id="g3" start="304" text="pro" type="" />
+<generic comment="default value" end="384" id="g4" start="381" text="pro" type="" />
+<generic comment="default value" end="495" id="g5" start="492" text="pro" type="" />
+<generic comment="default value" end="620" id="g7" start="617" text="pro" type="" />
+<generic comment="default value" end="656" id="g8" start="653" text="pro" type="" />
+<generic comment="default value" end="679" id="g9" start="676" text="pro" type="" />
+<generic comment="default value" end="2257" id="g11" start="2254" text="pro" type="" />
+<generic comment="default value" end="2629" id="g12" start="2626" text="pro" type="" />
+<generic comment="default value" end="2804" id="g13" start="2801" text="pro" type="" />
+<generic comment="default value" end="3841" id="g14" start="3838" text="pro" type="" />
+<generic comment="default value" end="3865" id="g15" start="3862" text="pro" type="" />
+<generic comment="default value" end="5952" id="g16" start="5949" text="pro" type="" />
+<generic comment="default value" end="6636" id="g18" start="6633" text="pro" type="" />
+<generic comment="default value" end="3973" id="g6" start="3970" text="pro" type="" />
+<pleonastic end="6209" id="p0" start="6206" text="pro" type="" />
+<pleonastic end="6716" id="p1" start="6713" text="pro" type="" />
+<previous_utterance comment="default value" end="1499" id="pr0" start="1496" text="pro" type="" />
+<previous_utterance comment="default value" end="2475" id="pr1" start="2472" text="pro" type="" />
+<previous_utterance comment="default value" end="3056" id="pr2" start="3053" text="pro" type="" />
+<previous_utterance comment="default value" end="3421" id="pr3" start="3418" text="pro" type="" />
+<previous_utterance comment="default value" end="3554" id="pr4" start="3551" text="pro" type="" />
+<previous_utterance comment="default value" end="4358" id="pr5" start="4355" text="pro" type="" />
+<previous_utterance comment="default value" end="5352" id="pr6" start="5349" text="pro" type="" />
+<previous_utterance comment="default value" end="6625" id="pr7" start="6622" text="pro" type="" />
+<previous_utterance comment="default value" end="6766" id="pr8" start="6763" text="pro" type="" />
+</TAGS>
+</ProTask>

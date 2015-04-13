@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131789
+圆圆 妈妈 你 最近 好 不 好 啊 。
+*pro* 忙 吗
+suid=s1 participant=130530
+我 婆婆 走 了 *pro* 有些 忙 啊 ， 不过 *pro* 还 行 哦 *pro* 对 了 我们 房子 搞定 了 。
+suid=s2 participant=130530
+我 婆婆 走 了 以后 我 是 挺 忙 的 ， 不过 *pro* 还 好 啊 ， *pro* 自由 了 ，
+suid=s3 participant=130530
+哦 ， *pro* 对 了 ， 我们 房子 搞定 了 ， *pro* 3月 中 交房 ， *pro* 春天 请 你 和 小石头 *PRO* 到 我们 的 新 家 玩儿 啊
+suid=s4 participant=131789
+*pro* 太 好 了 我们 一定 去
+suid=s5 participant=131789
+*pro* 真 是 个 好 消息 *pro* 为 你 高兴 圆圆 妈妈 。
+suid=s6 participant=131789
+到时候 *pro* 有 什么 *OP* *T*-1 要 帮忙 的 告诉 我们
+suid=s7 participant=130530
+*pro* 好 的 ， *pro* 谢谢 ， 呵呵
+suid=s8 participant=130530
+我 婆婆 走 了 *pro* 有些 忙 啊 ， 不过 *pro* 还 行 哦 *pro* 对 了 我们 房子 搞定 了 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="99" id="我0" start="96" text="pro" type="" />
+<我 comment="default value" end="117" id="我1" start="114" text="pro" type="" />
+<我 comment="default value" end="206" id="我2" start="203" text="pro" type="" />
+<我 comment="default value" end="220" id="我3" start="217" text="pro" type="" />
+<我 comment="default value" end="437" id="我4" start="434" text="pro" type="" />
+<我 comment="default value" end="563" id="我5" start="560" text="pro" type="" />
+<我 comment="default value" end="613" id="我6" start="610" text="pro" type="" />
+<我 comment="default value" end="631" id="我7" start="628" text="pro" type="" />
+<你 comment="default value" end="53" id="你0" start="50" text="pro" type="" />
+<我们 comment="default value" end="289" id="我们0" start="286" text="pro" type="" />
+<我们 comment="default value" end="305" id="我们1" start="302" text="pro" type="" />
+<你们 comment="default value" end="489" id="你们0" start="486" text="pro" type="" />
+<pleonastic end="373" id="p0" start="370" text="pro" type="" />
+<pleonastic end="420" id="p1" start="417" text="pro" type="" />
+<previous_utterance comment="default value" end="129" id="pr0" start="126" text="pro" type="" />
+<previous_utterance comment="default value" end="264" id="pr1" start="261" text="pro" type="" />
+<previous_utterance comment="default value" end="551" id="pr2" start="548" text="pro" type="" />
+<previous_utterance comment="default value" end="643" id="pr3" start="640" text="pro" type="" />
+</TAGS>
+</ProTask>

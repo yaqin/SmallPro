@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134105
+*pro* 早上 好 陈 经理
+suid=s1 participant=134105
+*pro* 是否 可以 协调 公司 工程部 *PRO* 帮助 *PRO* 安装 宿舍 的 电 热水器 ？
+suid=s2 participant=131226
+*pro* 可以 。
+suid=s3 participant=131226
+现在 那 个 太阳能 怎么样 ？
+suid=s4 participant=134105
+*pro* 一 要 看 天 使用 二 天气 好 *pro* 也 只 能 一 个 人 的 洗 半 个 身子
+suid=s5 participant=131226
+呵呵 ， *pro* 委屈 你 了 ， 魏 总 。
+我 这边 去 协调 工程部 人员 。
+suid=s6 participant=134105
+*pro* 能够 安排 上午
+suid=s7 participant=134105
+[ 表情 ] *pro* 可能 是 体积 太 大
+suid=s8 participant=131226
+现在 热水器 还 没 买
+suid=s9 participant=131226
+*pro* 还 没 买 ， 所以 *pro* 上午 不 一定 能 安上 哦 。
+suid=s10 participant=134105
+*pro* 双十一 购得 ， *pro* 昨天 到 的 ， 在 宿舍 。
+*pro* 鼓捣 了 ， 没 搞定 。
+因为 *pro* 需要 专业 工具 ， 和 专业 水管 安装 人员 ，
+suid=s11 participant=131226
+*pro* 明白 啦 。
+suid=s12 participant=131226
+我 下去 找 你
+suid=s13 participant=134105
+*pro* 辛苦 陈 经理
+suid=s14 participant=134105
+明天 工程部 什么 时间 过来 安装
+suid=s15 participant=134105
+以便 我 安排 事件
+suid=s16 participant=131226
+你 客气 啦 ， 魏 总 。
+suid=s17 participant=134105
+8 － 11 如何 ？
+suid=s18 participant=131226
+*pro* 应该 是 中午 。
+明天 你 会 在家 吗 ？
+suid=s19 participant=131226
+你 给 我 说 你 什么 时候 有 时间
+suid=s20 participant=134105
+明天 *pro* 让 其 *PRO* 安装 和 我们 一起 吃 早餐 和 午餐
+suid=s21 participant=131226
+*pro* 稍等
+suid=s22 participant=131226
+*pro* 不 用 ， 他们 明天 是 正常 工作日 。
+suid=s23 participant=134105
+答谢 要 的 ， *pro* 到 时间 吃 个 便饭 ， 8：00 － 11：00 时间 可以 ？
+suid=s24 participant=134105
+*pro* 好 的 ， [ 表情 ]
+suid=s25 participant=134105
+*pro* 好 的
+suid=s26 participant=131226
+*pro* 可以
+suid=s27 participant=131226
+我 刚 通知 完 工程部 的 人 。
+suid=s28 participant=131226
+*pro* 明天 上班 后 他们 就 过去
+suid=s29 participant=131226
+明天 11点 前 *pro* 会 过去 的 。
+你 在 家 等 就 行
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="322" id="我0" start="319" text="pro" type="" />
+<我 comment="default value" end="389" id="我1" start="386" text="pro" type="" />
+<我 comment="default value" end="540" id="我2" start="537" text="pro" type="" />
+<我 comment="default value" end="591" id="我3" start="588" text="pro" type="" />
+<我 comment="default value" end="628" id="我4" start="625" text="pro" type="" />
+<我 comment="default value" end="712" id="我5" start="709" text="pro" type="" />
+<我 comment="default value" end="1111" id="我6" start="1108" text="pro" type="" />
+<我 comment="default value" end="1576" id="我7" start="1573" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="523" id="你1" start="520" text="pro" type="" />
+<你 comment="default value" end="790" id="你2" start="787" text="pro" type="" />
+<你 comment="default value" end="1176" id="你3" start="1173" text="pro" type="" />
+<它 comment="default value" end="438" id="它0" start="435" text="pro" type="" />
+<它 comment="default value" end="606" id="它1" start="603" text="pro" type="" />
+<我们 comment="default value" end="1279" id="我们0" start="1276" text="pro" type="" />
+<你们 comment="default value" end="1213" id="你们0" start="1210" text="pro" type="" />
+<你们 comment="default value" end="1517" id="你们1" start="1514" text="pro" type="" />
+<event comment="default value" end="261" id="ev0" start="258" text="pro" type="" />
+<event comment="default value" end="651" id="ev1" start="648" text="pro" type="" />
+<event comment="default value" end="1001" id="ev2" start="998" text="pro" type="" />
+<generic comment="default value" end="237" id="g0" start="234" text="pro" type="" />
+<pleonastic end="75" id="p0" start="72" text="pro" type="" />
+<previous_utterance comment="default value" end="155" id="pr0" start="152" text="pro" type="" />
+<previous_utterance comment="default value" end="1348" id="pr1" start="1345" text="pro" type="" />
+<previous_utterance comment="default value" end="1395" id="pr2" start="1392" text="pro" type="" />
+<previous_utterance comment="default value" end="1433" id="pr3" start="1430" text="pro" type="" />
+</TAGS>
+</ProTask>

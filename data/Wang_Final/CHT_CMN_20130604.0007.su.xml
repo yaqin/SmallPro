@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133485
+淑风 ， 上班 了 吗
+suid=s1 participant=133542
+*pro* 还 没 呢
+suid=s2 participant=133485
+*pro* 在 家里 ？
+suid=s3 participant=133542
+*pro* 是 的
+suid=s4 participant=133542
+六一 *pro* 去 哪 玩 了
+suid=s5 participant=133485
+孩子们 去 同学 家 过 生日 去 了
+suid=s6 participant=133485
+*pro* 玩 了 一 天
+suid=s7 participant=133485
+我 放假
+suid=s8 participant=133485
+你 呢
+suid=s9 participant=133485
+*pro* 带 儿子 *PRO* 去 哪里 玩 了
+suid=s10 participant=133542
+*pro* 陪 了 他 三 天 ， 累
+suid=s11 participant=133485
+哈哈
+suid=s12 participant=133485
+*pro* 现在 多 大 了
+suid=s13 participant=133542
+9月 1日 *pro* 过 6 岁 的 生日
+suid=s14 participant=133485
+*pro* 快 要 上学 了
+suid=s15 participant=133542
+*pro* 都 说 男孩 上学 晚 些 比较 好 ， 我 *pro* 上 户口 时 改到 8月 18日 ， *OP* *pro* *T*-1 今年 招生 的 年龄 是 2007年 9月 1日 止
+suid=s16 participant=133485
+*pro* 厉害
+suid=s17 participant=133542
+*pro* 去年 差 一 天 都 不 行
+suid=s18 participant=133485
+*pro* 还 可以 改 时间
+suid=s19 participant=133485
+现在 时间 控制 很 严格
+suid=s20 participant=133542
+唉 ， 找 人 *PRO* 帮忙 的
+suid=s21 participant=133542
+*pro* 改 了 几 天
+suid=s22 participant=133485
+呵呵
+suid=s23 participant=133485
+那样 也 不错 了
+suid=s24 participant=133485
+否则 一 天 都 不 行
+suid=s25 participant=133542
+嗯 ， 今年 特别 喽 ， *pro* 9月 1日 也 收 *-1 ， 心里 还 想 *pro* 白忙 了 [ 表情 ]
+suid=s26 participant=133485
+*pro* 稳妥 点 好
+suid=s27 participant=133485
+呵呵
+suid=s28 participant=133542
+你 家 的 上 几 年级
+suid=s29 participant=133542
+*pro* 在 同 一 个 班 吗
+suid=s30 participant=133485
+三 年级
+suid=s31 participant=133485
+*pro* 不 是 一 个 班
+suid=s32 participant=133542
+*pro* 能 分 得 清 吗 ， 呵呵
+suid=s33 participant=133485
+*pro* 分 得 清
+suid=s34 participant=133542
+*pro* 04年 的 吗
+suid=s35 participant=133485
+*pro* 对
+suid=s36 participant=133542
+他们 报 了 什么 兴趣 班
+suid=s37 participant=133485
+哎
+suid=s38 participant=133485
+小时候 钢琴 ， 画画
+suid=s39 participant=133485
+乒乓球
+suid=s40 participant=133485
+*pro* 现在 只 剩下 乒乓球 了
+suid=s41 participant=133485
+其他 都 放弃 了
+suid=s42 participant=133485
+*pro* 么有 时间
+suid=s43 participant=133542
+乒乓球 *pro* 喜欢 *T*-1 就 好 ， 我 现在 还 没有 找到 他 的 兴趣 点 ， 一直 就 报 了 跆拳道
+suid=s44 participant=133542
+你 家 的 看 电视 吗
+suid=s45 participant=133485
+*pro* 看
+suid=s46 participant=133485
+*pro* 特别 喜欢
+suid=s47 participant=133485
+*pro* 天天 是 动画片
+suid=s48 participant=133542
+*pro* 都 一样 。
+suid=s49 participant=133485
+*pro* *pro* 上学 后 就 忙 了
+suid=s50 participant=133485
+*pro* 没有 太 多 时间 学 其他 的 东西
+suid=s51 participant=133542
+他们 学 了 奥数 和 奥英 呀
+suid=s52 participant=133485
+*pro* 学 了
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="71" id="我0" start="68" text="pro" type="" />
+<我 comment="default value" end="436" id="我1" start="433" text="pro" type="" />
+<我 comment="default value" end="681" id="我2" start="678" text="pro" type="" />
+<我 comment="default value" end="997" id="我3" start="994" text="pro" type="" />
+<我 comment="default value" end="1192" id="我4" start="1189" text="pro" type="" />
+<我 comment="default value" end="1523" id="我5" start="1520" text="pro" type="" />
+<你 comment="default value" end="110" id="你0" start="107" text="pro" type="" />
+<你 comment="default value" end="190" id="你1" start="187" text="pro" type="" />
+<你 comment="default value" end="382" id="你2" start="379" text="pro" type="" />
+<你 comment="default value" end="778" id="你3" start="775" text="pro" type="" />
+<你 comment="default value" end="1238" id="你4" start="1235" text="pro" type="" />
+<你 comment="default value" end="1474" id="你5" start="1471" text="pro" type="" />
+<他 comment="default value" end="515" id="他0" start="512" text="pro" type="" />
+<他 comment="default value" end="564" id="他1" start="561" text="pro" type="" />
+<他 comment="default value" end="609" id="他2" start="606" text="pro" type="" />
+<他们 comment="default value" end="278" id="他们0" start="275" text="pro" type="" />
+<他们 comment="default value" end="711" id="他们1" start="708" text="pro" type="" />
+<他们 comment="default value" end="1163" id="他们2" start="1160" text="pro" type="" />
+<他们 comment="default value" end="1351" id="他们3" start="1348" text="pro" type="" />
+<他们 comment="default value" end="1430" id="他们4" start="1427" text="pro" type="" />
+<他们 comment="default value" end="1563" id="他们5" start="1560" text="pro" type="" />
+<他们 comment="default value" end="1786" id="他们6" start="1783" text="pro" type="" />
+<他们 comment="default value" end="1872" id="他们7" start="1869" text="pro" type="" />
+<他们 comment="default value" end="1916" id="他们8" start="1913" text="pro" type="" />
+<他们 comment="default value" end="2043" id="他们9" start="2040" text="pro" type="" />
+<他们 comment="default value" end="2079" id="他们10" start="2076" text="pro" type="" />
+<他们 comment="default value" end="2119" id="他们11" start="2116" text="pro" type="" />
+<他们 comment="default value" end="2203" id="他们12" start="2200" text="pro" type="" />
+<他们 comment="default value" end="2209" id="他们13" start="2206" text="pro" type="" />
+<他们 comment="default value" end="2254" id="他们14" start="2251" text="pro" type="" />
+<他们 comment="default value" end="2353" id="他们15" start="2350" text="pro" type="" />
+<generic comment="default value" end="652" id="g0" start="649" text="pro" type="" />
+<generic comment="default value" end="815" id="g1" start="812" text="pro" type="" />
+<generic comment="default value" end="864" id="g2" start="861" text="pro" type="" />
+<generic comment="default value" end="2162" id="g3" start="2159" text="pro" type="" />
+<previous_utterance comment="default value" end="150" id="pr0" start="147" text="pro" type="" />
+<previous_utterance comment="default value" end="1605" id="pr1" start="1602" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133189
+晨曦 在 吗 ？
+suid=s1 participant=133148
+*pro* 在
+suid=s2 participant=133148
+我 去 找 你 吗 ？
+suid=s3 participant=133189
+*pro* 不 用 了 ， 稿件 *pro* 感觉 *-1 怎么样
+suid=s4 participant=133148
+那 个 “ 两 字 ” 的 还 不 如 “ 三 字 ” 的 ， *pro* 看 得 真是 头大 ， 呵呵
+suid=s5 participant=133189
+呵呵 ， *pro* 是 的 ， 我 都 处在 崩溃 的 边缘
+suid=s6 participant=133148
+我 很 担心 这 书 出来 后 的 情况 ， 这 种 书 的 质量 很 难 把握
+suid=s7 participant=133189
+*pro* 是 啊 ， 我 也 很 担心 的 ， 一 个 是 版权 问题 ， 一 个 是 文字 质量 问题
+suid=s8 participant=133148
+*pro* 是 的 ， 我 那 天 在 百度 上 搜 了 一下 ， 有些 就 是 *pro* 百度 知道 里面 别人 的 回答 ， 直接 抄 过来 *-1 的
+suid=s9 participant=133148
+嗯 ， *pro* 没 事 ， 我 也 是 *pro* 看 不 下去 之后 看 点 别的 清醒 清醒 再 看 的 ， 呵呵 。
+只是 *pro* 改 得 乱七八糟 的 ， *pro* 怕 你 后面 看 也 不 容易
+suid=s10 participant=133189
+*pro* 没 办法 ， 这 种 书 *pro* 看 一 遍 *T*-1 *pro* 哪里 能 放心
+suid=s11 participant=133189
+*pro* 好了 ， *pro* 不 聊 了 ， 你 忙 吧
+suid=s12 participant=133189
+我 下午 公休 ， 回头 再 聊 啊
+suid=s13 participant=133148
+*pro* 好 的 ， 你 也 不 要 太 累 ， 这 种 书 *pro* 其实 多 看 *T*-1 也 作用 不 大
+suid=s14 participant=133189
+嗯 ， 咱们 只是 尽力 ， *OP* *pro* 实在 看 不 出 *T*-1 的 东西 *pro* 也 没 办法 了 ， 咱们 也 不 是 *OP* *T*-2 万能 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="68" id="我0" start="65" text="pro" type="" />
+<我 comment="default value" end="235" id="我1" start="232" text="pro" type="" />
+<我 comment="default value" end="602" id="我2" start="599" text="pro" type="" />
+<我 comment="default value" end="620" id="我3" start="617" text="pro" type="" />
+<我 comment="default value" end="665" id="我4" start="662" text="pro" type="" />
+<我 comment="default value" end="684" id="我5" start="681" text="pro" type="" />
+<我 comment="default value" end="734" id="我6" start="731" text="pro" type="" />
+<我 comment="default value" end="753" id="我7" start="750" text="pro" type="" />
+<我 comment="default value" end="771" id="我8" start="768" text="pro" type="" />
+<你 comment="default value" end="142" id="你0" start="139" text="pro" type="" />
+<你 comment="default value" end="159" id="你1" start="156" text="pro" type="" />
+<你 comment="default value" end="951" id="你2" start="948" text="pro" type="" />
+<我们 comment="default value" end="824" id="我们1" start="821" text="pro" type="" />
+<我们 comment="default value" end="1027" id="我们2" start="1024" text="pro" type="" />
+<我们 comment="default value" end="1053" id="我们3" start="1050" text="pro" type="" />
+<generic comment="default value" end="532" id="g0" start="529" text="pro" type="" />
+<previous_utterance comment="default value" end="288" id="pr0" start="285" text="pro" type="" />
+<previous_utterance comment="default value" end="410" id="pr1" start="407" text="pro" type="" />
+<previous_utterance comment="default value" end="491" id="pr2" start="488" text="pro" type="" />
+<previous_utterance comment="default value" end="813" id="pr3" start="810" text="pro" type="" />
+<previous_utterance comment="default value" end="919" id="pr4" start="916" text="pro" type="" />
+</TAGS>
+</ProTask>

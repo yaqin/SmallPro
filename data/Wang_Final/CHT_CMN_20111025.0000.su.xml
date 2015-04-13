@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0001 participant=133623
+*pro* 在 吗 ?
+msgid=s1m0003 participant=133628
+*pro* 在
+msgid=s2m0004 participant=133623
+上 次 的 模块 *pro* 收到 *T*-1 没 ?
+msgid=s3m0005 participant=133628
+*pro* 几 个 月 了
+msgid=s4m0006 participant=133628
+*pro* 当然 收到 了
+msgid=s5m0010 participant=133628
+嗯
+msgid=s6m0011 participant=133628
+我 还 以为 你 又 给 我 寄 模块 了 呢
+msgid=s7m0012 participant=133623
+我 也 变 不 出来 啊 .
+msgid=s8m0014 participant=133623
+你 是 负责 技术 支持 吧 ?
+msgid=s9m0015 participant=133628
+嗯
+msgid=s10m0016 participant=133628
+*pro* 有 什么 问题 吗
+msgid=s11m0018 participant=133628
+*pro* 很好 啊
+msgid=s12m0020 participant=133628
+*pro* 好用 吧
+msgid=s13m0021 participant=133628
+*pro* 出货 几 年 了
+msgid=s14m0023 participant=133628
+*pro* 不 是 刚 出 的 吗
+msgid=s15m0026 participant=133628
+W 模块 出 了 几 年 了 啊
+msgid=s16m0027 participant=133628
+*pro* 现在 出 了 三 款 新 模块
+msgid=s17m0028 participant=133628
+哦
+msgid=s18m0029 participant=133628
+频段 可以 自选 的
+msgid=s19m0030 participant=133628
+W 的 模块 现在 很 稳定
+msgid=s20m0031 participant=133623
+哦
+msgid=s21m0032 participant=133623
+你 可以 问问 其他 客户
+msgid=s22m0033 participant=133623
+频段 自选 是 啥 意思 ?
+msgid=s23m0034 participant=133623
+3 G 的 频段 不是 有 好几 个 吗
+msgid=s24m0035 participant=133623
+2 G 也 有 好几个
+msgid=s25m0036 participant=133623
+客户 可以 根据 自己 电子 产品 卖到 哪里 选择 相应 的 频段 ， *pro* 估计 价格 会 便宜 点 。
+msgid=s26m0037 participant=133623
+哦
+msgid=s27m0038 participant=133623
+那 就是说 *pro* wcdma 和 evdo 一 个 模块 搞定 *-1 ?
+msgid=s28m0040 participant=133623
+这个 不 行
+msgid=s29m0041 participant=133623
+移动 的 很 联通 的 频段 是 一样 的
+msgid=s30m0042 participant=133628
+现在 W 的 模块 是 4+ ！
+或者 4+ 3 频段 ， 以后 你 可以 选择 4 + 2 频段
+msgid=s31m0044 participant=133628
+你 找 我 就 问 这 事 啊
+msgid=s32m0045 participant=133628
+你 那 机器 调得 *-1 怎么样 了 a
+msgid=s33m0046 participant=133628
+哦
+msgid=s34m0047 participant=133628
+频段 切换 需要 多 长 时间 ?
+msgid=s35m0049 participant=133628
+*pro* 一般 都 是 开机 自主 选择 频段 的
+msgid=s36m0050 participant=133628
+如果 你 想要 *PRO* 从 2 G 频段 切换 到 3 G 频段 ， 下发 指令 也 可以 切换 ， *pro* 重新 搜网 注册 ， 10 秒 左右
+msgid=s37m0051 participant=133628
+时间 有点 长 .
+msgid=s38m0053 participant=133628
+这些 是 没 办法 的 ， 运营商 规定 的
+msgid=s39m0054 participant=133628
+*pro* 重新 搜网 就 需要 跟 基站 重新 进行 确认 连接 ， 这些 都 需要 运营商 *PRO* 确定 的
+msgid=s40m0055 participant=133628
+*pro* 不 是 *OP* 移动 终端 能够 决定 *T*-1 的
+msgid=s41m0056 participant=133628
+wcdma 和 evdo 模块 封装 是 一样 的 .
+msgid=s42m0057 participant=133628
+这个 设计 不错 !
+msgid=s43m0058 participant=133628
+只是 UART 电平 不 一样
+msgid=s44m0060 participant=133628
+*pro* 要 电平 转换 *-1 ?
+msgid=s45m0061 participant=133628
+嗯
+msgid=s46m0064 participant=133628
+上次 *OP* *pro* 拿 过去 *T*-1 的 W 模块 不 是 电平 改 了 一下 么
+msgid=s47m0065 participant=133628
+哦
+msgid=s48m0066 participant=133628
+*pro* 明白
+msgid=s49m0068 participant=133628
+我 现在 在 另外 一 家 公司 负责 一 个 产品 项目 , 想 *PRO* 采用 3 G 模块 .
+msgid=s50m0069 participant=133628
+*pro* 有 没 有 兴趣 合作 ?
+msgid=s51m0070 participant=133628
+额
+msgid=s52m0071 participant=133628
+*pro* 怎么 合作 啊
+msgid=s53m0072 participant=133628
+*pro* 能 合作 当然 好 了
+msgid=s54m0074 participant=133628
+wcdma 和 evdo 的 模块 价格 差不多 吧 ?
+msgid=s55m0075 participant=133628
+嗯
+msgid=s56m0076 participant=133628
+*pro* 大概 多少 ?
+msgid=s57m0077 participant=133628
+EVDO 的 要 贵 点
+msgid=s58m0078 participant=133628
+这个 *pro* 不 清楚 *T*-1
+msgid=s59m0079 participant=133628
+哦
+msgid=s60m0080 participant=133628
+商务 的 报价 都 是 看 量 的
+msgid=s61m0081 participant=133628
+*pro* 要 问 毛 经理 吗 ?
+msgid=s62m0082 participant=133628
+*pro* 量大 *pro* 优惠 点
+msgid=s63m0083 participant=133628
+不是
+msgid=s64m0084 participant=133628
+那当然
+msgid=s65m0085 participant=133628
+*pro* 问 谁 ？
+msgid=s66m0086 participant=133628
+我 给 你 介绍 一 个 销售 经理 吧
+msgid=s67m0087 participant=133628
+你 问问 他
+msgid=s68m0088 participant=133628
+要不 *pro* 这样 吧
+msgid=s69m0089 participant=133628
+？
+msgid=s70m0091 participant=133623
+这 几 天 你们 有 空 的话 ， *pro* 到 我们 公司 来 一 趟 。
+msgid=s71m0092 participant=133623
+*pro* 行 啊
+msgid=s72m0093 participant=133623
+*pro* 但是 也 要 跟 我们 讲 讲 你们 做 什么 产品 的
+msgid=s73m0094 participant=133623
+嗯
+msgid=s74m0095 participant=133623
+我们 先 电话 联系 一下
+msgid=s75m0097 participant=133623
+你 电话 多少
+msgid=s76m0098 participant=133623
+你 打 下 我 电话 吧
+msgid=s77m0099 participant=133623
+我 打 不 通 你 的
+msgid=s78m0100 participant=133623
+直线 吗
+msgid=s79m0101 participant=133623
+嗯
+msgid=s80m0104 participant=133623
+*pro* 好的 ， 我 现在 给 他 电话 。
+msgid=s81m0105 participant=133623
+你 跟 他 谈 一下 ， *pro* 样机 跟 开发板 的 事情 跟 他 说 下 *-1 应该 没 问题 的
+msgid=s82m0106 participant=133623
+*pro* 好
+msgid=s83m0108 participant=133623
+*pro* 拨号 上网 和 AT 指令 可以 同时 进行 吧
+msgid=s84m0109 participant=133623
+可以
+msgid=s85m0110 participant=133623
+USB 有 专门 的 AT 端口
+msgid=s86m0111 participant=133623
+usb 虚拟 的 3 个 串口 分别 作 啥 用 的 ？
+msgid=s87m0112 participant=133623
+*pro* 映射 出 了 四 个 端口 ，
+msgid=s88m0113 participant=133623
+一 个 是 *OP* *T*-1 专门 发 AT 的
+msgid=s89m0114 participant=133623
+一 个 是 GPS 数据 的
+msgid=s90m0115 participant=133628
+一 个 是 诊断 端口 ， 我们 调试 和 升级 用 的
+msgid=s91m0116 participant=133628
+哦
+msgid=s92m0118 participant=133628
+GPS 不 是 AGPS 吧
+msgid=s93m0119 participant=133628
+？
+msgid=s94m0120 participant=133628
+*pro* 不 是 *OP* *T*-1 靠 基站 辅助 定位 的
+msgid=s95m0121 participant=133628
+通过 GPS 卫星
+msgid=s96m0122 participant=133628
+*pro* 也 可以 通过 基站 辅助 定位
+msgid=s97m0123 participant=133628
+哦
+msgid=s98m0124 participant=133628
+*pro* 下班 了 ， 明天 聊 哈
+msgid=s99m0125 participant=133628
+*pro* 好的
+msgid=s100m0129 participant=133628
+*OP* *T*-1 带 gps 的 模块 价格 贵 多少 ?
+msgid=s101m0131 participant=133628
+*pro* 贵 不 了 多少
+msgid=s102m0132 participant=133628
+*pro* 估计 十几 块 吧
+msgid=s103m0133 participant=133628
+效果 怎样 ?
+msgid=s104m0134 participant=133628
+你 问问 销售 的 价格
+msgid=s105m0135 participant=133628
+GPS 定位 ？
+msgid=s106m0136 participant=133628
+*pro* 这样 吧 , 你 和 销售 有空 过来 一 趟 吧 .
+msgid=s107m0137 participant=133628
+*pro* 在 我们 开发板 上 一般 一 分 半 钟 内 可以 定位
+msgid=s108m0138 participant=133628
+*pro* 行
+msgid=s109m0139 participant=133628
+哦 ,
+msgid=s110m0140 participant=133628
+你 跟 销售 经理 说说
+msgid=s111m0141 participant=133628
+昨天 你 不是 联系 了 吗
+msgid=s112m0142 participant=133628
+wcdma 模块 和 evdo 模块 的 驱动 是 *OP* *T*-1 兼容 的 吧 ?
+msgid=s113m0143 participant=133628
+*pro* 不 兼容
+msgid=s114m0144 participant=133628
+*pro* 做成 *OP* *T*-1 兼容 的 不是 很 难 吧 .
+msgid=s115m0145 participant=133628
+*OP* 你 说 *T*-1 的 是 *OP* *T*-2 用 在 哪里 的 驱动 啊
+msgid=s116m0147 participant=133628
+*pro* 还 有 linux
+msgid=s117m0148 participant=133628
+驱动 不一样
+msgid=s118m0149 participant=133628
+这个 没 关系 啊
+msgid=s119m0150 participant=133628
+你 把 两 个 驱动 都 放 在 系统 里 *-1
+msgid=s120m0151 participant=133628
+系统 会 自动 加载 的
+msgid=s121m0152 participant=133628
+嗯
+msgid=s122m0153 participant=133628
+你 联系 一下 我们 销售 经理
+msgid=s123m0154 participant=133628
+*OP* 你们 *T*-1 来 的 时候 *pro* 带 一 个 *OP* *T*-2 可以 演示 GPS 的 模块 .
+msgid=s124m0155 participant=133628
+*pro* 联系 了 .
+msgid=s125m0156 participant=133628
+嗯
+msgid=s126m0157 participant=133628
+电信 的 还是 联通 的 模块
+msgid=s127m0159 participant=133628
+额
+msgid=s128m0160 participant=133628
+*pro* 好
+msgid=s129m0161 participant=133628
+wcdma 和 evdo 各 带 一 块 .
+msgid=s130m0162 participant=133628
+额
+msgid=s131m0163 participant=133628
+*pro* 好的
+msgid=s132m0164 participant=133628
+他 说 了 什么 时候 *pro* 去 你 公司 吗
+msgid=s133m0165 participant=133628
+他 要 看 你 的 时间 .
+msgid=s134m0166 participant=133628
+额
+msgid=s135m0167 participant=133628
+你 需要 验证 GPS 功能 的 话 *pro* 需要 GPS 天线
+msgid=s136m0168 participant=133628
+哦 , 你们 有 配套 天线 吗 ?
+msgid=s137m0169 participant=133628
+*pro* 有 GPS 天线
+msgid=s138m0170 participant=133628
+无源 天线
+msgid=s139m0171 participant=133628
+嗯 , *pro* 演示 一下 , 主要 评估 一下 *pro* 能否 代替 独立 的 GPS 模块 .
+msgid=s140m0172 participant=133628
+嗯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="83" id="我0" start="80" text="pro" type="" />
+<我 comment="default value" end="232" id="我1" start="229" text="pro" type="" />
+<我 comment="default value" end="1254" id="我2" start="1251" text="pro" type="" />
+<我 comment="default value" end="2486" id="我3" start="2483" text="pro" type="" />
+<我 comment="default value" end="2596" id="我4" start="2593" text="pro" type="" />
+<我 comment="default value" end="2815" id="我5" start="2812" text="pro" type="" />
+<我 comment="default value" end="3112" id="我6" start="3109" text="pro" type="" />
+<我 comment="default value" end="3251" id="我7" start="3248" text="pro" type="" />
+<我 comment="default value" end="3433" id="我8" start="3430" text="pro" type="" />
+<我 comment="default value" end="5101" id="我9" start="5098" text="pro" type="" />
+<我 comment="default value" end="5316" id="我10" start="5313" text="pro" type="" />
+<我 comment="default value" end="5949" id="我11" start="5946" text="pro" type="" />
+<你 comment="default value" end="38" id="你0" start="35" text="pro" type="" />
+<你 comment="default value" end="133" id="你1" start="130" text="pro" type="" />
+<你 comment="default value" end="1909" id="你2" start="1906" text="pro" type="" />
+<你 comment="default value" end="2725" id="你3" start="2722" text="pro" type="" />
+<你 comment="default value" end="4212" id="你4" start="4209" text="pro" type="" />
+<你 comment="default value" end="5502" id="你5" start="5499" text="pro" type="" />
+<你 comment="default value" end="7054" id="你6" start="7051" text="pro" type="" />
+<你 comment="default value" end="3578" id="你7" start="3575" text="pro" type="" />
+<他 comment="default value" end="6898" id="他0" start="6895" text="pro" type="" />
+<它 comment="default value" end="505" id="它0" start="502" text="pro" type="" />
+<它 comment="default value" end="555" id="它1" start="552" text="pro" type="" />
+<它 comment="default value" end="600" id="它2" start="597" text="pro" type="" />
+<它 comment="default value" end="645" id="它3" start="642" text="pro" type="" />
+<它 comment="default value" end="694" id="它4" start="691" text="pro" type="" />
+<它 comment="default value" end="2388" id="它5" start="2385" text="pro" type="" />
+<它 comment="default value" end="3014" id="它6" start="3011" text="pro" type="" />
+<它 comment="default value" end="4896" id="它7" start="4893" text="pro" type="" />
+<它 comment="default value" end="5008" id="它8" start="5005" text="pro" type="" />
+<它 comment="default value" end="5266" id="它9" start="5263" text="pro" type="" />
+<它 comment="default value" end="7277" id="它10" start="7274" text="pro" type="" />
+<它 comment="default value" end="1795" id="它11" start="1792" text="pro" type="" />
+<我们 comment="default value" end="2863" id="我们0" start="2860" text="pro" type="" />
+<我们 comment="default value" end="3304" id="我们1" start="3301" text="pro" type="" />
+<我们 comment="default value" end="3733" id="我们2" start="3730" text="pro" type="" />
+<我们 comment="default value" end="6531" id="我们3" start="6528" text="pro" type="" />
+<我们 comment="default value" end="7159" id="我们4" start="7156" text="pro" type="" />
+<你们 comment="default value" end="3313" id="你们0" start="3310" text="pro" type="" />
+<你们 comment="default value" end="3677" id="你们1" start="3674" text="pro" type="" />
+<你们 comment="default value" end="3777" id="你们2" start="3774" text="pro" type="" />
+<你们 comment="default value" end="6456" id="你们3" start="6453" text="pro" type="" />
+<你们 comment="default value" end="7254" id="你们4" start="7251" text="pro" type="" />
+<他们 comment="default value" end="797" id="他们0" start="794" text="pro" type="" />
+<它们 comment="default value" end="4546" id="它们0" start="4543" text="pro" type="" />
+<它们 comment="default value" end="5903" id="它们1" start="5900" text="pro" type="" />
+<existential comment="default value" end="6099" id="e0" start="6096" text="pro" type="" />
+<event comment="default value" end="2162" id="ev0" start="2159" text="pro" type="" />
+<generic comment="default value" end="1351" id="g0" start="1348" text="pro" type="" />
+<generic comment="default value" end="2069" id="g1" start="2066" text="pro" type="" />
+<generic comment="default value" end="4330" id="g2" start="4327" text="pro" type="" />
+<pleonastic end="185" id="p0" start="182" text="pro" type="" />
+<pleonastic end="5571" id="p1" start="5568" text="pro" type="" />
+<previous_utterance comment="default value" end="4140" id="pr0" start="4137" text="pro" type="" />
+<previous_utterance comment="default value" end="4288" id="pr1" start="4285" text="pro" type="" />
+<previous_utterance comment="default value" end="5642" id="pr2" start="5639" text="pro" type="" />
+<previous_utterance comment="default value" end="6704" id="pr3" start="6701" text="pro" type="" />
+<previous_utterance comment="default value" end="6842" id="pr4" start="6839" text="pro" type="" />
+<previous_utterance comment="default value" end="5155" id="pr5" start="5152" text="pro" type="" />
+</TAGS>
+</ProTask>

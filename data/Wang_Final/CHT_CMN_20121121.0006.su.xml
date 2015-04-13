@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134050
+*pro* 在 不 ？
+suid=s1 participant=131226
+?
+suid=s2 participant=131226
+*pro* 对 了 ， 采购部 还 有 你 的 东西 ， *pro* 是 吧 ？
+照相 用具 和 水磨 。
+你 抽空 弄走 。
+现在 的 采购部 要 整成 会议室 了
+suid=s3 participant=134050
+魏 总 ！
+*pro* 打算 *PRO* 12月2 或 3号 去 广州 需要 定 2 张 飞机 票 ， *pro* 最好 是 *pro* 徐州 （ 南航 的 飞机 ） 直达 广州 （ *pro* 下午 5点 前 到 ， 他 说 *pro* 不 坐 小 飞机 ） 。
+suid=s4 participant=134050
+*pro* 还 有 一 个 事情 ！
+直营 店铺 就 一 台 电脑 *pro* 真 不 方便 ， *pro* 都 得 排队 用 ！！ *pro* 申请 *PRO* 批 一 台 电脑 过来 ！
+[ 表情 ]
+suid=s5 participant=131226
+恩 ， 我 看到 了
+suid=s6 participant=134050
+哦
+suid=s7 participant=131226
+飞机 的 是 往返 吗 ？
+suid=s8 participant=134050
+*pro* 先 定 *OP* *pro* *T*-3 去 的 ， *pro* *OP* *pro* *T*-1 回来 的 时间 还 没 确定 *-2 ！
+suid=s9 participant=134050
+*pro* 订 两 张 魏 总 和 我 .
+suid=s10 participant=131226
+*OP* 你 说 *T*-1 的 电脑 为什么 不 方便 ？
+suid=s11 participant=131226
+*pro* 都 干 什么 用 ？
+suid=s12 participant=134050
+*pro* 不 给 台式机 ！
+*pro* 给 个 笔记本 也 行 ！
+这样 更 方便 门头 LED 字幕 的 更换 ！！
+suid=s13 participant=131226
+笔记本 电脑 现在 不 是 在 你 店 里 吗 ？
+suid=s14 participant=134050
+嘿嘿 -- 那 以后 笔记本 还 回去 吗 ？
+[ 表情 ]
+suid=s15 participant=131226
+我们 这边 暂时 也 用 不 着
+suid=s16 participant=134050
+恩 -- *pro* 好 咧 ! *pro* 谢谢 领导 ！！
+suid=s17 participant=131226
+你 放 着 吧
+suid=s18 participant=134050
+恩恩 -- *pro* 有劳 ！
+suid=s19 participant=131226
+机票 的 事 ， 我 明天 向 卢 总 汇报 完 *T*-1 再 给 你们 买
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="371" id="我0" start="368" text="pro" type="" />
+<我 comment="default value" end="438" id="我1" start="435" text="pro" type="" />
+<我 comment="default value" end="1132" id="我2" start="1129" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="609" id="你1" start="606" text="pro" type="" />
+<你 comment="default value" end="713" id="你2" start="710" text="pro" type="" />
+<你 comment="default value" end="822" id="你3" start="819" text="pro" type="" />
+<你 comment="default value" end="1217" id="你4" start="1214" text="pro" type="" />
+<他 comment="default value" end="325" id="他1" start="322" text="pro" type="" />
+<它 comment="default value" end="303" id="它0" start="300" text="pro" type="" />
+<它 comment="default value" end="405" id="它1" start="402" text="pro" type="" />
+<我们 comment="default value" end="217" id="我们0" start="214" text="pro" type="" />
+<我们 comment="default value" end="420" id="我们1" start="417" text="pro" type="" />
+<我们 comment="default value" end="624" id="我们3" start="621" text="pro" type="" />
+<我们 comment="default value" end="642" id="我们4" start="639" text="pro" type="" />
+<我们 comment="default value" end="653" id="我们5" start="650" text="pro" type="" />
+<你们 comment="default value" end="867" id="你们0" start="864" text="pro" type="" />
+<你们 comment="default value" end="883" id="你们1" start="880" text="pro" type="" />
+<event comment="default value" end="274" id="ev0" start="271" text="pro" type="" />
+<pleonastic end="129" id="p0" start="126" text="pro" type="" />
+<pleonastic end="263" id="p1" start="260" text="pro" type="" />
+<previous_utterance comment="default value" end="100" id="pr0" start="97" text="pro" type="" />
+<previous_utterance comment="default value" end="1120" id="pr1" start="1117" text="pro" type="" />
+</TAGS>
+</ProTask>

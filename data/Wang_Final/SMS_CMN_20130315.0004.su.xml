@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135608
+*pro* 可以 发 imessage ， 哈哈
+suid=s1 participant=135608
+哥 ， 这 才 是 我 真正 的 手机 号
+suid=s2 participant=135922
+*pro* OK 咯 ！
+嘿嘿 。。。
+suid=s3 participant=135922
+*pro* 不 会 特别 贵 吧 ？
+suid=s4 participant=135608
+*pro* 不 收费 啊 ， *pro* 算 微弱 流量 。
+suid=s5 participant=135608
+*pro* 对 了 ， 你 跟 那 个 *OP* *T*-1 给 你 寄 手机 的 阿姨 说 一下 喂 。
+suid=s6 participant=135922
+嗯 ！
+*pro* 说 了 噢 ！
+哈哈
+suid=s7 participant=135608
+嗯嗯 ， 那 就 好 哈 ~ *pro* 对 了 ， 你 还 没 给 我 你 女朋友 的 图 呢
+suid=s8 participant=135922
+额 。。。 这个 、 *pro* 忘记 *T*-1 鸟 ， 哈哈
+suid=s9 participant=135608
+。。。。 啥 时候 *pro* 给 ？
+suid=s10 participant=135922
+*pro* 晚 点 咯 ， 我 自己 都 没 几 张 呢
+suid=s11 participant=135608
+*pro* 好 的 咧
+suid=s12 participant=135608
+你 记得 啊
+suid=s13 participant=135922
+嗯 ， 这个 你 放心 *T*-1 ， *pro* 发 qq 给 你
+suid=s14 participant=135608
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="369" id="我1" start="366" text="pro" type="" />
+<我 comment="default value" end="500" id="我2" start="497" text="pro" type="" />
+<我 comment="default value" end="597" id="我3" start="594" text="pro" type="" />
+<我 comment="default value" end="749" id="我4" start="746" text="pro" type="" />
+<你 comment="default value" end="559" id="你0" start="556" text="pro" type="" />
+<它 comment="default value" end="180" id="它0" start="177" text="pro" type="" />
+<它 comment="default value" end="226" id="它1" start="223" text="pro" type="" />
+<它 comment="default value" end="241" id="它2" start="238" text="pro" type="" />
+<previous_utterance comment="default value" end="133" id="pr0" start="130" text="pro" type="" />
+<previous_utterance comment="default value" end="284" id="pr1" start="281" text="pro" type="" />
+<previous_utterance comment="default value" end="428" id="pr2" start="425" text="pro" type="" />
+<previous_utterance comment="default value" end="654" id="pr3" start="651" text="pro" type="" />
+<previous_utterance comment="default value" end="792" id="pr4" start="789" text="pro" type="" />
+</TAGS>
+</ProTask>

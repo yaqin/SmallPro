@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136975
+*pro* 在 不
+suid=s1 participant=136975
+*pro* 问 你 个 事
+suid=s2 participant=136693
+？
+suid=s3 participant=136975
+*pro* 有没有 认识 联众 舜通 驾校 的 ！！
+suid=s4 participant=136693
+... *pro* 听 *pro* 都 没 听 过
+suid=s5 participant=136975
+靠 ！！
+suid=s6 participant=136975
+*pro* 给 打听 打听 ！！ *pro* 看看 *pro* 有 *OP* *pro* 认识 *T*-1 的 吗 ？
+suid=s7 participant=136693
+*pro* 咋 了 ， 谁 考 啊
+suid=s8 participant=136693
+这 年头 *pro* 找 人 貌似 不 好使 了
+suid=s9 participant=136975
+我 和 我 媳妇 ！！ *pro* 不 是 考试 的 问题 ！
+现在 就是 *pro* 练 车 都 没有 机会 ！！
+suid=s10 participant=136975
+*pro* 看看 *pro* 有 人 的话 ， *pro* 多 练练 ， 早点 考 出来 了
+suid=s11 participant=136693
+哦 ， *pro* 这么 严重 啊
+suid=s12 participant=136693
+*pro* 还 真 不 认识 这 个 驾校 的 人
+suid=s13 participant=136975
+*pro* 是 呀 ！
+*pro* 非常 严重 ！！ 科目 一 *pro* 已经 考完 *T*-1 三 个 月 了 ！
+*pro* 才 练 了 不 到 两 个 小时 ！！
+suid=s14 participant=136693
+倒
+suid=s15 participant=136975
+*pro* 看看 *pro* 有 人 吗 ！
+咱 也 加 个 塞 ！
+*pro* 请请 教练 ！
+*pro* 抓紧 *PRO* 学 出来 ！！ *pro* 搞 不 起 呀 ！
+[ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="69" id="我0" start="66" text="pro" type="" />
+<我 comment="default value" end="197" id="我1" start="194" text="pro" type="" />
+<我 comment="default value" end="205" id="我2" start="202" text="pro" type="" />
+<我 comment="default value" end="670" id="我3" start="667" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="139" id="你1" start="136" text="pro" type="" />
+<你 comment="default value" end="278" id="你2" start="275" text="pro" type="" />
+<你 comment="default value" end="295" id="你3" start="292" text="pro" type="" />
+<你 comment="default value" end="365" id="你4" start="362" text="pro" type="" />
+<你 comment="default value" end="868" id="你5" start="865" text="pro" type="" />
+<我们 comment="default value" end="474" id="我们0" start="471" text="pro" type="" />
+<我们 comment="default value" end="500" id="我们1" start="497" text="pro" type="" />
+<我们 comment="default value" end="549" id="我们2" start="546" text="pro" type="" />
+<我们 comment="default value" end="573" id="我们3" start="570" text="pro" type="" />
+<我们 comment="default value" end="756" id="我们4" start="753" text="pro" type="" />
+<我们 comment="default value" end="784" id="我们5" start="781" text="pro" type="" />
+<我们 comment="default value" end="903" id="我们6" start="900" text="pro" type="" />
+<我们 comment="default value" end="917" id="我们7" start="914" text="pro" type="" />
+<我们 comment="default value" end="940" id="我们8" start="937" text="pro" type="" />
+<existential comment="default value" end="304" id="e0" start="301" text="pro" type="" />
+<existential comment="default value" end="558" id="e1" start="555" text="pro" type="" />
+<existential comment="default value" end="877" id="e2" start="874" text="pro" type="" />
+<event comment="default value" end="628" id="ev0" start="625" text="pro" type="" />
+<event comment="default value" end="736" id="ev1" start="733" text="pro" type="" />
+<generic comment="default value" end="317" id="g0" start="314" text="pro" type="" />
+<generic comment="default value" end="415" id="g1" start="412" text="pro" type="" />
+<previous_utterance comment="default value" end="724" id="pr0" start="721" text="pro" type="" />
+</TAGS>
+</ProTask>

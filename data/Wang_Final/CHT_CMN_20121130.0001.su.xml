@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133485
+*pro* zao
+suid=s1 participant=133485
+*pro* 在 上班 ？
+suid=s2 participant=133489
+*pro* 是 的 ，
+suid=s3 participant=133485
+*pro* 听说 最近 身体 不 好 ？
+suid=s4 participant=133489
+你 下午 几点 上班 ， 我 把 油票 送给 你 *-1 ，
+suid=s5 participant=133485
+*pro* 不 用 了
+suid=s6 participant=133485
+我 找 同事 要 了
+suid=s7 participant=133485
+*pro* 已经 凑齐 了
+suid=s8 participant=133489
+*pro* 是 有 点 ， *pro* 前 几 天 在 七 医院 打针 ， 都 想 *PRO* 送给 你 ， 实在 是 没有 精神 跑
+suid=s9 participant=133485
+*pro* 好 些 没
+suid=s10 participant=133485
+你 给 我 打 电话 ， 我 还 可以 给 你 送 饭 吃 撒
+suid=s11 participant=133489
+你 急着 要 ， 怎么 不 跟 我 打 电话 呢 ？
+suid=s12 participant=133489
+*pro* 上 次 说 *pro* 不 急 ， *pro* 所以 没有 在意 ， *pro* 再 要 *pro* 就 直接 跟 我 说 ， 我 又 没有 地方 报销
+suid=s13 participant=133485
+后来 同事 有
+suid=s14 participant=133485
+*pro* 就 算了
+suid=s15 participant=133485
+*pro* 没 关系
+suid=s16 participant=133485
+*pro* 好 些 没 ？
+suid=s17 participant=133489
+*pro* 好 点 了 ， 你 呢 ， *pro* 听 施伟 *PRO* 说 你 也 病 了 ？
+你 好 点 没
+suid=s18 participant=133485
+*pro* 好 些 了
+suid=s19 participant=133489
+*pro* 接着 吃 中药 ， 我 也 在 吃 中药 ，
+suid=s20 participant=133489
+*pro* 有 个 *OP* *T*-1 很 神 的 中医 ， 每 天 很多 人 找 他 *PRO* 看 ， 他 只 拿脉 ， 你 不 用 介绍 病情 ， 然后 *pro* 听 他 *PRO* 说 ， 什么 问题 ，
+suid=s21 participant=133489
+*pro* 慢慢 调理 吧 ， 我 已经 老 了 ， 问题 都 来 了
+suid=s22 participant=133485
+哎 ， 自己 好好 调理 下
+suid=s23 participant=133485
+*pro* 带 孩子 也 蛮 辛苦 吧
+suid=s24 participant=133485
+一 个 人
+suid=s25 participant=133489
+*pro* 是 的 ， *pro* 都 要 注意 身体 呀 ， 我们 倒下 了 *pro* 就 没有 人 管 孩子 了 ， 孩子 大 了 *pro* 就 好 啦 ， *pro* 慢慢 盼 吧
+suid=s26 participant=133485
+恩
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="148" id="我0" start="145" text="pro" type="" />
+<我 comment="default value" end="331" id="我1" start="328" text="pro" type="" />
+<我 comment="default value" end="372" id="我2" start="369" text="pro" type="" />
+<我 comment="default value" end="386" id="我3" start="383" text="pro" type="" />
+<我 comment="default value" end="646" id="我4" start="643" text="pro" type="" />
+<我 comment="default value" end="769" id="我5" start="766" text="pro" type="" />
+<我 comment="default value" end="889" id="我6" start="886" text="pro" type="" />
+<我 comment="default value" end="909" id="我7" start="906" text="pro" type="" />
+<我 comment="default value" end="974" id="我8" start="971" text="pro" type="" />
+<我 comment="default value" end="32" id="我9" start="29" text="pro" type="" />
+<你 comment="default value" end="69" id="你1" start="66" text="pro" type="" />
+<你 comment="default value" end="254" id="你2" start="251" text="pro" type="" />
+<你 comment="default value" end="467" id="你3" start="464" text="pro" type="" />
+<你 comment="default value" end="622" id="你4" start="619" text="pro" type="" />
+<你 comment="default value" end="634" id="你5" start="631" text="pro" type="" />
+<你 comment="default value" end="663" id="你6" start="660" text="pro" type="" />
+<你 comment="default value" end="673" id="你7" start="670" text="pro" type="" />
+<你 comment="default value" end="847" id="你8" start="844" text="pro" type="" />
+<你 comment="default value" end="1014" id="你9" start="1011" text="pro" type="" />
+<你 comment="default value" end="1152" id="你10" start="1149" text="pro" type="" />
+<你 comment="default value" end="1208" id="你11" start="1205" text="pro" type="" />
+<你 comment="default value" end="1315" id="你12" start="1312" text="pro" type="" />
+<我们 comment="default value" end="1409" id="我们0" start="1406" text="pro" type="" />
+<我们 comment="default value" end="1466" id="我们1" start="1463" text="pro" type="" />
+<我们 comment="default value" end="1480" id="我们2" start="1477" text="pro" type="" />
+<existential comment="default value" end="1071" id="e0" start="1068" text="pro" type="" />
+<existential comment="default value" end="1437" id="e1" start="1434" text="pro" type="" />
+<event comment="default value" end="808" id="ev0" start="805" text="pro" type="" />
+<previous_utterance comment="default value" end="109" id="pr0" start="106" text="pro" type="" />
+<previous_utterance comment="default value" end="1397" id="pr1" start="1394" text="pro" type="" />
+</TAGS>
+</ProTask>

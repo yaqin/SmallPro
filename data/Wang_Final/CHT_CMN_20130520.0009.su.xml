@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133185
+啥 出版社 ？
+suid=s1 participant=133148
+社科院 出版社 。
+你 现在 做 老师 了 ？
+suid=s2 participant=133185
+嗯
+suid=s3 participant=133148
+哪 科 的 呀 ？
+suid=s4 participant=133185
+级别 太 高 了
+suid=s5 participant=133185
+信息 技术
+suid=s6 participant=133148
+你 说 谁 ？
+我 嘛 ？
+我们 是 小 社
+suid=s7 participant=133185
+*OP* *pro* *T*-1 哄 小孩 的 玩意
+suid=s8 participant=133148
+计算机 方面 的 ， 挺 厉害 的
+suid=s9 participant=133148
+你 也 像 老师 的
+suid=s10 participant=133185
+*pro* 晕
+suid=s11 participant=133185
+你们 那 能 发进 职称 方面 的 东西 吗 ？
+suid=s12 participant=133148
+要 *pro* 是 书 的话 *pro* 可以 出版 ， 但是 单 篇 的 文章 不 行
+suid=s13 participant=133148
+我们 是 出版 书籍 的 。
+不过 我 可以 帮 你 *PRO* 问 一下
+suid=s14 participant=133148
+我们 院 里 好像 有 杂志社 ， 《 社会 科学 杂志社 》 *pro* 好像 叫 这 个 名字
+suid=s15 participant=133185
+。。。
+suid=s16 participant=133185
+*pro* 别 问 了
+suid=s17 participant=133185
+文章 我 也 写 不 出来 *T*-1
+suid=s18 participant=133148
+[ 表情 ] *pro* 谦虚
+suid=s19 participant=133148
+你 现在 在 哪里 教 计算机 ？
+suid=s20 participant=133185
+*pro* 别 用 初中 的 老 眼光 看 我 ，
+suid=s21 participant=133185
+我 想 *PRO* 谦虚 来着
+suid=s22 participant=133185
+枣庄 薛城 ， 原来 的 29中 北校
+suid=s23 participant=133148
+[ 表情 ] *pro* 好 吧 ， 新 眼光 ， *pro* 戴 墨镜 的 来 看 你
+suid=s24 participant=133148
+哦 ， *pro* 在 薛城 ， 薛城 现在 发展 的 不错 啊 ， 好多 人 都 搬 过去 了
+suid=s25 participant=133185
+*pro* 就 知道 你 用 *pro* 带 有色 眼镜 看 我
+suid=s26 participant=133148
+*pro* 主要 是 你 的 光芒 太 耀眼 了 ， 我 有点 闪光
+suid=s27 participant=133185
+*pro* 白搭 ，
+suid=s28 participant=133185
+小 地方 ， 还 不 如 市中区
+suid=s29 participant=133148
+不过 现在 什么 *pro* 都 看 潜力 的 呀
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="441" id="我0" start="438" text="pro" type="" />
+<我 comment="default value" end="1129" id="我1" start="1126" text="pro" type="" />
+<我 comment="default value" end="1253" id="我2" start="1250" text="pro" type="" />
+<我 comment="default value" end="1377" id="我3" start="1374" text="pro" type="" />
+<你 comment="default value" end="779" id="你0" start="776" text="pro" type="" />
+<你 comment="default value" end="874" id="你1" start="871" text="pro" type="" />
+<你 comment="default value" end="957" id="你2" start="954" text="pro" type="" />
+<你 comment="default value" end="1180" id="你3" start="1177" text="pro" type="" />
+<你 comment="default value" end="1268" id="你4" start="1265" text="pro" type="" />
+<它 comment="default value" end="532" id="它0" start="529" text="pro" type="" />
+<它 comment="default value" end="545" id="它1" start="542" text="pro" type="" />
+<它 comment="default value" end="701" id="它2" start="698" text="pro" type="" />
+<我们 comment="default value" end="308" id="我们0" start="305" text="pro" type="" />
+<generic comment="default value" end="1470" id="g0" start="1467" text="pro" type="" />
+<pleonastic end="1314" id="p0" start="1311" text="pro" type="" />
+<previous_utterance comment="default value" end="1110" id="pr0" start="1107" text="pro" type="" />
+</TAGS>
+</ProTask>

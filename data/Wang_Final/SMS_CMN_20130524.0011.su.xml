@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131802
+*pro* 不好意思 晚上 的 时候 *pro* 没有 接到 电话 ， 我 的 流量 快 超 了 *pro* 是 吗 ？
+suid=s1 participant=130530
+*pro* 不 是
+suid=s2 participant=131802
+噢 。。。 *pro* 现在 给 你 电话 *pro* 方便 么 ？
+suid=s3 participant=130530
+因为 我们 换 了 每 人 1 g 的 你 要 回国 前 *pro* 想 *PRO* 总结 下 以前 话费
+suid=s4 participant=130530
+我 周末 给 你 发 邮件 吧
+suid=s5 participant=130530
+你 什么 时候 走 ？
+suid=s6 participant=130530
+所以 你 可以 用 1 g 每 人 了
+suid=s7 participant=131802
+*pro* 好 的 ， 我 6月 4号 回国 ， 8月 初 回来 ，
+suid=s8 participant=131802
+我 下 周二 之后 有空 ， *pro* 到时 需要 交 什么 费用 的话 我 再 跟 你 约 个 时间 吧 。
+suid=s9 participant=131802
+*pro* 现在 开始 这 个 套餐 就 生效 啦 ？
+suid=s10 participant=131802
+*pro* 好 的 ， *pro* 谢谢 ！
+suid=s11 participant=131802
+*pro* 没 关系 ， 我们 下 周 联系 。
+*pro* 晚安
+suid=s12 participant=130530
+我 睡 了 周末 再 联络
+suid=s13 participant=130530
+*pro* 晚安
+suid=s14 participant=130530
+*pro* 好 的
+suid=s15 participant=130530
+*pro* 是
+suid=s16 participant=130530
+*pro* 5月12 开始
+suid=s17 participant=130530
+*pro* 这 几 天 忙 忘 了 *PRO* 告诉 你
+suid=s18 participant=130530
+*pro* 晚安
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="51" id="我1" start="48" text="pro" type="" />
+<我 comment="default value" end="163" id="我2" start="160" text="pro" type="" />
+<我 comment="default value" end="248" id="我3" start="245" text="pro" type="" />
+<我 comment="default value" end="643" id="我4" start="640" text="pro" type="" />
+<我 comment="default value" end="939" id="我5" start="936" text="pro" type="" />
+<你 comment="default value" end="179" id="你0" start="176" text="pro" type="" />
+<你 comment="default value" end="506" id="你1" start="503" text="pro" type="" />
+<你 comment="default value" end="707" id="你2" start="704" text="pro" type="" />
+<你 comment="default value" end="786" id="你3" start="783" text="pro" type="" />
+<你 comment="default value" end="996" id="你4" start="993" text="pro" type="" />
+<它 comment="default value" end="897" id="它0" start="894" text="pro" type="" />
+<pleonastic end="575" id="p0" start="572" text="pro" type="" />
+<pleonastic end="682" id="p1" start="679" text="pro" type="" />
+<previous_utterance comment="default value" end="81" id="pr0" start="78" text="pro" type="" />
+<previous_utterance comment="default value" end="120" id="pr1" start="117" text="pro" type="" />
+<previous_utterance comment="default value" end="429" id="pr2" start="426" text="pro" type="" />
+<previous_utterance comment="default value" end="631" id="pr3" start="628" text="pro" type="" />
+<previous_utterance comment="default value" end="823" id="pr4" start="820" text="pro" type="" />
+<previous_utterance comment="default value" end="861" id="pr5" start="858" text="pro" type="" />
+</TAGS>
+</ProTask>

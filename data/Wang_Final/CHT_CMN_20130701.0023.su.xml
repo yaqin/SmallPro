@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+*pro* 没 办法 ， 咱 只 是 小兵
+suid=s1 participant=136693
+*pro* 让 *pro* 干 *pro* 就 干
+suid=s2 participant=137054
+我 给 周 主任 说去
+suid=s3 participant=136693
+*pro* 别介 啊
+suid=s4 participant=136693
+领导 还 以为 我 发 牢骚 呢
+suid=s5 participant=137054
+*pro* 放心 吧
+suid=s6 participant=136693
+*pro* 多 干 点 *pro* 就 多 干 点 吧 ， *pro* 累 不 着
+suid=s7 participant=136693
+*pro* 别 让 领导 *PRO* 以为 咱 有 意见
+suid=s8 participant=137054
+嗯 ， *pro* 好 吧 。
+suid=s9 participant=137054
+我 是 为 你 好
+suid=s10 participant=137054
+*pro* 为 咱 *OP* *T*-1 干活 的 抱 不平 啊
+suid=s11 participant=136693
+唉 ， *pro* 酸辣
+suid=s12 participant=136693
+*pro* 算啦
+suid=s13 participant=136693
+*pro* 有 你 这么 仗义 ， 我 就 知足 了
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="89" id="我1" start="86" text="pro" type="" />
+<我 comment="default value" end="97" id="我2" start="94" text="pro" type="" />
+<我 comment="default value" end="293" id="我3" start="290" text="pro" type="" />
+<我 comment="default value" end="305" id="我4" start="302" text="pro" type="" />
+<我 comment="default value" end="323" id="我5" start="320" text="pro" type="" />
+<我 comment="default value" end="499" id="我6" start="496" text="pro" type="" />
+<我 comment="default value" end="564" id="我7" start="561" text="pro" type="" />
+<我 comment="default value" end="601" id="我8" start="598" text="pro" type="" />
+<你 comment="default value" end="173" id="你0" start="170" text="pro" type="" />
+<你 comment="default value" end="255" id="你1" start="252" text="pro" type="" />
+<你 comment="default value" end="362" id="你2" start="359" text="pro" type="" />
+<他们 comment="default value" end="81" id="他们0" start="78" text="pro" type="" />
+<existential comment="default value" end="638" id="e0" start="635" text="pro" type="" />
+<previous_utterance comment="default value" end="422" id="pr0" start="419" text="pro" type="" />
+</TAGS>
+</ProTask>

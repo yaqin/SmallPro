@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133137
+周 姐姐 ，
+suid=s1 participant=132057
+*pro* 在
+suid=s2 participant=133137
+你 明天 来 ？
+suid=s3 participant=132057
+我 有点 犹豫 呢 兔子 病 了 *pro* 本来 想 *PRO* 带 她 *PRO* 一起 来
+suid=s4 participant=132057
+你 的 奶瓶 *pro* 着急 *PRO* 用 *T*-1 吗
+suid=s5 participant=133137
+啊 ， 那 *pro* 先 别 来 了
+suid=s6 participant=133137
+*pro* 不 着急 *PRO* 用 。
+*pro* 买 了 一 个
+suid=s7 participant=132057
+她 昨天 咳 了 一 整 晚 几乎 没 睡
+suid=s8 participant=133137
+*pro* 咳嗽 啊 ！
+什么 原因
+suid=s9 participant=132057
+*pro* 想 *PRO* 等 她 好 了 一起 来 找 兜兜 玩 看 小弟弟
+suid=s10 participant=132057
+*pro* 不 知道 呢 *pro* 可能 是 感冒
+suid=s11 participant=132057
+*pro* 三天两头 的 这样
+suid=s12 participant=133137
+*pro* 发烧 吗
+suid=s13 participant=132057
+*pro* 不 烧
+suid=s14 participant=132057
+鼻炎 肯定 有
+suid=s15 participant=133137
+鼻涕 ne
+suid=s16 participant=132057
+*pro* 有
+suid=s17 participant=132057
+鼻子 不 通气儿
+suid=s18 participant=133137
+*pro* 上火 还是 风寒 ？
+suid=s19 participant=132057
+你 不 用 费心 想 兔子 啦
+suid=s20 participant=132057
+*pro* 没 看 医生 呢
+suid=s21 participant=132057
+*pro* 没 事儿
+suid=s22 participant=132057
+*pro* 总 能 好 的
+suid=s23 participant=132057
+纸尿裤 *pro* 需要 *T*-1 吗 NB 的
+suid=s24 participant=133137
+*OP* *pro* *T*-1 咳嗽 的 时候 *pro* 帮 她 *PRO* 按按 33中 和 天突 ，
+suid=s25 participant=132057
+*pro* 不 懂 呢 需要 学习
+suid=s26 participant=133137
+你 *PRO* 要是 有 现成 的 可以 给 我 。
+*pro* 没有 *pro* 就 别 另 买 ， 果果 只 晚上 用
+suid=s27 participant=132057
+*pro* 倒是 没有 我 看看 *pro* 买 点 啥
+suid=s28 participant=133137
+*pro* 对 了 ， 以前 *OP* 我 给 你 *T*-1 的 新安怡 吸奶器 ， 你 还 有 *T*-2 吗
+suid=s29 participant=133137
+我 不 需要 吸奶器 ， 只 需要 中转 *OP* *pro* *T*-1 储存 奶 的 小瓶 哈
+suid=s30 participant=132057
+*pro* 有 个 小瓶 吸奶器 没 了
+suid=s31 participant=132057
+我 带给 你
+suid=s32 participant=133137
+东西 啥 也 不 缺 了 ， 就 只有 隔尿垫 还 没 买
+suid=s33 participant=132057
+隔尿垫 不 用 买
+suid=s34 participant=132057
+我 有
+suid=s35 participant=133137
+*pro* 太 好 了 ， 小瓶 和 个尿垫 *pro* 给 我 *T*-1 吧
+suid=s36 participant=132057
+*pro* 要 *OP* *T*-1 大 的 还是 *T*-1 小 的 ？
+suid=s37 participant=133137
+垫 吗 ？
+*OP* *T*-1 大 的 多 大 ？
+suid=s38 participant=132057
+*pro* 单人 床 那么 大
+suid=s39 participant=133137
+*OP* *T*-1 不 超过 婴儿 床 大小 的 都 行
+suid=s40 participant=132057
+*pro* 可以 叠 起来
+suid=s41 participant=132057
+*pro* 有 个 麻 的 *OP* *T*-1 小 的 不错
+suid=s42 participant=132057
+我 带 过来 你 看看
+suid=s43 participant=133137
+*pro* 好 ， 你 要是 *PRO* 不 用 就 都 给 我 吧
+suid=s44 participant=133137
+*pro* 白天 不 用 尿不湿 ， *pro* 一会儿 就 湿 了
+suid=s45 participant=132057
+*pro* 这么 早 *pro* 就 把 尿 ？
+suid=s46 participant=133137
+*pro* 不 把 ， 就 兜 着 尿布
+suid=s47 participant=132057
+呵呵 *pro* 糊涂 了
+suid=s48 participant=133137
+*pro* 担心 尿不湿 把 屁股 打红 *-1
+suid=s49 participant=133137
+你 就 带 着 这些 东西 来 就 好 了
+suid=s50 participant=132057
+*pro* 好
+suid=s51 participant=132057
+还有 饮水杯
+suid=s52 participant=133137
+*pro* 不 要 再 买 任何 别的 了 [ 表情 ]
+suid=s53 participant=132057
+*pro* 好 滴
+suid=s54 participant=133137
+果果 同学 简直 太 幸福 了 ， 这么 多 哥哥 姐姐 送 东西
+suid=s55 participant=132057
+*pro* 能够 和 果果 分享 也 是 哥哥 姐姐们 的 幸福 呢
+suid=s56 participant=132057
+我 要 准备 *PRO* 下 了
+suid=s57 participant=132057
+*pro* 回家 看 兔兔 怎么样 了
+suid=s58 participant=132057
+*pro* 担心 他
+suid=s59 participant=133137
+*pro* 好 。
+suid=s60 participant=133137
+覃中 在 两 个 乳头 连线 的 中间
+suid=s61 participant=133137
+天突 在 喉咙 下方 两 块 骨头 中间 ， *OP* *T*-1 软 的 地方
+suid=s62 participant=132057
+*pro* 好
+suid=s63 participant=132057
+*pro* 再 传 个 文件 就 下 了
+suid=s64 participant=132057
+你 多 注意 *PRO* 休息
+suid=s65 participant=133137
+*pro* 回家 好好 照顾 兔兔 吧
+suid=s66 participant=132057
+嗯
+suid=s67 participant=133137
+我 也 下 了
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="66" id="我0" start="63" text="pro" type="" />
+<我 comment="default value" end="154" id="我1" start="151" text="pro" type="" />
+<我 comment="default value" end="319" id="我2" start="316" text="pro" type="" />
+<我 comment="default value" end="340" id="我3" start="337" text="pro" type="" />
+<我 comment="default value" end="476" id="我4" start="473" text="pro" type="" />
+<我 comment="default value" end="544" id="我5" start="541" text="pro" type="" />
+<我 comment="default value" end="1213" id="我7" start="1210" text="pro" type="" />
+<我 comment="default value" end="1349" id="我8" start="1346" text="pro" type="" />
+<我 comment="default value" end="1366" id="我9" start="1363" text="pro" type="" />
+<我 comment="default value" end="1570" id="我10" start="1567" text="pro" type="" />
+<我 comment="default value" end="2116" id="我11" start="2113" text="pro" type="" />
+<我 comment="default value" end="2279" id="我12" start="2276" text="pro" type="" />
+<我 comment="default value" end="2395" id="我13" start="2392" text="pro" type="" />
+<我 comment="default value" end="2447" id="我14" start="2444" text="pro" type="" />
+<我 comment="default value" end="2486" id="我15" start="2483" text="pro" type="" />
+<我 comment="default value" end="2973" id="我16" start="2970" text="pro" type="" />
+<我 comment="default value" end="2925" id="我17" start="2922" text="pro" type="" />
+<我 comment="default value" end="3203" id="我18" start="3200" text="pro" type="" />
+<我 comment="default value" end="1518" id="我6" start="1515" text="pro" type="" />
+<你 comment="default value" end="220" id="你0" start="217" text="pro" type="" />
+<你 comment="default value" end="278" id="你1" start="275" text="pro" type="" />
+<你 comment="default value" end="1080" id="你2" start="1077" text="pro" type="" />
+<你 comment="default value" end="1155" id="你3" start="1152" text="pro" type="" />
+<你 comment="default value" end="1286" id="你4" start="1283" text="pro" type="" />
+<你 comment="default value" end="1295" id="你5" start="1292" text="pro" type="" />
+<你 comment="default value" end="1805" id="你6" start="1802" text="pro" type="" />
+<你 comment="default value" end="1851" id="你7" start="1848" text="pro" type="" />
+<你 comment="default value" end="2074" id="你8" start="2071" text="pro" type="" />
+<你 comment="default value" end="2342" id="你9" start="2339" text="pro" type="" />
+<你 comment="default value" end="2353" id="你10" start="2350" text="pro" type="" />
+<你 comment="default value" end="2660" id="你11" start="2657" text="pro" type="" />
+<你 comment="default value" end="3296" id="你13" start="3293" text="pro" type="" />
+<她 comment="default value" end="430" id="她0" start="427" text="pro" type="" />
+<她 comment="default value" end="557" id="她1" start="554" text="pro" type="" />
+<她 comment="default value" end="599" id="她2" start="596" text="pro" type="" />
+<她 comment="default value" end="643" id="她3" start="640" text="pro" type="" />
+<她 comment="default value" end="682" id="她4" start="679" text="pro" type="" />
+<她 comment="default value" end="790" id="她5" start="787" text="pro" type="" />
+<她 comment="default value" end="863" id="她6" start="860" text="pro" type="" />
+<她 comment="default value" end="995" id="她7" start="992" text="pro" type="" />
+<她 comment="default value" end="1034" id="她8" start="1031" text="pro" type="" />
+<她 comment="default value" end="1135" id="她9" start="1132" text="pro" type="" />
+<它 comment="default value" end="1972" id="它0" start="1969" text="pro" type="" />
+<它 comment="default value" end="2298" id="它1" start="2295" text="pro" type="" />
+<我们 comment="default value" end="952" id="我们0" start="949" text="pro" type="" />
+<我们 comment="default value" end="2817" id="我们1" start="2814" text="pro" type="" />
+<event comment="default value" end="1782" id="ev0" start="1779" text="pro" type="" />
+<previous_utterance comment="default value" end="1406" id="pr0" start="1403" text="pro" type="" />
+<previous_utterance comment="default value" end="2216" id="pr1" start="2213" text="pro" type="" />
+<previous_utterance comment="default value" end="2589" id="pr2" start="2586" text="pro" type="" />
+<previous_utterance comment="default value" end="2717" id="pr3" start="2714" text="pro" type="" />
+<previous_utterance comment="default value" end="3012" id="pr4" start="3009" text="pro" type="" />
+<previous_utterance comment="default value" end="3167" id="pr5" start="3164" text="pro" type="" />
+</TAGS>
+</ProTask>

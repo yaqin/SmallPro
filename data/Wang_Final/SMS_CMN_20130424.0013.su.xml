@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131857
+旭旭 ， 有 答案 么 。。。 *pro* 有 的话 *pro* 给 我 发 份 *pro* 好 么 。
+*pro* 谢谢 。。。
+suid=s1 participant=131938
+你 是 ， 我 没有 答案 正 找 呢
+suid=s2 participant=131938
+二哥 ， 我 没 答案 ， 小强 有
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="85" id="我0" start="82" text="pro" type="" />
+<你 comment="default value" end="48" id="你0" start="45" text="pro" type="" />
+<你 comment="default value" end="59" id="你1" start="56" text="pro" type="" />
+<previous_utterance comment="default value" end="73" id="pr0" start="70" text="pro" type="" />
+</TAGS>
+</ProTask>

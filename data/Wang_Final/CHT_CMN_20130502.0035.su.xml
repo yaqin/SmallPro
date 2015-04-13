@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137121
+*pro* 上班 了 吗 ？
+suid=s1 participant=136693
+嗯
+suid=s2 participant=136693
+五一 过 得 好 快 ...
+suid=s3 participant=137121
+*pro* 是 呀
+suid=s4 participant=137121
+不过 *pro* 后天 又 休班 了
+suid=s5 participant=136693
+哈哈 ， 是 啊 ， *pro* 这 两 天 请假 最 爽 了
+suid=s6 participant=136693
+*pro* 可以 休 一 周 ， *pro* 相当于 *OP* *pro* *T*-1 带 薪 假
+suid=s7 participant=137121
+嘿嘿 ， 光 想 着 *PRO* 休班 了 啊
+suid=s8 participant=136693
+*pro* 必须 的 啊 ， 谁 不 喜欢 *PRO* 休班
+suid=s9 participant=137121
+资料 *pro* 看完 了 *T*-1 没 啊
+suid=s10 participant=136693
+*pro* 正在 看
+suid=s11 participant=137121
+我 开会 去 了 啊
+suid=s12 participant=137121
+江淮 动力 项目 明天 开始 预约 ， 你 怎么 考虑 的 ？
+suid=s13 participant=137121
+王 哥
+suid=s14 participant=136693
+*pro* 在
+suid=s15 participant=137121
+你 今天 啥 时候 有空 啊
+suid=s16 participant=137121
+咱们 见面 认识 一下 呗
+suid=s17 participant=136693
+今天 有点 小 忙 啊
+suid=s18 participant=137121
+*OP* *pro* 那 天 给 你 发 *T*-1 的 江淮 动力 那 个 产品 ， 明天 开始 秒杀 了 ， 你 考虑 的 如何 ？
+suid=s19 participant=136693
+你 这边 动作 也 太 快 了
+suid=s20 participant=136693
+我 还 在 *PRO* 考虑 中 ， 而且 资金 还 没 收 回来 呢
+suid=s21 participant=137121
+哈哈
+suid=s22 participant=137121
+你 资金 多 长 时间 能 到位 啊 ， *pro* 心里 有数 给 你 选 产品
+suid=s23 participant=136693
+*pro* 还 没 决定 下来 *pro* 要 不 要 投资 信托 呢 ， *pro* 决定 了 之后 就 会 考虑 *PRO* 回收 资金
+suid=s24 participant=137121
+那 你 考虑 哪些 方面 啊
+suid=s25 participant=136693
+*pro* 是否 可靠 ， 速度 ， 收益 率 等等
+suid=s26 participant=136693
+*pro* 别 着急 啊
+suid=s27 participant=136693
+你 好像 *pro* 很 急 的 样子 ...
+suid=s28 participant=137121
+*pro* 没有 啦
+suid=s29 participant=137121
+*pro* 就 想 *PRO* 跟 你 交流 交流 嘛
+suid=s30 participant=136693
+*pro* 好 啊 ， *pro* 有 时间 呗
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="185" id="我0" start="182" text="pro" type="" />
+<我 comment="default value" end="287" id="我2" start="284" text="pro" type="" />
+<我 comment="default value" end="319" id="我3" start="316" text="pro" type="" />
+<我 comment="default value" end="415" id="我4" start="412" text="pro" type="" />
+<我 comment="default value" end="525" id="我5" start="522" text="pro" type="" />
+<我 comment="default value" end="695" id="我6" start="692" text="pro" type="" />
+<我 comment="default value" end="861" id="我7" start="858" text="pro" type="" />
+<我 comment="default value" end="1113" id="我8" start="1110" text="pro" type="" />
+<我 comment="default value" end="1162" id="我9" start="1159" text="pro" type="" />
+<我 comment="default value" end="1178" id="我10" start="1175" text="pro" type="" />
+<我 comment="default value" end="1200" id="我11" start="1197" text="pro" type="" />
+<我 comment="default value" end="1452" id="我12" start="1449" text="pro" type="" />
+<我 comment="default value" end="1491" id="我13" start="1488" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="239" id="你1" start="236" text="pro" type="" />
+<你 comment="default value" end="476" id="你2" start="473" text="pro" type="" />
+<你 comment="default value" end="1359" id="你3" start="1356" text="pro" type="" />
+<你 comment="default value" end="1405" id="你4" start="1402" text="pro" type="" />
+<它 comment="default value" end="1304" id="它0" start="1301" text="pro" type="" />
+<我们 comment="default value" end="1559" id="我们0" start="1556" text="pro" type="" />
+<event comment="default value" end="304" id="ev0" start="301" text="pro" type="" />
+<previous_utterance comment="default value" end="145" id="pr0" start="142" text="pro" type="" />
+<previous_utterance comment="default value" end="1547" id="pr1" start="1544" text="pro" type="" />
+</TAGS>
+</ProTask>

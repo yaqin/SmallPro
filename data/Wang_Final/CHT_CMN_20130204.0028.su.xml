@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136893
+呵呵 ， 哪里 的 呀
+suid=s1 participant=136868
+幼儿园 里
+suid=s2 participant=136868
+老师 拍 的
+suid=s3 participant=136893
+昨晚 我 也 在 1号店 买 了 100.7 元 的 零食
+suid=s4 participant=136868
+哇塞 *pro* 送到 了 吗
+suid=s5 participant=136893
+*pro* 要 满 百 *pro* 才 包邮 的 嘛
+suid=s6 participant=136893
+明天 *pro* 应该 会 到 的
+suid=s7 participant=136868
+那 你们 那 比较 慢
+suid=s8 participant=136893
+江 浙 沪 都 是 发货 的
+suid=s9 participant=136893
+*pro* 昨晚 11点 买 的 ， 现在 *pro* 是 准备 *PRO* 装车 了
+suid=s10 participant=136868
+哦哦
+suid=s11 participant=136893
+我 明天 回去
+suid=s12 participant=136893
+我 爸 今天 给 我 钉 床
+suid=s13 participant=136868
+噶 *pro* 早 啊
+suid=s14 participant=136893
+你 家 的 旧 床
+suid=s15 participant=136893
+四件套 ， 我 买好 了 拿 回去 的
+suid=s16 participant=136868
+哦哦
+suid=s17 participant=136893
+三江 购物 *pro* 也 买 了 200 的 东西 ， 嵊州 的 三江 购物 ， *pro* 网上 也 能 买 的 ， *pro* 今天 送来 了
+suid=s18 participant=136868
+噶 *pro* 许多 东西 啊
+suid=s19 participant=136893
+*pro* 回去 打扫 卫生
+suid=s20 participant=136893
+东西 不 多 的 ， 现在 的 钱 买 不 了 多少 东西
+suid=s21 participant=136868
+反正 *pro* 有 人 送 你 *PRO* 回去 的 咯
+suid=s22 participant=136893
+恩
+suid=s23 participant=136893
+*pro* 刚才 在 小 商品 城 买 ， 本来 想 *PRO* 买 个 三 层 的 *OP* *pro* 浴室 放 *T*-1 的 置物架 的 ， *pro* 电话 问 了 我 爸 ， *pro* 跟 你 家 不 一样 的
+suid=s24 participant=136893
+我 家 的 那个 好像 小小 的 一 个 ， 所以 *pro* 回去 再 说 哈
+suid=s25 participant=136868
+哦哦 我 先 下班 了
+suid=s26 participant=136893
+*pro* 昨晚 在 网上 看 厨房 的 置物架 ， *pro* 不过 都 是 年后 发货
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="418" id="我0" start="415" text="pro" type="" />
+<我 comment="default value" end="763" id="我1" start="760" text="pro" type="" />
+<我 comment="default value" end="799" id="我2" start="796" text="pro" type="" />
+<我 comment="default value" end="904" id="我3" start="901" text="pro" type="" />
+<我 comment="default value" end="1093" id="我4" start="1090" text="pro" type="" />
+<我 comment="default value" end="1168" id="我5" start="1165" text="pro" type="" />
+<我 comment="default value" end="1260" id="我6" start="1257" text="pro" type="" />
+<我 comment="default value" end="1343" id="我7" start="1340" text="pro" type="" />
+<你 comment="default value" end="602" id="你0" start="599" text="pro" type="" />
+<它 comment="default value" end="198" id="它0" start="195" text="pro" type="" />
+<它 comment="default value" end="295" id="它1" start="292" text="pro" type="" />
+<它 comment="default value" end="1187" id="它3" start="1184" text="pro" type="" />
+<他们 comment="default value" end="250" id="他们0" start="247" text="pro" type="" />
+<他们 comment="default value" end="440" id="他们1" start="437" text="pro" type="" />
+<他们 comment="default value" end="818" id="他们2" start="815" text="pro" type="" />
+<他们 comment="default value" end="1370" id="他们3" start="1367" text="pro" type="" />
+<existential comment="default value" end="1008" id="e0" start="1005" text="pro" type="" />
+<generic comment="default value" end="238" id="g0" start="235" text="pro" type="" />
+<generic comment="default value" end="1141" id="g1" start="1138" text="pro" type="" />
+<pleonastic end="862" id="p0" start="859" text="pro" type="" />
+</TAGS>
+</ProTask>

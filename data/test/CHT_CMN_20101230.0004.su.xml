@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138495
+*pro* 听说 明天 早上 组成 原理 *pro* 有 答疑 [ 表情 ]
+suid=s1 participant=135882
+*pro* 是 的 ， 你们 的 学委 发 通知 了 吗 ？
+suid=s2 participant=135882
+*pro* 很 重要 ， *pro* 一定 要 过去
+suid=s3 participant=138495
+我 是 听 马力明 *PRO* 说 的
+suid=s4 participant=138495
+*pro* 一定 要 过去 ？
+suid=s5 participant=138495
+*pro* 有 课 呢 ？
+suid=s6 participant=135882
+你们 的 学委 还 没有 发 飞信 吗 ？
+suid=s7 participant=135882
+最好 把 ， 我 建议 *pro* 过去 听听
+suid=s8 participant=135882
+*pro* 翘课 吧 …… 9点半 到 十点 ， 也 就 半 个 小时 而已
+suid=s9 participant=138495
+*pro* 好 吧 。。
+suid=s10 participant=138495
+学委 应该 直接 找 人 通知 吧 ， 刚才 他 Ｑ 我 ， 现在 又 不 在 了
+suid=s11 participant=138495
+还有 喔 ， *pro* 是 不 是 有 作业 ？
+suid=s12 participant=135882
+*pro* 是 啊 ， 之前 *pro* 不 是 发 了 群邮 了 吗
+suid=s13 participant=138495
+[ 图片 ] 怎么 我 现在 才 知道 。。 那 *pro* 什么 时候 交 的 ？
+suid=s14 participant=135882
+呃 ， 明天 *pro* 问问 老师 几时 交 咯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="257" id="我1" start="254" text="pro" type="" />
+<我 comment="default value" end="300" id="我2" start="297" text="pro" type="" />
+<我 comment="default value" end="441" id="我3" start="438" text="pro" type="" />
+<我 comment="default value" end="814" id="我4" start="811" text="pro" type="" />
+<你 comment="default value" end="169" id="你0" start="166" text="pro" type="" />
+<你 comment="default value" end="402" id="你1" start="399" text="pro" type="" />
+<它 comment="default value" end="53" id="它1" start="50" text="pro" type="" />
+<它 comment="default value" end="156" id="它2" start="153" text="pro" type="" />
+<它 comment="default value" end="625" id="它3" start="622" text="pro" type="" />
+<它 comment="default value" end="672" id="它4" start="669" text="pro" type="" />
+<它 comment="default value" end="687" id="它5" start="684" text="pro" type="" />
+<它 comment="default value" end="761" id="它6" start="758" text="pro" type="" />
+<previous_utterance comment="default value" end="98" id="pr0" start="95" text="pro" type="" />
+<previous_utterance comment="default value" end="507" id="pr1" start="504" text="pro" type="" />
+</TAGS>
+</ProTask>

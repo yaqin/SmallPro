@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135208
+林 博士 最近 我 爱人 回国 了 下 3 个 月 的 房租 你 直接 给 她 *T*-1 就 行 了 她 会 给 你 打 电话
+suid=s1 participant=136183
+*pro* 好 的 ， 我 说 *pro* 怎么 昨天 在 17 公寓 看到 一 个 *OP* *T*-1 长 得 特 像 你 媳妇 的 人
+suid=s2 participant=136183
+*pro* 把 我 吓 *-1 一 跳 ， *pro* 还 以为 世界 上 怎么 有 *OP* *T*-2 长 这么 相似 的 人
+suid=s3 participant=135208
+*pro* 对 她 在 哪里 住 了 一 晚上
+suid=s4 participant=135208
+哈哈
+suid=s5 participant=136183
+*pro* 去 美国 回来 变 年轻 了
+suid=s6 participant=135208
+*pro* 是 吗 ？
+呵呵
+suid=s7 participant=136183
+我 以为 *pro* 是 个 *OP* *T*-1 长 得 比较 像 的 学妹
+suid=s8 participant=135208
+*pro* 在 这 没 啥 事 就 是 吃喝玩乐
+suid=s9 participant=136183
+*pro* 好 ， 呵呵
+suid=s10 participant=135208
+你们 都 挺 好 吧
+suid=s11 participant=136183
+*pro* 是 啊 ， *pro* 住 的 挺 好 的
+suid=s12 participant=135208
+那 就 好
+suid=s13 participant=135208
+我 爱人 办完 事 会 跟 你们 联系
+suid=s14 participant=135208
+*pro* 麻烦 你们 了
+suid=s15 participant=136183
+*pro* 怎么 会 麻烦 呢 ， *pro* 太 见外 了
+suid=s16 participant=135208
+呵呵
+suid=s17 participant=135208
+我们 宝宝 还 在 美国 跟 我 在 一起
+suid=s18 participant=135208
+我 哄 他 *PRO* 睡觉 了
+suid=s19 participant=136183
+*pro* 当 超级 奶爸 了 ， *pro* 好
+suid=s20 participant=136183
+*pro* 再 聊
+suid=s21 participant=135208
+*pro* 有 事 你 给 我 流延 就 可以
+suid=s22 participant=135208
+留言
+suid=s23 participant=136183
+*pro* OK
+suid=s24 participant=135208
+*pro* 再 聊
+suid=s25 participant=135208
+*pro* 88
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="140" id="我0" start="137" text="pro" type="" />
+<我 comment="default value" end="244" id="我1" start="241" text="pro" type="" />
+<我 comment="default value" end="823" id="我2" start="820" text="pro" type="" />
+<你 comment="default value" end="865" id="你0" start="862" text="pro" type="" />
+<你 comment="default value" end="883" id="你1" start="880" text="pro" type="" />
+<你 comment="default value" end="1050" id="你2" start="1047" text="pro" type="" />
+<你 comment="default value" end="1142" id="你3" start="1139" text="pro" type="" />
+<她 comment="default value" end="222" id="她0" start="219" text="pro" type="" />
+<她 comment="default value" end="396" id="她1" start="393" text="pro" type="" />
+<她 comment="default value" end="491" id="她2" start="488" text="pro" type="" />
+<她 comment="default value" end="553" id="她3" start="550" text="pro" type="" />
+<我们 comment="default value" end="697" id="我们0" start="694" text="pro" type="" />
+<我们 comment="default value" end="1104" id="我们2" start="1101" text="pro" type="" />
+<我们 comment="default value" end="1262" id="我们3" start="1259" text="pro" type="" />
+<我们 comment="default value" end="1300" id="我们4" start="1297" text="pro" type="" />
+<previous_utterance comment="default value" end="124" id="pr0" start="121" text="pro" type="" />
+<previous_utterance comment="default value" end="315" id="pr1" start="312" text="pro" type="" />
+<previous_utterance comment="default value" end="444" id="pr2" start="441" text="pro" type="" />
+<previous_utterance comment="default value" end="605" id="pr3" start="602" text="pro" type="" />
+<previous_utterance comment="default value" end="685" id="pr4" start="682" text="pro" type="" />
+<previous_utterance comment="default value" end="1068" id="pr5" start="1065" text="pro" type="" />
+<previous_utterance comment="default value" end="1225" id="pr6" start="1222" text="pro" type="" />
+</TAGS>
+</ProTask>

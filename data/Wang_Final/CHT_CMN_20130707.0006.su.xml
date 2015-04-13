@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136848
+小粥 ， 合同 已经 收到
+suid=s1 participant=133148
+*pro* 好 的 ， 小佛 ， 我 看到 了 ：）
+suid=s2 participant=136848
+*pro* 好 的 ， *pro* 期待 你 的 好 消息
+suid=s3 participant=133148
+小佛 ， 你 看 一下 第一 本 书 到 哪里 结束 比较 好 ， *pro* 把 你 的 意见 发给 我 *-1 哈
+suid=s4 participant=136848
+*pro* 多少 字 呢 ？
+suid=s5 participant=133148
+*pro* 先 不 要 管 字数 ， 先 说说 你 的 意见 。
+*pro* 一般 30万 字 左右
+suid=s6 participant=136848
+哦 ， 我 想 一下
+suid=s7 participant=136848
+*pro* 一会 给 你 意见
+suid=s8 participant=133148
+*pro* 好 的
+suid=s9 participant=136848
+小粥 ， 我 的 建议 是 。
+前 六 卷 或者 前 七 卷 为 一 本
+suid=s10 participant=133148
+*pro* 好 的 ， 我 知道 了 小佛
+suid=s11 participant=136848
+*pro* 地六 卷 的话 ， *pro* 让 读者 *PRO* 对 给 朵朵 复活 有所 期待 ， 而且 字数 刚好
+suid=s12 participant=136848
+*pro* 第七 卷 的话 ， 虎皮猫 大人 出来 了 ， 而且 要 去 拯救 小叔
+suid=s13 participant=133148
+嗯 ， *pro* 好 的 ， 小佛 ， 你 的 意见 会 作为 *OP* 我们 *T*-1 分卷 的 重要 参考 的 。
+前 三 本 你 都 考虑 一下 分卷 问题 哈
+suid=s14 participant=136848
+*pro* 好 的 ， 我 正好 可以 聚 一 聚 思路
+suid=s15 participant=136848
+*pro* 过 两 天 *pro* 给 你 意见
+suid=s16 participant=133148
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="139" id="我0" start="136" text="pro" type="" />
+<我 comment="default value" end="429" id="我1" start="426" text="pro" type="" />
+<我 comment="default value" end="954" id="我2" start="951" text="pro" type="" />
+<我 comment="default value" end="966" id="我3" start="963" text="pro" type="" />
+<你 comment="default value" end="218" id="你0" start="215" text="pro" type="" />
+<你 comment="default value" end="313" id="你1" start="310" text="pro" type="" />
+<它 comment="default value" end="271" id="它0" start="268" text="pro" type="" />
+<它 comment="default value" end="640" id="它2" start="637" text="pro" type="" />
+<它们 comment="default value" end="346" id="它们0" start="343" text="pro" type="" />
+<pleonastic end="624" id="p0" start="621" text="pro" type="" />
+<pleonastic end="712" id="p1" start="709" text="pro" type="" />
+<previous_utterance comment="default value" end="73" id="pr0" start="70" text="pro" type="" />
+<previous_utterance comment="default value" end="127" id="pr1" start="124" text="pro" type="" />
+<previous_utterance comment="default value" end="472" id="pr2" start="469" text="pro" type="" />
+<previous_utterance comment="default value" end="574" id="pr3" start="571" text="pro" type="" />
+<previous_utterance comment="default value" end="787" id="pr4" start="784" text="pro" type="" />
+<previous_utterance comment="default value" end="897" id="pr5" start="894" text="pro" type="" />
+<previous_utterance comment="default value" end="1007" id="pr6" start="1004" text="pro" type="" />
+</TAGS>
+</ProTask>

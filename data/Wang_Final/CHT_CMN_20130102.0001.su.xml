@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133141
+老师 *pro* 是 整 个 寒假 么 ？
+0.0
+suid=s1 participant=133047
+*pro* 可以 协商 ？
+你 想 ？
+suid=s2 participant=133141
+*pro* 有点 [ 图片 ]
+suid=s3 participant=133047
+*pro* 想 清楚 哦 。
+价钱 好 商量 。
+suid=s4 participant=133141
+我 春节 之后 都 可以 [ 图片 ]
+suid=s5 participant=133047
+*pro* 之前 不 行 么 ？
+suid=s6 participant=133141
+*pro* 不 行 *pro* 0.0 24号 去 美帝 。。
+suid=s7 participant=133141
+*pro* 16号 票 回家 。。
+suid=s8 participant=133047
+哦 。
+要不 你 跟 对方 家长 联系 一下 ？
+suid=s9 participant=133141
+*pro* 好 滴 ~ *pro* 求 电话 ~ 我 明天 电话 咨询 一下 ~
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="132" id="我0" start="129" text="pro" type="" />
+<我 comment="default value" end="318" id="我1" start="315" text="pro" type="" />
+<我 comment="default value" end="328" id="我2" start="325" text="pro" type="" />
+<我 comment="default value" end="377" id="我3" start="374" text="pro" type="" />
+<我 comment="default value" end="486" id="我4" start="483" text="pro" type="" />
+<你 comment="default value" end="85" id="你0" start="82" text="pro" type="" />
+<你 comment="default value" end="175" id="你2" start="172" text="pro" type="" />
+<你 comment="default value" end="274" id="你3" start="271" text="pro" type="" />
+<event comment="default value" end="35" id="ev0" start="32" text="pro" type="" />
+<previous_utterance comment="default value" end="474" id="pr0" start="471" text="pro" type="" />
+</TAGS>
+</ProTask>

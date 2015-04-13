@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=130530
+*pro* 不好意思 *pro* 才 忙完 孩子
+suid=s1 participant=131795
+哦 *pro* 没 事 的 你 把 帐号 发给 我 *-1 就 行 了 91 *pro* 还有 是 哪 个 行 的 卡
+suid=s2 participant=131795
+*pro* 可以 的 我 把 账号 给 我 妈 *-1 她 这 两 天 有空 去 存 91
+suid=s3 participant=130530
+*pro* 好 的 *pro* 太 感谢 了 我 的 u顿 有 些 问题 转 不 了 钱 了
+suid=s4 participant=131795
+嗯 *pro* 不 客气 91
+suid=s5 participant=131795
+啊 ？
+3000 不 够 吗
+suid=s6 participant=130530
+*pro* 帮 我 *PRO* 转 4000 人民币 吧 ， *pro* 谢谢
+suid=s7 participant=130530
+你 是 觉得 过年 *pro* 给 4000 多 吗 ？
+suid=s8 participant=130530
+还是 阿姨 不 能 转 那么 多 ？
+suid=s9 participant=131795
+*pro* 没有 我 就 确认 一下 都 可以 的 那 我 就 跟 她 说 *pro* 转 4000 了 哈
+suid=s10 participant=130530
+嗯 *pro* 就 4000 吧
+suid=s11 participant=130530
+*pro* 谢谢
+suid=s12 participant=131795
+*pro* 好 的 *pro* 转完 我 跟 你 说
+suid=s13 participant=130530
+*pro* 好 的 *pro* 对对 名字 和 帐号 有时候 银行 会 搞错 。
+*pro* 谢 了 ！
+suid=s14 participant=131795
+哦 *pro* 好 的 我 不 太 知道 *PRO* 应该 怎么 算 *pro* 就 按 *OP* 你 说 *T*-1 的 91
+suid=s15 participant=131795
+*pro* 好 的
+suid=s16 participant=130530
+我 明天 联系 你 给 你 支票
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="43" id="我1" start="40" text="pro" type="" />
+<我 comment="default value" end="254" id="我2" start="251" text="pro" type="" />
+<我 comment="default value" end="434" id="我3" start="431" text="pro" type="" />
+<我 comment="default value" end="480" id="我4" start="477" text="pro" type="" />
+<我 comment="default value" end="572" id="我5" start="569" text="pro" type="" />
+<我 comment="default value" end="700" id="我6" start="697" text="pro" type="" />
+<我 comment="default value" end="747" id="我7" start="744" text="pro" type="" />
+<我 comment="default value" end="833" id="我8" start="830" text="pro" type="" />
+<我 comment="default value" end="908" id="我9" start="905" text="pro" type="" />
+<你 comment="default value" end="123" id="你0" start="120" text="pro" type="" />
+<你 comment="default value" end="320" id="你1" start="317" text="pro" type="" />
+<你 comment="default value" end="403" id="你2" start="400" text="pro" type="" />
+<你 comment="default value" end="610" id="你3" start="607" text="pro" type="" />
+<你 comment="default value" end="802" id="你4" start="799" text="pro" type="" />
+<pleonastic end="86" id="p0" start="83" text="pro" type="" />
+<pleonastic end="171" id="p1" start="168" text="pro" type="" />
+<pleonastic end="657" id="p2" start="654" text="pro" type="" />
+<previous_utterance comment="default value" end="244" id="pr0" start="241" text="pro" type="" />
+<previous_utterance comment="default value" end="737" id="pr1" start="734" text="pro" type="" />
+<previous_utterance comment="default value" end="792" id="pr2" start="789" text="pro" type="" />
+<previous_utterance comment="default value" end="875" id="pr4" start="872" text="pro" type="" />
+<previous_utterance comment="default value" end="966" id="pr5" start="963" text="pro" type="" />
+</TAGS>
+</ProTask>

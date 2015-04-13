@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131603
+*pro* 请问 你 住 哪里 ？
+suid=s1 participant=137731
+*pro* 请问 老师 还 要 家具 吗
+suid=s2 participant=131603
+*pro* 要
+suid=s3 participant=137731
+您 住 哪
+suid=s4 participant=131603
+*pro* 不好意思 ， 我 忘 了 我 要 *PRO* 在 你 这边 买 什么 了 ， 你 可以 提醒 一下 我 吗 ？
+suid=s5 participant=131603
+*pro* 是 床 吗 ？
+suid=s6 participant=131603
+*pro* 靠近 studio green
+suid=s7 participant=137731
+我 有 书架 鞋架 台灯 笔记本 储物 挂袋 加湿器 等
+suid=s8 participant=131603
+哦 ， 我 想 起来 了 。
+*pro* 不 用 了 ， *pro* 谢谢 你 ， 因为 *pro* 住 的 远 ， 又 没有 大件 ， *pro* 去 看 的 麻烦
+suid=s9 participant=137731
+椅子 雨伞 厨具 方桌
+suid=s10 participant=137731
+我 可以 拍照 。
+我 住 的 不 远 校车 很 快 到 了
+suid=s11 participant=131603
+*pro* 不 用 了 ， *pro* 谢谢 你 ， 我 得 先 把 大件 的 定 下来 *-1 *pro* 再说
+suid=s12 participant=137731
+*pro* 行
+suid=s13 participant=137731
+*pro* 欢迎 *pro* 到 UD
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="32" id="我0" start="29" text="pro" type="" />
+<我 comment="default value" end="77" id="我1" start="74" text="pro" type="" />
+<我 comment="default value" end="125" id="我2" start="122" text="pro" type="" />
+<我 comment="default value" end="193" id="我3" start="190" text="pro" type="" />
+<我 comment="default value" end="323" id="我4" start="320" text="pro" type="" />
+<我 comment="default value" end="457" id="我5" start="454" text="pro" type="" />
+<我 comment="default value" end="497" id="我6" start="494" text="pro" type="" />
+<我 comment="default value" end="638" id="我7" start="635" text="pro" type="" />
+<我 comment="default value" end="652" id="我8" start="649" text="pro" type="" />
+<我 comment="default value" end="687" id="我9" start="684" text="pro" type="" />
+<我 comment="default value" end="760" id="我10" start="757" text="pro" type="" />
+<你 comment="default value" end="443" id="你0" start="440" text="pro" type="" />
+<你 comment="default value" end="473" id="你1" start="470" text="pro" type="" />
+<你 comment="default value" end="769" id="你2" start="766" text="pro" type="" />
+<它 comment="default value" end="282" id="它0" start="279" text="pro" type="" />
+<previous_utterance comment="default value" end="724" id="pr0" start="721" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+msgid=s0m0000 participant=132634
+*pro* *pro* 看到 后 ， 接收 一下 离线 文件 。
+msgid=s1m0001 participant=131944
+*pro* 好 的
+msgid=s2m0002 participant=132634
+第一 个 是 住处 地址
+msgid=s3m0003 participant=132634
+房间 是 804
+msgid=s4m0004 participant=131944
+*pro* 有 机场 大巴 么 ？
+*pro* 到 市区
+msgid=s5m0005 participant=132634
+*pro* 不 知道 ， *pro* 应该 由 吧 ， *pro* 打车 吧 。
+[ 表情 ]
+msgid=s6m0006 participant=131944
+嗯 ， *pro* 见机行事 吧 ， 住所 网络 差 啊 ？
+msgid=s7m0007 participant=132634
+这 两 天 *pro* *pro* 一 到 晚上 就 差 ， *pro* 急 的 我 像 热锅 上 的 蚂蚁 ， *OP* *pro* 汇报 *T*-1 的 东西 *pro* 总算 发回 家里 *T*-2 了 。
+msgid=s8m0008 participant=131944
+*pro* 大 吧 *pro* 可以 分批 发送 ， 再说 ， 你 是 不 是 用 国网 邮箱 啊 ？
+msgid=s9m0009 participant=132634
+*pro* 用 的 国网 ， 不 行 ， *pro* 改用 126 不 行 ， *pro* 用 QQ 还 不 行 ， 最后 领导 在线 ， *pro* 总算 发 出去 了 。
+msgid=s10m0010 participant=131944
+下 次 *pro* 如果 大 ， *pro* 用 网络 映射 试试
+msgid=s11m0011 participant=131944
+*pro* 好 的 ， 下 次 *pro* 张 记性 ， *pro* 早点 发 ， 不 *PRO* 等 着 家里 上班 在 发 ， *OP* *pro* *T*-1 懒 得 后果 。
+msgid=s12m0012 participant=131944
+*pro* 想 *PRO* 问 一下 ， 保护 如果 双配 的话 ， lockout 是 单配 还是 应该 双配 呀 ， 安装 巴西 的 习惯 ？
+msgid=s13m0013 participant=131944
+*pro* 双配 ， 国外 的 lockout ， 实质上 国内 就 是 操作 回路 ， 操作 板 ，， 所以 *pro* 不 要 担心
+msgid=s14m0014 participant=131944
+*pro* 好 的 。
+msgid=s15m0015 participant=131944
+那 变压器 保护 我们 需要 提供 lockout 吗 ？
+msgid=s16m0016 participant=131944
+*pro* 不 要 ，
+msgid=s17m0017 participant=131944
+高压 的 有 专门 的 断路器 保护 和 操作 装置 ，
+msgid=s18m0018 participant=131944
+*pro* 好 的 ， 你 忙 啥 呢 ？
+msgid=s19m0019 participant=131944
+*pro* *pro* 临走 还 要 给 他们 准备 好 几 个 调度 和 变电站 的 方案 及 配置
+msgid=s20m0020 participant=132634
+*pro* 真是 忙 ， *pro* 还 想 *PRO* 骚扰 骚扰 你 ， *pro* 放 你 *PRO* 忙去 吧 。
+msgid=s21m0021 participant=132634
+*pro* 没 事 啊 ：）
+msgid=s22m0023 participant=132634
+*pro* 对 了 ， *pro* 得到 消息 我们 是 划到 南瑞 了 。
+msgid=s23m0024 participant=132634
+嗯 ， *pro* 22日 就 给 你们 个 超低 价 吧 ， *pro* 省的 缴税
+msgid=s24m0025 participant=132634
+*pro* 太 可怕 了 ！
+msgid=s25m0026 participant=132634
+呵呵 ， *pro* 到 我们 南瑞 来 就 可怕 了 ？
+：）
+msgid=s26m0027 participant=132634
+*pro* 不 是 *pro* 是 说 超低 价 可怕
+msgid=s27m0028 participant=132634
+*pro* 没 什么 可怕 ， 你 想 啊 ， 这 就 好比 你 把 房子 卖给 你 妹妹 *-1 ， 你 说 *pro* 标高 了 ， *pro* 岂 不 便宜 房产局 ？
+：）
+msgid=s28m0029 participant=132634
+*pro* 有 道理 ， 不过 *pro* 做事 总是 有 底线 的 。
+[ 表情 ]
+msgid=s29m0030 participant=132634
+*pro* 当然 了 ， 呵呵 ：） ，
+msgid=s30m0031 participant=132634
+*pro* 和 你 说笑 的 ， *pro* 划拨 容易 ， *pro* 融合 可 就 需要 一定 时间 的
+msgid=s31m0032 participant=132634
+*pro* 是 呀 ， 所以说 之间 还是 有 竞争 的 。
+尤其是 我们 和 南瑞 继保 。
+msgid=s32m0033 participant=132634
+所以 ， 呵呵 ， 你们 后面 极 有 可能 以后 划拨 到 科技 ， 就是 上市 公司 ， 因为 我们 没有 这块 的
+msgid=s33m0034 participant=132634
+*pro* 好 啊 ， 这样 更 合理 一些 ， *pro* 不 可能 合到 继保 *pro* 岂 不 是 垄断 了 ， 。
+msgid=s34m0035 participant=132634
+*pro* 不 可能 到 继保 ， *pro* 如果 这样 ， 你们 就 难受 了 ， 以 他们 的 习惯 ， *pro* 就 把 你们 晾 着 *-1 ，
+msgid=s35m0036 participant=132634
+*pro* 是 的 ， 所以 *pro* 今天 特意 问 了 领导 的 意思 。
+msgid=s36m0037 participant=132634
+你们 领导 肯定 不 回 去 继保 ， *pro* 没 他 的 位置 ； *pro* 到 科技 ， 你们 这块 可 是 *pro* 说 了 算 的
+msgid=s37m0038 participant=132634
+*pro* 是 的 ， *pro* 不 会 去 的 ， 不过 我 也 不 关心 这个 ， 我 能 轻松 点 就 好 了 ， [ 表情 ]
+msgid=s38m0039 participant=132634
+*pro* 说 了 算 *pro* 就 轻松 啦 ：） ，
+msgid=s39m0039 participant=132634
+到时候 你 只要 做做 方案 ， 工程 ， 我们 那 都 有 一 大 把 人 呢 ：）
+msgid=s40m0040 participant=131944
+哎 ， *pro* 有 那 一 天 吗 ？
+*pro* 还 能 熬到 吗 ？
+msgid=s41m0041 participant=131944
+我们 的 工程 常规 的 不 难 ， *OP* *T*-1 特殊 的 难 些 。
+msgid=s42m0042 participant=131944
+人 带 出来 *pro* 就 好 办 了 ，
+msgid=s43m0043 participant=131944
+*pro* 好 的 ， *pro* 88
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="297" id="我0" start="294" text="pro" type="" />
+<我 comment="default value" end="382" id="我1" start="379" text="pro" type="" />
+<我 comment="default value" end="504" id="我2" start="501" text="pro" type="" />
+<我 comment="default value" end="667" id="我3" start="664" text="pro" type="" />
+<我 comment="default value" end="688" id="我4" start="685" text="pro" type="" />
+<我 comment="default value" end="707" id="我5" start="704" text="pro" type="" />
+<我 comment="default value" end="737" id="我6" start="734" text="pro" type="" />
+<我 comment="default value" end="873" id="我7" start="870" text="pro" type="" />
+<我 comment="default value" end="886" id="我8" start="883" text="pro" type="" />
+<我 comment="default value" end="928" id="我9" start="925" text="pro" type="" />
+<我 comment="default value" end="983" id="我10" start="980" text="pro" type="" />
+<我 comment="default value" end="1469" id="我11" start="1466" text="pro" type="" />
+<我 comment="default value" end="1475" id="我12" start="1472" text="pro" type="" />
+<我 comment="default value" end="1568" id="我13" start="1565" text="pro" type="" />
+<我 comment="default value" end="1594" id="我14" start="1591" text="pro" type="" />
+<我 comment="default value" end="1651" id="我15" start="1648" text="pro" type="" />
+<我 comment="default value" end="1712" id="我16" start="1709" text="pro" type="" />
+<我 comment="default value" end="1777" id="我17" start="1774" text="pro" type="" />
+<我 comment="default value" end="1977" id="我18" start="1974" text="pro" type="" />
+<我 comment="default value" end="2287" id="我19" start="2284" text="pro" type="" />
+<我 comment="default value" end="2778" id="我20" start="2775" text="pro" type="" />
+<我 comment="default value" end="473" id="我21" start="470" text="pro" type="" />
+<我 comment="default value" end="448" id="我22" start="445" text="pro" type="" />
+<我 comment="default value" end="524" id="我23" start="521" text="pro" type="" />
+<我 comment="default value" end="1805" id="我24" start="1802" text="pro" type="" />
+<你 comment="default value" end="38" id="你0" start="35" text="pro" type="" />
+<你 comment="default value" end="44" id="你1" start="41" text="pro" type="" />
+<你 comment="default value" end="325" id="你2" start="322" text="pro" type="" />
+<你 comment="default value" end="592" id="你4" start="589" text="pro" type="" />
+<你 comment="default value" end="806" id="你6" start="803" text="pro" type="" />
+<你 comment="default value" end="1147" id="你7" start="1144" text="pro" type="" />
+<你 comment="default value" end="1555" id="你8" start="1552" text="pro" type="" />
+<你 comment="default value" end="2085" id="你9" start="2082" text="pro" type="" />
+<你 comment="default value" end="2098" id="你10" start="2095" text="pro" type="" />
+<他 comment="default value" end="2875" id="他0" start="2872" text="pro" type="" />
+<他 comment="default value" end="2958" id="他1" start="2955" text="pro" type="" />
+<它 comment="default value" end="253" id="它0" start="250" text="pro" type="" />
+<它 comment="default value" end="454" id="它1" start="451" text="pro" type="" />
+<它 comment="default value" end="2029" id="它2" start="2026" text="pro" type="" />
+<它 comment="default value" end="582" id="它3" start="579" text="pro" type="" />
+<它 comment="default value" end="793" id="它4" start="790" text="pro" type="" />
+<我们 comment="default value" end="1304" id="我们0" start="1301" text="pro" type="" />
+<我们 comment="default value" end="2578" id="我们2" start="2575" text="pro" type="" />
+<我们 comment="default value" end="3213" id="我们4" start="3210" text="pro" type="" />
+<我们 comment="default value" end="3408" id="我们5" start="3405" text="pro" type="" />
+<你们 comment="default value" end="1905" id="你们0" start="1902" text="pro" type="" />
+<你们 comment="default value" end="2595" id="你们2" start="2592" text="pro" type="" />
+<你们 comment="default value" end="2650" id="你们3" start="2647" text="pro" type="" />
+<你们 comment="default value" end="2668" id="你们4" start="2665" text="pro" type="" />
+<你们 comment="default value" end="2898" id="你们5" start="2895" text="pro" type="" />
+<你们 comment="default value" end="3049" id="你们6" start="3046" text="pro" type="" />
+<你们 comment="default value" end="3061" id="你们7" start="3058" text="pro" type="" />
+<他们 comment="default value" end="2706" id="他们0" start="2703" text="pro" type="" />
+<existential comment="default value" end="235" id="e0" start="232" text="pro" type="" />
+<existential comment="default value" end="310" id="e1" start="307" text="pro" type="" />
+<existential comment="default value" end="2154" id="e2" start="2151" text="pro" type="" />
+<existential comment="default value" end="2858" id="e3" start="2855" text="pro" type="" />
+<existential comment="default value" end="3195" id="e4" start="3192" text="pro" type="" />
+<event comment="default value" end="1851" id="ev0" start="1848" text="pro" type="" />
+<event comment="default value" end="1967" id="ev1" start="1964" text="pro" type="" />
+<generic comment="default value" end="1091" id="g0" start="1088" text="pro" type="" />
+<generic comment="default value" end="2170" id="g1" start="2167" text="pro" type="" />
+<generic comment="default value" end="2304" id="g2" start="2301" text="pro" type="" />
+<generic comment="default value" end="2318" id="g3" start="2315" text="pro" type="" />
+<pleonastic end="2232" id="p3" start="2229" text="pro" type="" />
+<pleonastic end="3346" id="p4" start="3343" text="pro" type="" />
+<previous_utterance comment="default value" end="104" id="pr0" start="101" text="pro" type="" />
+<previous_utterance comment="default value" end="857" id="pr1" start="854" text="pro" type="" />
+<previous_utterance comment="default value" end="1194" id="pr2" start="1191" text="pro" type="" />
+<previous_utterance comment="default value" end="1413" id="pr3" start="1410" text="pro" type="" />
+<previous_utterance comment="default value" end="1700" id="pr4" start="1697" text="pro" type="" />
+<previous_utterance comment="default value" end="2376" id="pr5" start="2373" text="pro" type="" />
+<previous_utterance comment="default value" end="2553" id="pr6" start="2550" text="pro" type="" />
+<previous_utterance comment="default value" end="2763" id="pr7" start="2760" text="pro" type="" />
+<previous_utterance comment="default value" end="2946" id="pr8" start="2943" text="pro" type="" />
+<previous_utterance comment="default value" end="3396" id="pr9" start="3393" text="pro" type="" />
+</TAGS>
+</ProTask>

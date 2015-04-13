@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133439
+你 好 啊 ！
+我 是 王雨澄 ， 我 现在 在 芝加哥 ， 等下 七点 的 飞机 ， 9：15 到 哥伦布 ~ 麻烦 你 啦
+suid=s1 participant=133413
+*pro* 好 的 我 待会 查 下 你 飞机 会 不 会 晚点 如果 *pro* 没 晚点 我 大概 就 九点半 到 机场
+suid=s2 participant=133439
+*pro* 好 的 ~
+suid=s3 participant=133439
+*pro* 估计 *pro* 会 晚点 ， 现在 居然 还 没 登机
+suid=s4 participant=133413
+恩 我 看看 *pro* 太 晚 了 我 就 让 何翼 *PRO* 去 接 你 他 开 高速 比 我 快 多 了 哈哈
+suid=s5 participant=133439
+*pro* 应该 不 会 太 晚 ， 飞机 换 了 登机口 ， 我 正在 过去
+suid=s6 participant=133413
+*pro* 好 的 *pro* 路上 一路 顺风 *pro* 晚点 见
+suid=s7 participant=133439
+*pro* 晚点 见 ！
+suid=s8 participant=133439
+*pro* 晕 ， *pro* 估计 *pro* 还是 会 晚 。
+反正 到时候 你 再 短信 告诉 我 *pro* 是 谁 来 接 我 吧 ~
+suid=s9 participant=133439
+*pro* 谢谢 了
+suid=s10 participant=133413
+*pro* 好 的 晚点 我 会 网上 查 你 飞机 到达 时间 的 网上 是 实时 更新
+suid=s11 participant=133439
+大概 9：42
+suid=s12 participant=133413
+恩 *pro* 好 的
+suid=s13 participant=133413
+我 上路 了 大概 *pro* 25 到 机场
+suid=s14 participant=133439
+*pro* 好 的
+suid=s15 participant=133439
+据说 *pro* 五 分钟 后 还 有 一 批 ...
+suid=s16 participant=133413
+我 往 你 那 走 了 我 来 找 你 啦
+suid=s17 participant=133439
+*pro* 好 的 ， 我 还是 穿 着 橙色 裤子
+suid=s18 participant=133413
+*pro* 好
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="252" id="我0" start="249" text="pro" type="" />
+<我 comment="default value" end="261" id="我1" start="258" text="pro" type="" />
+<我 comment="default value" end="401" id="我2" start="398" text="pro" type="" />
+<我 comment="default value" end="571" id="我3" start="568" text="pro" type="" />
+<我 comment="default value" end="581" id="我4" start="578" text="pro" type="" />
+<我 comment="default value" end="590" id="我5" start="587" text="pro" type="" />
+<我 comment="default value" end="671" id="我6" start="668" text="pro" type="" />
+<我 comment="default value" end="870" id="我7" start="867" text="pro" type="" />
+<你 comment="default value" end="478" id="你0" start="475" text="pro" type="" />
+<它 comment="default value" end="159" id="它0" start="156" text="pro" type="" />
+<我们 comment="default value" end="493" id="我们0" start="490" text="pro" type="" />
+<我们 comment="default value" end="531" id="我们1" start="528" text="pro" type="" />
+<existential comment="default value" end="953" id="e1" start="950" text="pro" type="" />
+<pleonastic end="321" id="p0" start="318" text="pro" type="" />
+<pleonastic end="624" id="p1" start="621" text="pro" type="" />
+<previous_utterance comment="default value" end="123" id="pr0" start="120" text="pro" type="" />
+<previous_utterance comment="default value" end="213" id="pr1" start="210" text="pro" type="" />
+<previous_utterance comment="default value" end="468" id="pr2" start="465" text="pro" type="" />
+<previous_utterance comment="default value" end="710" id="pr3" start="707" text="pro" type="" />
+<previous_utterance comment="default value" end="822" id="pr4" start="819" text="pro" type="" />
+<previous_utterance comment="default value" end="912" id="pr5" start="909" text="pro" type="" />
+<previous_utterance comment="default value" end="1056" id="pr6" start="1053" text="pro" type="" />
+<previous_utterance comment="default value" end="1111" id="pr7" start="1108" text="pro" type="" />
+</TAGS>
+</ProTask>

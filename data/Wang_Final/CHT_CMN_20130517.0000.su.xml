@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131944
+*pro* 好 ， *pro* 跟着 你 ！
+suid=s1 participant=132634
+*pro* ok
+suid=s2 participant=131944
+*pro* 在 ？
+suid=s3 participant=132634
+*pro* 在
+suid=s4 participant=131944
+那里 的 技术 人员 说 英文 的 ？
+suid=s5 participant=132634
+*pro* 是 的 ， *pro* 都 说 英文
+suid=s6 participant=131944
+你们 有 翻译 ？
+还是 。。
+suid=s7 participant=132634
+*pro* 一般 不 用 翻译 ， 重要 会议 我 请 过 一 个 翻译 。
+suid=s8 participant=132634
+我们 自己 的 翻译 我 还 没 用 过 *T*-1 。
+suid=s9 participant=131944
+嗯 ， 专业 相通 的
+suid=s10 participant=132634
+*pro* 主要 是 生活 上 后勤 保障 吧 。
+suid=s11 participant=132634
+翻译 水平 还 不错 ， *pro* 在 这里 8 年 了 。
+suid=s12 participant=131944
+*pro* 吃饭 *pro* 怎么 弄 *T*-1 ？
+suid=s13 participant=131944
+国网 的 领教 了 ， 呵呵 ，
+suid=s14 participant=131944
+我 才 不 愿意 *PRO* 交钱 到 他 那里 吃 呢 ， *pro* 还 不 如 自己 买 菜 到 宿舍 做
+suid=s15 participant=132634
+*pro* 是 的 ， 自己 吃 挺 好 的 ， 我们 是 公司 弄 的 。
+suid=s16 participant=131944
+*pro* 有 个 田园 的 *pro* 认识 么 ？
+suid=s17 participant=132634
+手机 里面 存 着 这 个 人 的 号 呢 ， 但 *pro* 不 认识 。
+suid=s18 participant=131944
+*pro* 说 *pro* 是 NARI 的
+suid=s19 participant=132634
+啊 。
+那 你 应该 认识 呀 。
+我 有 他 巴西 号 。
+suid=s20 participant=131944
+就是 *pro* *OP* *pro* *T*-1 培训 的 时候 认识 这 个 人 ， *pro* 算是 一 届 的 学员 ，
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="42" id="我0" start="39" text="pro" type="" />
+<我 comment="default value" end="155" id="我1" start="152" text="pro" type="" />
+<我 comment="default value" end="740" id="我2" start="737" text="pro" type="" />
+<我 comment="default value" end="943" id="我3" start="940" text="pro" type="" />
+<我 comment="default value" end="984" id="我4" start="981" text="pro" type="" />
+<我 comment="default value" end="1108" id="我6" start="1105" text="pro" type="" />
+<你 comment="default value" end="118" id="你0" start="115" text="pro" type="" />
+<你 comment="default value" end="608" id="你1" start="605" text="pro" type="" />
+<你 comment="default value" end="617" id="你2" start="614" text="pro" type="" />
+<你 comment="default value" end="876" id="你3" start="873" text="pro" type="" />
+<他 comment="default value" end="561" id="他0" start="558" text="pro" type="" />
+<它 comment="default value" end="992" id="它0" start="989" text="pro" type="" />
+<我们 comment="default value" end="332" id="我们0" start="329" text="pro" type="" />
+<我们 comment="default value" end="1097" id="我们1" start="1094" text="pro" type="" />
+<我们 comment="default value" end="1139" id="我们2" start="1136" text="pro" type="" />
+<他们 comment="default value" end="249" id="他们0" start="246" text="pro" type="" />
+<existential comment="default value" end="861" id="e0" start="858" text="pro" type="" />
+<pleonastic end="494" id="p0" start="491" text="pro" type="" />
+<previous_utterance comment="default value" end="32" id="pr0" start="29" text="pro" type="" />
+<previous_utterance comment="default value" end="82" id="pr1" start="79" text="pro" type="" />
+<previous_utterance comment="default value" end="237" id="pr2" start="234" text="pro" type="" />
+<previous_utterance comment="default value" end="794" id="pr3" start="791" text="pro" type="" />
+</TAGS>
+</ProTask>

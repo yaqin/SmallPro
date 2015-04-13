@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138194
+戴 大 记者 啊 ， *pro* 估计 *pro* 明天 的 活动 不 能 参加 *-1 了 。
+后天 *pro* 要 开 一 个 *OP* *T*-1 很 重要 的 会 ， 市长 带 一 班 市 领导 *PRO* 到 我们 铁山区 来 调研 。
+*pro* 不 能 请假 的 。
+suid=s1 participant=138237
+呵 ， *pro* 好 的 。
+*pro* 有点 遗憾 呀
+suid=s2 participant=138237
+不过 *pro* 还是 以 工作 为 重 ， *pro* 以后 有 机会 再 聚 。
+suid=s3 participant=138194
+如果 *pro* 赶 得 及 我 看 *pro* 能否 后天 到 车站 去 给 她 送 个 行 。
+*pro* 有些 遗憾 ， *pro* 20多 年 没 见面 了 。
+suid=s4 participant=138237
+那样 也 行 ， 她 是 后天 晚上 七点 的 动车 。
+suid=s5 participant=138194
+*pro* 一定 代 我 *PRO* 解释 一下 啊 ， 我 真的 很 希望 *PRO* 参与 这 次 聚会 的 ，
+suid=s6 participant=138237
+*pro* 好 的
+suid=s7 participant=138194
+*pro* 谢谢 。
+*pro* 拜托 了 。
+[ 表情 ]
+suid=s8 participant=138237
+[ 表情 ] *pro* 不 客气
+suid=s9 participant=138237
+*pro* 是 的 ， 小徐 就 是 怕 周一 到 周三 假日 人 太 多 ， 不 敢 来 。
+*pro* 才 错开 时间 的 。
+suid=s10 participant=138194
+*pro* 理解 理解 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="43" id="我0" start="40" text="pro" type="" />
+<我 comment="default value" end="52" id="我1" start="49" text="pro" type="" />
+<我 comment="default value" end="84" id="我2" start="81" text="pro" type="" />
+<我 comment="default value" end="156" id="我3" start="153" text="pro" type="" />
+<我 comment="default value" end="216" id="我4" start="213" text="pro" type="" />
+<我 comment="default value" end="618" id="我5" start="615" text="pro" type="" />
+<我 comment="default value" end="629" id="我6" start="626" text="pro" type="" />
+<我 comment="default value" end="815" id="我7" start="812" text="pro" type="" />
+<你 comment="default value" end="260" id="你0" start="257" text="pro" type="" />
+<你 comment="default value" end="330" id="你1" start="327" text="pro" type="" />
+<你 comment="default value" end="346" id="你2" start="343" text="pro" type="" />
+<你 comment="default value" end="495" id="你3" start="492" text="pro" type="" />
+<你 comment="default value" end="683" id="你5" start="680" text="pro" type="" />
+<我们 comment="default value" end="280" id="我们0" start="277" text="pro" type="" />
+<我们 comment="default value" end="769" id="我们2" start="766" text="pro" type="" />
+<你们 comment="default value" end="391" id="你们0" start="388" text="pro" type="" />
+<existential comment="default value" end="377" id="e0" start="374" text="pro" type="" />
+<previous_utterance comment="default value" end="204" id="pr0" start="201" text="pro" type="" />
+<previous_utterance comment="default value" end="581" id="pr1" start="578" text="pro" type="" />
+<previous_utterance comment="default value" end="721" id="pr2" start="718" text="pro" type="" />
+</TAGS>
+</ProTask>

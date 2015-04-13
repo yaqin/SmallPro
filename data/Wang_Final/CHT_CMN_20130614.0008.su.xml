@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134153
+亲爱 的 ， 我 老公 明天 就 出海 了 ， 我 要 *PRO* 去 你 家 蹭饭
+suid=s1 participant=134153
+*pro* 长久 滴
+suid=s2 participant=134153
+*pro* 突然 袭击 滴 ！
+suid=s3 participant=134151
+*pro* 大大 欢迎 滴 ！
+suid=s4 participant=134151
+*pro* 不 准 *pro* 嫌 饭 不 好吃 滴
+suid=s5 participant=134153
+*pro* 好 滴 ~~~~
+suid=s6 participant=134151
+*pro* 不 好吃 就 自己 去 做 滴 ！
+[ 表情 ]
+suid=s7 participant=134153
+我 又 没有 怀上 ， 我 觉得 *PRO* 今年 够呛 了
+suid=s8 participant=134151
+上 半 年 还 没 过完 呢
+suid=s9 participant=134153
+我 老公 明天 就 出海 了 啊
+suid=s10 participant=134153
+三 个 月
+suid=s11 participant=134153
+我 今天 来事 了
+suid=s12 participant=134151
+哦 ~ ！
+suid=s13 participant=134151
+*pro* 忘 了
+suid=s14 participant=134153
+咱 爸妈 来 了 吧 ？
+suid=s15 participant=134151
+*pro* 来 了
+suid=s16 participant=134153
+那 就 好
+suid=s17 participant=134151
+后天 我 不 上班 ， 你 休息 的话 *pro* 就 过来 吃饭 吧
+suid=s18 participant=134153
+我 不 休息
+suid=s19 participant=134153
+*pro* 周六 周日 都 忙 啊
+suid=s20 participant=134151
+那 *pro* 等 *OP* 你 *T*-1 休息 的 时候 吧
+suid=s21 participant=134153
+*pro* 行 啊
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="102" id="我0" start="99" text="pro" type="" />
+<我 comment="default value" end="140" id="我1" start="137" text="pro" type="" />
+<我 comment="default value" end="183" id="我2" start="180" text="pro" type="" />
+<我 comment="default value" end="226" id="我3" start="223" text="pro" type="" />
+<我 comment="default value" end="631" id="我4" start="628" text="pro" type="" />
+<我 comment="default value" end="881" id="我6" start="878" text="pro" type="" />
+<我 comment="default value" end="929" id="我7" start="926" text="pro" type="" />
+<你 comment="default value" end="236" id="你1" start="233" text="pro" type="" />
+<你 comment="default value" end="802" id="你2" start="799" text="pro" type="" />
+<它 comment="default value" end="322" id="它0" start="319" text="pro" type="" />
+<他们 comment="default value" end="710" id="他们0" start="707" text="pro" type="" />
+<previous_utterance comment="default value" end="280" id="pr0" start="277" text="pro" type="" />
+<previous_utterance comment="default value" end="988" id="pr1" start="985" text="pro" type="" />
+</TAGS>
+</ProTask>

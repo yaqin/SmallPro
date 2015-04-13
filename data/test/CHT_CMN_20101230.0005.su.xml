@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+你 好 ， *pro* 请问 *pro* 什么 事 ？
+suid=s1 participant=135882
+*pro* 要 上报 到 学院 哪里 去 ？
+suid=s2 participant=138507
+其实 我 也 不 太 清楚 ， 教务处 的 罗 处长 说 ， *pro* 上报 给 你们 的 学院 主管 ， *pro* 貌似 是 副院长
+suid=s3 participant=135882
+[ 表情 ] 可是 *pro* 没有 文件 什么 的 *pro* 要 签名 的 吗 ？
+*pro* 直接 跟 副院长 说说 可能 不 管用 的 哦 。
+suid=s4 participant=135882
+而且 副院长 是 *OP* *T*-1 管 教学 的 ， 跟 这些 好像 没 啥 关系 。
+suid=s5 participant=135882
+你 可以 问 清楚 一点 那 位 罗 处长 吗 ？
+suid=s6 participant=138507
+那 我 问 清楚 ， 再 找 你 吧
+suid=s7 participant=135882
+因为 明天 是 周五 下午 又 是 *pro* 放假 前 ， 可能 院长 不 在 的
+suid=s8 participant=138507
+其实 我 之前 问 了 ， 他 就 说 *pro* 报给 你们 学院 ， 他 自己 都 不 知道 我们 学院 谁 管 这个
+suid=s9 participant=135882
+我 晕 ， 这样 都 行 。
+还是 等 *pro* 明天 确定 一下 我 再 报 上去 吧 。
+*pro* 有没有 说 *pro* 要 在 几号 之前 要 上报 完 ？
+suid=s10 participant=138507
+1月 4号 吧
+suid=s11 participant=135882
+噢 ， *pro* 放 元旦 放到 3号 哦 ， 那 *pro* 还 挺 急 的
+suid=s12 participant=138507
+*pro* 其实 是 我 一直 不 知到 *PRO* 找 谁 *PRO* 报 这个
+suid=s13 participant=135882
+呵呵 ， 我 明天 也 问问 范 院 吧
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="38" id="我0" start="35" text="pro" type="" />
+<我 comment="default value" end="168" id="我2" start="165" text="pro" type="" />
+<我 comment="default value" end="599" id="我4" start="596" text="pro" type="" />
+<你 comment="default value" end="47" id="你0" start="44" text="pro" type="" />
+<你 comment="default value" end="87" id="你1" start="84" text="pro" type="" />
+<你 comment="default value" end="244" id="你2" start="241" text="pro" type="" />
+<你 comment="default value" end="278" id="你3" start="275" text="pro" type="" />
+<你 comment="default value" end="688" id="你6" start="685" text="pro" type="" />
+<你 comment="default value" end="728" id="你7" start="725" text="pro" type="" />
+<你 comment="default value" end="844" id="你8" start="841" text="pro" type="" />
+<他 comment="default value" end="192" id="他0" start="189" text="pro" type="" />
+<他 comment="default value" end="261" id="他1" start="258" text="pro" type="" />
+<它 comment="default value" end="716" id="它0" start="713" text="pro" type="" />
+<event comment="default value" end="886" id="ev0" start="883" text="pro" type="" />
+<generic comment="default value" end="821" id="g0" start="818" text="pro" type="" />
+<pleonastic end="527" id="p0" start="524" text="pro" type="" />
+</TAGS>
+</ProTask>

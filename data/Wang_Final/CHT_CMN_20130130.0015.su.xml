@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134167
+你 那 个 杭州 的 同学 收到 没有 ？
+suid=s1 participant=134694
+*pro* 收到 了
+suid=s2 participant=134694
+这 次 *pro* 好 慢 呀
+suid=s3 participant=134167
+4 个 星期 ，
+suid=s4 participant=134167
+嗯
+suid=s5 participant=134694
+*pro* 还 有 三 张 木有 音讯 呢
+suid=s6 participant=134694
+*pro* 已经 一 个 多 月 了
+suid=s7 participant=134167
+。。。
+suid=s8 participant=134694
+*pro* 是 从 波士顿 和 NY 寄 的
+suid=s9 participant=134167
+anyway ， *pro* 不 丢 的话 ， *pro* 总 会 到 的
+suid=s10 participant=134694
+反正 我 寄出 了
+suid=s11 participant=134694
+至于 *pro* 到 不 到 *pro* 不 是 *OP* 我 能 控制 *T*-1 的 嘛 呵呵
+suid=s12 participant=134167
+你 狠 咯
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="353" id="我0" start="350" text="pro" type="" />
+<他 comment="default value" end="81" id="他0" start="78" text="pro" type="" />
+<它 comment="default value" end="123" id="它0" start="120" text="pro" type="" />
+<它们 comment="default value" end="412" id="它们1" start="409" text="pro" type="" />
+<它们 comment="default value" end="427" id="它们2" start="424" text="pro" type="" />
+<它们 comment="default value" end="510" id="它们3" start="507" text="pro" type="" />
+<existential comment="default value" end="227" id="e0" start="224" text="pro" type="" />
+<event comment="default value" end="522" id="ev0" start="519" text="pro" type="" />
+<pleonastic end="276" id="p0" start="273" text="pro" type="" />
+</TAGS>
+</ProTask>

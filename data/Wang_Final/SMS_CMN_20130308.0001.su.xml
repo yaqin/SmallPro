@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131766
+*pro* 好 的
+suid=s1 participant=131597
+恩 ， *pro* 好 的
+suid=s2 participant=131766
+他 去 烟台局 不 是 去 找 你 。
+*pro* 应该 是 别的 事 。
+]]></TEXT>
+<TAGS>
+<它 comment="default value" end="130" id="它0" start="127" text="pro" type="" />
+<previous_utterance comment="default value" end="32" id="pr0" start="29" text="pro" type="" />
+<previous_utterance comment="default value" end="73" id="pr1" start="70" text="pro" type="" />
+</TAGS>
+</ProTask>

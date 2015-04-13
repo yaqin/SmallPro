@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134099
+*pro* 在 吗 ， 陈 经理
+suid=s1 participant=134099
+陈 经理 ， 会议室 那 个 展板 还 没 做 吗 ？
+suid=s2 participant=134099
+*pro* 有 电子版 吗
+suid=s3 participant=131226
+赵 经理 ， 那 个 贤德 设计 不 行
+suid=s4 participant=134099
+我 看 下
+suid=s5 participant=134099
+*pro* 不 会 吧
+suid=s6 participant=131226
+*pro* 还 不 如 卢莹 呢
+suid=s7 participant=131226
+*pro* 没有
+suid=s8 participant=131226
+他 那里 网络 不 行 。
+suid=s9 participant=131226
+*pro* 根本 就 没 怎么 设计
+suid=s10 participant=131226
+*pro* 估计 *pro* 看 了 *pro* 也 没 啥 收获
+suid=s11 participant=134099
+你 没 看 ?
+suid=s12 participant=131226
+*pro* 看 了 。
+*pro* 不 行 。
+suid=s13 participant=134099
+那 你 把 资料 再 发给 我 *-1 吧
+suid=s14 participant=134099
+*pro* 抽 时间 做 吧
+suid=s15 participant=131226
+*pro* 好
+suid=s16 participant=134099
+*pro* 再 发 一下
+suid=s17 participant=134099
+程序 死 了
+suid=s18 participant=134099
+你 那 有 尺子 吗
+suid=s19 participant=134099
+卷尺
+suid=s20 participant=131226
+*pro* 没有
+suid=s21 participant=134099
+工会 就 放 几 张 照片 ？
+suid=s22 participant=131226
+*pro* 是 的
+suid=s23 participant=134099
+*pro* 明确 一下 ， *pro* 是 做 三 块 展板 还是 一 块
+suid=s24 participant=134099
+*pro* 确定 ？
+suid=s25 participant=131226
+三 块
+suid=s26 participant=131226
+*pro* 确定
+suid=s27 participant=134099
+哪个 是 小 块
+suid=s28 participant=131226
+企划 委员会 一 块
+suid=s29 participant=131226
+总裁 办公 委员会 一 块
+suid=s30 participant=131226
+工会 一 块
+suid=s31 participant=131226
+两 个 大 块 ， 一 个 小 块 ， 合计 三 块
+suid=s32 participant=134099
+要求 是 横版 还是 竖版 ？
+suid=s33 participant=131226
+工会
+suid=s34 participant=131226
+*pro* 都 可以
+suid=s35 participant=131226
+竖版 好看 些 *pro* 感觉 *T*-1
+suid=s36 participant=134099
+我 觉得 横版 更 合适
+suid=s37 participant=134099
+[ 表情 ] 压力 很 大
+suid=s38 participant=131226
+*pro* 行 ， 你 设计 呗 。
+suid=s39 participant=131226
+卢 总 那么 相信 你 的 眼光
+suid=s40 participant=134099
+在 咱 公司 *pro* 干 的 多 挨训 的 多
+suid=s41 participant=134099
+*pro* 在 ？
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="336" id="我0" start="333" text="pro" type="" />
+<我 comment="default value" end="460" id="我1" start="457" text="pro" type="" />
+<我 comment="default value" end="558" id="我2" start="555" text="pro" type="" />
+<我 comment="default value" end="660" id="我3" start="657" text="pro" type="" />
+<我 comment="default value" end="739" id="我4" start="736" text="pro" type="" />
+<我 comment="default value" end="885" id="我5" start="882" text="pro" type="" />
+<我 comment="default value" end="1018" id="我6" start="1015" text="pro" type="" />
+<我 comment="default value" end="1070" id="我7" start="1067" text="pro" type="" />
+<我 comment="default value" end="1141" id="我8" start="1138" text="pro" type="" />
+<我 comment="default value" end="1508" id="我9" start="1505" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="131" id="你1" start="128" text="pro" type="" />
+<你 comment="default value" end="469" id="你2" start="466" text="pro" type="" />
+<你 comment="default value" end="479" id="你3" start="476" text="pro" type="" />
+<你 comment="default value" end="1004" id="你5" start="1001" text="pro" type="" />
+<你 comment="default value" end="1780" id="你6" start="1777" text="pro" type="" />
+<他 comment="default value" end="413" id="他0" start="410" text="pro" type="" />
+<它 comment="default value" end="292" id="它0" start="289" text="pro" type="" />
+<它 comment="default value" end="570" id="它1" start="567" text="pro" type="" />
+<event comment="default value" end="1461" id="ev0" start="1458" text="pro" type="" />
+<generic comment="default value" end="1733" id="g0" start="1730" text="pro" type="" />
+<pleonastic end="253" id="p0" start="250" text="pro" type="" />
+<previous_utterance comment="default value" end="703" id="pr0" start="700" text="pro" type="" />
+<previous_utterance comment="default value" end="966" id="pr1" start="963" text="pro" type="" />
+<previous_utterance comment="default value" end="1634" id="pr2" start="1631" text="pro" type="" />
+</TAGS>
+</ProTask>

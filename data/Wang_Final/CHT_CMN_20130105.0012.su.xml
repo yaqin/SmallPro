@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135688
+*pro* 完 了 浩然 没 找着 他 单人 照 *pro* 给 你 来 张 梦露 补偿 下 吧 ~
+suid=s1 participant=135700
+哈哈 ~ *pro* 谢谢 啦 ~
+suid=s2 participant=135700
+*pro* 今早 10点 才 起 。。
+suid=s3 participant=135700
+*pro* 昨夜 聚会 *pro* 有点 伤 。。。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="57" id="我0" start="54" text="pro" type="" />
+<我 comment="default value" end="115" id="我1" start="112" text="pro" type="" />
+<我 comment="default value" end="155" id="我2" start="152" text="pro" type="" />
+<我 comment="default value" end="202" id="我3" start="199" text="pro" type="" />
+<我 comment="default value" end="214" id="我4" start="211" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133730
+*pro* 在 啊 ， *pro* 上班 忙 不 ？
+suid=s1 participant=133655
+*pro* 在 *pro* 还 好 吧
+suid=s2 participant=133655
+*pro* 这 个 礼拜 有点 忙
+suid=s3 participant=133730
+*pro* 这样 啊 ， 你 是 做 什么 工作 的 呀 。
+suid=s4 participant=133655
+会计
+suid=s5 participant=133655
+哦哦
+suid=s6 participant=133655
+*pro* 不 是 很 了解
+suid=s7 participant=133730
+嘿嘿 ， *pro* 就 是 跟 电脑 打交道 [ 表情 ]
+suid=s8 participant=133655
+恩恩 这个 *pro* 还 是 知道 *T*-1 的
+suid=s9 participant=133655
+你 在 哪里 上班 呢
+suid=s10 participant=133730
+武昌 这边
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="86" id="我0" start="83" text="pro" type="" />
+<我 comment="default value" end="94" id="我1" start="91" text="pro" type="" />
+<我 comment="default value" end="133" id="我2" start="130" text="pro" type="" />
+<我 comment="default value" end="178" id="我3" start="175" text="pro" type="" />
+<我 comment="default value" end="296" id="我4" start="293" text="pro" type="" />
+<我 comment="default value" end="343" id="我5" start="340" text="pro" type="" />
+<我 comment="default value" end="402" id="我6" start="399" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="44" id="你1" start="41" text="pro" type="" />
+</TAGS>
+</ProTask>

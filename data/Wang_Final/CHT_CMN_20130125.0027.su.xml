@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+徐 科 ， 去年 锦标赛 和 冠军赛 *pro* 评选 体育 道德 风尚 奖 了 吗 ？
+suid=s1 participant=137022
+*pro* 应该 评 了
+suid=s2 participant=137022
+*pro* 看看 成绩册 上 有 吗
+suid=s3 participant=136693
+成绩册 上 没有 呢
+suid=s4 participant=136693
+锦标赛 、 冠军赛 的 体育 道德 风尚 奖 有 济南 吗 ， 徐 科 ？
+suid=s5 participant=137022
+*pro* 好像 没有
+suid=s6 participant=137022
+你们 要 报 吗
+suid=s7 participant=136693
+*pro* 要 啊
+suid=s8 participant=137022
+我 记得 *pro* 是 没有
+suid=s9 participant=136693
+呃 ...
+suid=s10 participant=137022
+*pro* 都 给 *OP* *T*-1 成绩 不 好 的 队伍 了
+suid=s11 participant=136693
+济南 成绩 多 差 啊
+suid=s12 participant=137022
+哈哈
+suid=s13 participant=137022
+今年 *pro* 评 你们
+suid=s14 participant=136693
+*pro* 谢谢
+suid=s15 participant=136693
+*pro* 去年 真 没 我们 吗 ？
+我们 马上 要 考评 了 ， 可以 加分 的
+suid=s16 participant=137022
+*pro* 没有
+suid=s17 participant=136693
+呃 ... *pro* 好 吧
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="619" id="我0" start="616" text="pro" type="" />
+<我 comment="default value" end="658" id="我1" start="655" text="pro" type="" />
+<你 comment="default value" end="144" id="你0" start="141" text="pro" type="" />
+<我们 comment="default value" end="104" id="我们0" start="101" text="pro" type="" />
+<我们 comment="default value" end="368" id="我们1" start="365" text="pro" type="" />
+<我们 comment="default value" end="410" id="我们2" start="407" text="pro" type="" />
+<你们 comment="default value" end="51" id="你们0" start="48" text="pro" type="" />
+<他们 comment="default value" end="482" id="他们0" start="479" text="pro" type="" />
+<existential comment="default value" end="695" id="e0" start="692" text="pro" type="" />
+<event comment="default value" end="293" id="ev0" start="290" text="pro" type="" />
+<previous_utterance comment="default value" end="766" id="pr0" start="763" text="pro" type="" />
+<previous_utterance comment="default value" end="809" id="pr1" start="806" text="pro" type="" />
+</TAGS>
+</ProTask>

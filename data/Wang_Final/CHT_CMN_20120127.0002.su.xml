@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+[ 表情 ] 我 31号 回 广州
+suid=s1 participant=138501
+*pro* 这么 早
+suid=s2 participant=138501
+我 要 2.2 才 回 [ 表情 ]
+suid=s3 participant=135882
+[ 表情 ] 没 ， *pro* 实在 太 有 罪恶感 了 ， 毕业 设计 都 没 动 过
+suid=s4 participant=138501
+[ 表情 ] *pro* 什么 时候 要 交
+suid=s5 participant=135882
+*OP* *pro* *T*-1 开学 第二 周 *pro* 交 初稿 ， 4月 *pro* 定稿
+suid=s6 participant=138501
+那 *pro* 就 是 剩下 一 个 月 左右
+suid=s7 participant=135882
+所以 *pro* 很 紧张 啊
+suid=s8 participant=138501
+你 是 要 做 动画 ？
+suid=s9 participant=135882
+恩恩 ，
+suid=s10 participant=135882
+3D 动画
+suid=s11 participant=138501
+那 剧本 你 写好 了 *T*-1 没
+suid=s12 participant=135882
+没 ..
+suid=s13 participant=135882
+*pro* 这 几 天 想想
+suid=s14 participant=135882
+*pro* 打算 *PRO* 做 *OP* *T*-1 愤怒 的 小鸟
+suid=s15 participant=135882
+*pro* 让 *OP* *T*-1 愤怒 的 小鸟 *PRO* 教 小孩 英语
+suid=s16 participant=138501
+呃 ， *pro* 要 先 画好 剧本 ， 然后 还 要 分镜 吧
+suid=s17 participant=135882
+*pro* 这么 详细 么 ... *pro* 不 可以 直接 动手 么
+suid=s18 participant=135882
+前戏 太 长 了 ..
+suid=s19 participant=138501
+呃 ， 当初 *OP* 柳薇 *T*-1 教 我们 的 时候 *pro* 就 是 这样 一 步 一 步 来 的
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="172" id="我0" start="169" text="pro" type="" />
+<我 comment="default value" end="415" id="我1" start="412" text="pro" type="" />
+<我 comment="default value" end="643" id="我2" start="640" text="pro" type="" />
+<我 comment="default value" end="686" id="我3" start="683" text="pro" type="" />
+<我 comment="default value" end="750" id="我4" start="747" text="pro" type="" />
+<你 comment="default value" end="77" id="你0" start="74" text="pro" type="" />
+<你 comment="default value" end="823" id="你1" start="820" text="pro" type="" />
+<你 comment="default value" end="881" id="你2" start="878" text="pro" type="" />
+<你 comment="default value" end="899" id="你3" start="896" text="pro" type="" />
+<我们 comment="default value" end="241" id="我们0" start="238" text="pro" type="" />
+<我们 comment="default value" end="309" id="我们1" start="306" text="pro" type="" />
+<我们 comment="default value" end="325" id="我们2" start="322" text="pro" type="" />
+<我们 comment="default value" end="363" id="我们3" start="360" text="pro" type="" />
+<我们 comment="default value" end="1017" id="我们4" start="1014" text="pro" type="" />
+<我们 comment="default value" end="289" id="我们5" start="286" text="pro" type="" />
+</TAGS>
+</ProTask>

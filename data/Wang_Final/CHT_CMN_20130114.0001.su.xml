@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133148
+*pro* 挺 好 的 ， 可是 当初 的 教室 *pro* 还 能 回去 *T*-1 吗 ？
+suid=s1 participant=133172
+*pro* 让 班长 *PRO* 联系 一下 ， 不过 人 还 不 全 呢
+suid=s2 participant=133172
+在 六 七十年代 ， 人们 普遍 还是 认为 法海 是 为了 *PRO* 捉 妖 才 会 囚禁 许仙 的 ；
+suid=s3 participant=133172
+在 八 九十年代 ， 人们 基本上 认同 法海 是 因为 *PRO* 喜欢 白蛇 才 会 为难 许仙 的 ；
+suid=s4 participant=133172
+但 *pro* 到 了 21世纪 ， 大众 几乎 都 觉得 法海 是 因为 *PRO* 想 *PRO* 得到 许仙 才 会 与 白素贞 大打出手 的 ！
+suid=s5 participant=133172
+人 呢 人 呢 人 呢
+suid=s6 participant=133148
+*pro* 来 了 来 了 来 了
+suid=s7 participant=133172
+*pro* 注意 安全
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="57" id="我0" start="54" text="pro" type="" />
+<我 comment="default value" end="107" id="我1" start="104" text="pro" type="" />
+<我 comment="default value" end="32" id="我2" start="29" text="pro" type="" />
+<你 comment="default value" end="524" id="你0" start="521" text="pro" type="" />
+<generic comment="default value" end="479" id="g0" start="476" text="pro" type="" />
+<pleonastic end="338" id="p1" start="335" text="pro" type="" />
+</TAGS>
+</ProTask>

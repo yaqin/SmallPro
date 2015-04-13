@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133144
+*pro* 在 不
+suid=s1 participant=133047
+*pro* 在 啊
+suid=s2 participant=133144
+*pro* 问 下 你 有 *OP* *pro* 认识 *T*-1 的 越南 留学生 吗
+suid=s3 participant=133144
+或者 外教
+suid=s4 participant=133047
+*pro* 没有 ， *pro* 不好意思 。
+suid=s5 participant=133144
+噢
+suid=s6 participant=133144
+*pro* 查 分 了 吗
+suid=s7 participant=133047
+*pro* 正在 查 。
+suid=s8 participant=133047
+*pro* 不 是 很 好 。
+反正 *pro* 及格 了 。
+suid=s9 participant=133144
+你 是 那 个 博士 不 ？
+suid=s10 participant=133047
+哪个 ？
+suid=s11 participant=133144
+*pro* 就 是 *OP* *T*-1 上课 的 两 个 博士 老师 之一
+suid=s12 participant=133047
+啊 ？
+*pro* 只 有 两 个 ？
+*pro* 应该 是 吧 。
+suid=s13 participant=133144
+噢 *OP* *pro* *T*-1 考试 那 天 *pro* 提前 交卷 了 ？
+suid=s14 participant=133047
+*pro* 对 。
+因为 我 后面 还 有 本科生 的 考试 ， *pro* 都 凑 一块 了 。
+suid=s15 participant=133144
+你 还 有 本科生 考试 ？
+suid=s16 participant=133144
+你 还 监考 啊 ？
+suid=s17 participant=133047
+*pro* 是 啊 。
+*pro* 还 是 主考 。
+suid=s18 participant=133144
+。。 *pro* 好 吧 *pro* 牛人
+suid=s19 participant=133144
+我 拿 了 个 c+ [ 图片 ]
+suid=s20 participant=133047
+呵呵 。
+suid=s21 participant=133047
+啊 ， *pro* 不 会 吧 。
+那 我 还 强 点 。
+呵呵 。
+suid=s22 participant=133144
+你 是 B+ ?
+suid=s23 participant=133047
+*pro* 是 的 。
+suid=s24 participant=133144
+那 是 80 - 85 *pro* 好 吧
+suid=s25 participant=133047
+*pro* 不 清楚 。
+我 以为 这 只 是 一般 。
+suid=s26 participant=133144
+前面 40 分 都 全 拿 了 ？
+suid=s27 participant=133047
+*pro* 不 清楚 。
+那 *pro* 怎么 知道 呢 。
+suid=s28 participant=133144
+感觉
+suid=s29 participant=133144
+*pro* 自我 感觉
+suid=s30 participant=133047
+*pro* 没 感觉 。
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="69" id="我0" start="66" text="pro" type="" />
+<我 comment="default value" end="106" id="我1" start="103" text="pro" type="" />
+<我 comment="default value" end="211" id="我2" start="208" text="pro" type="" />
+<我 comment="default value" end="222" id="我3" start="219" text="pro" type="" />
+<我 comment="default value" end="372" id="我4" start="369" text="pro" type="" />
+<我 comment="default value" end="391" id="我5" start="388" text="pro" type="" />
+<我 comment="default value" end="879" id="我6" start="876" text="pro" type="" />
+<我 comment="default value" end="1241" id="我7" start="1238" text="pro" type="" />
+<我 comment="default value" end="1434" id="我10" start="1431" text="pro" type="" />
+<我 comment="default value" end="1474" id="我11" start="1471" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="125" id="你1" start="122" text="pro" type="" />
+<你 comment="default value" end="644" id="你2" start="641" text="pro" type="" />
+<你 comment="default value" end="663" id="你3" start="660" text="pro" type="" />
+<你 comment="default value" end="935" id="你4" start="932" text="pro" type="" />
+<你 comment="default value" end="1055" id="你5" start="1052" text="pro" type="" />
+<你 comment="default value" end="1344" id="你6" start="1341" text="pro" type="" />
+<你 comment="default value" end="1359" id="你7" start="1356" text="pro" type="" />
+<他 comment="default value" end="507" id="他0" start="504" text="pro" type="" />
+<他们 comment="default value" end="291" id="他们0" start="288" text="pro" type="" />
+<他们 comment="default value" end="332" id="他们1" start="329" text="pro" type="" />
+<它们 comment="default value" end="740" id="它们0" start="737" text="pro" type="" />
+<existential comment="default value" end="578" id="e0" start="575" text="pro" type="" />
+<generic comment="default value" end="594" id="g0" start="591" text="pro" type="" />
+<previous_utterance comment="default value" end="707" id="pr0" start="704" text="pro" type="" />
+<previous_utterance comment="default value" end="867" id="pr1" start="864" text="pro" type="" />
+<previous_utterance comment="default value" end="925" id="pr2" start="922" text="pro" type="" />
+<previous_utterance comment="default value" end="1151" id="pr3" start="1148" text="pro" type="" />
+<previous_utterance comment="default value" end="1203" id="pr4" start="1200" text="pro" type="" />
+</TAGS>
+</ProTask>

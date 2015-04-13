@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=130530
+*pro* 生病 了 ？
+那 *pro* 注意 点 ， *pro* 记得 *OP* 以前 你 *T*-1 病怏怏 的 样子 呢 还 。
+吃饭 *pro* 注意 些 *T*-1 。
+suid=s1 participant=138150
+今天 *pro* 来到 *pro* 知道 我们 公司 倒 了 一 大 片 ……
+suid=s2 participant=138150
+我 昨天 坚持 *PRO* 来 上班 了 ， 其他 人 没 来 ， 所以 *pro* 不 知道 。
+*pro* 原来 从 上 周五 开始 就 有 人 陆续 倒下 了
+suid=s3 participant=138150
+钱 *pro* 已经 从 老师 那 取 出来 *T*-1 了 。
+*pro* 存好 后 我 给 你 说 。
+suid=s4 participant=130530
+*pro* 好 的 ， *pro* 知道 了 。
+suid=s5 participant=130530
+*pro* 对 了 ， 你 现在 还 在 上班 ？
+suid=s6 participant=130530
+*pro* 没 休息 啊 ？
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="152" id="我0" start="149" text="pro" type="" />
+<我 comment="default value" end="161" id="我1" start="158" text="pro" type="" />
+<我 comment="default value" end="328" id="我2" start="325" text="pro" type="" />
+<我 comment="default value" end="359" id="我3" start="356" text="pro" type="" />
+<我 comment="default value" end="419" id="我4" start="416" text="pro" type="" />
+<我 comment="default value" end="60" id="我5" start="57" text="pro" type="" />
+<你 comment="default value" end="32" id="你0" start="29" text="pro" type="" />
+<你 comment="default value" end="47" id="你1" start="44" text="pro" type="" />
+<你 comment="default value" end="103" id="你3" start="100" text="pro" type="" />
+<你 comment="default value" end="512" id="你4" start="509" text="pro" type="" />
+<generic comment="default value" end="253" id="g0" start="250" text="pro" type="" />
+<pleonastic end="266" id="p0" start="263" text="pro" type="" />
+<previous_utterance comment="default value" end="407" id="pr0" start="404" text="pro" type="" />
+<previous_utterance comment="default value" end="459" id="pr1" start="456" text="pro" type="" />
+</TAGS>
+</ProTask>

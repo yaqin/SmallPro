@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+*pro* 这么 不 赚 钱 ？
+那 北京 怎么 还 有 这么 多 711
+suid=s1 participant=137138
+北京 现在 140 家
+suid=s2 participant=136693
+*pro* 放弃 这 项目 了 ？
+suid=s3 participant=137138
+*pro* 除非 找到 *OP* *T*-1 特别 合适 的 地点 , 房租 都 很 高 现在
+suid=s4 participant=137138
+*pro* 必须 要 24 小时 经营
+suid=s5 participant=136693
+唉 ， *pro* 现在 创业 很 艰难 啊
+suid=s6 participant=137138
+另外 *pro* 还 强迫 5 年 *pro* 必须 重新 装修 一 次 , *pro* 必须 交给 他们 35万
+suid=s7 participant=136693
+那 真 成 了 *pro* 给 711 打工 了
+suid=s8 participant=136693
+*pro* 没有 自主权
+suid=s9 participant=137138
+恩恩 , *pro* 比较 的 不 合适
+suid=s10 participant=137138
+*pro* 不 适合 *pro* 投机 , 就 相当于 *pro* 给 他 打工 , 每 月 *pro* 能 挣 1万
+suid=s11 participant=136693
+这 可 是 *OP* *T*-1 实打实 的 辛苦 钱 啊
+suid=s12 participant=137138
+*pro* 确实 是 的 ,
+suid=s13 participant=136693
+*pro* 生日 快乐 ！
+suid=s14 participant=137138
+*pro* 谢谢 哈哈
+]]></TEXT>
+<TAGS>
+<我 comment="default value" end="810" id="我0" start="807" text="pro" type="" />
+<你 comment="default value" end="768" id="你0" start="765" text="pro" type="" />
+<它 comment="default value" end="579" id="它0" start="576" text="pro" type="" />
+<我们 comment="default value" end="181" id="我们0" start="178" text="pro" type="" />
+<我们 comment="default value" end="256" id="我们1" start="253" text="pro" type="" />
+<我们 comment="default value" end="371" id="我们2" start="368" text="pro" type="" />
+<我们 comment="default value" end="392" id="我们3" start="389" text="pro" type="" />
+<我们 comment="default value" end="490" id="我们4" start="487" text="pro" type="" />
+<我们 comment="default value" end="590" id="我们5" start="587" text="pro" type="" />
+<我们 comment="default value" end="607" id="我们6" start="604" text="pro" type="" />
+<我们 comment="default value" end="626" id="我们7" start="623" text="pro" type="" />
+<你们 comment="default value" end="32" id="你们0" start="29" text="pro" type="" />
+<你们 comment="default value" end="136" id="你们1" start="133" text="pro" type="" />
+<你们 comment="default value" end="446" id="你们2" start="443" text="pro" type="" />
+<你们 comment="default value" end="535" id="你们3" start="532" text="pro" type="" />
+<他们 comment="default value" end="356" id="他们0" start="353" text="pro" type="" />
+<generic comment="default value" end="307" id="g0" start="304" text="pro" type="" />
+<previous_utterance comment="default value" end="725" id="pr0" start="722" text="pro" type="" />
+</TAGS>
+</ProTask>
