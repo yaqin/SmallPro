@@ -5,4 +5,4 @@ for f in $fl
 do
 	axml=$train$f
 	echo axml
-then
+done
